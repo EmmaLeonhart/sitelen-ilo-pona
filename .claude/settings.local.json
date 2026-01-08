@@ -8,7 +8,8 @@
       "Bash(python:*)",
       "Bash(ls:*)",
       "Bash(where inkscape)",
-      "Bash(\"/c/Program Files/Inkscape/bin/inkscape.exe\" --version)"
+      "Bash(\"/c/Program Files/Inkscape/bin/inkscape.exe\" --version)",
+      "Bash(git checkout:*)"
     ]
   }
 }
