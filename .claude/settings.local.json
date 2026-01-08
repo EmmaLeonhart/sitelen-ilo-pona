@@ -5,7 +5,10 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(python analyze_grid.py:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(ls:*)",
+      "Bash(where inkscape)",
+      "Bash(\"/c/Program Files/Inkscape/bin/inkscape.exe\" --version)"
     ]
   }
 }

@@ -1,14 +1,50 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns="http://www.w3.org/2000/svg" width="393.20905400000004" height="1006.6065208999999" viewBox="-16.206 360.0 393.20905400000004 1006.6065208999999"><g id="li" transform="translate(8,386)">
-    <g id="g1485" style="fill:#000000">
-      <path style="opacity:1;fill:#000000" fill="#191524" d="m 336.5,983.5 c 0.667,0 1.333,0 2,0 0.617,0.111 1.117,0.444 1.5,1 0.167,1.333 0.333,2.667 0.5,4 -1.538,8.936 -2.204,17.94 -2,27 -0.986,4.47 -1.319,9.14 -1,14 4.202,0.32 8.202,-0.02 12,-1 6.505,-0.58 13.005,-1.25 19.5,-2 2.69,0 5.19,0.34 7.5,1 -4.073,1.63 -8.406,2.63 -13,3 -0.992,-0.17 -1.658,0.16 -2,1 -8.655,0.58 -17.322,0.92 -26,1 -0.667,0 -1,-0.33 -1,-1 0,-4 0,-8 0,-12 -0.283,-12.21 0.384,-24.206 2,-36 z" id="path1485" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="43.063232"
+   height="63.585903"
+   viewBox="-16.206 360 43.063233 63.585904"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="li"
+     transform="translate(-350.64277,-609.99992)">
+    <g
+       id="g1485"
+       style="fill:#000000">
+      <path
+         style="opacity:1;fill:#000000"
+         fill="#191524"
+         d="m 336.5,983.5 c 0.667,0 1.333,0 2,0 0.617,0.111 1.117,0.444 1.5,1 0.167,1.333 0.333,2.667 0.5,4 -1.538,8.936 -2.204,17.94 -2,27 -0.986,4.47 -1.319,9.14 -1,14 4.202,0.32 8.202,-0.02 12,-1 6.505,-0.58 13.005,-1.25 19.5,-2 2.69,0 5.19,0.34 7.5,1 -4.073,1.63 -8.406,2.63 -13,3 -0.992,-0.17 -1.658,0.16 -2,1 -8.655,0.58 -17.322,0.92 -26,1 -0.667,0 -1,-0.33 -1,-1 0,-4 0,-8 0,-12 -0.283,-12.21 0.384,-24.206 2,-36 z"
+         id="path1485" />
     </g>
-    <g id="g1486" style="fill:#000000">
-      <path style="opacity:1;fill:#000000" fill="#3e383e" d="m 376.5,1027.5 c 0.333,0 0.667,0 1,0 0,1 0,2 0,3 -4.667,0 -9.333,0 -14,0 4.594,-0.37 8.927,-1.37 13,-3 z" id="path1486" />
+    <g
+       id="g1486"
+       style="fill:#000000">
+      <path
+         style="opacity:1;fill:#000000"
+         fill="#3e383e"
+         d="m 376.5,1027.5 c 0.333,0 0.667,0 1,0 0,1 0,2 0,3 -4.667,0 -9.333,0 -14,0 4.594,-0.37 8.927,-1.37 13,-3 z"
+         id="path1486" />
     </g>
-    <g id="g1499" style="fill:#000000">
-      <path style="opacity:1;fill:#000000" fill="#6a646c" d="m 361.5,1031.5 c -1.141,0.84 -2.474,1.51 -4,2 -7.337,0.26 -14.67,-0.07 -22,-1 8.678,-0.08 17.345,-0.42 26,-1 z" id="path1499" />
+    <g
+       id="g1499"
+       style="fill:#000000">
+      <path
+         style="opacity:1;fill:#000000"
+         fill="#6a646c"
+         d="m 361.5,1031.5 c -1.141,0.84 -2.474,1.51 -4,2 -7.337,0.26 -14.67,-0.07 -22,-1 8.678,-0.08 17.345,-0.42 26,-1 z"
+         id="path1499" />
     </g>
-    <ellipse style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:8.665;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" id="path1761-8" cx="363.87653" cy="975.30322" rx="5.126524" ry="5.3033009" />
+    <ellipse
+       style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:8.665;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="path1761-8"
+       cx="363.87653"
+       cy="975.30322"
+       rx="5.126524"
+       ry="5.3033009" />
   </g>
-  </svg>
+</svg>
