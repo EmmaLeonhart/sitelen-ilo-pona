@@ -39,7 +39,8 @@
       "Bash(findstr:*)",
       "Bash(ping:*)",
       "Bash(dir:*)",
-      "Bash(start redlinked_categories.html)"
+      "Bash(start redlinked_categories.html)",
+      "Bash(start redlinked_categories_categorized.html)"
     ]
   }
 }
