@@ -33,7 +33,11 @@
       "Bash(C:UsersImmanuelleAppDataLocalProgramsPythonPython313python.exe extract_font_glyphs_by_name.py linja-sike.woff2 linja-sike)",
       "Bash(C:UsersImmanuelleAppDataLocalProgramsPythonPython313python.exe extract_font_glyphs_by_name.py linja-pona-precomposed.woff2 linja-pona-precomposed)",
       "Bash(where python)",
-      "Bash(for dir in font_glyphs/*/)"
+      "Bash(for dir in font_glyphs/*/)",
+      "WebFetch(domain:commons.wikimedia.org)",
+      "Bash(timeout 60 tail:*)",
+      "Bash(findstr:*)",
+      "Bash(ping:*)"
     ]
   }
 }
