@@ -37,7 +37,9 @@
       "WebFetch(domain:commons.wikimedia.org)",
       "Bash(timeout 60 tail:*)",
       "Bash(findstr:*)",
-      "Bash(ping:*)"
+      "Bash(ping:*)",
+      "Bash(dir:*)",
+      "Bash(start redlinked_categories.html)"
     ]
   }
 }
