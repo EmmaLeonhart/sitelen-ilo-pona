@@ -9,7 +9,10 @@
       "Bash(ls:*)",
       "Bash(where inkscape)",
       "Bash(\"/c/Program Files/Inkscape/bin/inkscape.exe\" --version)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "WebSearch",
+      "WebFetch(domain:www.wikidata.org)",
+      "Bash(cat:*)"
     ]
   }
 }
