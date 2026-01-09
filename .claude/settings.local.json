@@ -12,7 +12,28 @@
       "Bash(git checkout:*)",
       "WebSearch",
       "WebFetch(domain:www.wikidata.org)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "WebFetch(domain:sona.pona.la)",
+      "Bash(curl:*)",
+      "Bash(git rm:*)",
+      "Bash(pip install:*)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" extract_font_glyphs.py linja-pona-dynamic.woff2 linja-pona)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -m pip install brotli)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" inspect_font.py linja-pona-dynamic.woff2)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" inspect_font.py sitelen-seli-kiwen.woff2)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" extract_font_glyphs.py sitelen-seli-kiwen.woff2 sitelen-seli-kiwen)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" extract_font_glyphs.py sitelen-seli-kiwen-asuki.woff2 sitelen-seli-kiwen-asuki)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" extract_font_glyphs.py linja-lipamanka.woff linja-lipamanka)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" extract_font_glyphs.py fairfax-pona-hd.woff fairfax-pona-hd)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" extract_font_glyphs.py nasin-nanpa.woff2 nasin-nanpa)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" extract_font_glyphs.py linja-sike.woff2 linja-sike)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" extract_font_glyphs.py linja-pona-precomposed.woff2 linja-pona-precomposed)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" inspect_font.py linja-sike.woff2)",
+      "Bash(C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe:*)",
+      "Bash(C:UsersImmanuelleAppDataLocalProgramsPythonPython313python.exe extract_font_glyphs_by_name.py linja-sike.woff2 linja-sike)",
+      "Bash(C:UsersImmanuelleAppDataLocalProgramsPythonPython313python.exe extract_font_glyphs_by_name.py linja-pona-precomposed.woff2 linja-pona-precomposed)",
+      "Bash(where python)",
+      "Bash(for dir in font_glyphs/*/)"
     ]
   }
 }
