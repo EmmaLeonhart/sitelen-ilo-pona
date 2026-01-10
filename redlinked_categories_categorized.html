@@ -114,16 +114,33 @@
         function openAllInSection(sectionId) {
             const section = document.getElementById(sectionId);
             const links = section.querySelectorAll('.category-link');
-            links.forEach(link => {
-                window.open(link.href, '_blank');
+
+            if (!confirm(`This will open ${links.length} tabs. Continue?`)) {
+                return;
+            }
+
+            // Open tabs with small delay to avoid popup blocker
+            links.forEach((link, index) => {
+                setTimeout(() => {
+                    window.open(link.href, '_blank');
+                }, index * 100); // 100ms delay between each tab
             });
         }
 
         function openFirstNInSection(sectionId, n) {
             const section = document.getElementById(sectionId);
             const links = section.querySelectorAll('.category-link');
-            for (let i = 0; i < Math.min(n, links.length); i++) {
-                window.open(links[i].href, '_blank');
+            const count = Math.min(n, links.length);
+
+            if (!confirm(`This will open ${count} tabs. Continue?`)) {
+                return;
+            }
+
+            // Open tabs with small delay to avoid popup blocker
+            for (let i = 0; i < count; i++) {
+                setTimeout(() => {
+                    window.open(links[i].href, '_blank');
+                }, i * 100); // 100ms delay between each tab
             }
         }
 
