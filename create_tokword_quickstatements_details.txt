@@ -1,0 +1,21 @@
+QuickStatements to CREATE new Toki Pona word Wikidata items
+======================================================================
+
+Total items to create: 14
+
+Word                 Tok.Wikipedia Page                       Commons QID    
+----------------------------------------------------------------------
+esun                 esun                                     Q137374196     
+jaki                 jaki                                     Q137374201     
+ken                  ken                                      Q137374210     
+kijetesantakalu      kijetesantakalu                          Q137145315     
+ko                   ko                                       Q137374217     
+kon                  kon                                      Q137374219     
+linja                linja                                    Q137374312     
+lon                  lon                                      Q137374315     
+namako               namako                                   Q137374241     
+nena                 nena                                     Q137374245     
+pilin                pilin                                    Q137374263     
+seli                 seli                                     Q137374274     
+sike                 sike                                     Q137374280     
+supa                 supa                                     Q137374534     

@@ -1,0 +1,112 @@
+CREATE
+LAST|Ltok|"esun"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"esun"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"esun"
+Q137374196|P1268|LAST
+
+CREATE
+LAST|Ltok|"jaki"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"jaki"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"jaki"
+Q137374201|P1268|LAST
+
+CREATE
+LAST|Ltok|"ken"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"ken"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"ken"
+Q137374210|P1268|LAST
+
+CREATE
+LAST|Ltok|"kijetesantakalu"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"kijetesantakalu"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"kijetesantakalu"
+Q137145315|P1268|LAST
+
+CREATE
+LAST|Ltok|"ko"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"ko"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"ko"
+Q137374217|P1268|LAST
+
+CREATE
+LAST|Ltok|"kon"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"kon"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"kon"
+Q137374219|P1268|LAST
+
+CREATE
+LAST|Ltok|"linja"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"linja"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"linja"
+Q137374312|P1268|LAST
+
+CREATE
+LAST|Ltok|"lon"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"lon"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"lon"
+Q137374315|P1268|LAST
+
+CREATE
+LAST|Ltok|"namako"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"namako"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"namako"
+Q137374241|P1268|LAST
+
+CREATE
+LAST|Ltok|"nena"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"nena"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"nena"
+Q137374245|P1268|LAST
+
+CREATE
+LAST|Ltok|"pilin"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"pilin"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"pilin"
+Q137374263|P1268|LAST
+
+CREATE
+LAST|Ltok|"seli"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"seli"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"seli"
+Q137374274|P1268|LAST
+
+CREATE
+LAST|Ltok|"sike"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"sike"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"sike"
+Q137374280|P1268|LAST
+
+CREATE
+LAST|Ltok|"supa"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"supa"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"supa"
+Q137374534|P1268|LAST
+
