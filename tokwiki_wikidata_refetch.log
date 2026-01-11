@@ -1,0 +1,696 @@
+Reading CSV...
+Loaded 866 rows
+Creating backup: tokipona_wiki_coverage_before_tokwiki_wikidata.csv
+
+[1] Checking: anpa lawa → anpa lawa
+  ✓ Found Wikidata: Q13164428
+
+[2] Checking: ijo lawa → ijo ni li lon sijelo li ken ante e nasin sijelo e pilin
+  ✓ Found Wikidata: Q11364
+
+[3] Checking: ijo leko → leko tomo
+  ✗ No Wikidata connection
+
+[4] Checking: ijo lili → wan lili
+  ✓ Found Wikidata: Q1621273
+
+[5] Checking: ijo lon → ijo wile
+  ✓ Found Wikidata: Q7239
+
+[6] Checking: ijo sijelo → ijo wile
+  ✓ Found Wikidata: Q7239
+
+[7] Checking: ijo wile → ijo wile
+  ✓ Found Wikidata: Q7239
+
+[8] Checking: ilo kipisi → ilo
+  ✓ Found Wikidata: Q11016
+
+[9] Checking: ilo lukin → ilo lukin
+  ✓ Found Wikidata: Q116877139
+
+[10] Checking: ilo musi → ilo musi
+  ✓ Found Wikidata: Q11422
+
+[11] Checking: ilo nanpa → ilo nanpa
+  ✓ Found Wikidata: Q2135246
+
+[12] Checking: ilo suno → suno
+  ✓ Found Wikidata: Q12969754
+
+[13] Checking: ilo toki → ilo toki
+  ✓ Found Wikidata: Q11035
+
+[14] Checking: jan lawa → jan lawa
+  ✓ Found Wikidata: Q1251441
+
+[15] Checking: jan lili → jan lili
+  ✓ Found Wikidata: Q7569
+
+[16] Checking: jan nasa → sitelen Parahumans
+  ✓ Found Wikidata: Q29471598
+
+[17] Checking: jan pali → pali
+  ✓ Found Wikidata: Q268378
+
+[18] Checking: jan sama → jan pi mama sama
+  ✗ No Wikidata connection
+
+[19] Checking: jan sewi → jan sewi
+  ✓ Found Wikidata: Q178885
+
+[20] Checking: jan sona → jan sona
+  ✓ Found Wikidata: Q20826540
+
+[21] Checking: jan utala → jan utala
+  ✓ Found Wikidata: Q4991371
+
+[22] Checking: kalama musi → kalama musi
+  ✓ Found Wikidata: Q638
+
+[23] Checking: kama sona → kama sona
+  ✗ No Wikidata connection
+
+[24] Checking: kili palisa → kili palisa
+  ✓ Found Wikidata: Q503
+
+[25] Checking: kiwen kasi → kiwen kasi
+  ✓ Found Wikidata: Q287
+
+[26] Checking: ko jaki → ko jaki
+  ✓ Found Wikidata: Q496
+
+[27] Checking: ko lete → ko lete
+  ✓ Found Wikidata: Q7561
+
+[28] Checking: kule kasi → laso
+  ✓ Found Wikidata: Q10834659
+
+[29] Checking: len lawa → len lawa
+  ✗ No Wikidata connection
+
+[30] Checking: len noka → len noka
+  ✓ Found Wikidata: Q137261308
+
+[31] Checking: linja pona → linja pona
+  ✓ Found Wikidata: Q124843967
+
+[32] Checking: linja sike → sitelen pona
+  ✓ Found Wikidata: Q58372003
+
+[33] Checking: lipu kule → lipu kule
+  ✓ Found Wikidata: Q108870328
+
+[34] Checking: lipu nimi → lipu nimi
+  ✓ Found Wikidata: Q23622
+
+[35] Checking: lipu sewi → lipu sewi
+  ✓ Found Wikidata: Q179461
+
+[36] Checking: lipu sona → lipu sona
+  ✓ Found Wikidata: Q5292
+
+[37] Checking: lipu tenpo → lipu tenpo
+  ✓ Found Wikidata: Q108679008
+
+[38] Checking: lipu toki → lipu
+  ✓ Found Wikidata: Q571
+
+[39] Checking: luka luka → nanpa 10
+  ✓ Found Wikidata: Q23806
+
+[40] Checking: luka luka luka → nanpa 15
+  ✓ Found Wikidata: Q38701
+
+[41] Checking: luka luka tu → nanpa 12
+  ✓ Found Wikidata: Q36977
+
+[42] Checking: luka luka tu tu → nanpa 14
+  ✓ Found Wikidata: Q38582
+
+[43] Checking: luka luka tu wan → nanpa 13
+  ✓ Found Wikidata: Q37141
+
+[44] Checking: luka luka wan → nanpa 11
+  ✓ Found Wikidata: Q37136
+
+[45] Checking: luka tu → nanpa 7
+  ✓ Found Wikidata: Q23350
+
+[46] Checking: luka tu tu → nanpa 9
+  ✓ Found Wikidata: Q19108
+
+[47] Checking: luka tu wan → nanpa 8
+  ✓ Found Wikidata: Q23355
+
+[48] Checking: luka wan → nanpa 6
+  ✓ Found Wikidata: Q23488
+
+[49] Checking: lupa meli → lupa meli
+  ✓ Found Wikidata: Q137441001
+
+[50] Checking: lupa monsi → lupa monsi
+  ✓ Found Wikidata: Q497
+
+[51] Checking: ma ale → ma
+  ✓ Found Wikidata: Q2
+
+[52] Checking: ma ali → ma
+  ✓ Found Wikidata: Q2
+
+[53] Checking: ma pona → ma pona
+  ✗ No Wikidata connection
+
+[54] Checking: ma tomo → ma tomo
+  ✓ Found Wikidata: Q515
+
+[55] Checking: meli tonsi → tonsi
+  ✓ Found Wikidata: Q189125
+
+[56] Checking: mije tonsi → tonsi
+  ✓ Found Wikidata: Q189125
+
+[57] Checking: nasin nanpa → nanpa
+  ✓ Found Wikidata: Q11563
+
+[58] Checking: nasin sitelen → sitelen toki
+  ✓ Found Wikidata: Q8192
+
+[59] Checking: nena kon → nena kon
+  ✓ Found Wikidata: Q7363
+
+[60] Checking: nena kute → kute
+  ✓ Found Wikidata: Q7362
+
+[61] Checking: nena mama → nena pi sinpin sijelo
+  ✓ Found Wikidata: Q9103
+
+[62] Checking: nimi sin → nimi sin
+  ✓ Found Wikidata: Q130989
+
+[63] Checking: palisa lili → palisa lili
+  ✓ Found Wikidata: Q10876
+
+[64] Checking: pilin ike → pilin ike
+  ✗ No Wikidata connection
+
+[65] Checking: pilin pona → pilin pona
+  ✓ Found Wikidata: Q8
+
+[66] Checking: poki len → poki len
+  ✗ No Wikidata connection
+
+[67] Checking: poki lili → poki sijelo lili
+  ✓ Found Wikidata: Q7868
+
+[68] Checking: poki telo → poki telo
+  ✓ Found Wikidata: Q2453629
+
+[69] Checking: pona lukin → pona lukin
+  ✓ Found Wikidata: Q7242
+
+[70] Checking: sitelen ma → sitelen ma
+  ✗ No Wikidata connection
+
+[71] Checking: sitelen pona → sitelen pona
+  ✓ Found Wikidata: Q58372003
+
+[72] Checking: sitelen sitelen → sitelen sitelen
+  ✓ Found Wikidata: Q58372017
+
+[73] Checking: sitelen tawa → sitelen tawa
+  ✓ Found Wikidata: Q11424
+
+[74] Checking: sitelen toki → sitelen toki
+  ✓ Found Wikidata: Q8192
+
+[75] Checking: sona ma → sona ma
+  ✓ Found Wikidata: Q1071
+
+[76] Checking: sona nanpa → sona nanpa
+  ✓ Found Wikidata: Q395
+
+[77] Checking: sona pona → sona pona
+  ✓ Found Wikidata: Q133823176
+
+[78] Checking: sona sijelo → sona pi sijelo ijo
+  ✓ Found Wikidata: Q8087
+
+[79] Checking: sona toki → sona toki
+  ✓ Found Wikidata: Q8162
+
+[80] Checking: suno sama → lipu su
+  ✓ Found Wikidata: Q124422915
+
+[81] Checking: supa lape → supa lape
+  ✓ Found Wikidata: Q42177
+
+[82] Checking: supa monsi → supa monsi
+  ✗ No Wikidata connection
+
+[83] Checking: tenpo ni → tenpo ni
+  ✓ Found Wikidata: Q193168
+
+[84] Checking: toki pona → toki pona
+  ✓ Found Wikidata: Q36846
+
+[85] Checking: toki sin → toki sin
+  ✓ Found Wikidata: Q33215
+
+[86] Checking: toki sona → toki sona
+  ✗ No Wikidata connection
+
+[87] Checking: tomo moku → tomo esun moku
+  ✓ Found Wikidata: Q11707
+
+[88] Checking: tomo sona → tomo sona
+  ✓ Found Wikidata: Q3914
+
+[89] Checking: tomo tawa → tomo tawa
+  ✓ Found Wikidata: Q11436
+
+[90] Checking: tomo utala → tomo utala
+  ✓ Found Wikidata: Q57821
+
+[91] Checking: tu tu → tu tu
+  ✓ Found Wikidata: Q202
+
+[92] Checking: tu wan → tu wan
+  ✓ Found Wikidata: Q201
+
+[93] Checking: a → sitelen A
+  ✓ Found Wikidata: Q9659
+
+[94] Checking: akesi → akesi
+  ✓ Found Wikidata: Q137183894
+
+[95] Checking: ala → ala
+  ✓ Found Wikidata: Q154242
+
+[96] Checking: alasa → alasa
+  ✓ Found Wikidata: Q36963
+
+[97] Checking: ale → ale
+  ✓ Found Wikidata: Q2165236
+
+[98] Checking: anpa → anpa
+  ✓ Found Wikidata: Q15332388
+
+[99] Checking: ante → ante
+  ✓ Found Wikidata: Q10862449
+
+[100] Checking: e → sitelen E
+  ✓ Found Wikidata: Q9907
+
+[101] Checking: esun → esun
+  ✓ Found Wikidata: Q137760199
+
+[102] Checking: ijo → ijo
+  ✓ Found Wikidata: Q35120
+
+[103] Checking: ike → ike
+  ✓ Found Wikidata: Q115208895
+
+[104] Checking: ilo → ilo
+  ✓ Found Wikidata: Q11016
+
+[105] Checking: jaki → jaki
+  ✓ Found Wikidata: Q137760200
+
+[106] Checking: jan → jan
+  ✓ Found Wikidata: Q5
+
+[107] Checking: jasima → jasima
+  ✓ Found Wikidata: Q120429
+
+[108] Checking: jelo → jelo
+  ✓ Found Wikidata: Q943
+
+[109] Checking: jo → jo
+  ✓ Found Wikidata: Q6498684
+
+[110] Checking: kala → kala
+  ✓ Found Wikidata: Q152
+
+[111] Checking: kalama → kalama
+  ✓ Found Wikidata: Q11461
+
+[112] Checking: kasi → kasi
+  ✓ Found Wikidata: Q756
+
+[113] Checking: ken → ken
+  ✓ Found Wikidata: Q137760201
+
+[114] Checking: kijetesantakalu → kijetesantakalu
+  ✓ Found Wikidata: Q137760202
+
+[115] Checking: kili → kili
+  ✓ Found Wikidata: Q11661912
+
+[116] Checking: kiwen → kiwen
+  ✓ Found Wikidata: Q11438
+
+[117] Checking: ko → ko
+  ✓ Found Wikidata: Q137760203
+
+[118] Checking: kokosila → nimi:kokosila
+  ✓ Found Wikidata: Q137104206
+
+[119] Checking: kon → kon
+  ✓ Found Wikidata: Q137760204
+
+[120] Checking: ku → lipu ku
+  ✓ Found Wikidata: Q108617357
+
+[121] Checking: kule → kule
+  ✓ Found Wikidata: Q1075
+
+[122] Checking: kulupu → kulupu
+  ✓ Found Wikidata: Q16887380
+
+[123] Checking: kute → kute
+  ✓ Found Wikidata: Q7362
+
+[124] Checking: lanpan → lanpan
+  ✓ Found Wikidata: Q2727213
+
+[125] Checking: lape → lape
+  ✓ Found Wikidata: Q35831
+
+[126] Checking: laso → laso
+  ✓ Found Wikidata: Q10834659
+
+[127] Checking: lawa → lawa
+  ✓ Found Wikidata: Q23640
+
+[128] Checking: leko → leko
+  ✓ Found Wikidata: Q3801534
+
+[129] Checking: len → len
+  ✓ Found Wikidata: Q11460
+
+[130] Checking: lete → lete
+  ✓ Found Wikidata: Q270952
+
+[131] Checking: linja → linja
+  ✓ Found Wikidata: Q137760205
+
+[132] Checking: lipu → lipu
+  ✓ Found Wikidata: Q571
+
+[133] Checking: loje → loje
+  ✓ Found Wikidata: Q3142
+
+[134] Checking: lon → lon
+  ✓ Found Wikidata: Q137760206
+
+[135] Checking: luka → luka
+  ✓ Found Wikidata: Q24517852
+
+[136] Checking: lukin → lukin
+  ✓ Found Wikidata: Q7364
+
+[137] Checking: lupa → lupa
+  ✓ Found Wikidata: Q20204151
+
+[138] Checking: ma → ma
+  ✓ Found Wikidata: Q2
+
+[139] Checking: mama → mama
+  ✓ Found Wikidata: Q7566
+
+[140] Checking: mani → mani
+  ✓ Found Wikidata: Q1368
+
+[141] Checking: meli → meli
+  ✓ Found Wikidata: Q467
+
+[142] Checking: mi → nimi:mi
+  ✓ Found Wikidata: Q137374228
+
+[143] Checking: mije → mije
+  ✓ Found Wikidata: Q137122691
+
+[144] Checking: misikeke → ijo pi pona sijelo
+  ✓ Found Wikidata: Q11190
+
+[145] Checking: moku → moku
+  ✓ Found Wikidata: Q2095
+
+[146] Checking: moli → moli
+  ✓ Found Wikidata: Q4
+
+[147] Checking: monsi → monsi
+  ✓ Found Wikidata: Q32198402
+
+[148] Checking: monsuta → monsuta
+  ✓ Found Wikidata: Q44619
+
+[149] Checking: mu → mu
+  ✓ Found Wikidata: Q95605854
+
+[150] Checking: mun → mun
+  ✓ Found Wikidata: Q6999
+
+[151] Checking: musi → musi
+  ✓ Found Wikidata: Q173799
+
+[152] Checking: n → sitelen N
+  ✓ Found Wikidata: Q9937
+
+[153] Checking: namako → namako
+  ✓ Found Wikidata: Q137760207
+
+[154] Checking: nanpa → nanpa
+  ✓ Found Wikidata: Q11563
+
+[155] Checking: nasa → ike lawa
+  ✓ Found Wikidata: Q12135
+
+[156] Checking: nasin → nasin
+  ✓ Found Wikidata: Q5004679
+
+[157] Checking: nena → nena
+  ✓ Found Wikidata: Q137760208
+
+[158] Checking: ni → nimi:ni
+  ✓ Found Wikidata: Q137374246
+
+[159] Checking: nimi → nimi
+  ✓ Found Wikidata: Q8171
+
+[160] Checking: noka → noka
+  ✓ Found Wikidata: Q62513663
+
+[161] Checking: o → sitelen O
+  ✓ Found Wikidata: Q9941
+
+[162] Checking: oko → lukin
+  ✓ Found Wikidata: Q7364
+
+[163] Checking: olin → olin
+  ✓ Found Wikidata: Q316
+
+[164] Checking: ona → nimi:ona
+  ✓ Found Wikidata: Q137374252
+
+[165] Checking: pakala → pakala
+  ✓ Found Wikidata: Q481609
+
+[166] Checking: pali → pali
+  ✓ Found Wikidata: Q268378
+
+[167] Checking: palisa → palisa
+  ✓ Found Wikidata: Q10971443
+
+[168] Checking: pan → pan
+  ✓ Found Wikidata: Q12117
+
+[169] Checking: pilin → pilin
+  ✓ Found Wikidata: Q137760209
+
+[170] Checking: pimeja → pimeja
+  ✓ Found Wikidata: Q204170
+
+[171] Checking: pipi → pipi
+  ✓ Found Wikidata: Q1390
+
+[172] Checking: poka → poka
+  ✓ Found Wikidata: Q2151613
+
+[173] Checking: poki → poki
+  ✓ Found Wikidata: Q987767
+
+[174] Checking: pona → pona
+  ✓ Found Wikidata: Q15290
+
+[175] Checking: pu → lipu pu
+  ✓ Found Wikidata: Q108617400
+
+[176] Checking: seli → seli
+  ✓ Found Wikidata: Q137760210
+
+[177] Checking: selo → selo
+  ✓ Found Wikidata: Q1074
+
+[178] Checking: sewi → sewi
+  ✓ Found Wikidata: Q15332375
+
+[179] Checking: sijelo → sijelo
+  ✓ Found Wikidata: Q207961
+
+[180] Checking: sike → sike
+  ✓ Found Wikidata: Q137760211
+
+[181] Checking: sina → nimi:sina
+  ✓ Found Wikidata: Q135010765
+
+[182] Checking: sinpin → sinpin
+  ✓ Found Wikidata: Q32198356
+
+[183] Checking: sitelen → sitelen
+  ✓ Found Wikidata: Q478798
+
+[184] Checking: soko → soko
+  ✓ Found Wikidata: Q764
+
+[185] Checking: sona → sona
+  ✓ Found Wikidata: Q9081
+
+[186] Checking: soweli → soweli
+  ✓ Found Wikidata: Q729
+
+[187] Checking: suli → suli ijo
+  ✓ Found Wikidata: Q11423
+
+[188] Checking: suno → suno
+  ✓ Found Wikidata: Q12969754
+
+[189] Checking: supa → supa
+  ✓ Found Wikidata: Q137760212
+
+[190] Checking: suwi → suwi
+  ✓ Found Wikidata: Q2382369
+
+[191] Checking: tawa → tawa
+  ✓ Found Wikidata: Q7590
+
+[192] Checking: telo → telo
+  ✓ Found Wikidata: Q283
+
+[193] Checking: tenpo → tenpo
+  ✓ Found Wikidata: Q11471
+
+[194] Checking: toki → toki
+  ✓ Found Wikidata: Q315
+
+[195] Checking: tomo → tomo
+  ✓ Found Wikidata: Q41176
+
+[196] Checking: tonsi → tonsi
+  ✓ Found Wikidata: Q189125
+
+[197] Checking: tu → tu
+  ✓ Found Wikidata: Q200
+
+[198] Checking: unpa → unpa
+  ✓ Found Wikidata: Q290
+
+[199] Checking: uta → uta
+  ✓ Found Wikidata: Q9635
+
+[200] Checking: utala → utala
+  ✓ Found Wikidata: Q400889
+
+[201] Checking: walo → walo
+  ✓ Found Wikidata: Q23444
+
+[202] Checking: wan → wan
+  ✓ Found Wikidata: Q199
+
+[203] Checking: waso → waso
+  ✓ Found Wikidata: Q5113
+
+[204] Checking: wawa → wawa
+  ✓ Found Wikidata: Q11379
+
+[205] Checking: weka → weka
+  ✓ Found Wikidata: Q19829125
+
+[206] Checking: wile → wile
+  ✓ Found Wikidata: Q775842
+
+[207] Checking: ali → ale
+  ✓ Found Wikidata: Q2165236
+
+[208] Checking: jonke → waso telo
+  ✓ Found Wikidata: Q3303681
+
+[209] Checking: kisa → soweli Peli Katu
+  ✓ Found Wikidata: Q146
+
+[210] Checking: kutopoma → kulupu pi toki pona pi ma Anku
+  ✗ No Wikidata connection
+
+[211] Checking: linluwi → kulupu pi ilo sona
+  ✓ Found Wikidata: Q75
+
+[212] Checking: majuna → tenpo pini
+  ✓ Found Wikidata: Q309
+
+[213] Checking: melome → meli pi olin meli
+  ✓ Found Wikidata: Q9800899
+
+[214] Checking: mulapisu → pan kili pi ma Italija
+  ✓ Found Wikidata: Q177
+
+[215] Checking: nimisin → nimi sin
+  ✓ Found Wikidata: Q130989
+
+[216] Checking: nja → soweli Peli Katu
+  ✓ Found Wikidata: Q146
+
+[217] Checking: soto → poka open
+  ✓ Found Wikidata: Q13196750
+
+[218] Checking: su → lipu su
+  ✓ Found Wikidata: Q124422915
+
+[219] Checking: sutopatikuna → soweli pi uta waso
+  ✓ Found Wikidata: Q15343
+
+[220] Checking: teje → poka pini
+  ✓ Found Wikidata: Q14565199
+
+============================================================
+Writing updated CSV...
+✓ Done!
+
+Summary:
+  Checked: 220 tok.wikipedia articles
+  With Wikidata connections: 209
+  Without Wikidata: 11
+
+Sample Wikidata connections found:
+  anpa lawa            → anpa lawa                      → Q13164428
+  ijo lawa             → ijo ni li lon sijelo li ken ante e nasin sijelo e pilin → Q11364
+  ijo lili             → wan lili                       → Q1621273
+  ijo lon              → ijo wile                       → Q7239
+  ijo sijelo           → ijo wile                       → Q7239
+  ijo wile             → ijo wile                       → Q7239
+  ilo kipisi           → ilo                            → Q11016
+  ilo lukin            → ilo lukin                      → Q116877139
+  ilo musi             → ilo musi                       → Q11422
+  ilo nanpa            → ilo nanpa                      → Q2135246
+  ilo suno             → suno                           → Q12969754
+  ilo toki             → ilo toki                       → Q11035
+  jan lawa             → jan lawa                       → Q1251441
+  jan lili             → jan lili                       → Q7569
+  jan nasa             → sitelen Parahumans             → Q29471598
+  jan pali             → pali                           → Q268378
+  jan sewi             → jan sewi                       → Q178885
+  jan sona             → jan sona                       → Q20826540
+  jan utala            → jan utala                      → Q4991371
+  kalama musi          → kalama musi                    → Q638
+
+Full list saved to: tokwiki_wikidata_connections.txt
