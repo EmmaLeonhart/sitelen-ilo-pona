@@ -16,6 +16,7 @@ COMMONS_API = "https://commons.wikimedia.org/w/api.php"
 SONA_API = "https://sona.pona.la/w/api.php"
 TOK_API = "https://tok.wikipedia.org/w/api.php"
 WIKIDATA_API = "https://www.wikidata.org/w/api.php"
+WIKTIONARY_API = "https://en.wiktionary.org/w/api.php"
 
 HEADERS = {
     'User-Agent': 'TokiPonaWikiChecker/1.0 (checking toki pona wiki coverage)'
@@ -138,7 +139,13 @@ def extract_word_from_title(title):
     # Also remove file extension if it's a file
     title = re.sub(r'\.(svg|png|jpg|jpeg)$', '', title, flags=re.IGNORECASE)
 
-    return title.strip()
+    title = title.strip()
+
+    # Lowercase the first letter (toki pona convention)
+    if title:
+        title = title[0].lower() + title[1:]
+
+    return title
 
 def main():
     categories = [
@@ -201,6 +208,19 @@ def main():
 
             time.sleep(0.5)  # Rate limit
 
+            # Check en.wiktionary.org (Appendix:Toki_Pona/word)
+            print(f"  Checking en.wiktionary.org...", flush=True)
+            wiktionary_page = f"Appendix:Toki_Pona/{word}"
+            wiktionary_exists = check_page_exists(wiktionary_page, WIKTIONARY_API)
+            if wiktionary_exists:
+                print(f"    ✓ Appendix exists", flush=True)
+                wiktionary_url = f"https://en.wiktionary.org/wiki/{wiktionary_page.replace(' ', '_')}"
+            else:
+                print(f"    ✗ No appendix", flush=True)
+                wiktionary_url = ""
+
+            time.sleep(0.5)  # Rate limit
+
             all_results.append({
                 'category': category,
                 'commons_title': title,
@@ -211,7 +231,9 @@ def main():
                 'sona_exists': 'Yes' if sona_exists else 'No',
                 'sona_url': sona_url,
                 'tok_exists': 'Yes' if tok_exists else 'No',
-                'tok_url': tok_url
+                'tok_url': tok_url,
+                'wiktionary_exists': 'Yes' if wiktionary_exists else 'No',
+                'wiktionary_url': wiktionary_url
             })
 
     # Write to CSV
@@ -224,7 +246,8 @@ def main():
             'category', 'word', 'commons_title', 'commons_url',
             'wikidata_id', 'wikidata_url',
             'sona_exists', 'sona_url',
-            'tok_exists', 'tok_url'
+            'tok_exists', 'tok_url',
+            'wiktionary_exists', 'wiktionary_url'
         ]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
@@ -235,6 +258,7 @@ def main():
     # Print summary statistics
     sona_count = sum(1 for r in all_results if r['sona_exists'] == 'Yes')
     tok_count = sum(1 for r in all_results if r['tok_exists'] == 'Yes')
+    wiktionary_count = sum(1 for r in all_results if r['wiktionary_exists'] == 'Yes')
     wikidata_count = sum(1 for r in all_results if r['wikidata_id'])
 
     print(f"\nSummary:", flush=True)
@@ -242,6 +266,7 @@ def main():
     print(f"  With Wikidata: {wikidata_count} ({wikidata_count*100//len(all_results)}%)", flush=True)
     print(f"  On sona.pona.la: {sona_count} ({sona_count*100//len(all_results)}%)", flush=True)
     print(f"  On tok.wikipedia.org: {tok_count} ({tok_count*100//len(all_results)}%)", flush=True)
+    print(f"  On en.wiktionary.org: {wiktionary_count} ({wiktionary_count*100//len(all_results)}%)", flush=True)
 
 if __name__ == "__main__":
     main()
