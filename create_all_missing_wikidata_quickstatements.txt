@@ -1,0 +1,4312 @@
+CREATE
+LAST|Lmul|"akesi kon"
+LAST|Ltok|"akesi kon"
+LAST|Len|"akesi kon"
+LAST|P31|Q137763215
+LAST|P373|"Category:Akesi kon (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo akesi"
+LAST|Ltok|"ijo akesi"
+LAST|Len|"ijo akesi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo akesi (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo ala"
+LAST|Ltok|"ijo ala"
+LAST|Len|"ijo ala"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo ala (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo alasa"
+LAST|Ltok|"ijo alasa"
+LAST|Len|"ijo alasa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo alasa (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo ale"
+LAST|Ltok|"ijo ale"
+LAST|Len|"ijo ale"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo ale (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo ali"
+LAST|Ltok|"ijo ali"
+LAST|Len|"ijo ali"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo ali (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo anpa"
+LAST|Ltok|"ijo anpa"
+LAST|Len|"ijo anpa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo anpa (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo ante"
+LAST|Ltok|"ijo ante"
+LAST|Len|"ijo ante"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo ante (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo anu"
+LAST|Ltok|"ijo anu"
+LAST|Len|"ijo anu"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo anu (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo apeja"
+LAST|Ltok|"ijo apeja"
+LAST|Len|"ijo apeja"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo apeja (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo awen"
+LAST|Ltok|"ijo awen"
+LAST|Len|"ijo awen"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo awen (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo en"
+LAST|Ltok|"ijo en"
+LAST|Len|"ijo en"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo en (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo esun"
+LAST|Ltok|"ijo esun"
+LAST|Len|"ijo esun"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo esun (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo ike"
+LAST|Ltok|"ijo ike"
+LAST|Len|"ijo ike"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo ike (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo ilo"
+LAST|Ltok|"ijo ilo"
+LAST|Len|"ijo ilo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo ilo (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo insa"
+LAST|Ltok|"ijo insa"
+LAST|Len|"ijo insa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo insa (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo jaki"
+LAST|Ltok|"ijo jaki"
+LAST|Len|"ijo jaki"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo jaki (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo jan"
+LAST|Ltok|"ijo jan"
+LAST|Len|"ijo jan"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo jan (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo jelo"
+LAST|Ltok|"ijo jelo"
+LAST|Len|"ijo jelo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo jelo (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo jo"
+LAST|Ltok|"ijo jo"
+LAST|Len|"ijo jo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo jo (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo kala"
+LAST|Ltok|"ijo kala"
+LAST|Len|"ijo kala"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo kala (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo kalama"
+LAST|Ltok|"ijo kalama"
+LAST|Len|"ijo kalama"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo kalama (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo kama"
+LAST|Ltok|"ijo kama"
+LAST|Len|"ijo kama"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo kama (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo kasi"
+LAST|Ltok|"ijo kasi"
+LAST|Len|"ijo kasi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo kasi (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo ken"
+LAST|Ltok|"ijo ken"
+LAST|Len|"ijo ken"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo ken (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo kepeken"
+LAST|Ltok|"ijo kepeken"
+LAST|Len|"ijo kepeken"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo kepeken (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo kepen"
+LAST|Ltok|"ijo kepen"
+LAST|Len|"ijo kepen"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo kepen (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo kijetesantakalu"
+LAST|Ltok|"ijo kijetesantakalu"
+LAST|Len|"ijo kijetesantakalu"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo kijetesantakalu (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo kili"
+LAST|Ltok|"ijo kili"
+LAST|Len|"ijo kili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo kili (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo kin"
+LAST|Ltok|"ijo kin"
+LAST|Len|"ijo kin"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo kin (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo kipisi"
+LAST|Ltok|"ijo kipisi"
+LAST|Len|"ijo kipisi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo kipisi (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo kiwen"
+LAST|Ltok|"ijo kiwen"
+LAST|Len|"ijo kiwen"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo kiwen (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo ko"
+LAST|Ltok|"ijo ko"
+LAST|Len|"ijo ko"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo ko (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo kon"
+LAST|Ltok|"ijo kon"
+LAST|Len|"ijo kon"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo kon (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo kule"
+LAST|Ltok|"ijo kule"
+LAST|Len|"ijo kule"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo kule (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo kulupu"
+LAST|Ltok|"ijo kulupu"
+LAST|Len|"ijo kulupu"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo kulupu (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo kute"
+LAST|Ltok|"ijo kute"
+LAST|Len|"ijo kute"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo kute (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo lape"
+LAST|Ltok|"ijo lape"
+LAST|Len|"ijo lape"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo lape (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo laso"
+LAST|Ltok|"ijo laso"
+LAST|Len|"ijo laso"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo laso (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo len"
+LAST|Ltok|"ijo len"
+LAST|Len|"ijo len"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo len (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo lete"
+LAST|Ltok|"ijo lete"
+LAST|Len|"ijo lete"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo lete (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo linja"
+LAST|Ltok|"ijo linja"
+LAST|Len|"ijo linja"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo linja (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo lipu"
+LAST|Ltok|"ijo lipu"
+LAST|Len|"ijo lipu"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo lipu (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo loje"
+LAST|Ltok|"ijo loje"
+LAST|Len|"ijo loje"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo loje (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo luka"
+LAST|Ltok|"ijo luka"
+LAST|Len|"ijo luka"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo luka (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo lukin"
+LAST|Ltok|"ijo lukin"
+LAST|Len|"ijo lukin"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo lukin (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo lupa"
+LAST|Ltok|"ijo lupa"
+LAST|Len|"ijo lupa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo lupa (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo ma"
+LAST|Ltok|"ijo ma"
+LAST|Len|"ijo ma"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo ma (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo mama"
+LAST|Ltok|"ijo mama"
+LAST|Len|"ijo mama"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo mama (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo mani"
+LAST|Ltok|"ijo mani"
+LAST|Len|"ijo mani"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo mani (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo meli"
+LAST|Ltok|"ijo meli"
+LAST|Len|"ijo meli"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo meli (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo mi"
+LAST|Ltok|"ijo mi"
+LAST|Len|"ijo mi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo mi (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo mije"
+LAST|Ltok|"ijo mije"
+LAST|Len|"ijo mije"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo mije (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo moku"
+LAST|Ltok|"ijo moku"
+LAST|Len|"ijo moku"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo moku (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo moli"
+LAST|Ltok|"ijo moli"
+LAST|Len|"ijo moli"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo moli (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo monsi"
+LAST|Ltok|"ijo monsi"
+LAST|Len|"ijo monsi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo monsi (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo monsuta"
+LAST|Ltok|"ijo monsuta"
+LAST|Len|"ijo monsuta"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo monsuta (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo mu"
+LAST|Ltok|"ijo mu"
+LAST|Len|"ijo mu"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo mu (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo mun"
+LAST|Ltok|"ijo mun"
+LAST|Len|"ijo mun"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo mun (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo musi"
+LAST|Ltok|"ijo musi"
+LAST|Len|"ijo musi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo musi (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo mute"
+LAST|Ltok|"ijo mute"
+LAST|Len|"ijo mute"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo mute (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo namako"
+LAST|Ltok|"ijo namako"
+LAST|Len|"ijo namako"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo namako (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo nanpa"
+LAST|Ltok|"ijo nanpa"
+LAST|Len|"ijo nanpa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo nanpa (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo nasa"
+LAST|Ltok|"ijo nasa"
+LAST|Len|"ijo nasa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo nasa (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo nasin"
+LAST|Ltok|"ijo nasin"
+LAST|Len|"ijo nasin"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo nasin (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo nena"
+LAST|Ltok|"ijo nena"
+LAST|Len|"ijo nena"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo nena (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo ni"
+LAST|Ltok|"ijo ni"
+LAST|Len|"ijo ni"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo ni (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo ni li seme"
+LAST|Ltok|"ijo ni li seme"
+LAST|Len|"ijo ni li seme"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo ni li seme (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo nimi"
+LAST|Ltok|"ijo nimi"
+LAST|Len|"ijo nimi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo nimi (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo noka"
+LAST|Ltok|"ijo noka"
+LAST|Len|"ijo noka"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo noka (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo oko"
+LAST|Ltok|"ijo oko"
+LAST|Len|"ijo oko"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo oko (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo olin"
+LAST|Ltok|"ijo olin"
+LAST|Len|"ijo olin"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo olin (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo ona"
+LAST|Ltok|"ijo ona"
+LAST|Len|"ijo ona"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo ona (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo open"
+LAST|Ltok|"ijo open"
+LAST|Len|"ijo open"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo open (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo pakala"
+LAST|Ltok|"ijo pakala"
+LAST|Len|"ijo pakala"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo pakala (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo pake"
+LAST|Ltok|"ijo pake"
+LAST|Len|"ijo pake"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo pake (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo pali"
+LAST|Ltok|"ijo pali"
+LAST|Len|"ijo pali"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo pali (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo palisa"
+LAST|Ltok|"ijo palisa"
+LAST|Len|"ijo palisa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo palisa (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo pan"
+LAST|Ltok|"ijo pan"
+LAST|Len|"ijo pan"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo pan (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo pana"
+LAST|Ltok|"ijo pana"
+LAST|Len|"ijo pana"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo pana (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo pilin"
+LAST|Ltok|"ijo pilin"
+LAST|Len|"ijo pilin"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo pilin (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo pimeja"
+LAST|Ltok|"ijo pimeja"
+LAST|Len|"ijo pimeja"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo pimeja (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo pini"
+LAST|Ltok|"ijo pini"
+LAST|Len|"ijo pini"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo pini (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo pipi"
+LAST|Ltok|"ijo pipi"
+LAST|Len|"ijo pipi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo pipi (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo poka"
+LAST|Ltok|"ijo poka"
+LAST|Len|"ijo poka"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo poka (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo poki"
+LAST|Ltok|"ijo poki"
+LAST|Len|"ijo poki"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo poki (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo pona"
+LAST|Ltok|"ijo pona"
+LAST|Len|"ijo pona"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo pona (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo pu"
+LAST|Ltok|"ijo pu"
+LAST|Len|"ijo pu"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo pu (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo sama"
+LAST|Ltok|"ijo sama"
+LAST|Len|"ijo sama"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo sama (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo seli"
+LAST|Ltok|"ijo seli"
+LAST|Len|"ijo seli"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo seli (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo selo"
+LAST|Ltok|"ijo selo"
+LAST|Len|"ijo selo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo selo (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo seme"
+LAST|Ltok|"ijo seme"
+LAST|Len|"ijo seme"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo seme (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo sewi"
+LAST|Ltok|"ijo sewi"
+LAST|Len|"ijo sewi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo sewi (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo sike"
+LAST|Ltok|"ijo sike"
+LAST|Len|"ijo sike"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo sike (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo sin"
+LAST|Ltok|"ijo sin"
+LAST|Len|"ijo sin"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo sin (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo sina"
+LAST|Ltok|"ijo sina"
+LAST|Len|"ijo sina"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo sina (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo sinpin"
+LAST|Ltok|"ijo sinpin"
+LAST|Len|"ijo sinpin"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo sinpin (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo sitelen"
+LAST|Ltok|"ijo sitelen"
+LAST|Len|"ijo sitelen"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo sitelen (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo sona"
+LAST|Ltok|"ijo sona"
+LAST|Len|"ijo sona"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo sona (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo soweli"
+LAST|Ltok|"ijo soweli"
+LAST|Len|"ijo soweli"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo soweli (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo Stella"
+LAST|Ltok|"ijo Stella"
+LAST|Len|"ijo Stella"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo Stella (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo suli"
+LAST|Ltok|"ijo suli"
+LAST|Len|"ijo suli"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo suli (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo suno"
+LAST|Ltok|"ijo suno"
+LAST|Len|"ijo suno"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo suno (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo supa"
+LAST|Ltok|"ijo supa"
+LAST|Len|"ijo supa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo supa (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo suwi"
+LAST|Ltok|"ijo suwi"
+LAST|Len|"ijo suwi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo suwi (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo tan"
+LAST|Ltok|"ijo tan"
+LAST|Len|"ijo tan"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo tan (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo taso"
+LAST|Ltok|"ijo taso"
+LAST|Len|"ijo taso"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo taso (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo tawa"
+LAST|Ltok|"ijo tawa"
+LAST|Len|"ijo tawa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo tawa (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo telo"
+LAST|Ltok|"ijo telo"
+LAST|Len|"ijo telo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo telo (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo tenpo"
+LAST|Ltok|"ijo tenpo"
+LAST|Len|"ijo tenpo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo tenpo (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo toki"
+LAST|Ltok|"ijo toki"
+LAST|Len|"ijo toki"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo toki (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo tomo"
+LAST|Ltok|"ijo tomo"
+LAST|Len|"ijo tomo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo tomo (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo tonsi"
+LAST|Ltok|"ijo tonsi"
+LAST|Len|"ijo tonsi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo tonsi (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo tu"
+LAST|Ltok|"ijo tu"
+LAST|Len|"ijo tu"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo tu (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo unpa"
+LAST|Ltok|"ijo unpa"
+LAST|Len|"ijo unpa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo unpa (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo uta"
+LAST|Ltok|"ijo uta"
+LAST|Len|"ijo uta"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo uta (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo utala"
+LAST|Ltok|"ijo utala"
+LAST|Len|"ijo utala"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo utala (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo vivi"
+LAST|Ltok|"ijo vivi"
+LAST|Len|"ijo vivi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo vivi (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo walo"
+LAST|Ltok|"ijo walo"
+LAST|Len|"ijo walo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo walo (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo wan"
+LAST|Ltok|"ijo wan"
+LAST|Len|"ijo wan"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo wan (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo waso"
+LAST|Ltok|"ijo waso"
+LAST|Len|"ijo waso"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo waso (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo wawa"
+LAST|Ltok|"ijo wawa"
+LAST|Len|"ijo wawa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo wawa (toki pona)"
+
+CREATE
+LAST|Lmul|"ijo weka"
+LAST|Ltok|"ijo weka"
+LAST|Len|"ijo weka"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ijo weka (toki pona)"
+
+CREATE
+LAST|Lmul|"ike ala"
+LAST|Ltok|"ike ala"
+LAST|Len|"ike ala"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ike ala (toki pona)"
+
+CREATE
+LAST|Lmul|"ike lili"
+LAST|Ltok|"ike lili"
+LAST|Len|"ike lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ike lili (toki pona)"
+
+CREATE
+LAST|Lmul|"ike lukin"
+LAST|Ltok|"ike lukin"
+LAST|Len|"ike lukin"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ike lukin (toki pona)"
+
+CREATE
+LAST|Lmul|"ike mute"
+LAST|Ltok|"ike mute"
+LAST|Len|"ike mute"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ike mute (toki pona)"
+
+CREATE
+LAST|Lmul|"ilo lape"
+LAST|Ltok|"ilo lape"
+LAST|Len|"ilo lape"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ilo lape (toki pona)"
+
+CREATE
+LAST|Lmul|"ilo moli"
+LAST|Ltok|"ilo moli"
+LAST|Len|"ilo moli"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ilo moli (toki pona)"
+
+CREATE
+LAST|Lmul|"ilo oko"
+LAST|Ltok|"ilo oko"
+LAST|Len|"ilo oko"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ilo oko (toki pona)"
+
+CREATE
+LAST|Lmul|"ilo open"
+LAST|Ltok|"ilo open"
+LAST|Len|"ilo open"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ilo open (toki pona)"
+
+CREATE
+LAST|Lmul|"jan ala"
+LAST|Ltok|"jan ala"
+LAST|Len|"jan ala"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan ala (toki pona)"
+
+CREATE
+LAST|Lmul|"jan alasa"
+LAST|Ltok|"jan alasa"
+LAST|Len|"jan alasa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan alasa (toki pona)"
+
+CREATE
+LAST|Lmul|"jan ale"
+LAST|Ltok|"jan ale"
+LAST|Len|"jan ale"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan ale (toki pona)"
+
+CREATE
+LAST|Lmul|"jan ali"
+LAST|Ltok|"jan ali"
+LAST|Len|"jan ali"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan ali (toki pona)"
+
+CREATE
+LAST|Lmul|"jan ante"
+LAST|Ltok|"jan ante"
+LAST|Len|"jan ante"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan ante (toki pona)"
+
+CREATE
+LAST|Lmul|"jan ike"
+LAST|Ltok|"jan ike"
+LAST|Len|"jan ike"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan ike (toki pona)"
+
+CREATE
+LAST|Lmul|"jan kala"
+LAST|Ltok|"jan kala"
+LAST|Len|"jan kala"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan kala (toki pona)"
+
+CREATE
+LAST|Lmul|"jan kalama"
+LAST|Ltok|"jan kalama"
+LAST|Len|"jan kalama"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan kalama (toki pona)"
+
+CREATE
+LAST|Lmul|"jan kasi"
+LAST|Ltok|"jan kasi"
+LAST|Len|"jan kasi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan kasi (toki pona)"
+
+CREATE
+LAST|Lmul|"jan kulupu"
+LAST|Ltok|"jan kulupu"
+LAST|Len|"jan kulupu"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan kulupu (toki pona)"
+
+CREATE
+LAST|Lmul|"jan monsuta"
+LAST|Ltok|"jan monsuta"
+LAST|Len|"jan monsuta"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan monsuta (toki pona)"
+
+CREATE
+LAST|Lmul|"jan mute"
+LAST|Ltok|"jan mute"
+LAST|Len|"jan mute"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan mute (toki pona)"
+
+CREATE
+LAST|Lmul|"jan ni"
+LAST|Ltok|"jan ni"
+LAST|Len|"jan ni"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan ni (toki pona)"
+
+CREATE
+LAST|Lmul|"jan olin"
+LAST|Ltok|"jan olin"
+LAST|Len|"jan olin"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan olin (toki pona)"
+
+CREATE
+LAST|Lmul|"jan pakala"
+LAST|Ltok|"jan pakala"
+LAST|Len|"jan pakala"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan pakala (toki pona)"
+
+CREATE
+LAST|Lmul|"jan poka"
+LAST|Ltok|"jan poka"
+LAST|Len|"jan poka"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan poka (toki pona)"
+
+CREATE
+LAST|Lmul|"jan pona"
+LAST|Ltok|"jan pona"
+LAST|Len|"jan pona"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan pona (toki pona)"
+
+CREATE
+LAST|Lmul|"jan seme"
+LAST|Ltok|"jan seme"
+LAST|Len|"jan seme"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan seme (toki pona)"
+
+CREATE
+LAST|Lmul|"jan sin"
+LAST|Ltok|"jan sin"
+LAST|Len|"jan sin"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan sin (toki pona)"
+
+CREATE
+LAST|Lmul|"jan suli"
+LAST|Ltok|"jan suli"
+LAST|Len|"jan suli"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan suli (toki pona)"
+
+CREATE
+LAST|Lmul|"jan suwi"
+LAST|Ltok|"jan suwi"
+LAST|Len|"jan suwi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan suwi (toki pona)"
+
+CREATE
+LAST|Lmul|"jan toki"
+LAST|Ltok|"jan toki"
+LAST|Len|"jan toki"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan toki (toki pona)"
+
+CREATE
+LAST|Lmul|"jan unpa"
+LAST|Ltok|"jan unpa"
+LAST|Len|"jan unpa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan unpa (toki pona)"
+
+CREATE
+LAST|Lmul|"jan wawa"
+LAST|Ltok|"jan wawa"
+LAST|Len|"jan wawa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Jan wawa (toki pona)"
+
+CREATE
+LAST|Lmul|"kala ike"
+LAST|Ltok|"kala ike"
+LAST|Len|"kala ike"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kala ike (toki pona)"
+
+CREATE
+LAST|Lmul|"kala lete"
+LAST|Ltok|"kala lete"
+LAST|Len|"kala lete"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kala lete (toki pona)"
+
+CREATE
+LAST|Lmul|"kala lili"
+LAST|Ltok|"kala lili"
+LAST|Len|"kala lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kala lili (toki pona)"
+
+CREATE
+LAST|Lmul|"kala pona"
+LAST|Ltok|"kala pona"
+LAST|Len|"kala pona"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kala pona (toki pona)"
+
+CREATE
+LAST|Lmul|"kama pona"
+LAST|Ltok|"kama pona"
+LAST|Len|"kama pona"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kama pona (toki pona)"
+
+CREATE
+LAST|Lmul|"kasi jelo"
+LAST|Ltok|"kasi jelo"
+LAST|Len|"kasi jelo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kasi jelo (toki pona)"
+
+CREATE
+LAST|Lmul|"kasi ko"
+LAST|Ltok|"kasi ko"
+LAST|Len|"kasi ko"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kasi ko (toki pona)"
+
+CREATE
+LAST|Lmul|"kasi kule"
+LAST|Ltok|"kasi kule"
+LAST|Len|"kasi kule"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kasi kule (toki pona)"
+
+CREATE
+LAST|Lmul|"kasi laso"
+LAST|Ltok|"kasi laso"
+LAST|Len|"kasi laso"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kasi laso (toki pona)"
+
+CREATE
+LAST|Lmul|"kasi lili"
+LAST|Ltok|"kasi lili"
+LAST|Len|"kasi lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kasi lili (toki pona)"
+
+CREATE
+LAST|Lmul|"kasi loje"
+LAST|Ltok|"kasi loje"
+LAST|Len|"kasi loje"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kasi loje (toki pona)"
+
+CREATE
+LAST|Lmul|"kasi pimeja"
+LAST|Ltok|"kasi pimeja"
+LAST|Len|"kasi pimeja"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kasi pimeja (toki pona)"
+
+CREATE
+LAST|Lmul|"kasi walo"
+LAST|Ltok|"kasi walo"
+LAST|Len|"kasi walo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kasi walo (toki pona)"
+
+CREATE
+LAST|Lmul|"kijetesantakalu soweli"
+LAST|Ltok|"kijetesantakalu soweli"
+LAST|Len|"kijetesantakalu soweli"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kijetesantakalu soweli (toki pona)"
+
+CREATE
+LAST|Lmul|"kili jelo"
+LAST|Ltok|"kili jelo"
+LAST|Len|"kili jelo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kili jelo (toki pona)"
+
+CREATE
+LAST|Lmul|"kili laso"
+LAST|Ltok|"kili laso"
+LAST|Len|"kili laso"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kili laso (toki pona)"
+
+CREATE
+LAST|Lmul|"kili lili"
+LAST|Ltok|"kili lili"
+LAST|Len|"kili lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kili lili (toki pona)"
+
+CREATE
+LAST|Lmul|"kili loje"
+LAST|Ltok|"kili loje"
+LAST|Len|"kili loje"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kili loje (toki pona)"
+
+CREATE
+LAST|Lmul|"kili pimeja"
+LAST|Ltok|"kili pimeja"
+LAST|Len|"kili pimeja"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kili pimeja (toki pona)"
+
+CREATE
+LAST|Lmul|"kili suwi"
+LAST|Ltok|"kili suwi"
+LAST|Len|"kili suwi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kili suwi (toki pona)"
+
+CREATE
+LAST|Lmul|"kili walo"
+LAST|Ltok|"kili walo"
+LAST|Len|"kili walo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kili walo (toki pona)"
+
+CREATE
+LAST|Lmul|"kiwen ike"
+LAST|Ltok|"kiwen ike"
+LAST|Len|"kiwen ike"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kiwen ike (toki pona)"
+
+CREATE
+LAST|Lmul|"kiwen jelo"
+LAST|Ltok|"kiwen jelo"
+LAST|Len|"kiwen jelo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kiwen jelo (toki pona)"
+
+CREATE
+LAST|Lmul|"kiwen laso"
+LAST|Ltok|"kiwen laso"
+LAST|Len|"kiwen laso"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kiwen laso (toki pona)"
+
+CREATE
+LAST|Lmul|"kiwen lete"
+LAST|Ltok|"kiwen lete"
+LAST|Len|"kiwen lete"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kiwen lete (toki pona)"
+
+CREATE
+LAST|Lmul|"kiwen lili"
+LAST|Ltok|"kiwen lili"
+LAST|Len|"kiwen lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kiwen lili (toki pona)"
+
+CREATE
+LAST|Lmul|"kiwen loje"
+LAST|Ltok|"kiwen loje"
+LAST|Len|"kiwen loje"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kiwen loje (toki pona)"
+
+CREATE
+LAST|Lmul|"kiwen mun"
+LAST|Ltok|"kiwen mun"
+LAST|Len|"kiwen mun"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kiwen mun (toki pona)"
+
+CREATE
+LAST|Lmul|"kiwen pimeja"
+LAST|Ltok|"kiwen pimeja"
+LAST|Len|"kiwen pimeja"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kiwen pimeja (toki pona)"
+
+CREATE
+LAST|Lmul|"kiwen pona"
+LAST|Ltok|"kiwen pona"
+LAST|Len|"kiwen pona"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kiwen pona (toki pona)"
+
+CREATE
+LAST|Lmul|"kiwen seli"
+LAST|Ltok|"kiwen seli"
+LAST|Len|"kiwen seli"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kiwen seli (toki pona)"
+
+CREATE
+LAST|Lmul|"kiwen suno"
+LAST|Ltok|"kiwen suno"
+LAST|Len|"kiwen suno"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kiwen suno (toki pona)"
+
+CREATE
+LAST|Lmul|"kiwen walo"
+LAST|Ltok|"kiwen walo"
+LAST|Len|"kiwen walo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kiwen walo (toki pona)"
+
+CREATE
+LAST|Lmul|"ko jelo"
+LAST|Ltok|"ko jelo"
+LAST|Len|"ko jelo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ko jelo (toki pona)"
+
+CREATE
+LAST|Lmul|"ko kasi"
+LAST|Ltok|"ko kasi"
+LAST|Len|"ko kasi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ko kasi (toki pona)"
+
+CREATE
+LAST|Lmul|"ko kule"
+LAST|Ltok|"ko kule"
+LAST|Len|"ko kule"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ko kule (toki pona)"
+
+CREATE
+LAST|Lmul|"ko laso"
+LAST|Ltok|"ko laso"
+LAST|Len|"ko laso"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ko laso (toki pona)"
+
+CREATE
+LAST|Lmul|"ko lili"
+LAST|Ltok|"ko lili"
+LAST|Len|"ko lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ko lili (toki pona)"
+
+CREATE
+LAST|Lmul|"ko loje"
+LAST|Ltok|"ko loje"
+LAST|Len|"ko loje"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ko loje (toki pona)"
+
+CREATE
+LAST|Lmul|"ko nasa"
+LAST|Ltok|"ko nasa"
+LAST|Len|"ko nasa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ko nasa (toki pona)"
+
+CREATE
+LAST|Lmul|"ko pimeja"
+LAST|Ltok|"ko pimeja"
+LAST|Len|"ko pimeja"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ko pimeja (toki pona)"
+
+CREATE
+LAST|Lmul|"ko seli"
+LAST|Ltok|"ko seli"
+LAST|Len|"ko seli"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ko seli (toki pona)"
+
+CREATE
+LAST|Lmul|"ko walo"
+LAST|Ltok|"ko walo"
+LAST|Len|"ko walo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ko walo (toki pona)"
+
+CREATE
+LAST|Lmul|"kon lete"
+LAST|Ltok|"kon lete"
+LAST|Len|"kon lete"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kon lete (toki pona)"
+
+CREATE
+LAST|Lmul|"kule kili"
+LAST|Ltok|"kule kili"
+LAST|Len|"kule kili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kule kili (toki pona)"
+
+CREATE
+LAST|Lmul|"kule ma"
+LAST|Ltok|"kule ma"
+LAST|Len|"kule ma"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kule ma (toki pona)"
+
+CREATE
+LAST|Lmul|"kule mun"
+LAST|Ltok|"kule mun"
+LAST|Len|"kule mun"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kule mun (toki pona)"
+
+CREATE
+LAST|Lmul|"kule pilin"
+LAST|Ltok|"kule pilin"
+LAST|Len|"kule pilin"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kule pilin (toki pona)"
+
+CREATE
+LAST|Lmul|"kule sewi"
+LAST|Ltok|"kule sewi"
+LAST|Len|"kule sewi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kule sewi (toki pona)"
+
+CREATE
+LAST|Lmul|"kule suno"
+LAST|Ltok|"kule suno"
+LAST|Len|"kule suno"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kule suno (toki pona)"
+
+CREATE
+LAST|Lmul|"kule telo"
+LAST|Ltok|"kule telo"
+LAST|Len|"kule telo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kule telo (toki pona)"
+
+CREATE
+LAST|Lmul|"kule uta"
+LAST|Ltok|"kule uta"
+LAST|Len|"kule uta"
+LAST|P31|Q137763215
+LAST|P373|"Category:Kule uta (toki pona)"
+
+CREATE
+LAST|Lmul|"lan sin"
+LAST|Ltok|"lan sin"
+LAST|Len|"lan sin"
+LAST|P31|Q137763215
+LAST|P373|"Category:Lan sin (toki pona)"
+
+CREATE
+LAST|Lmul|"laso kasi"
+LAST|Ltok|"laso kasi"
+LAST|Len|"laso kasi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Laso kasi (toki pona)"
+
+CREATE
+LAST|Lmul|"laso mun"
+LAST|Ltok|"laso mun"
+LAST|Len|"laso mun"
+LAST|P31|Q137763215
+LAST|P373|"Category:Laso mun (toki pona)"
+
+CREATE
+LAST|Lmul|"laso sewi"
+LAST|Ltok|"laso sewi"
+LAST|Len|"laso sewi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Laso sewi (toki pona)"
+
+CREATE
+LAST|Lmul|"laso telo"
+LAST|Ltok|"laso telo"
+LAST|Len|"laso telo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Laso telo (toki pona)"
+
+CREATE
+LAST|Lmul|"len jan"
+LAST|Ltok|"len jan"
+LAST|Len|"len jan"
+LAST|P31|Q137763215
+LAST|P373|"Category:Len jan (toki pona)"
+
+CREATE
+LAST|Lmul|"len jelo"
+LAST|Ltok|"len jelo"
+LAST|Len|"len jelo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Len jelo (toki pona)"
+
+CREATE
+LAST|Lmul|"len laso"
+LAST|Ltok|"len laso"
+LAST|Len|"len laso"
+LAST|P31|Q137763215
+LAST|P373|"Category:Len laso (toki pona)"
+
+CREATE
+LAST|Lmul|"len lili"
+LAST|Ltok|"len lili"
+LAST|Len|"len lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Len lili (toki pona)"
+
+CREATE
+LAST|Lmul|"len loje"
+LAST|Ltok|"len loje"
+LAST|Len|"len loje"
+LAST|P31|Q137763215
+LAST|P373|"Category:Len loje (toki pona)"
+
+CREATE
+LAST|Lmul|"len luka"
+LAST|Ltok|"len luka"
+LAST|Len|"len luka"
+LAST|P31|Q137763215
+LAST|P373|"Category:Len luka (toki pona)"
+
+CREATE
+LAST|Lmul|"len pimeja"
+LAST|Ltok|"len pimeja"
+LAST|Len|"len pimeja"
+LAST|P31|Q137763215
+LAST|P373|"Category:Len pimeja (toki pona)"
+
+CREATE
+LAST|Lmul|"len sin"
+LAST|Ltok|"len sin"
+LAST|Len|"len sin"
+LAST|P31|Q137763215
+LAST|P373|"Category:Len sin (toki pona)"
+
+CREATE
+LAST|Lmul|"len walo"
+LAST|Ltok|"len walo"
+LAST|Len|"len walo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Len walo (toki pona)"
+
+CREATE
+LAST|Lmul|"linja lili"
+LAST|Ltok|"linja lili"
+LAST|Len|"linja lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Linja lili (toki pona)"
+
+CREATE
+LAST|Lmul|"linja suwi"
+LAST|Ltok|"linja suwi"
+LAST|Len|"linja suwi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Linja suwi (toki pona)"
+
+CREATE
+LAST|Lmul|"lipu kasi"
+LAST|Ltok|"lipu kasi"
+LAST|Len|"lipu kasi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Lipu kasi (toki pona)"
+
+CREATE
+LAST|Lmul|"lipu majuna"
+LAST|Ltok|"lipu majuna"
+LAST|Len|"lipu majuna"
+LAST|P31|Q137763215
+LAST|P373|"Category:Lipu majuna (toki pona)"
+
+CREATE
+LAST|Lmul|"lipu nanpa"
+LAST|Ltok|"lipu nanpa"
+LAST|Len|"lipu nanpa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Lipu nanpa (toki pona)"
+
+CREATE
+LAST|Lmul|"lipu unpa"
+LAST|Ltok|"lipu unpa"
+LAST|Len|"lipu unpa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Lipu unpa (toki pona)"
+
+CREATE
+LAST|Lmul|"loje jelo"
+LAST|Ltok|"loje jelo"
+LAST|Len|"loje jelo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Loje jelo (toki pona)"
+
+CREATE
+LAST|Lmul|"loje walo"
+LAST|Ltok|"loje walo"
+LAST|Len|"loje walo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Loje walo (toki pona)"
+
+CREATE
+LAST|Lmul|"luka luka luka luka"
+LAST|Ltok|"luka luka luka luka"
+LAST|Len|"luka luka luka luka"
+LAST|P31|Q137763215
+LAST|P373|"Category:Luka luka luka luka (toki pona)"
+
+CREATE
+LAST|Lmul|"luka luka luka tu"
+LAST|Ltok|"luka luka luka tu"
+LAST|Len|"luka luka luka tu"
+LAST|P31|Q137763215
+LAST|P373|"Category:Luka luka luka tu (toki pona)"
+
+CREATE
+LAST|Lmul|"luka luka luka tu tu"
+LAST|Ltok|"luka luka luka tu tu"
+LAST|Len|"luka luka luka tu tu"
+LAST|P31|Q137763215
+LAST|P373|"Category:Luka luka luka tu tu (toki pona)"
+
+CREATE
+LAST|Lmul|"luka luka luka tu wan"
+LAST|Ltok|"luka luka luka tu wan"
+LAST|Len|"luka luka luka tu wan"
+LAST|P31|Q137763215
+LAST|P373|"Category:Luka luka luka tu wan (toki pona)"
+
+CREATE
+LAST|Lmul|"luka luka luka wan"
+LAST|Ltok|"luka luka luka wan"
+LAST|Len|"luka luka luka wan"
+LAST|P31|Q137763215
+LAST|P373|"Category:Luka luka luka wan (toki pona)"
+
+CREATE
+LAST|Lmul|"luka luka luka wan tu"
+LAST|Ltok|"luka luka luka wan tu"
+LAST|Len|"luka luka luka wan tu"
+LAST|P31|Q137763215
+LAST|P373|"Category:Luka luka luka wan tu (toki pona)"
+
+CREATE
+LAST|Lmul|"luka luka wan tu"
+LAST|Ltok|"luka luka wan tu"
+LAST|Len|"luka luka wan tu"
+LAST|P31|Q137763215
+LAST|P373|"Category:Luka luka wan tu (toki pona)"
+
+CREATE
+LAST|Lmul|"luka wan tu"
+LAST|Ltok|"luka wan tu"
+LAST|Len|"luka wan tu"
+LAST|P31|Q137763215
+LAST|P373|"Category:Luka wan tu (toki pona)"
+
+CREATE
+LAST|Lmul|"lupa jaki"
+LAST|Ltok|"lupa jaki"
+LAST|Len|"lupa jaki"
+LAST|P31|Q137763215
+LAST|P373|"Category:Lupa jaki (toki pona)"
+
+CREATE
+LAST|Lmul|"lupa kiwen"
+LAST|Ltok|"lupa kiwen"
+LAST|Len|"lupa kiwen"
+LAST|P31|Q137763215
+LAST|P373|"Category:Lupa kiwen (toki pona)"
+
+CREATE
+LAST|Lmul|"lupa kute"
+LAST|Ltok|"lupa kute"
+LAST|Len|"lupa kute"
+LAST|P31|Q137763215
+LAST|P373|"Category:Lupa kute (toki pona)"
+
+CREATE
+LAST|Lmul|"lupa lili"
+LAST|Ltok|"lupa lili"
+LAST|Len|"lupa lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Lupa lili (toki pona)"
+
+CREATE
+LAST|Lmul|"lupa nena"
+LAST|Ltok|"lupa nena"
+LAST|Len|"lupa nena"
+LAST|P31|Q137763215
+LAST|P373|"Category:Lupa nena (toki pona)"
+
+CREATE
+LAST|Lmul|"lupa tomo"
+LAST|Ltok|"lupa tomo"
+LAST|Len|"lupa tomo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Lupa tomo (toki pona)"
+
+CREATE
+LAST|Lmul|"ma ike"
+LAST|Ltok|"ma ike"
+LAST|Len|"ma ike"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ma ike (toki pona)"
+
+CREATE
+LAST|Lmul|"ma kasi"
+LAST|Ltok|"ma kasi"
+LAST|Len|"ma kasi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ma kasi (toki pona)"
+
+CREATE
+LAST|Lmul|"ma ni"
+LAST|Ltok|"ma ni"
+LAST|Len|"ma ni"
+LAST|P31|Q137763215
+LAST|P373|"Category:Ma ni (toki pona)"
+
+CREATE
+LAST|Lmul|"mama mama"
+LAST|Ltok|"mama mama"
+LAST|Len|"mama mama"
+LAST|P31|Q137763215
+LAST|P373|"Category:Mama mama (toki pona)"
+
+CREATE
+LAST|Lmul|"mama meli"
+LAST|Ltok|"mama meli"
+LAST|Len|"mama meli"
+LAST|P31|Q137763215
+LAST|P373|"Category:Mama meli (toki pona)"
+
+CREATE
+LAST|Lmul|"mama mije"
+LAST|Ltok|"mama mije"
+LAST|Len|"mama mije"
+LAST|P31|Q137763215
+LAST|P373|"Category:Mama mije (toki pona)"
+
+CREATE
+LAST|Lmul|"mama tonsi"
+LAST|Ltok|"mama tonsi"
+LAST|Len|"mama tonsi"
+LAST|P31|Q137763215
+LAST|P373|"Category:Mama tonsi (toki pona)"
+
+CREATE
+LAST|Lmul|"meli ike"
+LAST|Ltok|"meli ike"
+LAST|Len|"meli ike"
+LAST|P31|Q137763215
+LAST|P373|"Category:Meli ike (toki pona)"
+
+CREATE
+LAST|Lmul|"meli lili"
+LAST|Ltok|"meli lili"
+LAST|Len|"meli lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Meli lili (toki pona)"
+
+CREATE
+LAST|Lmul|"meli mije"
+LAST|Ltok|"meli mije"
+LAST|Len|"meli mije"
+LAST|P31|Q137763215
+LAST|P373|"Category:Meli mije (toki pona)"
+
+CREATE
+LAST|Lmul|"meli pona"
+LAST|Ltok|"meli pona"
+LAST|Len|"meli pona"
+LAST|P31|Q137763215
+LAST|P373|"Category:Meli pona (toki pona)"
+
+CREATE
+LAST|Lmul|"meli sama"
+LAST|Ltok|"meli sama"
+LAST|Len|"meli sama"
+LAST|P31|Q137763215
+LAST|P373|"Category:Meli sama (toki pona)"
+
+CREATE
+LAST|Lmul|"meli unpa"
+LAST|Ltok|"meli unpa"
+LAST|Len|"meli unpa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Meli unpa (toki pona)"
+
+CREATE
+LAST|Lmul|"meli wawa"
+LAST|Ltok|"meli wawa"
+LAST|Len|"meli wawa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Meli wawa (toki pona)"
+
+CREATE
+LAST|Lmul|"mije ike"
+LAST|Ltok|"mije ike"
+LAST|Len|"mije ike"
+LAST|P31|Q137763215
+LAST|P373|"Category:Mije ike (toki pona)"
+
+CREATE
+LAST|Lmul|"mije lili"
+LAST|Ltok|"mije lili"
+LAST|Len|"mije lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Mije lili (toki pona)"
+
+CREATE
+LAST|Lmul|"mije meli"
+LAST|Ltok|"mije meli"
+LAST|Len|"mije meli"
+LAST|P31|Q137763215
+LAST|P373|"Category:Mije meli (toki pona)"
+
+CREATE
+LAST|Lmul|"mije pona"
+LAST|Ltok|"mije pona"
+LAST|Len|"mije pona"
+LAST|P31|Q137763215
+LAST|P373|"Category:Mije pona (toki pona)"
+
+CREATE
+LAST|Lmul|"mije sama"
+LAST|Ltok|"mije sama"
+LAST|Len|"mije sama"
+LAST|P31|Q137763215
+LAST|P373|"Category:Mije sama (toki pona)"
+
+CREATE
+LAST|Lmul|"mije unpa"
+LAST|Ltok|"mije unpa"
+LAST|Len|"mije unpa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Mije unpa (toki pona)"
+
+CREATE
+LAST|Lmul|"mije wawa"
+LAST|Ltok|"mije wawa"
+LAST|Len|"mije wawa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Mije wawa (toki pona)"
+
+CREATE
+LAST|Lmul|"musi lili"
+LAST|Ltok|"musi lili"
+LAST|Len|"musi lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Musi lili (toki pona)"
+
+CREATE
+LAST|Lmul|"mute mute"
+LAST|Ltok|"mute mute"
+LAST|Len|"mute mute"
+LAST|P31|Q137763215
+LAST|P373|"Category:Mute mute (toki pona)"
+
+CREATE
+LAST|Lmul|"nena lili"
+LAST|Ltok|"nena lili"
+LAST|Len|"nena lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Nena lili (toki pona)"
+
+CREATE
+LAST|Lmul|"nena meli"
+LAST|Ltok|"nena meli"
+LAST|Len|"nena meli"
+LAST|P31|Q137763215
+LAST|P373|"Category:Nena meli (toki pona)"
+
+CREATE
+LAST|Lmul|"pilin ala"
+LAST|Ltok|"pilin ala"
+LAST|Len|"pilin ala"
+LAST|P31|Q137763215
+LAST|P373|"Category:Pilin ala (toki pona)"
+
+CREATE
+LAST|Lmul|"pilin nasa"
+LAST|Ltok|"pilin nasa"
+LAST|Len|"pilin nasa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Pilin nasa (toki pona)"
+
+CREATE
+LAST|Lmul|"pilin pakala"
+LAST|Ltok|"pilin pakala"
+LAST|Len|"pilin pakala"
+LAST|P31|Q137763215
+LAST|P373|"Category:Pilin pakala (toki pona)"
+
+CREATE
+LAST|Lmul|"pilin sama"
+LAST|Ltok|"pilin sama"
+LAST|Len|"pilin sama"
+LAST|P31|Q137763215
+LAST|P373|"Category:Pilin sama (toki pona)"
+
+CREATE
+LAST|Lmul|"pilin seme"
+LAST|Ltok|"pilin seme"
+LAST|Len|"pilin seme"
+LAST|P31|Q137763215
+LAST|P373|"Category:Pilin seme (toki pona)"
+
+CREATE
+LAST|Lmul|"pimeja jelo"
+LAST|Ltok|"pimeja jelo"
+LAST|Len|"pimeja jelo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Pimeja jelo (toki pona)"
+
+CREATE
+LAST|Lmul|"pimeja laso"
+LAST|Ltok|"pimeja laso"
+LAST|Len|"pimeja laso"
+LAST|P31|Q137763215
+LAST|P373|"Category:Pimeja laso (toki pona)"
+
+CREATE
+LAST|Lmul|"pimeja loje"
+LAST|Ltok|"pimeja loje"
+LAST|Len|"pimeja loje"
+LAST|P31|Q137763215
+LAST|P373|"Category:Pimeja loje (toki pona)"
+
+CREATE
+LAST|Lmul|"poki kon"
+LAST|Ltok|"poki kon"
+LAST|Len|"poki kon"
+LAST|P31|Q137763215
+LAST|P373|"Category:Poki kon (toki pona)"
+
+CREATE
+LAST|Lmul|"poki lete"
+LAST|Ltok|"poki lete"
+LAST|Len|"poki lete"
+LAST|P31|Q137763215
+LAST|P373|"Category:Poki lete (toki pona)"
+
+CREATE
+LAST|Lmul|"poki seli"
+LAST|Ltok|"poki seli"
+LAST|Len|"poki seli"
+LAST|P31|Q137763215
+LAST|P373|"Category:Poki seli (toki pona)"
+
+CREATE
+LAST|Lmul|"poki tona"
+LAST|Ltok|"poki tona"
+LAST|Len|"poki tona"
+LAST|P31|Q137763215
+LAST|P373|"Category:Poki tona (toki pona)"
+
+CREATE
+LAST|Lmul|"pona ala"
+LAST|Ltok|"pona ala"
+LAST|Len|"pona ala"
+LAST|P31|Q137763215
+LAST|P373|"Category:Pona ala (toki pona)"
+
+CREATE
+LAST|Lmul|"pona lili"
+LAST|Ltok|"pona lili"
+LAST|Len|"pona lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Pona lili (toki pona)"
+
+CREATE
+LAST|Lmul|"pona mute"
+LAST|Ltok|"pona mute"
+LAST|Len|"pona mute"
+LAST|P31|Q137763215
+LAST|P373|"Category:Pona mute (toki pona)"
+
+CREATE
+LAST|Lmul|"selo len"
+LAST|Ltok|"selo len"
+LAST|Len|"selo len"
+LAST|P31|Q137763215
+LAST|P373|"Category:Selo len (toki pona)"
+
+CREATE
+LAST|Lmul|"selo soweli"
+LAST|Ltok|"selo soweli"
+LAST|Len|"selo soweli"
+LAST|P31|Q137763215
+LAST|P373|"Category:Selo soweli (toki pona)"
+
+CREATE
+LAST|Lmul|"sike lili"
+LAST|Ltok|"sike lili"
+LAST|Len|"sike lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Sike lili (toki pona)"
+
+CREATE
+LAST|Lmul|"sitelen ike"
+LAST|Ltok|"sitelen ike"
+LAST|Len|"sitelen ike"
+LAST|P31|Q137763215
+LAST|P373|"Category:Sitelen ike (toki pona)"
+
+CREATE
+LAST|Lmul|"sitelen monsuta"
+LAST|Ltok|"sitelen monsuta"
+LAST|Len|"sitelen monsuta"
+LAST|P31|Q137763215
+LAST|P373|"Category:Sitelen monsuta (toki pona)"
+
+CREATE
+LAST|Lmul|"sona ala"
+LAST|Ltok|"sona ala"
+LAST|Len|"sona ala"
+LAST|P31|Q137763215
+LAST|P373|"Category:Sona ala (toki pona)"
+
+CREATE
+LAST|Lmul|"sona ike"
+LAST|Ltok|"sona ike"
+LAST|Len|"sona ike"
+LAST|P31|Q137763215
+LAST|P373|"Category:Sona ike (toki pona)"
+
+CREATE
+LAST|Lmul|"sona lili"
+LAST|Ltok|"sona lili"
+LAST|Len|"sona lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Sona lili (toki pona)"
+
+CREATE
+LAST|Lmul|"sona tenpo"
+LAST|Ltok|"sona tenpo"
+LAST|Len|"sona tenpo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Sona tenpo (toki pona)"
+
+CREATE
+LAST|Lmul|"sona utala"
+LAST|Ltok|"sona utala"
+LAST|Len|"sona utala"
+LAST|P31|Q137763215
+LAST|P373|"Category:Sona utala (toki pona)"
+
+CREATE
+LAST|Lmul|"soweli kijetesantakalu"
+LAST|Ltok|"soweli kijetesantakalu"
+LAST|Len|"soweli kijetesantakalu"
+LAST|P31|Q137763215
+LAST|P373|"Category:Soweli kijetesantakalu (toki pona)"
+
+CREATE
+LAST|Lmul|"supa lawa"
+LAST|Ltok|"supa lawa"
+LAST|Len|"supa lawa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Supa lawa (toki pona)"
+
+CREATE
+LAST|Lmul|"supa lupa"
+LAST|Ltok|"supa lupa"
+LAST|Len|"supa lupa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Supa lupa (toki pona)"
+
+CREATE
+LAST|Lmul|"supa moku"
+LAST|Ltok|"supa moku"
+LAST|Len|"supa moku"
+LAST|P31|Q137763215
+LAST|P373|"Category:Supa moku (toki pona)"
+
+CREATE
+LAST|Lmul|"supa pali"
+LAST|Ltok|"supa pali"
+LAST|Len|"supa pali"
+LAST|P31|Q137763215
+LAST|P373|"Category:Supa pali (toki pona)"
+
+CREATE
+LAST|Lmul|"tawa pona"
+LAST|Ltok|"tawa pona"
+LAST|Len|"tawa pona"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tawa pona (toki pona)"
+
+CREATE
+LAST|Lmul|"tawa sona"
+LAST|Ltok|"tawa sona"
+LAST|Len|"tawa sona"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tawa sona (toki pona)"
+
+CREATE
+LAST|Lmul|"telo lete"
+LAST|Ltok|"telo lete"
+LAST|Len|"telo lete"
+LAST|P31|Q137763215
+LAST|P373|"Category:Telo lete (toki pona)"
+
+CREATE
+LAST|Lmul|"telo lili"
+LAST|Ltok|"telo lili"
+LAST|Len|"telo lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Telo lili (toki pona)"
+
+CREATE
+LAST|Lmul|"telo sitelen"
+LAST|Ltok|"telo sitelen"
+LAST|Len|"telo sitelen"
+LAST|P31|Q137763215
+LAST|P373|"Category:Telo sitelen (toki pona)"
+
+CREATE
+LAST|Lmul|"tenpo ike"
+LAST|Ltok|"tenpo ike"
+LAST|Len|"tenpo ike"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tenpo ike (toki pona)"
+
+CREATE
+LAST|Lmul|"tenpo pona"
+LAST|Ltok|"tenpo pona"
+LAST|Len|"tenpo pona"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tenpo pona (toki pona)"
+
+CREATE
+LAST|Lmul|"toki ala"
+LAST|Ltok|"toki ala"
+LAST|Len|"toki ala"
+LAST|P31|Q137763215
+LAST|P373|"Category:Toki ala (toki pona)"
+
+CREATE
+LAST|Lmul|"toki ike"
+LAST|Ltok|"toki ike"
+LAST|Len|"toki ike"
+LAST|P31|Q137763215
+LAST|P373|"Category:Toki ike (toki pona)"
+
+CREATE
+LAST|Lmul|"toki pona ligatures"
+LAST|Ltok|"toki pona ligatures"
+LAST|Len|"toki pona ligatures"
+LAST|P31|Q137763215
+LAST|P373|"Category:Toki pona ligatures"
+
+CREATE
+LAST|Lmul|"toki utala"
+LAST|Ltok|"toki utala"
+LAST|Len|"toki utala"
+LAST|P31|Q137763215
+LAST|P373|"Category:Toki utala (toki pona)"
+
+CREATE
+LAST|Lmul|"tomo lape"
+LAST|Ltok|"tomo lape"
+LAST|Len|"tomo lape"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tomo lape (toki pona)"
+
+CREATE
+LAST|Lmul|"tomo mani"
+LAST|Ltok|"tomo mani"
+LAST|Len|"tomo mani"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tomo mani (toki pona)"
+
+CREATE
+LAST|Lmul|"tomo monsuta"
+LAST|Ltok|"tomo monsuta"
+LAST|Len|"tomo monsuta"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tomo monsuta (toki pona)"
+
+CREATE
+LAST|Lmul|"tomo nasin"
+LAST|Ltok|"tomo nasin"
+LAST|Len|"tomo nasin"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tomo nasin (toki pona)"
+
+CREATE
+LAST|Lmul|"tomo ni"
+LAST|Ltok|"tomo ni"
+LAST|Len|"tomo ni"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tomo ni (toki pona)"
+
+CREATE
+LAST|Lmul|"tomo pali"
+LAST|Ltok|"tomo pali"
+LAST|Len|"tomo pali"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tomo pali (toki pona)"
+
+CREATE
+LAST|Lmul|"tomo telo"
+LAST|Ltok|"tomo telo"
+LAST|Len|"tomo telo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tomo telo (toki pona)"
+
+CREATE
+LAST|Lmul|"tomo unpa"
+LAST|Ltok|"tomo unpa"
+LAST|Len|"tomo unpa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tomo unpa (toki pona)"
+
+CREATE
+LAST|Lmul|"tonsi ike"
+LAST|Ltok|"tonsi ike"
+LAST|Len|"tonsi ike"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tonsi ike (toki pona)"
+
+CREATE
+LAST|Lmul|"tonsi lili"
+LAST|Ltok|"tonsi lili"
+LAST|Len|"tonsi lili"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tonsi lili (toki pona)"
+
+CREATE
+LAST|Lmul|"tonsi pona"
+LAST|Ltok|"tonsi pona"
+LAST|Len|"tonsi pona"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tonsi pona (toki pona)"
+
+CREATE
+LAST|Lmul|"tonsi sama"
+LAST|Ltok|"tonsi sama"
+LAST|Len|"tonsi sama"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tonsi sama (toki pona)"
+
+CREATE
+LAST|Lmul|"tonsi sin"
+LAST|Ltok|"tonsi sin"
+LAST|Len|"tonsi sin"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tonsi sin (toki pona)"
+
+CREATE
+LAST|Lmul|"tonsi unpa"
+LAST|Ltok|"tonsi unpa"
+LAST|Len|"tonsi unpa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tonsi unpa (toki pona)"
+
+CREATE
+LAST|Lmul|"tonsi wawa"
+LAST|Ltok|"tonsi wawa"
+LAST|Len|"tonsi wawa"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tonsi wawa (toki pona)"
+
+CREATE
+LAST|Lmul|"tu luka"
+LAST|Ltok|"tu luka"
+LAST|Len|"tu luka"
+LAST|P31|Q137763215
+LAST|P373|"Category:Tu luka (toki pona)"
+
+CREATE
+LAST|Lmul|"walo jelo"
+LAST|Ltok|"walo jelo"
+LAST|Len|"walo jelo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Walo jelo (toki pona)"
+
+CREATE
+LAST|Lmul|"walo laso"
+LAST|Ltok|"walo laso"
+LAST|Len|"walo laso"
+LAST|P31|Q137763215
+LAST|P373|"Category:Walo laso (toki pona)"
+
+CREATE
+LAST|Lmul|"walo loje"
+LAST|Ltok|"walo loje"
+LAST|Len|"walo loje"
+LAST|P31|Q137763215
+LAST|P373|"Category:Walo loje (toki pona)"
+
+CREATE
+LAST|Lmul|"walo pimeja"
+LAST|Ltok|"walo pimeja"
+LAST|Len|"walo pimeja"
+LAST|P31|Q137763215
+LAST|P373|"Category:Walo pimeja (toki pona)"
+
+CREATE
+LAST|Lmul|"wan luka"
+LAST|Ltok|"wan luka"
+LAST|Len|"wan luka"
+LAST|P31|Q137763215
+LAST|P373|"Category:Wan luka (toki pona)"
+
+CREATE
+LAST|Lmul|"wan tu"
+LAST|Ltok|"wan tu"
+LAST|Len|"wan tu"
+LAST|P31|Q137763215
+LAST|P373|"Category:Wan tu (toki pona)"
+
+CREATE
+LAST|Lmul|"wawa tenpo"
+LAST|Ltok|"wawa tenpo"
+LAST|Len|"wawa tenpo"
+LAST|P31|Q137763215
+LAST|P373|"Category:Wawa tenpo (toki pona)"
+
+CREATE
+LAST|Lmul|"sitelen Pona ligatures"
+LAST|Ltok|"sitelen Pona ligatures"
+LAST|Len|"sitelen Pona ligatures"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sitelen Pona ligatures"
+
+CREATE
+LAST|Lmul|"toki Pona Logograms unsorted by word"
+LAST|Ltok|"toki Pona Logograms unsorted by word"
+LAST|Len|"toki Pona Logograms unsorted by word"
+LAST|P31|Q137374997
+LAST|P373|"Category:Toki Pona Logograms unsorted by word"
+
+CREATE
+LAST|Lmul|"toki pona rare words"
+LAST|Ltok|"toki pona rare words"
+LAST|Len|"toki pona rare words"
+LAST|P31|Q137374997
+LAST|P373|"Category:Toki pona rare words"
+
+CREATE
+LAST|Lmul|"aAANUSEMEmailMahjong"
+LAST|Ltok|"aAANUSEMEmailMahjong"
+LAST|Len|"aAANUSEMEmailMahjong"
+LAST|P31|Q137374997
+LAST|P373|"Category:AAANUSEMEmailMahjong (toki pona)"
+
+CREATE
+LAST|Lmul|"aasun"
+LAST|Ltok|"aasun"
+LAST|Len|"aasun"
+LAST|P31|Q137374997
+LAST|P373|"Category:Aasun (toki pona)"
+
+CREATE
+LAST|Lmul|"aja"
+LAST|Ltok|"aja"
+LAST|Len|"aja"
+LAST|P31|Q137374997
+LAST|P373|"Category:Aja (toki pona)"
+
+CREATE
+LAST|Lmul|"aka"
+LAST|Ltok|"aka"
+LAST|Len|"aka"
+LAST|P31|Q137374997
+LAST|P373|"Category:Aka (toki pona)"
+
+CREATE
+LAST|Lmul|"ako"
+LAST|Ltok|"ako"
+LAST|Len|"ako"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ako (toki pona)"
+
+CREATE
+LAST|Lmul|"aku"
+LAST|Ltok|"aku"
+LAST|Len|"aku"
+LAST|P31|Q137374997
+LAST|P373|"Category:Aku (toki pona)"
+
+CREATE
+LAST|Lmul|"alente"
+LAST|Ltok|"alente"
+LAST|Len|"alente"
+LAST|P31|Q137374997
+LAST|P373|"Category:Alente (toki pona)"
+
+CREATE
+LAST|Lmul|"alisa"
+LAST|Ltok|"alisa"
+LAST|Len|"alisa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Alisa (toki pona)"
+
+CREATE
+LAST|Lmul|"alu"
+LAST|Ltok|"alu"
+LAST|Len|"alu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Alu (toki pona)"
+
+CREATE
+LAST|Lmul|"amanka"
+LAST|Ltok|"amanka"
+LAST|Len|"amanka"
+LAST|P31|Q137374997
+LAST|P373|"Category:Amanka (toki pona)"
+
+CREATE
+LAST|Lmul|"amelin"
+LAST|Ltok|"amelin"
+LAST|Len|"amelin"
+LAST|P31|Q137374997
+LAST|P373|"Category:Amelin (toki pona)"
+
+CREATE
+LAST|Lmul|"ana"
+LAST|Ltok|"ana"
+LAST|Len|"ana"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ana (toki pona)"
+
+CREATE
+LAST|Lmul|"ani"
+LAST|Ltok|"ani"
+LAST|Len|"ani"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ani (toki pona)"
+
+CREATE
+LAST|Lmul|"ansu"
+LAST|Ltok|"ansu"
+LAST|Len|"ansu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ansu (toki pona)"
+
+CREATE
+LAST|Lmul|"anta"
+LAST|Ltok|"anta"
+LAST|Len|"anta"
+LAST|P31|Q137374997
+LAST|P373|"Category:Anta (toki pona)"
+
+CREATE
+LAST|Lmul|"antepan"
+LAST|Ltok|"antepan"
+LAST|Len|"antepan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Antepan (toki pona)"
+
+CREATE
+LAST|Lmul|"antikontitutonelema"
+LAST|Ltok|"antikontitutonelema"
+LAST|Len|"antikontitutonelema"
+LAST|P31|Q137374997
+LAST|P373|"Category:Antikontitutonelema (toki pona)"
+
+CREATE
+LAST|Lmul|"apelo"
+LAST|Ltok|"apelo"
+LAST|Len|"apelo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Apelo (toki pona)"
+
+CREATE
+LAST|Lmul|"api"
+LAST|Ltok|"api"
+LAST|Len|"api"
+LAST|P31|Q137374997
+LAST|P373|"Category:Api (toki pona)"
+
+CREATE
+LAST|Lmul|"asiku"
+LAST|Ltok|"asiku"
+LAST|Len|"asiku"
+LAST|P31|Q137374997
+LAST|P373|"Category:Asiku (toki pona)"
+
+CREATE
+LAST|Lmul|"asu"
+LAST|Ltok|"asu"
+LAST|Len|"asu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Asu (toki pona)"
+
+CREATE
+LAST|Lmul|"asuki"
+LAST|Ltok|"asuki"
+LAST|Len|"asuki"
+LAST|P31|Q137374997
+LAST|P373|"Category:Asuki (toki pona)"
+
+CREATE
+LAST|Lmul|"asuto"
+LAST|Ltok|"asuto"
+LAST|Len|"asuto"
+LAST|P31|Q137374997
+LAST|P373|"Category:Asuto (toki pona)"
+
+CREATE
+LAST|Lmul|"atu"
+LAST|Ltok|"atu"
+LAST|Len|"atu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Atu (toki pona)"
+
+CREATE
+LAST|Lmul|"awase"
+LAST|Ltok|"awase"
+LAST|Len|"awase"
+LAST|P31|Q137374997
+LAST|P373|"Category:Awase (toki pona)"
+
+CREATE
+LAST|Lmul|"eki"
+LAST|Ltok|"eki"
+LAST|Len|"eki"
+LAST|P31|Q137374997
+LAST|P373|"Category:Eki (toki pona)"
+
+CREATE
+LAST|Lmul|"eni"
+LAST|Ltok|"eni"
+LAST|Len|"eni"
+LAST|P31|Q137374997
+LAST|P373|"Category:Eni (toki pona)"
+
+CREATE
+LAST|Lmul|"enko"
+LAST|Ltok|"enko"
+LAST|Len|"enko"
+LAST|P31|Q137374997
+LAST|P373|"Category:Enko (toki pona)"
+
+CREATE
+LAST|Lmul|"epikule"
+LAST|Ltok|"epikule"
+LAST|Len|"epikule"
+LAST|P31|Q137374997
+LAST|P373|"Category:Epikule (toki pona)"
+
+CREATE
+LAST|Lmul|"fairfax"
+LAST|Ltok|"fairfax"
+LAST|Len|"fairfax"
+LAST|P31|Q137374997
+LAST|P373|"Category:Fairfax (toki pona)"
+
+CREATE
+LAST|Lmul|"hD"
+LAST|Ltok|"hD"
+LAST|Len|"hD"
+LAST|P31|Q137374997
+LAST|P373|"Category:HD (toki pona)"
+
+CREATE
+LAST|Lmul|"iki"
+LAST|Ltok|"iki"
+LAST|Len|"iki"
+LAST|P31|Q137374997
+LAST|P373|"Category:Iki (toki pona)"
+
+CREATE
+LAST|Lmul|"ilaje"
+LAST|Ltok|"ilaje"
+LAST|Len|"ilaje"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ilaje (toki pona)"
+
+CREATE
+LAST|Lmul|"ilapa"
+LAST|Ltok|"ilapa"
+LAST|Len|"ilapa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ilapa (toki pona)"
+
+CREATE
+LAST|Lmul|"inta"
+LAST|Ltok|"inta"
+LAST|Len|"inta"
+LAST|P31|Q137374997
+LAST|P373|"Category:Inta (toki pona)"
+
+CREATE
+LAST|Lmul|"ipan"
+LAST|Ltok|"ipan"
+LAST|Len|"ipan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ipan (toki pona)"
+
+CREATE
+LAST|Lmul|"ipawi"
+LAST|Ltok|"ipawi"
+LAST|Len|"ipawi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ipawi (toki pona)"
+
+CREATE
+LAST|Lmul|"ipi"
+LAST|Ltok|"ipi"
+LAST|Len|"ipi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ipi (toki pona)"
+
+CREATE
+LAST|Lmul|"iseja"
+LAST|Ltok|"iseja"
+LAST|Len|"iseja"
+LAST|P31|Q137374997
+LAST|P373|"Category:Iseja (toki pona)"
+
+CREATE
+LAST|Lmul|"iseki"
+LAST|Ltok|"iseki"
+LAST|Len|"iseki"
+LAST|P31|Q137374997
+LAST|P373|"Category:Iseki (toki pona)"
+
+CREATE
+LAST|Lmul|"isipin"
+LAST|Ltok|"isipin"
+LAST|Len|"isipin"
+LAST|P31|Q137374997
+LAST|P373|"Category:Isipin (toki pona)"
+
+CREATE
+LAST|Lmul|"itomi"
+LAST|Ltok|"itomi"
+LAST|Len|"itomi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Itomi (toki pona)"
+
+CREATE
+LAST|Lmul|"ja"
+LAST|Ltok|"ja"
+LAST|Len|"ja"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ja (toki pona)"
+
+CREATE
+LAST|Lmul|"jalan"
+LAST|Ltok|"jalan"
+LAST|Len|"jalan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jalan (toki pona)"
+
+CREATE
+LAST|Lmul|"jalepu"
+LAST|Ltok|"jalepu"
+LAST|Len|"jalepu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jalepu (toki pona)"
+
+CREATE
+LAST|Lmul|"jami"
+LAST|Ltok|"jami"
+LAST|Len|"jami"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jami (toki pona)"
+
+CREATE
+LAST|Lmul|"jans"
+LAST|Ltok|"jans"
+LAST|Len|"jans"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jans (toki pona)"
+
+CREATE
+LAST|Lmul|"jasun"
+LAST|Ltok|"jasun"
+LAST|Len|"jasun"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jasun (toki pona)"
+
+CREATE
+LAST|Lmul|"je"
+LAST|Ltok|"je"
+LAST|Len|"je"
+LAST|P31|Q137374997
+LAST|P373|"Category:Je (toki pona)"
+
+CREATE
+LAST|Lmul|"jesi"
+LAST|Ltok|"jesi"
+LAST|Len|"jesi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jesi (toki pona)"
+
+CREATE
+LAST|Lmul|"jew"
+LAST|Ltok|"jew"
+LAST|Len|"jew"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jew (toki pona)"
+
+CREATE
+LAST|Lmul|"jonatan"
+LAST|Ltok|"jonatan"
+LAST|Len|"jonatan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jonatan (toki pona)"
+
+CREATE
+LAST|Lmul|"ju"
+LAST|Ltok|"ju"
+LAST|Len|"ju"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ju (toki pona)"
+
+CREATE
+LAST|Lmul|"jule"
+LAST|Ltok|"jule"
+LAST|Len|"jule"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jule (toki pona)"
+
+CREATE
+LAST|Lmul|"jules"
+LAST|Ltok|"jules"
+LAST|Len|"jules"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jules (toki pona)"
+
+CREATE
+LAST|Lmul|"jume"
+LAST|Ltok|"jume"
+LAST|Len|"jume"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jume (toki pona)"
+
+CREATE
+LAST|Lmul|"juniko"
+LAST|Ltok|"juniko"
+LAST|Len|"juniko"
+LAST|P31|Q137374997
+LAST|P373|"Category:Juniko (toki pona)"
+
+CREATE
+LAST|Lmul|"jusijesuwa"
+LAST|Ltok|"jusijesuwa"
+LAST|Len|"jusijesuwa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jusijesuwa (toki pona)"
+
+CREATE
+LAST|Lmul|"kaken"
+LAST|Ltok|"kaken"
+LAST|Len|"kaken"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kaken (toki pona)"
+
+CREATE
+LAST|Lmul|"kalamARR"
+LAST|Ltok|"kalamARR"
+LAST|Len|"kalamARR"
+LAST|P31|Q137374997
+LAST|P373|"Category:KalamARR (toki pona)"
+
+CREATE
+LAST|Lmul|"kalijopilale"
+LAST|Ltok|"kalijopilale"
+LAST|Len|"kalijopilale"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kalijopilale (toki pona)"
+
+CREATE
+LAST|Lmul|"kalu"
+LAST|Ltok|"kalu"
+LAST|Len|"kalu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kalu (toki pona)"
+
+CREATE
+LAST|Lmul|"kamalawala"
+LAST|Ltok|"kamalawala"
+LAST|Len|"kamalawala"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kamalawala (toki pona)"
+
+CREATE
+LAST|Lmul|"kan"
+LAST|Ltok|"kan"
+LAST|Len|"kan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kan (toki pona)"
+
+CREATE
+LAST|Lmul|"kana"
+LAST|Ltok|"kana"
+LAST|Len|"kana"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kana (toki pona)"
+
+CREATE
+LAST|Lmul|"kani"
+LAST|Ltok|"kani"
+LAST|Len|"kani"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kani (toki pona)"
+
+CREATE
+LAST|Lmul|"kankuli"
+LAST|Ltok|"kankuli"
+LAST|Len|"kankuli"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kankuli (toki pona)"
+
+CREATE
+LAST|Lmul|"kapa"
+LAST|Ltok|"kapa"
+LAST|Len|"kapa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kapa (toki pona)"
+
+CREATE
+LAST|Lmul|"kapesi"
+LAST|Ltok|"kapesi"
+LAST|Len|"kapesi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kapesi (toki pona)"
+
+CREATE
+LAST|Lmul|"kapilu"
+LAST|Ltok|"kapilu"
+LAST|Len|"kapilu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kapilu (toki pona)"
+
+CREATE
+LAST|Lmul|"ke"
+LAST|Ltok|"ke"
+LAST|Len|"ke"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ke (toki pona)"
+
+CREATE
+LAST|Lmul|"kekanSan"
+LAST|Ltok|"kekanSan"
+LAST|Len|"kekanSan"
+LAST|P31|Q137374997
+LAST|P373|"Category:KekanSan (toki pona)"
+
+CREATE
+LAST|Lmul|"kekantesantakalu"
+LAST|Ltok|"kekantesantakalu"
+LAST|Len|"kekantesantakalu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kekantesantakalu (toki pona)"
+
+CREATE
+LAST|Lmul|"keli"
+LAST|Ltok|"keli"
+LAST|Len|"keli"
+LAST|P31|Q137374997
+LAST|P373|"Category:Keli (toki pona)"
+
+CREATE
+LAST|Lmul|"kelo"
+LAST|Ltok|"kelo"
+LAST|Len|"kelo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kelo (toki pona)"
+
+CREATE
+LAST|Lmul|"kemu"
+LAST|Ltok|"kemu"
+LAST|Len|"kemu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kemu (toki pona)"
+
+CREATE
+LAST|Lmul|"kepa"
+LAST|Ltok|"kepa"
+LAST|Len|"kepa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kepa (toki pona)"
+
+CREATE
+LAST|Lmul|"kepen"
+LAST|Ltok|"kepen"
+LAST|Len|"kepen"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kepen (toki pona)"
+
+CREATE
+LAST|Lmul|"kepi"
+LAST|Ltok|"kepi"
+LAST|Len|"kepi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kepi (toki pona)"
+
+CREATE
+LAST|Lmul|"kese"
+LAST|Ltok|"kese"
+LAST|Len|"kese"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kese (toki pona)"
+
+CREATE
+LAST|Lmul|"keTami"
+LAST|Ltok|"keTami"
+LAST|Len|"keTami"
+LAST|P31|Q137374997
+LAST|P373|"Category:KeTami (toki pona)"
+
+CREATE
+LAST|Lmul|"kewe"
+LAST|Ltok|"kewe"
+LAST|Len|"kewe"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kewe (toki pona)"
+
+CREATE
+LAST|Lmul|"ki"
+LAST|Ltok|"ki"
+LAST|Len|"ki"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ki (toki pona)"
+
+CREATE
+LAST|Lmul|"kijan"
+LAST|Ltok|"kijan"
+LAST|Len|"kijan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kijan (toki pona)"
+
+CREATE
+LAST|Lmul|"kije"
+LAST|Ltok|"kije"
+LAST|Len|"kije"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kije (toki pona)"
+
+CREATE
+LAST|Lmul|"kijesankalu"
+LAST|Ltok|"kijesankalu"
+LAST|Len|"kijesankalu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kijesankalu (toki pona)"
+
+CREATE
+LAST|Lmul|"kijete"
+LAST|Ltok|"kijete"
+LAST|Len|"kijete"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kijete (toki pona)"
+
+CREATE
+LAST|Lmul|"kijosin"
+LAST|Ltok|"kijosin"
+LAST|Len|"kijosin"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kijosin (toki pona)"
+
+CREATE
+LAST|Lmul|"kiki"
+LAST|Ltok|"kiki"
+LAST|Len|"kiki"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kiki (toki pona)"
+
+CREATE
+LAST|Lmul|"kikolo"
+LAST|Ltok|"kikolo"
+LAST|Len|"kikolo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kikolo (toki pona)"
+
+CREATE
+LAST|Lmul|"kikulo"
+LAST|Ltok|"kikulo"
+LAST|Len|"kikulo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kikulo (toki pona)"
+
+CREATE
+LAST|Lmul|"kinute"
+LAST|Ltok|"kinute"
+LAST|Len|"kinute"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kinute (toki pona)"
+
+CREATE
+LAST|Lmul|"kita"
+LAST|Ltok|"kita"
+LAST|Len|"kita"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kita (toki pona)"
+
+CREATE
+LAST|Lmul|"kitu"
+LAST|Ltok|"kitu"
+LAST|Len|"kitu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kitu (toki pona)"
+
+CREATE
+LAST|Lmul|"koko"
+LAST|Ltok|"koko"
+LAST|Len|"koko"
+LAST|P31|Q137374997
+LAST|P373|"Category:Koko (toki pona)"
+
+CREATE
+LAST|Lmul|"kolisin"
+LAST|Ltok|"kolisin"
+LAST|Len|"kolisin"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kolisin (toki pona)"
+
+CREATE
+LAST|Lmul|"kolo"
+LAST|Ltok|"kolo"
+LAST|Len|"kolo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kolo (toki pona)"
+
+CREATE
+LAST|Lmul|"koni"
+LAST|Ltok|"koni"
+LAST|Len|"koni"
+LAST|P31|Q137374997
+LAST|P373|"Category:Koni (toki pona)"
+
+CREATE
+LAST|Lmul|"konsi"
+LAST|Ltok|"konsi"
+LAST|Len|"konsi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Konsi (toki pona)"
+
+CREATE
+LAST|Lmul|"konwe"
+LAST|Ltok|"konwe"
+LAST|Len|"konwe"
+LAST|P31|Q137374997
+LAST|P373|"Category:Konwe (toki pona)"
+
+CREATE
+LAST|Lmul|"kosan"
+LAST|Ltok|"kosan"
+LAST|Len|"kosan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kosan (toki pona)"
+
+CREATE
+LAST|Lmul|"kosikosa"
+LAST|Ltok|"kosikosa"
+LAST|Len|"kosikosa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kosikosa (toki pona)"
+
+CREATE
+LAST|Lmul|"kulepiku"
+LAST|Ltok|"kulepiku"
+LAST|Len|"kulepiku"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kulepiku (toki pona)"
+
+CREATE
+LAST|Lmul|"kulijo"
+LAST|Ltok|"kulijo"
+LAST|Len|"kulijo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kulijo (toki pona)"
+
+CREATE
+LAST|Lmul|"kulu"
+LAST|Ltok|"kulu"
+LAST|Len|"kulu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kulu (toki pona)"
+
+CREATE
+LAST|Lmul|"kuntu"
+LAST|Ltok|"kuntu"
+LAST|Len|"kuntu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kuntu (toki pona)"
+
+CREATE
+LAST|Lmul|"lan"
+LAST|Ltok|"lan"
+LAST|Len|"lan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lan (toki pona)"
+
+CREATE
+LAST|Lmul|"lansan"
+LAST|Ltok|"lansan"
+LAST|Len|"lansan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lansan (toki pona)"
+
+CREATE
+LAST|Lmul|"lato"
+LAST|Ltok|"lato"
+LAST|Len|"lato"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lato (toki pona)"
+
+CREATE
+LAST|Lmul|"lenlen"
+LAST|Ltok|"lenlen"
+LAST|Len|"lenlen"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lenlen (toki pona)"
+
+CREATE
+LAST|Lmul|"lepeka"
+LAST|Ltok|"lepeka"
+LAST|Len|"lepeka"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lepeka (toki pona)"
+
+CREATE
+LAST|Lmul|"lijokuku"
+LAST|Ltok|"lijokuku"
+LAST|Len|"lijokuku"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lijokuku (toki pona)"
+
+CREATE
+LAST|Lmul|"likujo"
+LAST|Ltok|"likujo"
+LAST|Len|"likujo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Likujo (toki pona)"
+
+CREATE
+LAST|Lmul|"linku"
+LAST|Ltok|"linku"
+LAST|Len|"linku"
+LAST|P31|Q137374997
+LAST|P373|"Category:Linku (toki pona)"
+
+CREATE
+LAST|Lmul|"linuwi"
+LAST|Ltok|"linuwi"
+LAST|Len|"linuwi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Linuwi (toki pona)"
+
+CREATE
+LAST|Lmul|"lipamanka"
+LAST|Ltok|"lipamanka"
+LAST|Len|"lipamanka"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lipamanka (toki pona)"
+
+CREATE
+LAST|Lmul|"lisana"
+LAST|Ltok|"lisana"
+LAST|Len|"lisana"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lisana (toki pona)"
+
+CREATE
+LAST|Lmul|"lo"
+LAST|Ltok|"lo"
+LAST|Len|"lo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lo (toki pona)"
+
+CREATE
+LAST|Lmul|"loka"
+LAST|Ltok|"loka"
+LAST|Len|"loka"
+LAST|P31|Q137374997
+LAST|P373|"Category:Loka (toki pona)"
+
+CREATE
+LAST|Lmul|"lokon"
+LAST|Ltok|"lokon"
+LAST|Len|"lokon"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lokon (toki pona)"
+
+CREATE
+LAST|Lmul|"lokoso"
+LAST|Ltok|"lokoso"
+LAST|Len|"lokoso"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lokoso (toki pona)"
+
+CREATE
+LAST|Lmul|"losupan"
+LAST|Ltok|"losupan"
+LAST|Len|"losupan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Losupan (toki pona)"
+
+CREATE
+LAST|Lmul|"lu"
+LAST|Ltok|"lu"
+LAST|Len|"lu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lu (toki pona)"
+
+CREATE
+LAST|Lmul|"luke"
+LAST|Ltok|"luke"
+LAST|Len|"luke"
+LAST|P31|Q137374997
+LAST|P373|"Category:Luke (toki pona)"
+
+CREATE
+LAST|Lmul|"luna"
+LAST|Ltok|"luna"
+LAST|Len|"luna"
+LAST|P31|Q137374997
+LAST|P373|"Category:Luna (toki pona)"
+
+CREATE
+LAST|Lmul|"majeka"
+LAST|Ltok|"majeka"
+LAST|Len|"majeka"
+LAST|P31|Q137374997
+LAST|P373|"Category:Majeka (toki pona)"
+
+CREATE
+LAST|Lmul|"maki"
+LAST|Ltok|"maki"
+LAST|Len|"maki"
+LAST|P31|Q137374997
+LAST|P373|"Category:Maki (toki pona)"
+
+CREATE
+LAST|Lmul|"mako"
+LAST|Ltok|"mako"
+LAST|Len|"mako"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mako (toki pona)"
+
+CREATE
+LAST|Lmul|"mamasi"
+LAST|Ltok|"mamasi"
+LAST|Len|"mamasi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mamasi (toki pona)"
+
+CREATE
+LAST|Lmul|"mamasina"
+LAST|Ltok|"mamasina"
+LAST|Len|"mamasina"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mamasina (toki pona)"
+
+CREATE
+LAST|Lmul|"manka"
+LAST|Ltok|"manka"
+LAST|Len|"manka"
+LAST|P31|Q137374997
+LAST|P373|"Category:Manka (toki pona)"
+
+CREATE
+LAST|Lmul|"masalo"
+LAST|Ltok|"masalo"
+LAST|Len|"masalo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Masalo (toki pona)"
+
+CREATE
+LAST|Lmul|"masenta"
+LAST|Ltok|"masenta"
+LAST|Len|"masenta"
+LAST|P31|Q137374997
+LAST|P373|"Category:Masenta (toki pona)"
+
+CREATE
+LAST|Lmul|"masu"
+LAST|Ltok|"masu"
+LAST|Len|"masu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Masu (toki pona)"
+
+CREATE
+LAST|Lmul|"matula"
+LAST|Ltok|"matula"
+LAST|Len|"matula"
+LAST|P31|Q137374997
+LAST|P373|"Category:Matula (toki pona)"
+
+CREATE
+LAST|Lmul|"me"
+LAST|Ltok|"me"
+LAST|Len|"me"
+LAST|P31|Q137374997
+LAST|P373|"Category:Me (toki pona)"
+
+CREATE
+LAST|Lmul|"medium"
+LAST|Ltok|"medium"
+LAST|Len|"medium"
+LAST|P31|Q137374997
+LAST|P373|"Category:Medium (toki pona)"
+
+CREATE
+LAST|Lmul|"mekuwi"
+LAST|Ltok|"mekuwi"
+LAST|Len|"mekuwi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mekuwi (toki pona)"
+
+CREATE
+LAST|Lmul|"melinjakulekule"
+LAST|Ltok|"melinjakulekule"
+LAST|Len|"melinjakulekule"
+LAST|P31|Q137374997
+LAST|P373|"Category:Melinjakulekule (toki pona)"
+
+CREATE
+LAST|Lmul|"mijomi"
+LAST|Ltok|"mijomi"
+LAST|Len|"mijomi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mijomi (toki pona)"
+
+CREATE
+LAST|Lmul|"miko"
+LAST|Ltok|"miko"
+LAST|Len|"miko"
+LAST|P31|Q137374997
+LAST|P373|"Category:Miko (toki pona)"
+
+CREATE
+LAST|Lmul|"mila"
+LAST|Ltok|"mila"
+LAST|Len|"mila"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mila (toki pona)"
+
+CREATE
+LAST|Lmul|"mimuki"
+LAST|Ltok|"mimuki"
+LAST|Len|"mimuki"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mimuki (toki pona)"
+
+CREATE
+LAST|Lmul|"misa"
+LAST|Ltok|"misa"
+LAST|Len|"misa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Misa (toki pona)"
+
+CREATE
+LAST|Lmul|"molusa"
+LAST|Ltok|"molusa"
+LAST|Len|"molusa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Molusa (toki pona)"
+
+CREATE
+LAST|Lmul|"mono"
+LAST|Ltok|"mono"
+LAST|Len|"mono"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mono (toki pona)"
+
+CREATE
+LAST|Lmul|"motan"
+LAST|Ltok|"motan"
+LAST|Len|"motan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Motan (toki pona)"
+
+CREATE
+LAST|Lmul|"nalanja"
+LAST|Ltok|"nalanja"
+LAST|Len|"nalanja"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nalanja (toki pona)"
+
+CREATE
+LAST|Lmul|"nalasuni"
+LAST|Ltok|"nalasuni"
+LAST|Len|"nalasuni"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nalasuni (toki pona)"
+
+CREATE
+LAST|Lmul|"nan"
+LAST|Ltok|"nan"
+LAST|Len|"nan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nan (toki pona)"
+
+CREATE
+LAST|Lmul|"nano"
+LAST|Ltok|"nano"
+LAST|Len|"nano"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nano (toki pona)"
+
+CREATE
+LAST|Lmul|"nasulin"
+LAST|Ltok|"nasulin"
+LAST|Len|"nasulin"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nasulin (toki pona)"
+
+CREATE
+LAST|Lmul|"nata"
+LAST|Ltok|"nata"
+LAST|Len|"nata"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nata (toki pona)"
+
+CREATE
+LAST|Lmul|"natu"
+LAST|Ltok|"natu"
+LAST|Len|"natu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Natu (toki pona)"
+
+CREATE
+LAST|Lmul|"neja"
+LAST|Ltok|"neja"
+LAST|Len|"neja"
+LAST|P31|Q137374997
+LAST|P373|"Category:Neja (toki pona)"
+
+CREATE
+LAST|Lmul|"nele"
+LAST|Ltok|"nele"
+LAST|Len|"nele"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nele (toki pona)"
+
+CREATE
+LAST|Lmul|"niko"
+LAST|Ltok|"niko"
+LAST|Len|"niko"
+LAST|P31|Q137374997
+LAST|P373|"Category:Niko (toki pona)"
+
+CREATE
+LAST|Lmul|"nili"
+LAST|Ltok|"nili"
+LAST|Len|"nili"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nili (toki pona)"
+
+CREATE
+LAST|Lmul|"nito"
+LAST|Ltok|"nito"
+LAST|Len|"nito"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nito (toki pona)"
+
+CREATE
+LAST|Lmul|"nlsn"
+LAST|Ltok|"nlsn"
+LAST|Len|"nlsn"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nlsn (toki pona)"
+
+CREATE
+LAST|Lmul|"nowi"
+LAST|Ltok|"nowi"
+LAST|Len|"nowi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nowi (toki pona)"
+
+CREATE
+LAST|Lmul|"nu"
+LAST|Ltok|"nu"
+LAST|Len|"nu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nu (toki pona)"
+
+CREATE
+LAST|Lmul|"nusun"
+LAST|Ltok|"nusun"
+LAST|Len|"nusun"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nusun (toki pona)"
+
+CREATE
+LAST|Lmul|"nutan"
+LAST|Ltok|"nutan"
+LAST|Len|"nutan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nutan (toki pona)"
+
+CREATE
+LAST|Lmul|"nuwa"
+LAST|Ltok|"nuwa"
+LAST|Len|"nuwa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nuwa (toki pona)"
+
+CREATE
+LAST|Lmul|"ojuta"
+LAST|Ltok|"ojuta"
+LAST|Len|"ojuta"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ojuta (toki pona)"
+
+CREATE
+LAST|Lmul|"oke"
+LAST|Ltok|"oke"
+LAST|Len|"oke"
+LAST|P31|Q137374997
+LAST|P373|"Category:Oke (toki pona)"
+
+CREATE
+LAST|Lmul|"okepuma"
+LAST|Ltok|"okepuma"
+LAST|Len|"okepuma"
+LAST|P31|Q137374997
+LAST|P373|"Category:Okepuma (toki pona)"
+
+CREATE
+LAST|Lmul|"oki"
+LAST|Ltok|"oki"
+LAST|Len|"oki"
+LAST|P31|Q137374997
+LAST|P373|"Category:Oki (toki pona)"
+
+CREATE
+LAST|Lmul|"olala"
+LAST|Ltok|"olala"
+LAST|Len|"olala"
+LAST|P31|Q137374997
+LAST|P373|"Category:Olala (toki pona)"
+
+CREATE
+LAST|Lmul|"omekalike"
+LAST|Ltok|"omekalike"
+LAST|Len|"omekalike"
+LAST|P31|Q137374997
+LAST|P373|"Category:Omekalike (toki pona)"
+
+CREATE
+LAST|Lmul|"omekapo"
+LAST|Ltok|"omekapo"
+LAST|Len|"omekapo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Omekapo (toki pona)"
+
+CREATE
+LAST|Lmul|"omen"
+LAST|Ltok|"omen"
+LAST|Len|"omen"
+LAST|P31|Q137374997
+LAST|P373|"Category:Omen (toki pona)"
+
+CREATE
+LAST|Lmul|"oni"
+LAST|Ltok|"oni"
+LAST|Len|"oni"
+LAST|P31|Q137374997
+LAST|P373|"Category:Oni (toki pona)"
+
+CREATE
+LAST|Lmul|"onono"
+LAST|Ltok|"onono"
+LAST|Len|"onono"
+LAST|P31|Q137374997
+LAST|P373|"Category:Onono (toki pona)"
+
+CREATE
+LAST|Lmul|"opa"
+LAST|Ltok|"opa"
+LAST|Len|"opa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Opa (toki pona)"
+
+CREATE
+LAST|Lmul|"opasan"
+LAST|Ltok|"opasan"
+LAST|Len|"opasan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Opasan (toki pona)"
+
+CREATE
+LAST|Lmul|"owe"
+LAST|Ltok|"owe"
+LAST|Len|"owe"
+LAST|P31|Q137374997
+LAST|P373|"Category:Owe (toki pona)"
+
+CREATE
+LAST|Lmul|"pa"
+LAST|Ltok|"pa"
+LAST|Len|"pa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pa (toki pona)"
+
+CREATE
+LAST|Lmul|"paka"
+LAST|Ltok|"paka"
+LAST|Len|"paka"
+LAST|P31|Q137374997
+LAST|P373|"Category:Paka (toki pona)"
+
+CREATE
+LAST|Lmul|"pakola"
+LAST|Ltok|"pakola"
+LAST|Len|"pakola"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pakola (toki pona)"
+
+CREATE
+LAST|Lmul|"palensi"
+LAST|Ltok|"palensi"
+LAST|Len|"palensi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Palensi (toki pona)"
+
+CREATE
+LAST|Lmul|"pami"
+LAST|Ltok|"pami"
+LAST|Len|"pami"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pami (toki pona)"
+
+CREATE
+LAST|Lmul|"panke"
+LAST|Ltok|"panke"
+LAST|Len|"panke"
+LAST|P31|Q137374997
+LAST|P373|"Category:Panke (toki pona)"
+
+CREATE
+LAST|Lmul|"panpan"
+LAST|Ltok|"panpan"
+LAST|Len|"panpan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Panpan (toki pona)"
+
+CREATE
+LAST|Lmul|"pasila"
+LAST|Ltok|"pasila"
+LAST|Len|"pasila"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pasila (toki pona)"
+
+CREATE
+LAST|Lmul|"pe"
+LAST|Ltok|"pe"
+LAST|Len|"pe"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pe (toki pona)"
+
+CREATE
+LAST|Lmul|"penpo"
+LAST|Ltok|"penpo"
+LAST|Len|"penpo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Penpo (toki pona)"
+
+CREATE
+LAST|Lmul|"pensa"
+LAST|Ltok|"pensa"
+LAST|Len|"pensa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pensa (toki pona)"
+
+CREATE
+LAST|Lmul|"peto"
+LAST|Ltok|"peto"
+LAST|Len|"peto"
+LAST|P31|Q137374997
+LAST|P373|"Category:Peto (toki pona)"
+
+CREATE
+LAST|Lmul|"pika"
+LAST|Ltok|"pika"
+LAST|Len|"pika"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pika (toki pona)"
+
+CREATE
+LAST|Lmul|"pingo"
+LAST|Ltok|"pingo"
+LAST|Len|"pingo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pingo (toki pona)"
+
+CREATE
+LAST|Lmul|"pipo"
+LAST|Ltok|"pipo"
+LAST|Len|"pipo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pipo (toki pona)"
+
+CREATE
+LAST|Lmul|"pipolo"
+LAST|Ltok|"pipolo"
+LAST|Len|"pipolo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pipolo (toki pona)"
+
+CREATE
+LAST|Lmul|"polinpin"
+LAST|Ltok|"polinpin"
+LAST|Len|"polinpin"
+LAST|P31|Q137374997
+LAST|P373|"Category:Polinpin (toki pona)"
+
+CREATE
+LAST|Lmul|"poman"
+LAST|Ltok|"poman"
+LAST|Len|"poman"
+LAST|P31|Q137374997
+LAST|P373|"Category:Poman (toki pona)"
+
+CREATE
+LAST|Lmul|"pomotolo"
+LAST|Ltok|"pomotolo"
+LAST|Len|"pomotolo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pomotolo (toki pona)"
+
+CREATE
+LAST|Lmul|"poni"
+LAST|Ltok|"poni"
+LAST|Len|"poni"
+LAST|P31|Q137374997
+LAST|P373|"Category:Poni (toki pona)"
+
+CREATE
+LAST|Lmul|"pula"
+LAST|Ltok|"pula"
+LAST|Len|"pula"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pula (toki pona)"
+
+CREATE
+LAST|Lmul|"pulaso"
+LAST|Ltok|"pulaso"
+LAST|Len|"pulaso"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pulaso (toki pona)"
+
+CREATE
+LAST|Lmul|"puwa"
+LAST|Ltok|"puwa"
+LAST|Len|"puwa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Puwa (toki pona)"
+
+CREATE
+LAST|Lmul|"saja"
+LAST|Ltok|"saja"
+LAST|Len|"saja"
+LAST|P31|Q137374997
+LAST|P373|"Category:Saja (toki pona)"
+
+CREATE
+LAST|Lmul|"salantapotalusa"
+LAST|Ltok|"salantapotalusa"
+LAST|Len|"salantapotalusa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Salantapotalusa (toki pona)"
+
+CREATE
+LAST|Lmul|"samin"
+LAST|Ltok|"samin"
+LAST|Len|"samin"
+LAST|P31|Q137374997
+LAST|P373|"Category:Samin (toki pona)"
+
+CREATE
+LAST|Lmul|"samu"
+LAST|Ltok|"samu"
+LAST|Len|"samu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Samu (toki pona)"
+
+CREATE
+LAST|Lmul|"santa"
+LAST|Ltok|"santa"
+LAST|Len|"santa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Santa (toki pona)"
+
+CREATE
+LAST|Lmul|"sapelipope"
+LAST|Ltok|"sapelipope"
+LAST|Len|"sapelipope"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sapelipope (toki pona)"
+
+CREATE
+LAST|Lmul|"satun"
+LAST|Ltok|"satun"
+LAST|Len|"satun"
+LAST|P31|Q137374997
+LAST|P373|"Category:Satun (toki pona)"
+
+CREATE
+LAST|Lmul|"seka"
+LAST|Ltok|"seka"
+LAST|Len|"seka"
+LAST|P31|Q137374997
+LAST|P373|"Category:Seka (toki pona)"
+
+CREATE
+LAST|Lmul|"seki"
+LAST|Ltok|"seki"
+LAST|Len|"seki"
+LAST|P31|Q137374997
+LAST|P373|"Category:Seki (toki pona)"
+
+CREATE
+LAST|Lmul|"siiilapa"
+LAST|Ltok|"siiilapa"
+LAST|Len|"siiilapa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Siiilapa (toki pona)"
+
+CREATE
+LAST|Lmul|"siilapa"
+LAST|Ltok|"siilapa"
+LAST|Len|"siilapa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Siilapa (toki pona)"
+
+CREATE
+LAST|Lmul|"sijala"
+LAST|Ltok|"sijala"
+LAST|Len|"sijala"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sijala (toki pona)"
+
+CREATE
+LAST|Lmul|"sijesuwa"
+LAST|Ltok|"sijesuwa"
+LAST|Len|"sijesuwa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sijesuwa (toki pona)"
+
+CREATE
+LAST|Lmul|"sikako"
+LAST|Ltok|"sikako"
+LAST|Len|"sikako"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sikako (toki pona)"
+
+CREATE
+LAST|Lmul|"sikomo"
+LAST|Ltok|"sikomo"
+LAST|Len|"sikomo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sikomo (toki pona)"
+
+CREATE
+LAST|Lmul|"silani"
+LAST|Ltok|"silani"
+LAST|Len|"silani"
+LAST|P31|Q137374997
+LAST|P373|"Category:Silani (toki pona)"
+
+CREATE
+LAST|Lmul|"silapa"
+LAST|Ltok|"silapa"
+LAST|Len|"silapa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Silapa (toki pona)"
+
+CREATE
+LAST|Lmul|"sipi"
+LAST|Ltok|"sipi"
+LAST|Len|"sipi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sipi (toki pona)"
+
+CREATE
+LAST|Lmul|"sipije"
+LAST|Ltok|"sipije"
+LAST|Len|"sipije"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sipije (toki pona)"
+
+CREATE
+LAST|Lmul|"sisa"
+LAST|Ltok|"sisa"
+LAST|Len|"sisa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sisa (toki pona)"
+
+CREATE
+LAST|Lmul|"sisi"
+LAST|Ltok|"sisi"
+LAST|Len|"sisi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sisi (toki pona)"
+
+CREATE
+LAST|Lmul|"siwala"
+LAST|Ltok|"siwala"
+LAST|Len|"siwala"
+LAST|P31|Q137374997
+LAST|P373|"Category:Siwala (toki pona)"
+
+CREATE
+LAST|Lmul|"siwan"
+LAST|Ltok|"siwan"
+LAST|Len|"siwan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Siwan (toki pona)"
+
+CREATE
+LAST|Lmul|"slape"
+LAST|Ltok|"slape"
+LAST|Len|"slape"
+LAST|P31|Q137374997
+LAST|P373|"Category:Slape (toki pona)"
+
+CREATE
+LAST|Lmul|"snoweli"
+LAST|Ltok|"snoweli"
+LAST|Len|"snoweli"
+LAST|P31|Q137374997
+LAST|P373|"Category:Snoweli (toki pona)"
+
+CREATE
+LAST|Lmul|"sokeli"
+LAST|Ltok|"sokeli"
+LAST|Len|"sokeli"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sokeli (toki pona)"
+
+CREATE
+LAST|Lmul|"soni"
+LAST|Ltok|"soni"
+LAST|Len|"soni"
+LAST|P31|Q137374997
+LAST|P373|"Category:Soni (toki pona)"
+
+CREATE
+LAST|Lmul|"sowoli"
+LAST|Ltok|"sowoli"
+LAST|Len|"sowoli"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sowoli (toki pona)"
+
+CREATE
+LAST|Lmul|"stella"
+LAST|Ltok|"stella"
+LAST|Len|"stella"
+LAST|P31|Q137374997
+LAST|P373|"Category:Stella (toki pona)"
+
+CREATE
+LAST|Lmul|"suke"
+LAST|Ltok|"suke"
+LAST|Len|"suke"
+LAST|P31|Q137374997
+LAST|P373|"Category:Suke (toki pona)"
+
+CREATE
+LAST|Lmul|"sulaso"
+LAST|Ltok|"sulaso"
+LAST|Len|"sulaso"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sulaso (toki pona)"
+
+CREATE
+LAST|Lmul|"sunta"
+LAST|Ltok|"sunta"
+LAST|Len|"sunta"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sunta (toki pona)"
+
+CREATE
+LAST|Lmul|"ta"
+LAST|Ltok|"ta"
+LAST|Len|"ta"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ta (toki pona)"
+
+CREATE
+LAST|Lmul|"taki"
+LAST|Ltok|"taki"
+LAST|Len|"taki"
+LAST|P31|Q137374997
+LAST|P373|"Category:Taki (toki pona)"
+
+CREATE
+LAST|Lmul|"tasun"
+LAST|Ltok|"tasun"
+LAST|Len|"tasun"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tasun (toki pona)"
+
+CREATE
+LAST|Lmul|"tawake"
+LAST|Ltok|"tawake"
+LAST|Len|"tawake"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tawake (toki pona)"
+
+CREATE
+LAST|Lmul|"te"
+LAST|Ltok|"te"
+LAST|Len|"te"
+LAST|P31|Q137374997
+LAST|P373|"Category:Te (toki pona)"
+
+CREATE
+LAST|Lmul|"teken"
+LAST|Ltok|"teken"
+LAST|Len|"teken"
+LAST|P31|Q137374997
+LAST|P373|"Category:Teken (toki pona)"
+
+CREATE
+LAST|Lmul|"temi"
+LAST|Ltok|"temi"
+LAST|Len|"temi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Temi (toki pona)"
+
+CREATE
+LAST|Lmul|"ten"
+LAST|Ltok|"ten"
+LAST|Len|"ten"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ten (toki pona)"
+
+CREATE
+LAST|Lmul|"tenpi"
+LAST|Ltok|"tenpi"
+LAST|Len|"tenpi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tenpi (toki pona)"
+
+CREATE
+LAST|Lmul|"tensi"
+LAST|Ltok|"tensi"
+LAST|Len|"tensi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tensi (toki pona)"
+
+CREATE
+LAST|Lmul|"to"
+LAST|Ltok|"to"
+LAST|Len|"to"
+LAST|P31|Q137374997
+LAST|P373|"Category:To (toki pona)"
+
+CREATE
+LAST|Lmul|"tokana"
+LAST|Ltok|"tokana"
+LAST|Len|"tokana"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tokana (toki pona)"
+
+CREATE
+LAST|Lmul|"token"
+LAST|Ltok|"token"
+LAST|Len|"token"
+LAST|P31|Q137374997
+LAST|P373|"Category:Token (toki pona)"
+
+CREATE
+LAST|Lmul|"toma"
+LAST|Ltok|"toma"
+LAST|Len|"toma"
+LAST|P31|Q137374997
+LAST|P373|"Category:Toma (toki pona)"
+
+CREATE
+LAST|Lmul|"tona"
+LAST|Ltok|"tona"
+LAST|Len|"tona"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tona (toki pona)"
+
+CREATE
+LAST|Lmul|"tonpite"
+LAST|Ltok|"tonpite"
+LAST|Len|"tonpite"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tonpite (toki pona)"
+
+CREATE
+LAST|Lmul|"tonyu"
+LAST|Ltok|"tonyu"
+LAST|Len|"tonyu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tonyu (toki pona)"
+
+CREATE
+LAST|Lmul|"topo"
+LAST|Ltok|"topo"
+LAST|Len|"topo"
+LAST|P31|Q137374997
+LAST|P373|"Category:Topo (toki pona)"
+
+CREATE
+LAST|Lmul|"towan"
+LAST|Ltok|"towan"
+LAST|Len|"towan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Towan (toki pona)"
+
+CREATE
+LAST|Lmul|"tuwa"
+LAST|Ltok|"tuwa"
+LAST|Len|"tuwa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tuwa (toki pona)"
+
+CREATE
+LAST|Lmul|"uka"
+LAST|Ltok|"uka"
+LAST|Len|"uka"
+LAST|P31|Q137374997
+LAST|P373|"Category:Uka (toki pona)"
+
+CREATE
+LAST|Lmul|"umesu"
+LAST|Ltok|"umesu"
+LAST|Len|"umesu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Umesu (toki pona)"
+
+CREATE
+LAST|Lmul|"unikijetesantakalu"
+LAST|Ltok|"unikijetesantakalu"
+LAST|Len|"unikijetesantakalu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Unikijetesantakalu (toki pona)"
+
+CREATE
+LAST|Lmul|"unu"
+LAST|Ltok|"unu"
+LAST|Len|"unu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Unu (toki pona)"
+
+CREATE
+LAST|Lmul|"usawi"
+LAST|Ltok|"usawi"
+LAST|Len|"usawi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Usawi (toki pona)"
+
+CREATE
+LAST|Lmul|"vivi"
+LAST|Ltok|"vivi"
+LAST|Len|"vivi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Vivi (toki pona)"
+
+CREATE
+LAST|Lmul|"votgil"
+LAST|Ltok|"votgil"
+LAST|Len|"votgil"
+LAST|P31|Q137374997
+LAST|P373|"Category:Votgil (toki pona)"
+
+CREATE
+LAST|Lmul|"vriska"
+LAST|Ltok|"vriska"
+LAST|Len|"vriska"
+LAST|P31|Q137374997
+LAST|P373|"Category:Vriska (toki pona)"
+
+CREATE
+LAST|Lmul|"wa"
+LAST|Ltok|"wa"
+LAST|Len|"wa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wa (toki pona)"
+
+CREATE
+LAST|Lmul|"waje"
+LAST|Ltok|"waje"
+LAST|Len|"waje"
+LAST|P31|Q137374997
+LAST|P373|"Category:Waje (toki pona)"
+
+CREATE
+LAST|Lmul|"wakalito"
+LAST|Ltok|"wakalito"
+LAST|Len|"wakalito"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wakalito (toki pona)"
+
+CREATE
+LAST|Lmul|"waken"
+LAST|Ltok|"waken"
+LAST|Len|"waken"
+LAST|P31|Q137374997
+LAST|P373|"Category:Waken (toki pona)"
+
+CREATE
+LAST|Lmul|"waleja"
+LAST|Ltok|"waleja"
+LAST|Len|"waleja"
+LAST|P31|Q137374997
+LAST|P373|"Category:Waleja (toki pona)"
+
+CREATE
+LAST|Lmul|"wasoweli"
+LAST|Ltok|"wasoweli"
+LAST|Len|"wasoweli"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wasoweli (toki pona)"
+
+CREATE
+LAST|Lmul|"wawajete"
+LAST|Ltok|"wawajete"
+LAST|Len|"wawajete"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wawajete (toki pona)"
+
+CREATE
+LAST|Lmul|"we"
+LAST|Ltok|"we"
+LAST|Len|"we"
+LAST|P31|Q137374997
+LAST|P373|"Category:We (toki pona)"
+
+CREATE
+LAST|Lmul|"wekama"
+LAST|Ltok|"wekama"
+LAST|Len|"wekama"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wekama (toki pona)"
+
+CREATE
+LAST|Lmul|"weko"
+LAST|Ltok|"weko"
+LAST|Len|"weko"
+LAST|P31|Q137374997
+LAST|P373|"Category:Weko (toki pona)"
+
+CREATE
+LAST|Lmul|"wen"
+LAST|Ltok|"wen"
+LAST|Len|"wen"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wen (toki pona)"
+
+CREATE
+LAST|Lmul|"wi"
+LAST|Ltok|"wi"
+LAST|Len|"wi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wi (toki pona)"
+
+CREATE
+LAST|Lmul|"wiju"
+LAST|Ltok|"wiju"
+LAST|Len|"wiju"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wiju (toki pona)"
+
+CREATE
+LAST|Lmul|"wiki"
+LAST|Ltok|"wiki"
+LAST|Len|"wiki"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wiki (toki pona)"
+
+CREATE
+LAST|Lmul|"wikipesija"
+LAST|Ltok|"wikipesija"
+LAST|Len|"wikipesija"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wikipesija (toki pona)"
+
+CREATE
+LAST|Lmul|"wiwi"
+LAST|Ltok|"wiwi"
+LAST|Len|"wiwi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wiwi (toki pona)"
+
+CREATE
+LAST|Lmul|"wowujiti"
+LAST|Ltok|"wowujiti"
+LAST|Len|"wowujiti"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wowujiti (toki pona)"
+
+CREATE
+LAST|Lmul|"wuwojiti"
+LAST|Ltok|"wuwojiti"
+LAST|Len|"wuwojiti"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wuwojiti (toki pona)"
+
+CREATE
+LAST|Lmul|"yupekosi"
+LAST|Ltok|"yupekosi"
+LAST|Len|"yupekosi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Yupekosi (toki pona)"
+
+CREATE
+LAST|Lmul|"yutu"
+LAST|Ltok|"yutu"
+LAST|Len|"yutu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Yutu (toki pona)"
+
