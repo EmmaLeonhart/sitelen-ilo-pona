@@ -1,0 +1,653 @@
+P18 (image) QuickStatements for newly created Wikidata items
+================================================================================
+
+Total items: 646
+
+QID             Word                           SVG Filename                            
+--------------------------------------------------------------------------------
+Q137763252      akesi kon                      Sitelen-seli-kiwen-akesi-kon.svg        
+Q137763253      ijo akesi                      Sitelen-seli-kiwen-ijo-akesi.svg        
+Q137763254      ijo ala                        Sitelen-seli-kiwen-ijo-ala.svg          
+Q137763255      ijo alasa                      Sitelen-seli-kiwen-ijo-alasa.svg        
+Q137763256      ijo ale                        Sitelen-seli-kiwen-ijo-ale.svg          
+Q137763257      ijo ali                        Sitelen-seli-kiwen-ijo-ali.svg          
+Q137763258      ijo anpa                       Sitelen-seli-kiwen-ijo-anpa.svg         
+Q137763259      ijo ante                       Sitelen-seli-kiwen-ijo-ante.svg         
+Q137763260      ijo anu                        Sitelen-seli-kiwen-ijo-anu.svg          
+Q137763261      ijo apeja                      Sitelen-seli-kiwen-ijo-apeja.svg        
+Q137763262      ijo awen                       Sitelen-seli-kiwen-ijo-awen.svg         
+Q137763263      ijo en                         Sitelen-seli-kiwen-ijo-en.svg           
+Q137763264      ijo esun                       Sitelen-seli-kiwen-ijo-esun.svg         
+Q137763265      ijo ike                        Sitelen-seli-kiwen-ijo-ike.svg          
+Q137763266      ijo ilo                        Sitelen-seli-kiwen-ijo-ilo.svg          
+Q137763267      ijo insa                       Sitelen-seli-kiwen-ijo-insa.svg         
+Q137763268      ijo jaki                       Sitelen-seli-kiwen-ijo-jaki.svg         
+Q137763269      ijo jan                        Sitelen-seli-kiwen-ijo-jan.svg          
+Q137763270      ijo jelo                       Sitelen-seli-kiwen-ijo-jelo.svg         
+Q137763271      ijo jo                         Sitelen-seli-kiwen-ijo-jo.svg           
+Q137763273      ijo kala                       Sitelen-seli-kiwen-ijo-kala.svg         
+Q137763274      ijo kalama                     Sitelen-seli-kiwen-ijo-kalama.svg       
+Q137763275      ijo kama                       Sitelen-seli-kiwen-ijo-kama.svg         
+Q137763276      ijo kasi                       Sitelen-seli-kiwen-ijo-kasi.svg         
+Q137763277      ijo ken                        Sitelen-seli-kiwen-ijo-ken.svg          
+Q137763279      ijo kepeken                    Sitelen-seli-kiwen-ijo-kepeken.svg      
+Q137763280      ijo kepen                      Sitelen-seli-kiwen-ijo-kepen.svg        
+Q137763281      ijo kijetesantakalu            Sitelen-seli-kiwen-ijo-kijetesantakalu.svg
+Q137763283      ijo kili                       Sitelen-seli-kiwen-ijo-kili.svg         
+Q137763284      ijo kin                        Sitelen-seli-kiwen-ijo-kin.svg          
+Q137763285      ijo kipisi                     Sitelen-seli-kiwen-ijo-kipisi.svg       
+Q137763286      ijo kiwen                      Sitelen-seli-kiwen-ijo-kiwen.svg        
+Q137763287      ijo ko                         Sitelen-seli-kiwen-ijo-ko.svg           
+Q137763288      ijo kon                        Sitelen-seli-kiwen-ijo-kon.svg          
+Q137763289      ijo kule                       Sitelen-seli-kiwen-ijo-kule.svg         
+Q137763291      ijo kulupu                     Sitelen-seli-kiwen-ijo-kulupu.svg       
+Q137763292      ijo kute                       Sitelen-seli-kiwen-ijo-kute.svg         
+Q137763293      ijo lape                       Sitelen-seli-kiwen-ijo-lape.svg         
+Q137763294      ijo laso                       Sitelen-seli-kiwen-ijo-laso.svg         
+Q137763295      ijo len                        Sitelen-seli-kiwen-ijo-len.svg          
+Q137763296      ijo lete                       Sitelen-seli-kiwen-ijo-lete.svg         
+Q137763298      ijo linja                      Sitelen-seli-kiwen-ijo-linja.svg        
+Q137763299      ijo lipu                       Sitelen-seli-kiwen-ijo-lipu.svg         
+Q137763301      ijo loje                       Sitelen-seli-kiwen-ijo-loje.svg         
+Q137763302      ijo luka                       Sitelen-seli-kiwen-ijo-luka.svg         
+Q137763303      ijo lukin                      Sitelen-seli-kiwen-ijo-lukin.svg        
+Q137763304      ijo lupa                       Sitelen-seli-kiwen-ijo-lupa.svg         
+Q137763305      ijo ma                         Sitelen-seli-kiwen-ijo-ma.svg           
+Q137763307      ijo mama                       Sitelen-seli-kiwen-ijo-mama.svg         
+Q137763308      ijo mani                       Sitelen-seli-kiwen-ijo-mani.svg         
+Q137763310      ijo meli                       Sitelen-seli-kiwen-ijo-meli.svg         
+Q137763311      ijo mi                         Sitelen-seli-kiwen-ijo-mi.svg           
+Q137763313      ijo mije                       Sitelen-seli-kiwen-ijo-mije.svg         
+Q137763315      ijo moku                       Sitelen-seli-kiwen-ijo-moku.svg         
+Q137763316      ijo moli                       Sitelen-seli-kiwen-ijo-moli.svg         
+Q137763317      ijo monsi                      Sitelen-seli-kiwen-ijo-monsi.svg        
+Q137763318      ijo monsuta                    Sitelen-seli-kiwen-ijo-monsuta.svg      
+Q137763319      ijo mu                         Sitelen-seli-kiwen-ijo-mu.svg           
+Q137763321      ijo mun                        Sitelen-seli-kiwen-ijo-mun.svg          
+Q137763322      ijo musi                       Sitelen-seli-kiwen-ijo-musi.svg         
+Q137763323      ijo mute                       Sitelen-seli-kiwen-ijo-mute.svg         
+Q137763324      ijo namako                     Sitelen-seli-kiwen-ijo-namako.svg       
+Q137763326      ijo nanpa                      Sitelen-seli-kiwen-ijo-nanpa.svg        
+Q137763327      ijo nasa                       Sitelen-seli-kiwen-ijo-nasa.svg         
+Q137763328      ijo nasin                      Sitelen-seli-kiwen-ijo-nasin.svg        
+Q137763329      ijo nena                       Sitelen-seli-kiwen-ijo-nena.svg         
+Q137763331      ijo ni                         Sitelen-seli-kiwen-ijo-ni.svg           
+Q137763332      ijo ni li seme                 Sitelen-seli-kiwen-ijo-ni-li-seme.svg   
+Q137763333      ijo nimi                       Sitelen-seli-kiwen-ijo-nimi.svg         
+Q137763334      ijo noka                       Sitelen-seli-kiwen-ijo-noka.svg         
+Q137763335      ijo oko                        Sitelen-seli-kiwen-ijo-oko.svg          
+Q137763336      ijo olin                       Sitelen-seli-kiwen-ijo-olin.svg         
+Q137763337      ijo ona                        Sitelen-seli-kiwen-ijo-ona.svg          
+Q137763338      ijo open                       Sitelen-seli-kiwen-ijo-open.svg         
+Q137763339      ijo pakala                     Sitelen-seli-kiwen-ijo-pakala.svg       
+Q137763340      ijo pake                       Sitelen-seli-kiwen-ijo-pake.svg         
+Q137763341      ijo pali                       Sitelen-seli-kiwen-ijo-pali.svg         
+Q137763342      ijo palisa                     Sitelen-seli-kiwen-ijo-palisa.svg       
+Q137763343      ijo pan                        Sitelen-seli-kiwen-ijo-pan.svg          
+Q137763344      ijo pana                       Sitelen-seli-kiwen-ijo-pana.svg         
+Q137763345      ijo pilin                      Sitelen-seli-kiwen-ijo-pilin.svg        
+Q137763347      ijo pimeja                     Sitelen-seli-kiwen-ijo-pimeja.svg       
+Q137763348      ijo pini                       Sitelen-seli-kiwen-ijo-pini.svg         
+Q137763349      ijo pipi                       Sitelen-seli-kiwen-ijo-pipi.svg         
+Q137763350      ijo poka                       Sitelen-seli-kiwen-ijo-poka.svg         
+Q137763351      ijo poki                       Sitelen-seli-kiwen-ijo-poki.svg         
+Q137763352      ijo pona                       Sitelen-seli-kiwen-ijo-pona.svg         
+Q137763353      ijo pu                         Sitelen-seli-kiwen-ijo-pu.svg           
+Q137763354      ijo sama                       Sitelen-seli-kiwen-ijo-sama.svg         
+Q137763355      ijo seli                       Sitelen-seli-kiwen-ijo-seli.svg         
+Q137763356      ijo selo                       Sitelen-seli-kiwen-ijo-selo.svg         
+Q137763357      ijo seme                       Sitelen-seli-kiwen-ijo-seme.svg         
+Q137763358      ijo sewi                       Sitelen-seli-kiwen-ijo-sewi.svg         
+Q137763360      ijo sike                       Sitelen-seli-kiwen-ijo-sike.svg         
+Q137763361      ijo sin                        Sitelen-seli-kiwen-ijo-sin.svg          
+Q137763362      ijo sina                       Sitelen-seli-kiwen-ijo-sina.svg         
+Q137763363      ijo sinpin                     Sitelen-seli-kiwen-ijo-sinpin.svg       
+Q137763364      ijo sitelen                    Sitelen-seli-kiwen-ijo-sitelen.svg      
+Q137763365      ijo sona                       Sitelen-seli-kiwen-ijo-sona.svg         
+Q137763366      ijo soweli                     Sitelen-seli-kiwen-ijo-soweli.svg       
+Q137763367      ijo Stella                     Sitelen-seli-kiwen-ijo-Stella.svg       
+Q137763368      ijo suli                       Sitelen-seli-kiwen-ijo-suli.svg         
+Q137763369      ijo suno                       Sitelen-seli-kiwen-ijo-suno.svg         
+Q137763370      ijo supa                       Sitelen-seli-kiwen-ijo-supa.svg         
+Q137763371      ijo suwi                       Sitelen-seli-kiwen-ijo-suwi.svg         
+Q137763372      ijo tan                        Sitelen-seli-kiwen-ijo-tan.svg          
+Q137763374      ijo taso                       Sitelen-seli-kiwen-ijo-taso.svg         
+Q137763375      ijo tawa                       Sitelen-seli-kiwen-ijo-tawa.svg         
+Q137763376      ijo telo                       Sitelen-seli-kiwen-ijo-telo.svg         
+Q137763377      ijo tenpo                      Sitelen-seli-kiwen-ijo-tenpo.svg        
+Q137763378      ijo toki                       Sitelen-seli-kiwen-ijo-toki.svg         
+Q137763379      ijo tomo                       Sitelen-seli-kiwen-ijo-tomo.svg         
+Q137763380      ijo tonsi                      Sitelen-seli-kiwen-ijo-tonsi.svg        
+Q137763382      ijo tu                         Sitelen-seli-kiwen-ijo-tu.svg           
+Q137763383      ijo unpa                       Sitelen-seli-kiwen-ijo-unpa.svg         
+Q137763384      ijo uta                        Sitelen-seli-kiwen-ijo-uta.svg          
+Q137763385      ijo utala                      Sitelen-seli-kiwen-ijo-utala.svg        
+Q137763386      ijo vivi                       Sitelen-seli-kiwen-ijo-vivi.svg         
+Q137763387      ijo walo                       Sitelen-seli-kiwen-ijo-walo.svg         
+Q137763388      ijo wan                        Sitelen-seli-kiwen-ijo-wan.svg          
+Q137763390      ijo waso                       Sitelen-seli-kiwen-ijo-waso.svg         
+Q137763391      ijo wawa                       Sitelen-seli-kiwen-ijo-wawa.svg         
+Q137763392      ijo weka                       Sitelen-seli-kiwen-ijo-weka.svg         
+Q137763393      ike ala                        Sitelen-seli-kiwen-ike-ala.svg          
+Q137763394      ike lili                       Sitelen-seli-kiwen-ike-lili.svg         
+Q137763396      ike lukin                      Sitelen-seli-kiwen-ike-lukin.svg        
+Q137763397      ike mute                       Sitelen-seli-kiwen-ike-mute.svg         
+Q137763398      ilo lape                       Sitelen-seli-kiwen-ilo-lape.svg         
+Q137763399      ilo moli                       Sitelen-seli-kiwen-ilo-moli.svg         
+Q137763400      ilo oko                        Sitelen-seli-kiwen-ilo-oko.svg          
+Q137763401      ilo open                       Sitelen-seli-kiwen-ilo-open.svg         
+Q137763402      jan ala                        Sitelen-seli-kiwen-jan-ala.svg          
+Q137763403      jan alasa                      Sitelen-seli-kiwen-jan-alasa.svg        
+Q137763405      jan ale                        Sitelen-seli-kiwen-jan-ale.svg          
+Q137763406      jan ali                        Sitelen-seli-kiwen-jan-ali.svg          
+Q137763407      jan ante                       Sitelen-seli-kiwen-jan-ante.svg         
+Q137763408      jan ike                        Sitelen-seli-kiwen-jan-ike.svg          
+Q137763409      jan kala                       Sitelen-seli-kiwen-jan-kala.svg         
+Q137763410      jan kalama                     Sitelen-seli-kiwen-jan-kalama.svg       
+Q137763413      jan kasi                       Sitelen-seli-kiwen-jan-kasi.svg         
+Q137763414      jan kulupu                     Sitelen-seli-kiwen-jan-kulupu.svg       
+Q137763415      jan monsuta                    Sitelen-seli-kiwen-jan-monsuta.svg      
+Q137763416      jan mute                       Sitelen-seli-kiwen-jan-mute.svg         
+Q137763417      jan ni                         Sitelen-seli-kiwen-jan-ni.svg           
+Q137763418      jan olin                       Sitelen-seli-kiwen-jan-olin.svg         
+Q137763419      jan pakala                     Sitelen-seli-kiwen-jan-pakala.svg       
+Q137763420      jan poka                       Sitelen-seli-kiwen-jan-poka.svg         
+Q137763422      jan pona                       Sitelen-seli-kiwen-jan-pona.svg         
+Q137763423      jan seme                       Sitelen-seli-kiwen-jan-seme.svg         
+Q137763424      jan sin                        Sitelen-seli-kiwen-jan-sin.svg          
+Q137763425      jan suli                       Sitelen-seli-kiwen-jan-suli.svg         
+Q137763426      jan suwi                       Sitelen-seli-kiwen-jan-suwi.svg         
+Q137763427      jan toki                       Sitelen-seli-kiwen-jan-toki.svg         
+Q137763428      jan unpa                       Sitelen-seli-kiwen-jan-unpa.svg         
+Q137763430      jan wawa                       Sitelen-seli-kiwen-jan-wawa.svg         
+Q137763431      kala ike                       Sitelen-seli-kiwen-kala-ike.svg         
+Q137763432      kala lete                      Sitelen-seli-kiwen-kala-lete.svg        
+Q137763433      kala lili                      Sitelen-seli-kiwen-kala-lili.svg        
+Q137763434      kala pona                      Sitelen-seli-kiwen-kala-pona.svg        
+Q137763435      kama pona                      Sitelen-seli-kiwen-kama-pona.svg        
+Q137763436      kasi jelo                      Sitelen-seli-kiwen-kasi-jelo.svg        
+Q137763437      kasi ko                        Sitelen-seli-kiwen-kasi-ko.svg          
+Q137763439      kasi kule                      Sitelen-seli-kiwen-kasi-kule.svg        
+Q137763440      kasi laso                      Sitelen-seli-kiwen-kasi-laso.svg        
+Q137763441      kasi lili                      Sitelen-seli-kiwen-kasi-lili.svg        
+Q137763442      kasi loje                      Sitelen-seli-kiwen-kasi-loje.svg        
+Q137763443      kasi pimeja                    Sitelen-seli-kiwen-kasi-pimeja.svg      
+Q137763444      kasi walo                      Sitelen-seli-kiwen-kasi-walo.svg        
+Q137763445      kijetesantakalu soweli         Sitelen-seli-kiwen-kijetesantakalu-soweli.svg
+Q137763446      kili jelo                      Sitelen-seli-kiwen-kili-jelo.svg        
+Q137763447      kili laso                      Sitelen-seli-kiwen-kili-laso.svg        
+Q137763448      kili lili                      Sitelen-seli-kiwen-kili-lili.svg        
+Q137763449      kili loje                      Sitelen-seli-kiwen-kili-loje.svg        
+Q137763450      kili pimeja                    Sitelen-seli-kiwen-kili-pimeja.svg      
+Q137763452      kili suwi                      Sitelen-seli-kiwen-kili-suwi.svg        
+Q137763453      kili walo                      Sitelen-seli-kiwen-kili-walo.svg        
+Q137763454      kiwen ike                      Sitelen-seli-kiwen-kiwen-ike.svg        
+Q137763455      kiwen jelo                     Sitelen-seli-kiwen-kiwen-jelo.svg       
+Q137763456      kiwen laso                     Sitelen-seli-kiwen-kiwen-laso.svg       
+Q137763457      kiwen lete                     Sitelen-seli-kiwen-kiwen-lete.svg       
+Q137763458      kiwen lili                     Sitelen-seli-kiwen-kiwen-lili.svg       
+Q137763459      kiwen loje                     Sitelen-seli-kiwen-kiwen-loje.svg       
+Q137763460      kiwen mun                      Sitelen-seli-kiwen-kiwen-mun.svg        
+Q137763461      kiwen pimeja                   Sitelen-seli-kiwen-kiwen-pimeja.svg     
+Q137763462      kiwen pona                     Sitelen-seli-kiwen-kiwen-pona.svg       
+Q137763463      kiwen seli                     Sitelen-seli-kiwen-kiwen-seli.svg       
+Q137763464      kiwen suno                     Sitelen-seli-kiwen-kiwen-suno.svg       
+Q137763465      kiwen walo                     Sitelen-seli-kiwen-kiwen-walo.svg       
+Q137763466      ko jelo                        Sitelen-seli-kiwen-ko-jelo.svg          
+Q137763467      ko kasi                        Sitelen-seli-kiwen-ko-kasi.svg          
+Q137763468      ko kule                        Sitelen-seli-kiwen-ko-kule.svg          
+Q137763470      ko laso                        Sitelen-seli-kiwen-ko-laso.svg          
+Q137763471      ko lili                        Sitelen-seli-kiwen-ko-lili.svg          
+Q137763472      ko loje                        Sitelen-seli-kiwen-ko-loje.svg          
+Q137763473      ko nasa                        Sitelen-seli-kiwen-ko-nasa.svg          
+Q137763474      ko pimeja                      Sitelen-seli-kiwen-ko-pimeja.svg        
+Q137763475      ko seli                        Sitelen-seli-kiwen-ko-seli.svg          
+Q137763476      ko walo                        Sitelen-seli-kiwen-ko-walo.svg          
+Q137763477      kon lete                       Sitelen-seli-kiwen-kon-lete.svg         
+Q137763478      kule kili                      Sitelen-seli-kiwen-kule-kili.svg        
+Q137763479      kule ma                        Sitelen-seli-kiwen-kule-ma.svg          
+Q137763480      kule mun                       Sitelen-seli-kiwen-kule-mun.svg         
+Q137763481      kule pilin                     Sitelen-seli-kiwen-kule-pilin.svg       
+Q137763482      kule sewi                      Sitelen-seli-kiwen-kule-sewi.svg        
+Q137763483      kule suno                      Sitelen-seli-kiwen-kule-suno.svg        
+Q137763484      kule telo                      Sitelen-seli-kiwen-kule-telo.svg        
+Q137763485      kule uta                       Sitelen-seli-kiwen-kule-uta.svg         
+Q137763486      lan sin                        Sitelen-seli-kiwen-lan-sin.svg          
+Q137763487      laso kasi                      Sitelen-seli-kiwen-laso-kasi.svg        
+Q137763488      laso mun                       Sitelen-seli-kiwen-laso-mun.svg         
+Q137763489      laso sewi                      Sitelen-seli-kiwen-laso-sewi.svg        
+Q137763490      laso telo                      Sitelen-seli-kiwen-laso-telo.svg        
+Q137763491      len jan                        Sitelen-seli-kiwen-len-jan.svg          
+Q137763492      len jelo                       Sitelen-seli-kiwen-len-jelo.svg         
+Q137763494      len laso                       Sitelen-seli-kiwen-len-laso.svg         
+Q137763495      len lili                       Sitelen-seli-kiwen-len-lili.svg         
+Q137763496      len loje                       Sitelen-seli-kiwen-len-loje.svg         
+Q137763497      len luka                       Sitelen-seli-kiwen-len-luka.svg         
+Q137763499      len pimeja                     Sitelen-seli-kiwen-len-pimeja.svg       
+Q137763501      len sin                        Sitelen-seli-kiwen-len-sin.svg          
+Q137763502      len walo                       Sitelen-seli-kiwen-len-walo.svg         
+Q137763503      linja lili                     Sitelen-seli-kiwen-linja-lili.svg       
+Q137763504      linja suwi                     Sitelen-seli-kiwen-linja-suwi.svg       
+Q137763505      lipu kasi                      Sitelen-seli-kiwen-lipu-kasi.svg        
+Q137763506      lipu majuna                    Sitelen-seli-kiwen-lipu-majuna.svg      
+Q137763507      lipu nanpa                     Sitelen-seli-kiwen-lipu-nanpa.svg       
+Q137763509      lipu unpa                      Sitelen-seli-kiwen-lipu-unpa.svg        
+Q137763510      loje jelo                      Sitelen-seli-kiwen-loje-jelo.svg        
+Q137763511      loje walo                      Sitelen-seli-kiwen-loje-walo.svg        
+Q137763512      luka luka luka luka            Sitelen-seli-kiwen-luka-luka-luka-luka.svg
+Q137763513      luka luka luka tu              Sitelen-seli-kiwen-luka-luka-luka-tu.svg
+Q137763515      luka luka luka tu tu           Sitelen-seli-kiwen-luka-luka-luka-tu-tu.svg
+Q137763516      luka luka luka tu wan          Sitelen-seli-kiwen-luka-luka-luka-tu-wan.svg
+Q137763517      luka luka luka wan             Sitelen-seli-kiwen-luka-luka-luka-wan.svg
+Q137763518      luka luka luka wan tu          Sitelen-seli-kiwen-luka-luka-luka-wan-tu.svg
+Q137763519      luka luka wan tu               Sitelen-seli-kiwen-luka-luka-wan-tu.svg 
+Q137763520      luka wan tu                    Sitelen-seli-kiwen-luka-wan-tu.svg      
+Q137763521      lupa jaki                      Sitelen-seli-kiwen-lupa-jaki.svg        
+Q137763522      lupa kiwen                     Sitelen-seli-kiwen-lupa-kiwen.svg       
+Q137763524      lupa kute                      Sitelen-seli-kiwen-lupa-kute.svg        
+Q137763525      lupa lili                      Sitelen-seli-kiwen-lupa-lili.svg        
+Q137763526      lupa nena                      Sitelen-seli-kiwen-lupa-nena.svg        
+Q137763527      lupa tomo                      Sitelen-seli-kiwen-lupa-tomo.svg        
+Q137763528      ma ike                         Sitelen-seli-kiwen-ma-ike.svg           
+Q137763529      ma kasi                        Sitelen-seli-kiwen-ma-kasi.svg          
+Q137763530      ma ni                          Sitelen-seli-kiwen-ma-ni.svg            
+Q137763532      mama mama                      Sitelen-seli-kiwen-mama-mama.svg        
+Q137763533      mama meli                      Sitelen-seli-kiwen-mama-meli.svg        
+Q137763534      mama mije                      Sitelen-seli-kiwen-mama-mije.svg        
+Q137763535      mama tonsi                     Sitelen-seli-kiwen-mama-tonsi.svg       
+Q137763536      meli ike                       Sitelen-seli-kiwen-meli-ike.svg         
+Q137763537      meli lili                      Sitelen-seli-kiwen-meli-lili.svg        
+Q137763538      meli mije                      Sitelen-seli-kiwen-meli-mije.svg        
+Q137763539      meli pona                      Sitelen-seli-kiwen-meli-pona.svg        
+Q137763541      meli sama                      Sitelen-seli-kiwen-meli-sama.svg        
+Q137763542      meli unpa                      Sitelen-seli-kiwen-meli-unpa.svg        
+Q137763543      meli wawa                      Sitelen-seli-kiwen-meli-wawa.svg        
+Q137763544      mije ike                       Sitelen-seli-kiwen-mije-ike.svg         
+Q137763545      mije lili                      Sitelen-seli-kiwen-mije-lili.svg        
+Q137763546      mije meli                      Sitelen-seli-kiwen-mije-meli.svg        
+Q137763548      mije pona                      Sitelen-seli-kiwen-mije-pona.svg        
+Q137763550      mije sama                      Sitelen-seli-kiwen-mije-sama.svg        
+Q137763551      mije unpa                      Sitelen-seli-kiwen-mije-unpa.svg        
+Q137763552      mije wawa                      Sitelen-seli-kiwen-mije-wawa.svg        
+Q137763553      musi lili                      Sitelen-seli-kiwen-musi-lili.svg        
+Q137763554      mute mute                      Sitelen-seli-kiwen-mute-mute.svg        
+Q137763555      nena lili                      Sitelen-seli-kiwen-nena-lili.svg        
+Q137763556      nena meli                      Sitelen-seli-kiwen-nena-meli.svg        
+Q137763558      pilin ala                      Sitelen-seli-kiwen-pilin-ala.svg        
+Q137763559      pilin nasa                     Sitelen-seli-kiwen-pilin-nasa.svg       
+Q137763560      pilin pakala                   Sitelen-seli-kiwen-pilin-pakala.svg     
+Q137763562      pilin sama                     Sitelen-seli-kiwen-pilin-sama.svg       
+Q137763563      pilin seme                     Sitelen-seli-kiwen-pilin-seme.svg       
+Q137763564      pimeja jelo                    Sitelen-seli-kiwen-pimeja-jelo.svg      
+Q137763565      pimeja laso                    Sitelen-seli-kiwen-pimeja-laso.svg      
+Q137763566      pimeja loje                    Sitelen-seli-kiwen-pimeja-loje.svg      
+Q137763567      poki kon                       Sitelen-seli-kiwen-poki-kon.svg         
+Q137763568      poki lete                      Sitelen-seli-kiwen-poki-lete.svg        
+Q137763569      poki seli                      Sitelen-seli-kiwen-poki-seli.svg        
+Q137763570      poki tona                      Sitelen-seli-kiwen-poki-tona.svg        
+Q137763571      pona ala                       Sitelen-seli-kiwen-pona-ala.svg         
+Q137763572      pona lili                      Sitelen-seli-kiwen-pona-lili.svg        
+Q137763573      pona mute                      Sitelen-seli-kiwen-pona-mute.svg        
+Q137763575      selo len                       Sitelen-seli-kiwen-selo-len.svg         
+Q137763576      selo soweli                    Sitelen-seli-kiwen-selo-soweli.svg      
+Q137763577      sike lili                      Sitelen-seli-kiwen-sike-lili.svg        
+Q137763578      sitelen ike                    Sitelen-seli-kiwen-sitelen-ike.svg      
+Q137763579      sitelen monsuta                Sitelen-seli-kiwen-sitelen-monsuta.svg  
+Q137763580      sona ala                       Sitelen-seli-kiwen-sona-ala.svg         
+Q137763581      sona ike                       Sitelen-seli-kiwen-sona-ike.svg         
+Q137763583      sona lili                      Sitelen-seli-kiwen-sona-lili.svg        
+Q137763585      sona tenpo                     Sitelen-seli-kiwen-sona-tenpo.svg       
+Q137763586      sona utala                     Sitelen-seli-kiwen-sona-utala.svg       
+Q137763587      soweli kijetesantakalu         Sitelen-seli-kiwen-soweli-kijetesantakalu.svg
+Q137763588      supa lawa                      Sitelen-seli-kiwen-supa-lawa.svg        
+Q137763589      supa lupa                      Sitelen-seli-kiwen-supa-lupa.svg        
+Q137763590      supa moku                      Sitelen-seli-kiwen-supa-moku.svg        
+Q137763591      supa pali                      Sitelen-seli-kiwen-supa-pali.svg        
+Q137763592      tawa pona                      Sitelen-seli-kiwen-tawa-pona.svg        
+Q137763595      tawa sona                      Sitelen-seli-kiwen-tawa-sona.svg        
+Q137763596      telo lete                      Sitelen-seli-kiwen-telo-lete.svg        
+Q137763597      telo lili                      Sitelen-seli-kiwen-telo-lili.svg        
+Q137763598      telo sitelen                   Sitelen-seli-kiwen-telo-sitelen.svg     
+Q137763599      tenpo ike                      Sitelen-seli-kiwen-tenpo-ike.svg        
+Q137763600      tenpo pona                     Sitelen-seli-kiwen-tenpo-pona.svg       
+Q137763601      toki ala                       Sitelen-seli-kiwen-toki-ala.svg         
+Q137763603      toki ike                       Sitelen-seli-kiwen-toki-ike.svg         
+Q137763604      toki pona ligatures            Sitelen-seli-kiwen-toki-pona-ligatures.svg
+Q137763605      toki utala                     Sitelen-seli-kiwen-toki-utala.svg       
+Q137763606      tomo lape                      Sitelen-seli-kiwen-tomo-lape.svg        
+Q137763607      tomo mani                      Sitelen-seli-kiwen-tomo-mani.svg        
+Q137763608      tomo monsuta                   Sitelen-seli-kiwen-tomo-monsuta.svg     
+Q137763609      tomo nasin                     Sitelen-seli-kiwen-tomo-nasin.svg       
+Q137763610      tomo ni                        Sitelen-seli-kiwen-tomo-ni.svg          
+Q137763611      tomo pali                      Sitelen-seli-kiwen-tomo-pali.svg        
+Q137763612      tomo telo                      Sitelen-seli-kiwen-tomo-telo.svg        
+Q137763613      tomo unpa                      Sitelen-seli-kiwen-tomo-unpa.svg        
+Q137763614      tonsi ike                      Sitelen-seli-kiwen-tonsi-ike.svg        
+Q137763615      tonsi lili                     Sitelen-seli-kiwen-tonsi-lili.svg       
+Q137763617      tonsi pona                     Sitelen-seli-kiwen-tonsi-pona.svg       
+Q137763618      tonsi sama                     Sitelen-seli-kiwen-tonsi-sama.svg       
+Q137763619      tonsi sin                      Sitelen-seli-kiwen-tonsi-sin.svg        
+Q137763620      tonsi unpa                     Sitelen-seli-kiwen-tonsi-unpa.svg       
+Q137763622      tonsi wawa                     Sitelen-seli-kiwen-tonsi-wawa.svg       
+Q137763623      tu luka                        Sitelen-seli-kiwen-tu-luka.svg          
+Q137763625      walo jelo                      Sitelen-seli-kiwen-walo-jelo.svg        
+Q137763626      walo laso                      Sitelen-seli-kiwen-walo-laso.svg        
+Q137763627      walo loje                      Sitelen-seli-kiwen-walo-loje.svg        
+Q137763629      walo pimeja                    Sitelen-seli-kiwen-walo-pimeja.svg      
+Q137763631      wan luka                       Sitelen-seli-kiwen-wan-luka.svg         
+Q137763632      wan tu                         Sitelen-seli-kiwen-wan-tu.svg           
+Q137763634      wawa tenpo                     Sitelen-seli-kiwen-wawa-tenpo.svg       
+Q137763636      sitelen Pona ligatures         Sitelen-seli-kiwen-sitelen-Pona-ligatures.svg
+Q137763637      toki Pona Logograms unsorted by word Sitelen-seli-kiwen-toki-Pona-Logograms-unsorted-by-word.svg
+Q137763638      toki pona rare words           Sitelen-seli-kiwen-toki-pona-rare-words.svg
+Q137374190      anu                            Sitelen-seli-kiwen-anu.svg              
+Q137374192      awen                           Sitelen-seli-kiwen-awen.svg             
+Q137374194      en                             Sitelen-seli-kiwen-en.svg               
+Q137374374      epiku                          Sitelen-seli-kiwen-epiku.svg            
+Q137374200      insa                           Sitelen-seli-kiwen-insa.svg             
+Q137374208      kama                           Sitelen-seli-kiwen-kama.svg             
+Q137374211      kepeken                        Sitelen-seli-kiwen-kepeken.svg          
+Q137374214      kin                            Sitelen-seli-kiwen-kin.svg              
+Q137374377      kipisi                         Sitelen-seli-kiwen-kipisi.svg           
+Q137374302      la                             Sitelen-seli-kiwen-la.svg               
+Q137374310      li                             Sitelen-seli-kiwen-li.svg               
+Q137374311      lili                           Sitelen-seli-kiwen-lili.svg             
+Q137374383      meso                           Sitelen-seli-kiwen-meso.svg             
+Q137374239      mute                           Sitelen-seli-kiwen-mute.svg             
+Q137374253      open                           Sitelen-seli-kiwen-open.svg             
+Q137374259      pana                           Sitelen-seli-kiwen-pana.svg             
+Q137374262      pi                             Sitelen-seli-kiwen-pi.svg               
+Q137374265      pini                           Sitelen-seli-kiwen-pini.svg             
+Q137374272      sama                           Sitelen-seli-kiwen-sama.svg             
+Q137374277      seme                           Sitelen-seli-kiwen-seme.svg             
+Q137374281      sin                            Sitelen-seli-kiwen-sin.svg              
+Q137374536      tan                            Sitelen-seli-kiwen-tan.svg              
+Q137374537      taso                           Sitelen-seli-kiwen-taso.svg             
+Q137763639      aAANUSEMEmailMahjong           Sitelen-seli-kiwen-aAANUSEMEmailMahjong.svg
+Q137763640      aasun                          Sitelen-seli-kiwen-aasun.svg            
+Q137763641      aja                            Sitelen-seli-kiwen-aja.svg              
+Q137763642      aka                            Sitelen-seli-kiwen-aka.svg              
+Q137763644      ako                            Sitelen-seli-kiwen-ako.svg              
+Q137763645      aku                            Sitelen-seli-kiwen-aku.svg              
+Q137763646      alente                         Sitelen-seli-kiwen-alente.svg           
+Q137763647      alisa                          Sitelen-seli-kiwen-alisa.svg            
+Q137763648      alu                            Sitelen-seli-kiwen-alu.svg              
+Q137763649      amanka                         Sitelen-seli-kiwen-amanka.svg           
+Q137763650      amelin                         Sitelen-seli-kiwen-amelin.svg           
+Q137763652      ana                            Sitelen-seli-kiwen-ana.svg              
+Q137763653      ani                            Sitelen-seli-kiwen-ani.svg              
+Q137763654      ansu                           Sitelen-seli-kiwen-ansu.svg             
+Q137763655      anta                           Sitelen-seli-kiwen-anta.svg             
+Q137763656      antepan                        Sitelen-seli-kiwen-antepan.svg          
+Q137763657      antikontitutonelema            Sitelen-seli-kiwen-antikontitutonelema.svg
+Q137374368      apeja                          Sitelen-seli-kiwen-apeja.svg            
+Q137763658      apelo                          Sitelen-seli-kiwen-apelo.svg            
+Q137763659      api                            Sitelen-seli-kiwen-api.svg              
+Q137763660      asiku                          Sitelen-seli-kiwen-asiku.svg            
+Q137763661      asu                            Sitelen-seli-kiwen-asu.svg              
+Q137763662      asuki                          Sitelen-seli-kiwen-asuki.svg            
+Q137763663      asuto                          Sitelen-seli-kiwen-asuto.svg            
+Q137763664      atu                            Sitelen-seli-kiwen-atu.svg              
+Q137763665      awase                          Sitelen-seli-kiwen-awase.svg            
+Q137763666      eki                            Sitelen-seli-kiwen-eki.svg              
+Q137763667      eni                            Sitelen-seli-kiwen-eni.svg              
+Q137763668      enko                           Sitelen-seli-kiwen-enko.svg             
+Q137763669      epikule                        Sitelen-seli-kiwen-epikule.svg          
+Q137763670      fairfax                        Sitelen-seli-kiwen-fairfax.svg          
+Q137763671      hD                             Sitelen-seli-kiwen-hD.svg               
+Q137763672      iki                            Sitelen-seli-kiwen-iki.svg              
+Q137763673      ilaje                          Sitelen-seli-kiwen-ilaje.svg            
+Q137763674      ilapa                          Sitelen-seli-kiwen-ilapa.svg            
+Q137763675      inta                           Sitelen-seli-kiwen-inta.svg             
+Q137763676      ipan                           Sitelen-seli-kiwen-ipan.svg             
+Q137763677      ipawi                          Sitelen-seli-kiwen-ipawi.svg            
+Q137763678      ipi                            Sitelen-seli-kiwen-ipi.svg              
+Q137763679      iseja                          Sitelen-seli-kiwen-iseja.svg            
+Q137763680      iseki                          Sitelen-seli-kiwen-iseki.svg            
+Q137763681      isipin                         Sitelen-seli-kiwen-isipin.svg           
+Q137763683      itomi                          Sitelen-seli-kiwen-itomi.svg            
+Q137763684      ja                             Sitelen-seli-kiwen-ja.svg               
+Q137763685      jalan                          Sitelen-seli-kiwen-jalan.svg            
+Q137763686      jalepu                         Sitelen-seli-kiwen-jalepu.svg           
+Q137763687      jami                           Sitelen-seli-kiwen-jami.svg             
+Q137763688      jans                           Sitelen-seli-kiwen-jans.svg             
+Q137763689      jasun                          Sitelen-seli-kiwen-jasun.svg            
+Q137763691      je                             Sitelen-seli-kiwen-je.svg               
+Q137763692      jesi                           Sitelen-seli-kiwen-jesi.svg             
+Q137763693      jew                            Sitelen-seli-kiwen-jew.svg              
+Q137763694      jonatan                        Sitelen-seli-kiwen-jonatan.svg          
+Q137763695      ju                             Sitelen-seli-kiwen-ju.svg               
+Q137763696      jule                           Sitelen-seli-kiwen-jule.svg             
+Q137763697      jules                          Sitelen-seli-kiwen-jules.svg            
+Q137763698      jume                           Sitelen-seli-kiwen-jume.svg             
+Q137763699      juniko                         Sitelen-seli-kiwen-juniko.svg           
+Q137763700      jusijesuwa                     Sitelen-seli-kiwen-jusijesuwa.svg       
+Q137763701      kaken                          Sitelen-seli-kiwen-kaken.svg            
+Q137763702      kalamARR                       Sitelen-seli-kiwen-kalamARR.svg         
+Q137763704      kalijopilale                   Sitelen-seli-kiwen-kalijopilale.svg     
+Q137763705      kalu                           Sitelen-seli-kiwen-kalu.svg             
+Q137763706      kamalawala                     Sitelen-seli-kiwen-kamalawala.svg       
+Q137763707      kan                            Sitelen-seli-kiwen-kan.svg              
+Q137763708      kana                           Sitelen-seli-kiwen-kana.svg             
+Q137763709      kani                           Sitelen-seli-kiwen-kani.svg             
+Q137763710      kankuli                        Sitelen-seli-kiwen-kankuli.svg          
+Q137763711      kapa                           Sitelen-seli-kiwen-kapa.svg             
+Q137763713      kapesi                         Sitelen-seli-kiwen-kapesi.svg           
+Q137763714      kapilu                         Sitelen-seli-kiwen-kapilu.svg           
+Q137763715      ke                             Sitelen-seli-kiwen-ke.svg               
+Q137763716      kekanSan                       Sitelen-seli-kiwen-kekanSan.svg         
+Q137763717      kekantesantakalu               Sitelen-seli-kiwen-kekantesantakalu.svg 
+Q137763718      keli                           Sitelen-seli-kiwen-keli.svg             
+Q137763719      kelo                           Sitelen-seli-kiwen-kelo.svg             
+Q137763720      kemu                           Sitelen-seli-kiwen-kemu.svg             
+Q137763722      kepa                           Sitelen-seli-kiwen-kepa.svg             
+Q137763723      kepen                          Sitelen-seli-kiwen-kepen.svg            
+Q137763724      kepi                           Sitelen-seli-kiwen-kepi.svg             
+Q137763725      kese                           Sitelen-seli-kiwen-kese.svg             
+Q137763726      keTami                         Sitelen-seli-kiwen-keTami.svg           
+Q137763727      kewe                           Sitelen-seli-kiwen-kewe.svg             
+Q137763728      ki                             Sitelen-seli-kiwen-ki.svg               
+Q137763729      kijan                          Sitelen-seli-kiwen-kijan.svg            
+Q137763730      kije                           Sitelen-seli-kiwen-kije.svg             
+Q137763731      kijesankalu                    Sitelen-seli-kiwen-kijesankalu.svg      
+Q137763732      kijete                         Sitelen-seli-kiwen-kijete.svg           
+Q137763733      kijosin                        Sitelen-seli-kiwen-kijosin.svg          
+Q137763734      kiki                           Sitelen-seli-kiwen-kiki.svg             
+Q137763735      kikolo                         Sitelen-seli-kiwen-kikolo.svg           
+Q137763736      kikulo                         Sitelen-seli-kiwen-kikulo.svg           
+Q137763737      kinute                         Sitelen-seli-kiwen-kinute.svg           
+Q137763738      kita                           Sitelen-seli-kiwen-kita.svg             
+Q137763739      kitu                           Sitelen-seli-kiwen-kitu.svg             
+Q137763740      koko                           Sitelen-seli-kiwen-koko.svg             
+Q137763741      kolisin                        Sitelen-seli-kiwen-kolisin.svg          
+Q137763742      kolo                           Sitelen-seli-kiwen-kolo.svg             
+Q137763744      koni                           Sitelen-seli-kiwen-koni.svg             
+Q137763745      konsi                          Sitelen-seli-kiwen-konsi.svg            
+Q137763746      konwe                          Sitelen-seli-kiwen-konwe.svg            
+Q137763747      kosan                          Sitelen-seli-kiwen-kosan.svg            
+Q137763748      kosikosa                       Sitelen-seli-kiwen-kosikosa.svg         
+Q137763749      kulepiku                       Sitelen-seli-kiwen-kulepiku.svg         
+Q137763750      kulijo                         Sitelen-seli-kiwen-kulijo.svg           
+Q137763751      kulu                           Sitelen-seli-kiwen-kulu.svg             
+Q137763752      kuntu                          Sitelen-seli-kiwen-kuntu.svg            
+Q137763753      lan                            Sitelen-seli-kiwen-lan.svg              
+Q137763755      lansan                         Sitelen-seli-kiwen-lansan.svg           
+Q137763756      lato                           Sitelen-seli-kiwen-lato.svg             
+Q137763757      lenlen                         Sitelen-seli-kiwen-lenlen.svg           
+Q137763758      lepeka                         Sitelen-seli-kiwen-lepeka.svg           
+Q137763759      lijokuku                       Sitelen-seli-kiwen-lijokuku.svg         
+Q137763760      likujo                         Sitelen-seli-kiwen-likujo.svg           
+Q137763761      linku                          Sitelen-seli-kiwen-linku.svg            
+Q137763763      linuwi                         Sitelen-seli-kiwen-linuwi.svg           
+Q137763764      lipamanka                      Sitelen-seli-kiwen-lipamanka.svg        
+Q137763765      lisana                         Sitelen-seli-kiwen-lisana.svg           
+Q137763766      lo                             Sitelen-seli-kiwen-lo.svg               
+Q137763767      loka                           Sitelen-seli-kiwen-loka.svg             
+Q137763768      lokon                          Sitelen-seli-kiwen-lokon.svg            
+Q137763769      lokoso                         Sitelen-seli-kiwen-lokoso.svg           
+Q137763770      losupan                        Sitelen-seli-kiwen-losupan.svg          
+Q137763771      lu                             Sitelen-seli-kiwen-lu.svg               
+Q137763773      luke                           Sitelen-seli-kiwen-luke.svg             
+Q137763774      luna                           Sitelen-seli-kiwen-luna.svg             
+Q137763775      majeka                         Sitelen-seli-kiwen-majeka.svg           
+Q137763776      maki                           Sitelen-seli-kiwen-maki.svg             
+Q137763777      mako                           Sitelen-seli-kiwen-mako.svg             
+Q137763778      mamasi                         Sitelen-seli-kiwen-mamasi.svg           
+Q137763779      mamasina                       Sitelen-seli-kiwen-mamasina.svg         
+Q137763780      manka                          Sitelen-seli-kiwen-manka.svg            
+Q137763781      masalo                         Sitelen-seli-kiwen-masalo.svg           
+Q137763782      masenta                        Sitelen-seli-kiwen-masenta.svg          
+Q137763783      masu                           Sitelen-seli-kiwen-masu.svg             
+Q137763784      matula                         Sitelen-seli-kiwen-matula.svg           
+Q137763785      me                             Sitelen-seli-kiwen-me.svg               
+Q137763786      medium                         Sitelen-seli-kiwen-medium.svg           
+Q137763787      mekuwi                         Sitelen-seli-kiwen-mekuwi.svg           
+Q137763788      melinjakulekule                Sitelen-seli-kiwen-melinjakulekule.svg  
+Q137763790      mijomi                         Sitelen-seli-kiwen-mijomi.svg           
+Q137763791      miko                           Sitelen-seli-kiwen-miko.svg             
+Q137763792      mila                           Sitelen-seli-kiwen-mila.svg             
+Q137763793      mimuki                         Sitelen-seli-kiwen-mimuki.svg           
+Q137763794      misa                           Sitelen-seli-kiwen-misa.svg             
+Q137763795      molusa                         Sitelen-seli-kiwen-molusa.svg           
+Q137763796      mono                           Sitelen-seli-kiwen-mono.svg             
+Q137763797      motan                          Sitelen-seli-kiwen-motan.svg            
+Q137763798      nalanja                        Sitelen-seli-kiwen-nalanja.svg          
+Q137763799      nalasuni                       Sitelen-seli-kiwen-nalasuni.svg         
+Q137763801      nan                            Sitelen-seli-kiwen-nan.svg              
+Q137763802      nano                           Sitelen-seli-kiwen-nano.svg             
+Q137763803      nasulin                        Sitelen-seli-kiwen-nasulin.svg          
+Q137763804      nata                           Sitelen-seli-kiwen-nata.svg             
+Q137763805      natu                           Sitelen-seli-kiwen-natu.svg             
+Q137763806      neja                           Sitelen-seli-kiwen-neja.svg             
+Q137763807      nele                           Sitelen-seli-kiwen-nele.svg             
+Q137763808      niko                           Sitelen-seli-kiwen-niko.svg             
+Q137763809      nili                           Sitelen-seli-kiwen-nili.svg             
+Q137763810      nito                           Sitelen-seli-kiwen-nito.svg             
+Q137763811      nlsn                           Sitelen-seli-kiwen-nlsn.svg             
+Q137763812      nowi                           Sitelen-seli-kiwen-nowi.svg             
+Q137763813      nu                             Sitelen-seli-kiwen-nu.svg               
+Q137763814      nusun                          Sitelen-seli-kiwen-nusun.svg            
+Q137763815      nutan                          Sitelen-seli-kiwen-nutan.svg            
+Q137763816      nuwa                           Sitelen-seli-kiwen-nuwa.svg             
+Q137763818      ojuta                          Sitelen-seli-kiwen-ojuta.svg            
+Q137763819      oke                            Sitelen-seli-kiwen-oke.svg              
+Q137763820      okepuma                        Sitelen-seli-kiwen-okepuma.svg          
+Q137763821      oki                            Sitelen-seli-kiwen-oki.svg              
+Q137763822      olala                          Sitelen-seli-kiwen-olala.svg            
+Q137763823      omekalike                      Sitelen-seli-kiwen-omekalike.svg        
+Q137763824      omekapo                        Sitelen-seli-kiwen-omekapo.svg          
+Q137763825      omen                           Sitelen-seli-kiwen-omen.svg             
+Q137763826      oni                            Sitelen-seli-kiwen-oni.svg              
+Q137763827      onono                          Sitelen-seli-kiwen-onono.svg            
+Q137763829      opa                            Sitelen-seli-kiwen-opa.svg              
+Q137763830      opasan                         Sitelen-seli-kiwen-opasan.svg           
+Q137763831      owe                            Sitelen-seli-kiwen-owe.svg              
+Q137763832      pa                             Sitelen-seli-kiwen-pa.svg               
+Q137763833      paka                           Sitelen-seli-kiwen-paka.svg             
+Q137374459      pake                           Sitelen-seli-kiwen-pake.svg             
+Q137763834      pakola                         Sitelen-seli-kiwen-pakola.svg           
+Q137763835      palensi                        Sitelen-seli-kiwen-palensi.svg          
+Q137763837      pami                           Sitelen-seli-kiwen-pami.svg             
+Q137763838      panke                          Sitelen-seli-kiwen-panke.svg            
+Q137763839      panpan                         Sitelen-seli-kiwen-panpan.svg           
+Q137763841      pasila                         Sitelen-seli-kiwen-pasila.svg           
+Q137374460      pata                           Sitelen-seli-kiwen-pata.svg             
+Q137763842      pe                             Sitelen-seli-kiwen-pe.svg               
+Q137763843      penpo                          Sitelen-seli-kiwen-penpo.svg            
+Q137763844      pensa                          Sitelen-seli-kiwen-pensa.svg            
+Q137374461      peta                           Sitelen-seli-kiwen-peta.svg             
+Q137763845      peto                           Sitelen-seli-kiwen-peto.svg             
+Q137763846      pika                           Sitelen-seli-kiwen-pika.svg             
+Q137763847      pingo                          Sitelen-seli-kiwen-pingo.svg            
+Q137763848      pipo                           Sitelen-seli-kiwen-pipo.svg             
+Q137763849      pipolo                         Sitelen-seli-kiwen-pipolo.svg           
+Q137374462      po                             Sitelen-seli-kiwen-po.svg               
+Q137763850      polinpin                       Sitelen-seli-kiwen-polinpin.svg         
+Q137763851      poman                          Sitelen-seli-kiwen-poman.svg            
+Q137763852      pomotolo                       Sitelen-seli-kiwen-pomotolo.svg         
+Q137763853      poni                           Sitelen-seli-kiwen-poni.svg             
+Q137722416      powe                           Sitelen-seli-kiwen-powe.svg             
+Q137763854      pula                           Sitelen-seli-kiwen-pula.svg             
+Q137763855      pulaso                         Sitelen-seli-kiwen-pulaso.svg           
+Q137763856      puwa                           Sitelen-seli-kiwen-puwa.svg             
+Q137763857      saja                           Sitelen-seli-kiwen-saja.svg             
+Q137763859      salantapotalusa                Sitelen-seli-kiwen-salantapotalusa.svg  
+Q137763860      samin                          Sitelen-seli-kiwen-samin.svg            
+Q137763861      samu                           Sitelen-seli-kiwen-samu.svg             
+Q137374463      san                            Sitelen-seli-kiwen-san.svg              
+Q137763862      santa                          Sitelen-seli-kiwen-santa.svg            
+Q137763863      sapelipope                     Sitelen-seli-kiwen-sapelipope.svg       
+Q137763864      satun                          Sitelen-seli-kiwen-satun.svg            
+Q137763865      seka                           Sitelen-seli-kiwen-seka.svg             
+Q137763866      seki                           Sitelen-seli-kiwen-seki.svg             
+Q137763867      siiilapa                       Sitelen-seli-kiwen-siiilapa.svg         
+Q137763868      siilapa                        Sitelen-seli-kiwen-siilapa.svg          
+Q137763870      sijala                         Sitelen-seli-kiwen-sijala.svg           
+Q137763871      sijesuwa                       Sitelen-seli-kiwen-sijesuwa.svg         
+Q137763872      sikako                         Sitelen-seli-kiwen-sikako.svg           
+Q137763873      sikomo                         Sitelen-seli-kiwen-sikomo.svg           
+Q137763874      silani                         Sitelen-seli-kiwen-silani.svg           
+Q137763875      silapa                         Sitelen-seli-kiwen-silapa.svg           
+Q137763877      sipi                           Sitelen-seli-kiwen-sipi.svg             
+Q137763878      sipije                         Sitelen-seli-kiwen-sipije.svg           
+Q137763879      sisa                           Sitelen-seli-kiwen-sisa.svg             
+Q137763880      sisi                           Sitelen-seli-kiwen-sisi.svg             
+Q137763882      siwala                         Sitelen-seli-kiwen-siwala.svg           
+Q137763884      siwan                          Sitelen-seli-kiwen-siwan.svg            
+Q137763885      slape                          Sitelen-seli-kiwen-slape.svg            
+Q137763886      snoweli                        Sitelen-seli-kiwen-snoweli.svg          
+Q137763887      sokeli                         Sitelen-seli-kiwen-sokeli.svg           
+Q137763888      soni                           Sitelen-seli-kiwen-soni.svg             
+Q137763889      sowoli                         Sitelen-seli-kiwen-sowoli.svg           
+Q137763890      stella                         Sitelen-seli-kiwen-stella.svg           
+Q137763891      suke                           Sitelen-seli-kiwen-suke.svg             
+Q137763892      sulaso                         Sitelen-seli-kiwen-sulaso.svg           
+Q137763893      sunta                          Sitelen-seli-kiwen-sunta.svg            
+Q137763894      ta                             Sitelen-seli-kiwen-ta.svg               
+Q137763896      taki                           Sitelen-seli-kiwen-taki.svg             
+Q137763897      tasun                          Sitelen-seli-kiwen-tasun.svg            
+Q137763898      tawake                         Sitelen-seli-kiwen-tawake.svg           
+Q137763899      te                             Sitelen-seli-kiwen-te.svg               
+Q137763900      teken                          Sitelen-seli-kiwen-teken.svg            
+Q137763901      temi                           Sitelen-seli-kiwen-temi.svg             
+Q137763902      ten                            Sitelen-seli-kiwen-ten.svg              
+Q137763903      tenpi                          Sitelen-seli-kiwen-tenpi.svg            
+Q137763904      tensi                          Sitelen-seli-kiwen-tensi.svg            
+Q137763905      to                             Sitelen-seli-kiwen-to.svg               
+Q137763906      tokana                         Sitelen-seli-kiwen-tokana.svg           
+Q137763907      token                          Sitelen-seli-kiwen-token.svg            
+Q137763909      toma                           Sitelen-seli-kiwen-toma.svg             
+Q137763910      tona                           Sitelen-seli-kiwen-tona.svg             
+Q137763911      tonpite                        Sitelen-seli-kiwen-tonpite.svg          
+Q137763912      tonyu                          Sitelen-seli-kiwen-tonyu.svg            
+Q137763913      topo                           Sitelen-seli-kiwen-topo.svg             
+Q137763915      towan                          Sitelen-seli-kiwen-towan.svg            
+Q137763916      tuwa                           Sitelen-seli-kiwen-tuwa.svg             
+Q137763917      uka                            Sitelen-seli-kiwen-uka.svg              
+Q137763918      umesu                          Sitelen-seli-kiwen-umesu.svg            
+Q137763919      unikijetesantakalu             Sitelen-seli-kiwen-unikijetesantakalu.svg
+Q137763921      unu                            Sitelen-seli-kiwen-unu.svg              
+Q137763923      usawi                          Sitelen-seli-kiwen-usawi.svg            
+Q137763925      vivi                           Sitelen-seli-kiwen-vivi.svg             
+Q137763926      votgil                         Sitelen-seli-kiwen-votgil.svg           
+Q137763927      vriska                         Sitelen-seli-kiwen-vriska.svg           
+Q137763928      wa                             Sitelen-seli-kiwen-wa.svg               
+Q137763929      waje                           Sitelen-seli-kiwen-waje.svg             
+Q137763930      wakalito                       Sitelen-seli-kiwen-wakalito.svg         
+Q137763931      waken                          Sitelen-seli-kiwen-waken.svg            
+Q137763932      waleja                         Sitelen-seli-kiwen-waleja.svg           
+Q137763933      wasoweli                       Sitelen-seli-kiwen-wasoweli.svg         
+Q137763934      wawajete                       Sitelen-seli-kiwen-wawajete.svg         
+Q137763936      we                             Sitelen-seli-kiwen-we.svg               
+Q137763938      wekama                         Sitelen-seli-kiwen-wekama.svg           
+Q137763939      weko                           Sitelen-seli-kiwen-weko.svg             
+Q137763940      wen                            Sitelen-seli-kiwen-wen.svg              
+Q137763941      wi                             Sitelen-seli-kiwen-wi.svg               
+Q137763942      wiju                           Sitelen-seli-kiwen-wiju.svg             
+Q137763943      wiki                           Sitelen-seli-kiwen-wiki.svg             
+Q137763944      wikipesija                     Sitelen-seli-kiwen-wikipesija.svg       
+Q137763945      wiwi                           Sitelen-seli-kiwen-wiwi.svg             
+Q137763946      wowujiti                       Sitelen-seli-kiwen-wowujiti.svg         
+Q137763947      wuwojiti                       Sitelen-seli-kiwen-wuwojiti.svg         
+Q137763948      yupekosi                       Sitelen-seli-kiwen-yupekosi.svg         
+Q137763949      yutu                           Sitelen-seli-kiwen-yutu.svg             
