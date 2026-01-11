@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   Sitelen Seli Kiwen - Categorized Redlinked Categories
+  </title>
+  <style>
+   body {
+            font-family: Arial, sans-serif;
+            max-width: 1400px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            color: #333;
+            border-bottom: 3px solid #0645ad;
+            padding-bottom: 10px;
+        }
+        h2 {
+            margin-top: 30px;
+            padding: 15px;
+            background-color: white;
+            border-radius: 5px;
+            border-left: 5px solid;
+        }
+        .stats {
+            background-color: #e8f4f8;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .nav-buttons {
+            margin: 20px 0;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        .nav-buttons button {
+            background-color: #444;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .nav-buttons button:hover {
+            background-color: #666;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .button-container {
+            margin: 15px 0;
+        }
+        button {
+            background-color: #0645ad;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-right: 10px;
+        }
+        button:hover {
+            background-color: #0b0080;
+        }
+        .category-list {
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            column-count: 2;
+            column-gap: 20px;
+        }
+        .category-item {
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+            break-inside: avoid;
+        }
+        .category-item:last-child {
+            border-bottom: none;
+        }
+        .category-link {
+            color: #0645ad;
+            text-decoration: none;
+            font-size: 14px;
+        }
+        .category-link:hover {
+            text-decoration: underline;
+        }
+        .category-name {
+            font-weight: bold;
+            color: #d73333;
+        }
+        .explanation {
+            background-color: #fff3cd;
+            border: 1px solid #ffc107;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        .explanation h3 {
+            margin-top: 0;
+            color: #856404;
+        }
+        .explanation ul {
+            margin: 10px 0;
+        }
+  </style>
+  <script>
+   function openAllInSection(sectionId) {
+            const section = document.getElementById(sectionId);
+            const links = section.querySelectorAll('.category-link');
+
+            if (!confirm(`This will open ${links.length} tabs. Continue?`)) {
+                return;
+            }
+
+            // Open tabs with small delay to avoid popup blocker
+            links.forEach((link, index) => {
+                setTimeout(() => {
+                    window.open(link.href, '_blank');
+                }, index * 100); // 100ms delay between each tab
+            });
+        }
+
+        function openFirstNInSection(sectionId, n) {
+            const section = document.getElementById(sectionId);
+            const links = section.querySelectorAll('.category-link');
+            const count = Math.min(n, links.length);
+
+            if (!confirm(`This will open ${count} tabs. Continue?`)) {
+                return;
+            }
+
+            // Open tabs with small delay to avoid popup blocker
+            for (let i = 0; i < count; i++) {
+                setTimeout(() => {
+                    window.open(links[i].href, '_blank');
+                }, i * 100); // 100ms delay between each tab
+            }
+        }
+
+        function scrollToSection(sectionId) {
+            document.getElementById(sectionId).scrollIntoView({ behavior: 'smooth' });
+        }
+  </script>
+ </head>
+ <body>
+  <h1>
+   Sitelen Seli Kiwen - Categorized Redlinked Categories
+  </h1>
+  <div class="stats">
+   <strong>
+    Total redlinked categories:
+   </strong>
+   48
+   <br/>
+   <strong>
+    Source category:
+   </strong>
+   <a href="https://commons.wikimedia.org/wiki/Category:Sitelen_seli_kiwen_svgs" target="_blank">
+    Category:Sitelen_seli_kiwen_svgs
+   </a>
+  </div>
+  <div class="explanation">
+   <h3>
+    Category Types:
+   </h3>
+   <ul>
+    <li>
+     <strong>
+      Rare Words (23):
+     </strong>
+     Single toki pona words that don't have categories yet (e.g., "Amelin (toki pona)")
+    </li>
+    <li>
+     <strong>
+      Ligatures (24):
+     </strong>
+     Multi-word combinations with spaces (e.g., "Anpa lawa (toki pona)")
+    </li>
+    <li>
+     <strong>
+      Anomalies (1):
+     </strong>
+     Words with unusual patterns like camelCase or numbers
+    </li>
+   </ul>
+  </div>
+  <div class="nav-buttons">
+   <button onclick="scrollToSection('rare-words')">
+    Jump to Rare Words
+   </button>
+   <button onclick="scrollToSection('ligatures')">
+    Jump to Ligatures
+   </button>
+   <button onclick="scrollToSection('anomalies')">
+    Jump to Anomalies
+   </button>
+  </div>
+  <div class="section" id="rare-words">
+   <h2 style="color: #2c5aa0;">
+    Rare Words (23 categories)
+   </h2>
+   <div class="button-container">
+    <button onclick="openAllInSection('rare-words')">
+     Open All Rare Words
+    </button>
+    <button onclick="openFirstNInSection('rare-words', 50)">
+     Open First 50
+    </button>
+   </div>
+   <div class="category-list">
+    <div class="category-item">
+     <span class="category-name">
+      Aasun (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Aasun_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Amonka (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Amonka_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Eki (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Eki_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Eni (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Eni_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Jusisa (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Jusisa_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Kepen (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Kepen_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Kijete (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Kijete_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Linja (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Linja_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Linuwi (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Linuwi_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Loje (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Loje_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Loka (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Loka_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Medium (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Medium_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Pulaso (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Pulaso_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Siiilapa (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Siiilapa_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Siilapa (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Siilapa_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Sisa (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Sisa_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Suke (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Suke_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Sulaso (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Sulaso_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Taa (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Taa_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Taaasun (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Taaasun_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Taasun (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Taasun_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Ten (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Ten_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Wuwojiti (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Wuwojiti_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+   </div>
+  </div>
+  <div class="section" id="ligatures">
+   <h2 style="color: #0d7d3d;">
+    Ligatures (24 categories)
+   </h2>
+   <div class="button-container">
+    <button onclick="openAllInSection('ligatures')">
+     Open All Ligatures
+    </button>
+    <button onclick="openFirstNInSection('ligatures', 50)">
+     Open First 50
+    </button>
+   </div>
+   <div class="category-list">
+    <div class="category-item">
+     <span class="category-name">
+      Ijo ali (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Ijo_ali_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Ijo kepen (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Ijo_kepen_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Jan ali (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Jan_ali_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Kala2 lete (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Kala2_lete_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Kala2 lili (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Kala2_lili_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Lan2 sin (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Lan2_sin_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Ma ali (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Ma_ali_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Meli2 ike (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Meli2_ike_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Meli2 lili (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Meli2_lili_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Meli2 mije (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Meli2_mije_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Meli2 pona (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Meli2_pona_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Meli2 sama (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Meli2_sama_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Meli2 tonsi (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Meli2_tonsi_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Meli2 unpa (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Meli2_unpa_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Meli2 wawa (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Meli2_wawa_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Mije meli (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Mije_meli_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Mije2 ike (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Mije2_ike_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Mije2 lili (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Mije2_lili_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Mije2 meli (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Mije2_meli_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Mije2 pona (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Mije2_pona_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Mije2 sama (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Mije2_sama_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Mije2 tonsi (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Mije2_tonsi_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Mije2 unpa (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Mije2_unpa_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+    <div class="category-item">
+     <span class="category-name">
+      Mije2 wawa (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:Mije2_wawa_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+   </div>
+  </div>
+  <div class="section" id="anomalies">
+   <h2 style="color: #c7254e;">
+    Anomalies (1 categories)
+   </h2>
+   <div class="button-container">
+    <button onclick="openAllInSection('anomalies')">
+     Open All Anomalies
+    </button>
+    <button onclick="openFirstNInSection('anomalies', 50)">
+     Open First 50
+    </button>
+   </div>
+   <div class="category-list">
+    <div class="category-item">
+     <span class="category-name">
+      AkesiKon (toki pona)
+     </span>
+     -
+     <a class="category-link" href="https://commons.wikimedia.org/wiki/Category:AkesiKon_(toki_pona)" target="_blank">
+      Create on Commons
+     </a>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
