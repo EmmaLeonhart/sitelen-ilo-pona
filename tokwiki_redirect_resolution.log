@@ -1,0 +1,740 @@
+Reading CSV...
+Loaded 866 rows
+Creating backup: tokipona_wiki_coverage_before_redirects.csv
+
+[1] Checking: anpa lawa
+  ✓ Not a redirect
+
+[2] Checking: ijo lawa
+  → REDIRECT: ijo lawa → ijo ni li lon sijelo li ken ante e nasin sijelo e pilin
+
+[3] Checking: ijo leko
+  → REDIRECT: ijo leko → leko tomo
+
+[4] Checking: ijo lili
+  → REDIRECT: ijo lili → wan lili
+
+[5] Checking: ijo lon
+  → REDIRECT: ijo lon → ijo wile
+
+[6] Checking: ijo sijelo
+  → REDIRECT: ijo sijelo → ijo wile
+
+[7] Checking: ijo wile
+  ✓ Not a redirect
+
+[8] Checking: ilo kipisi
+  → REDIRECT: ilo kipisi → ilo
+
+[9] Checking: ilo lukin
+  ✓ Not a redirect
+
+[10] Checking: ilo musi
+  ✓ Not a redirect
+
+[11] Checking: ilo nanpa
+  ✓ Not a redirect
+
+[12] Checking: ilo suno
+  → REDIRECT: ilo suno → suno
+
+[13] Checking: ilo toki
+  ✓ Not a redirect
+
+[14] Checking: jan lawa
+  ✓ Not a redirect
+
+[15] Checking: jan lili
+  ✓ Not a redirect
+
+[16] Checking: jan nasa
+  → REDIRECT: jan nasa → sitelen Parahumans
+
+[17] Checking: jan pali
+  → REDIRECT: jan pali → pali
+
+[18] Checking: jan sama
+  → REDIRECT: jan sama → jan pi mama sama
+
+[19] Checking: jan sewi
+  ✓ Not a redirect
+
+[20] Checking: jan sona
+  ✓ Not a redirect
+
+[21] Checking: jan utala
+  ✓ Not a redirect
+
+[22] Checking: kalama musi
+  ✓ Not a redirect
+
+[23] Checking: kama sona
+  ✓ Not a redirect
+
+[24] Checking: kili palisa
+  ✓ Not a redirect
+
+[25] Checking: kiwen kasi
+  ✓ Not a redirect
+
+[26] Checking: ko jaki
+  ✓ Not a redirect
+
+[27] Checking: ko lete
+  ✓ Not a redirect
+
+[28] Checking: kule kasi
+  → REDIRECT: kule kasi → laso
+
+[29] Checking: len lawa
+  ✓ Not a redirect
+
+[30] Checking: len noka
+  ✓ Not a redirect
+
+[31] Checking: linja pona
+  ✓ Not a redirect
+
+[32] Checking: linja sike
+  → REDIRECT: linja sike → sitelen pona
+
+[33] Checking: lipu kule
+  ✓ Not a redirect
+
+[34] Checking: lipu nimi
+  ✓ Not a redirect
+
+[35] Checking: lipu sewi
+  ✓ Not a redirect
+
+[36] Checking: lipu sona
+  ✓ Not a redirect
+
+[37] Checking: lipu tenpo
+  ✓ Not a redirect
+
+[38] Checking: lipu toki
+  → REDIRECT: lipu toki → lipu
+
+[39] Checking: luka luka
+  → REDIRECT: luka luka → nanpa 10
+
+[40] Checking: luka luka luka
+  → REDIRECT: luka luka luka → nanpa 15
+
+[41] Checking: luka luka tu
+  → REDIRECT: luka luka tu → nanpa 12
+
+[42] Checking: luka luka tu tu
+  → REDIRECT: luka luka tu tu → nanpa 14
+
+[43] Checking: luka luka tu wan
+  → REDIRECT: luka luka tu wan → nanpa 13
+
+[44] Checking: luka luka wan
+  → REDIRECT: luka luka wan → nanpa 11
+
+[45] Checking: luka tu
+  → REDIRECT: luka tu → nanpa 7
+
+[46] Checking: luka tu tu
+  → REDIRECT: luka tu tu → nanpa 9
+
+[47] Checking: luka tu wan
+  → REDIRECT: luka tu wan → nanpa 8
+
+[48] Checking: luka wan
+  → REDIRECT: luka wan → nanpa 6
+
+[49] Checking: lupa meli
+  ✓ Not a redirect
+
+[50] Checking: lupa monsi
+  ✓ Not a redirect
+
+[51] Checking: ma ale
+  → REDIRECT: ma ale → ma
+
+[52] Checking: ma ali
+  → REDIRECT: ma ali → ma
+
+[53] Checking: ma pona
+  ✓ Not a redirect
+
+[54] Checking: ma tomo
+  ✓ Not a redirect
+
+[55] Checking: meli tonsi
+  → REDIRECT: meli tonsi → tonsi
+
+[56] Checking: mije tonsi
+  → REDIRECT: mije tonsi → tonsi
+
+[57] Checking: nasin nanpa
+  → REDIRECT: nasin nanpa → nanpa
+
+[58] Checking: nasin sitelen
+  → REDIRECT: nasin sitelen → sitelen toki
+
+[59] Checking: nena kon
+  ✓ Not a redirect
+
+[60] Checking: nena kute
+  → REDIRECT: nena kute → kute
+
+[61] Checking: nena mama
+  → REDIRECT: nena mama → nena pi sinpin sijelo
+
+[62] Checking: nimi sin
+  ✓ Not a redirect
+
+[63] Checking: palisa lili
+  ✓ Not a redirect
+
+[64] Checking: pilin ike
+  ✓ Not a redirect
+
+[65] Checking: pilin pona
+  ✓ Not a redirect
+
+[66] Checking: poki len
+  ✓ Not a redirect
+
+[67] Checking: poki lili
+  → REDIRECT: poki lili → poki sijelo lili
+
+[68] Checking: poki telo
+  ✓ Not a redirect
+
+[69] Checking: pona lukin
+  ✓ Not a redirect
+
+[70] Checking: sitelen ma
+  ✓ Not a redirect
+
+[71] Checking: sitelen pona
+  ✓ Not a redirect
+
+[72] Checking: sitelen sitelen
+  ✓ Not a redirect
+
+[73] Checking: sitelen tawa
+  ✓ Not a redirect
+
+[74] Checking: sitelen toki
+  ✓ Not a redirect
+
+[75] Checking: sona ma
+  ✓ Not a redirect
+
+[76] Checking: sona nanpa
+  ✓ Not a redirect
+
+[77] Checking: sona pona
+  ✓ Not a redirect
+
+[78] Checking: sona sijelo
+  → REDIRECT: sona sijelo → sona pi sijelo ijo
+
+[79] Checking: sona toki
+  ✓ Not a redirect
+
+[80] Checking: suno sama
+  → REDIRECT: suno sama → lipu su
+
+[81] Checking: supa lape
+  ✓ Not a redirect
+
+[82] Checking: supa monsi
+  ✓ Not a redirect
+
+[83] Checking: tenpo ni
+  ✓ Not a redirect
+
+[84] Checking: toki pona
+  ✓ Not a redirect
+
+[85] Checking: toki sin
+  ✓ Not a redirect
+
+[86] Checking: toki sona
+  ✓ Not a redirect
+
+[87] Checking: tomo moku
+  → REDIRECT: tomo moku → tomo esun moku
+
+[88] Checking: tomo sona
+  ✓ Not a redirect
+
+[89] Checking: tomo tawa
+  ✓ Not a redirect
+
+[90] Checking: tomo utala
+  ✓ Not a redirect
+
+[91] Checking: tu tu
+  ✓ Not a redirect
+
+[92] Checking: tu wan
+  ✓ Not a redirect
+
+[93] Checking: a
+  → REDIRECT: a → sitelen A
+
+[94] Checking: akesi
+  ✓ Not a redirect
+
+[95] Checking: ala
+  ✓ Not a redirect
+
+[96] Checking: alasa
+  ✓ Not a redirect
+
+[97] Checking: ale
+  ✓ Not a redirect
+
+[98] Checking: anpa
+  ✓ Not a redirect
+
+[99] Checking: ante
+  ✓ Not a redirect
+
+[100] Checking: e
+  → REDIRECT: e → sitelen E
+
+[101] Checking: esun
+  ✓ Not a redirect
+
+[102] Checking: ijo
+  ✓ Not a redirect
+
+[103] Checking: ike
+  ✓ Not a redirect
+
+[104] Checking: ilo
+  ✓ Not a redirect
+
+[105] Checking: jaki
+  ✓ Not a redirect
+
+[106] Checking: jan
+  ✓ Not a redirect
+
+[107] Checking: jasima
+  ✓ Not a redirect
+
+[108] Checking: jelo
+  ✓ Not a redirect
+
+[109] Checking: jo
+  ✓ Not a redirect
+
+[110] Checking: kala
+  ✓ Not a redirect
+
+[111] Checking: kalama
+  ✓ Not a redirect
+
+[112] Checking: kasi
+  ✓ Not a redirect
+
+[113] Checking: ken
+  ✓ Not a redirect
+
+[114] Checking: kijetesantakalu
+  ✓ Not a redirect
+
+[115] Checking: kili
+  ✓ Not a redirect
+
+[116] Checking: kiwen
+  ✓ Not a redirect
+
+[117] Checking: ko
+  ✓ Not a redirect
+
+[118] Checking: kokosila
+  → REDIRECT: kokosila → nimi:kokosila
+
+[119] Checking: kon
+  ✓ Not a redirect
+
+[120] Checking: ku
+  → REDIRECT: ku → lipu ku
+
+[121] Checking: kule
+  ✓ Not a redirect
+
+[122] Checking: kulupu
+  ✓ Not a redirect
+
+[123] Checking: kute
+  ✓ Not a redirect
+
+[124] Checking: lanpan
+  ✓ Not a redirect
+
+[125] Checking: lape
+  ✓ Not a redirect
+
+[126] Checking: laso
+  ✓ Not a redirect
+
+[127] Checking: lawa
+  ✓ Not a redirect
+
+[128] Checking: leko
+  ✓ Not a redirect
+
+[129] Checking: len
+  ✓ Not a redirect
+
+[130] Checking: lete
+  ✓ Not a redirect
+
+[131] Checking: linja
+  ✓ Not a redirect
+
+[132] Checking: lipu
+  ✓ Not a redirect
+
+[133] Checking: loje
+  ✓ Not a redirect
+
+[134] Checking: lon
+  ✓ Not a redirect
+
+[135] Checking: luka
+  ✓ Not a redirect
+
+[136] Checking: lukin
+  ✓ Not a redirect
+
+[137] Checking: lupa
+  ✓ Not a redirect
+
+[138] Checking: ma
+  ✓ Not a redirect
+
+[139] Checking: mama
+  ✓ Not a redirect
+
+[140] Checking: mani
+  ✓ Not a redirect
+
+[141] Checking: meli
+  ✓ Not a redirect
+
+[142] Checking: mi
+  → REDIRECT: mi → nimi:mi
+
+[143] Checking: mije
+  ✓ Not a redirect
+
+[144] Checking: misikeke
+  → REDIRECT: misikeke → ijo pi pona sijelo
+
+[145] Checking: moku
+  ✓ Not a redirect
+
+[146] Checking: moli
+  ✓ Not a redirect
+
+[147] Checking: monsi
+  ✓ Not a redirect
+
+[148] Checking: monsuta
+  ✓ Not a redirect
+
+[149] Checking: mu
+  ✓ Not a redirect
+
+[150] Checking: mun
+  ✓ Not a redirect
+
+[151] Checking: musi
+  ✓ Not a redirect
+
+[152] Checking: n
+  → REDIRECT: n → sitelen N
+
+[153] Checking: namako
+  ✓ Not a redirect
+
+[154] Checking: nanpa
+  ✓ Not a redirect
+
+[155] Checking: nasa
+  → REDIRECT: nasa → ike lawa
+
+[156] Checking: nasin
+  ✓ Not a redirect
+
+[157] Checking: nena
+  ✓ Not a redirect
+
+[158] Checking: ni
+  → REDIRECT: ni → nimi:ni
+
+[159] Checking: nimi
+  ✓ Not a redirect
+
+[160] Checking: noka
+  ✓ Not a redirect
+
+[161] Checking: o
+  → REDIRECT: o → sitelen O
+
+[162] Checking: oko
+  → REDIRECT: oko → lukin
+
+[163] Checking: olin
+  ✓ Not a redirect
+
+[164] Checking: ona
+  → REDIRECT: ona → nimi:ona
+
+[165] Checking: pakala
+  ✓ Not a redirect
+
+[166] Checking: pali
+  ✓ Not a redirect
+
+[167] Checking: palisa
+  ✓ Not a redirect
+
+[168] Checking: pan
+  ✓ Not a redirect
+
+[169] Checking: pilin
+  ✓ Not a redirect
+
+[170] Checking: pimeja
+  ✓ Not a redirect
+
+[171] Checking: pipi
+  ✓ Not a redirect
+
+[172] Checking: poka
+  ✓ Not a redirect
+
+[173] Checking: poki
+  ✓ Not a redirect
+
+[174] Checking: pona
+  ✓ Not a redirect
+
+[175] Checking: pu
+  → REDIRECT: pu → lipu pu
+
+[176] Checking: seli
+  ✓ Not a redirect
+
+[177] Checking: selo
+  ✓ Not a redirect
+
+[178] Checking: sewi
+  ✓ Not a redirect
+
+[179] Checking: sijelo
+  ✓ Not a redirect
+
+[180] Checking: sike
+  ✓ Not a redirect
+
+[181] Checking: sina
+  → REDIRECT: sina → nimi:sina
+
+[182] Checking: sinpin
+  ✓ Not a redirect
+
+[183] Checking: sitelen
+  ✓ Not a redirect
+
+[184] Checking: soko
+  ✓ Not a redirect
+
+[185] Checking: sona
+  ✓ Not a redirect
+
+[186] Checking: soweli
+  ✓ Not a redirect
+
+[187] Checking: suli
+  → REDIRECT: suli → suli ijo
+
+[188] Checking: suno
+  ✓ Not a redirect
+
+[189] Checking: supa
+  ✓ Not a redirect
+
+[190] Checking: suwi
+  ✓ Not a redirect
+
+[191] Checking: tawa
+  ✓ Not a redirect
+
+[192] Checking: telo
+  ✓ Not a redirect
+
+[193] Checking: tenpo
+  ✓ Not a redirect
+
+[194] Checking: toki
+  ✓ Not a redirect
+
+[195] Checking: tomo
+  ✓ Not a redirect
+
+[196] Checking: tonsi
+  ✓ Not a redirect
+
+[197] Checking: tu
+  ✓ Not a redirect
+
+[198] Checking: unpa
+  ✓ Not a redirect
+
+[199] Checking: uta
+  ✓ Not a redirect
+
+[200] Checking: utala
+  ✓ Not a redirect
+
+[201] Checking: walo
+  ✓ Not a redirect
+
+[202] Checking: wan
+  ✓ Not a redirect
+
+[203] Checking: waso
+  ✓ Not a redirect
+
+[204] Checking: wawa
+  ✓ Not a redirect
+
+[205] Checking: weka
+  ✓ Not a redirect
+
+[206] Checking: wile
+  ✓ Not a redirect
+
+[207] Checking: ali
+  → REDIRECT: ali → ale
+
+[208] Checking: jonke
+  → REDIRECT: jonke → waso telo
+
+[209] Checking: kisa
+  → REDIRECT: kisa → soweli Peli Katu
+
+[210] Checking: kutopoma
+  → REDIRECT: kutopoma → kulupu pi toki pona pi ma Anku
+
+[211] Checking: linluwi
+  → REDIRECT: linluwi → kulupu pi ilo sona
+
+[212] Checking: majuna
+  → REDIRECT: majuna → tenpo pini
+
+[213] Checking: melome
+  → REDIRECT: melome → meli pi olin meli
+
+[214] Checking: mulapisu
+  → REDIRECT: mulapisu → pan kili pi ma Italija
+
+[215] Checking: nimisin
+  → REDIRECT: nimisin → nimi sin
+
+[216] Checking: nja
+  → REDIRECT: nja → soweli Peli Katu
+
+[217] Checking: soto
+  → REDIRECT: soto → poka open
+
+[218] Checking: su
+  → REDIRECT: su → lipu su
+
+[219] Checking: sutopatikuna
+  → REDIRECT: sutopatikuna → soweli pi uta waso
+
+[220] Checking: teje
+  → REDIRECT: teje → poka pini
+
+============================================================
+Writing updated CSV...
+✓ Done!
+
+Summary:
+  Checked: 220 articles on tok.wikipedia.org
+  Redirects resolved: 64
+  Direct articles: 156
+
+Redirects found:
+  ijo lawa → ijo ni li lon sijelo li ken ante e nasin sijelo e pilin
+  ijo leko → ijo pi sinpin luka wan pi palisa luka luka tu pi nena luka tu wan → leko tomo
+  ijo lili → wan lili
+  ijo lon → ijo wile
+  ijo sijelo → ijo wile
+  ilo kipisi → ilo
+  ilo suno → suno
+  jan nasa → sitelen Parahumans
+  jan pali → pali
+  jan sama → jan pi mama sama
+  kule kasi → laso
+  linja sike → sitelen pona
+  lipu toki → lipu
+  luka luka → nanpa 10
+  luka luka luka → nanpa 15
+  luka luka tu → nanpa 12
+  luka luka tu tu → nanpa 14
+  luka luka tu wan → nanpa 13
+  luka luka wan → nanpa 11
+  luka tu → nanpa 7
+  luka tu tu → nanpa 9
+  luka tu wan → nanpa 8
+  luka wan → nanpa 6
+  ma ale → ma
+  ma ali → ma
+  meli tonsi → tonsi
+  mije tonsi → tonsi
+  nasin nanpa → nanpa
+  nasin sitelen → sitelen toki
+  nena kute → kute
+  nena mama → nena pi sinpin sijelo
+  poki lili → poki sijelo lili
+  sona sijelo → sona pi sijelo ijo
+  suno sama → lipu su
+  tomo moku → tomo esun moku
+  a → sitelen A
+  e → sitelen E
+  kokosila → nimi:kokosila
+  ku → lipu ku
+  mi → nimi:mi
+  misikeke → ijo pi pona sijelo
+  n → sitelen N
+  nasa → ike lawa
+  ni → nimi:ni
+  o → sitelen O
+  oko → lukin
+  ona → nimi:ona
+  pu → lipu pu
+  sina → nimi:sina
+  suli → suli kiwen → suli ijo
+  ali → ale
+  jonke → waso telo
+  kisa → soweli Peli Katu
+  kutopoma → kulupu pi toki pona pi ma Anku
+  linluwi → kulupu pi ilo sona
+  majuna → tenpo pini
+  melome → meli pi olin meli
+  mulapisu → pan kili pi ma Italija
+  nimisin → nimi sin
+  nja → soweli Peli Katu
+  soto → poka open
+  su → lipu su
+  sutopatikuna → soweli pi uta waso
+  teje → poka pini
+
+Detailed redirect list saved to: tokwiki_redirects_resolved.txt

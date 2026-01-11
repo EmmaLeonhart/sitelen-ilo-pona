@@ -41,7 +41,9 @@
       "Bash(dir:*)",
       "Bash(start redlinked_categories.html)",
       "Bash(start redlinked_categories_categorized.html)",
-      "Bash(tee:*)"
+      "Bash(tee:*)",
+      "Bash(git check-ignore:*)",
+      "Bash(git status:*)"
     ]
   }
 }
