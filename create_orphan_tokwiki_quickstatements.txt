@@ -1,0 +1,77 @@
+CREATE
+LAST|Ltok|"ijo leko"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"ijo leko"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"leko_tomo"
+
+CREATE
+LAST|Ltok|"jan sama"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"jan sama"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"jan_pi_mama_sama"
+
+CREATE
+LAST|Ltok|"kama sona"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"kama sona"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"kama_sona"
+
+CREATE
+LAST|Ltok|"len lawa"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"len lawa"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"len_lawa"
+
+CREATE
+LAST|Ltok|"ma pona"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"ma pona"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"ma_pona"
+
+CREATE
+LAST|Ltok|"pilin ike"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"pilin ike"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"pilin_ike"
+
+CREATE
+LAST|Ltok|"poki len"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"poki len"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"poki_len"
+
+CREATE
+LAST|Ltok|"sitelen ma"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"sitelen ma"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"sitelen_ma"
+
+CREATE
+LAST|Ltok|"supa monsi"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"supa monsi"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"supa_monsi"
+
+CREATE
+LAST|Ltok|"toki sona"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"toki sona"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"toki_sona"
+
+CREATE
+LAST|Ltok|"kutopoma"
+LAST|Dtok|"nimi pi toki pona"
+LAST|Len|"kutopoma"
+LAST|Den|"Toki Pona word"
+LAST|Stokwiki|"kulupu_pi_toki_pona_pi_ma_Anku"
+

@@ -1,0 +1,20 @@
+QuickStatements to CREATE Wikidata items for orphan tok.wikipedia articles
+======================================================================
+
+Total items to create: 11
+
+Items with tok.wikipedia but NO Wikidata (neither Commons nor tok.wikipedia)
+
+Word                 Category                                 Tok.Wikipedia Page            
+----------------------------------------------------------------------
+ijo leko             Sitelen Pona ligatures                   leko_tomo                     
+jan sama             Sitelen Pona ligatures                   jan_pi_mama_sama              
+kama sona            Sitelen Pona ligatures                   kama_sona                     
+len lawa             Sitelen Pona ligatures                   len_lawa                      
+ma pona              Sitelen Pona ligatures                   ma_pona                       
+pilin ike            Sitelen Pona ligatures                   pilin_ike                     
+poki len             Sitelen Pona ligatures                   poki_len                      
+sitelen ma           Sitelen Pona ligatures                   sitelen_ma                    
+supa monsi           Sitelen Pona ligatures                   supa_monsi                    
+toki sona            Sitelen Pona ligatures                   toki_sona                     
+kutopoma             Toki pona rare words                     kulupu_pi_toki_pona_pi_ma_Anku
