@@ -44,7 +44,10 @@
       "Bash(tee:*)",
       "Bash(git check-ignore:*)",
       "Bash(git status:*)",
-      "Bash(git reset:*)"
+      "Bash(git reset:*)",
+      "Bash(timeout 2 tail:*)",
+      "Bash(exit:*)",
+      "WebFetch(domain:pastebin.com)"
     ]
   }
 }
