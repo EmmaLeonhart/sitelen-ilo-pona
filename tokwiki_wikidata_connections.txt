@@ -1,10 +1,11 @@
 Tok Wikipedia Wikidata Connections
 ============================================================
 
-Total connections found: 209
+Total connections found: 220
 
 anpa lawa            → anpa lawa                                → Q13164428
 ijo lawa             → ijo ni li lon sijelo li ken ante e nasin sijelo e pilin → Q11364
+ijo leko             → leko tomo                                → Q262959
 ijo lili             → wan lili                                 → Q1621273
 ijo lon              → ijo wile                                 → Q7239
 ijo sijelo           → ijo wile                                 → Q7239
@@ -19,15 +20,18 @@ jan lawa             → jan lawa                                 → Q1251441
 jan lili             → jan lili                                 → Q7569
 jan nasa             → sitelen Parahumans                       → Q29471598
 jan pali             → pali                                     → Q268378
+jan sama             → jan pi mama sama                         → Q137760727
 jan sewi             → jan sewi                                 → Q178885
 jan sona             → jan sona                                 → Q20826540
 jan utala            → jan utala                                → Q4991371
 kalama musi          → kalama musi                              → Q638
+kama sona            → kama sona                                → Q137760728
 kili palisa          → kili palisa                              → Q503
 kiwen kasi           → kiwen kasi                               → Q287
 ko jaki              → ko jaki                                  → Q496
 ko lete              → ko lete                                  → Q7561
 kule kasi            → laso                                     → Q10834659
+len lawa             → len lawa                                 → Q137760729
 len noka             → len noka                                 → Q137261308
 linja pona           → linja pona                               → Q124843967
 linja sike           → sitelen pona                             → Q58372003
@@ -51,6 +55,7 @@ lupa meli            → lupa meli                                → Q137441001
 lupa monsi           → lupa monsi                               → Q497
 ma ale               → ma                                       → Q2
 ma ali               → ma                                       → Q2
+ma pona              → ma pona                                  → Q137760731
 ma tomo              → ma tomo                                  → Q515
 meli tonsi           → tonsi                                    → Q189125
 mije tonsi           → tonsi                                    → Q189125
@@ -61,10 +66,13 @@ nena kute            → kute                                     → Q7362
 nena mama            → nena pi sinpin sijelo                    → Q9103
 nimi sin             → nimi sin                                 → Q130989
 palisa lili          → palisa lili                              → Q10876
+pilin ike            → pilin ike                                → Q137760732
 pilin pona           → pilin pona                               → Q8
+poki len             → poki len                                 → Q137760733
 poki lili            → poki sijelo lili                         → Q7868
 poki telo            → poki telo                                → Q2453629
 pona lukin           → pona lukin                               → Q7242
+sitelen ma           → sitelen ma                               → Q137760735
 sitelen pona         → sitelen pona                             → Q58372003
 sitelen sitelen      → sitelen sitelen                          → Q58372017
 sitelen tawa         → sitelen tawa                             → Q11424
@@ -76,9 +84,11 @@ sona sijelo          → sona pi sijelo ijo                       → Q8087
 sona toki            → sona toki                                → Q8162
 suno sama            → lipu su                                  → Q124422915
 supa lape            → supa lape                                → Q42177
+supa monsi           → supa monsi                               → Q137760736
 tenpo ni             → tenpo ni                                 → Q193168
 toki pona            → toki pona                                → Q36846
 toki sin             → toki sin                                 → Q33215
+toki sona            → toki sona                                → Q137760737
 tomo moku            → tomo esun moku                           → Q11707
 tomo sona            → tomo sona                                → Q3914
 tomo tawa            → tomo tawa                                → Q11436
@@ -202,6 +212,7 @@ wile                 → wile                                     → Q775842
 ali                  → ale                                      → Q2165236
 jonke                → waso telo                                → Q3303681
 kisa                 → soweli Peli Katu                         → Q146
+kutopoma             → kulupu pi toki pona pi ma Anku           → Q137760739
 linluwi              → kulupu pi ilo sona                       → Q75
 majuna               → tenpo pini                               → Q309
 melome               → meli pi olin meli                        → Q9800899
