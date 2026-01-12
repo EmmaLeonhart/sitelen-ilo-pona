@@ -1,0 +1,110 @@
+CREATE
+LAST|Lmul|"jonke"
+LAST|Ltok|"jonke"
+LAST|Len|"jonke"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jonke (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-jonke.svg"
+LAST|P11250|"jonke"
+LAST|P1268|Q3303681
+
+CREATE
+LAST|Lmul|"kisa"
+LAST|Ltok|"kisa"
+LAST|Len|"kisa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kisa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kisa.svg"
+LAST|P11250|"kisa"
+LAST|P1268|Q146
+
+CREATE
+LAST|Lmul|"kutopoma"
+LAST|Ltok|"kutopoma"
+LAST|Len|"kutopoma"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kutopoma (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kutopoma.svg"
+LAST|P11250|"kutopoma"
+LAST|P1268|Q137760739
+
+CREATE
+LAST|Lmul|"linluwi"
+LAST|Ltok|"linluwi"
+LAST|Len|"linluwi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Linluwi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-linluwi.svg"
+LAST|P11250|"linluwi"
+LAST|P1268|Q75
+
+CREATE
+LAST|Lmul|"melome"
+LAST|Ltok|"melome"
+LAST|Len|"melome"
+LAST|P31|Q137374997
+LAST|P373|"Category:Melome (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-melome.svg"
+LAST|P11250|"melome"
+LAST|P1268|Q9800899
+
+CREATE
+LAST|Lmul|"mulapisu"
+LAST|Ltok|"mulapisu"
+LAST|Len|"mulapisu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mulapisu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-mulapisu.svg"
+LAST|P11250|"mulapisu"
+LAST|P1268|Q177
+
+CREATE
+LAST|Lmul|"nimisin"
+LAST|Ltok|"nimisin"
+LAST|Len|"nimisin"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nimisin (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-nimisin.svg"
+LAST|P11250|"nimisin"
+LAST|P1268|Q130989
+
+CREATE
+LAST|Lmul|"nja"
+LAST|Ltok|"nja"
+LAST|Len|"nja"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nja (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-nja.svg"
+LAST|P11250|"nja"
+LAST|P1268|Q146
+
+CREATE
+LAST|Lmul|"soto"
+LAST|Ltok|"soto"
+LAST|Len|"soto"
+LAST|P31|Q137374997
+LAST|P373|"Category:Soto (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-soto.svg"
+LAST|P11250|"soto"
+LAST|P1268|Q13196750
+
+CREATE
+LAST|Lmul|"sutopatikuna"
+LAST|Ltok|"sutopatikuna"
+LAST|Len|"sutopatikuna"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sutopatikuna (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-sutopatikuna.svg"
+LAST|P11250|"sutopatikuna"
+LAST|P1268|Q15343
+
+CREATE
+LAST|Lmul|"teje"
+LAST|Ltok|"teje"
+LAST|Len|"teje"
+LAST|P31|Q137374997
+LAST|P373|"Category:Teje (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-teje.svg"
+LAST|P11250|"teje"
+LAST|P1268|Q14565199
+

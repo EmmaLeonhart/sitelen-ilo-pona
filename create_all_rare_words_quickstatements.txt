@@ -1,0 +1,2514 @@
+CREATE
+LAST|Lmul|"aasu"
+LAST|Ltok|"aasu"
+LAST|Len|"aasu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Aasun (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-aasun.svg"
+
+CREATE
+LAST|Lmul|"aj"
+LAST|Ltok|"aj"
+LAST|Len|"aj"
+LAST|P31|Q137374997
+LAST|P373|"Category:Aja (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Aja.svg"
+
+CREATE
+LAST|Lmul|"ak"
+LAST|Ltok|"ak"
+LAST|Len|"ak"
+LAST|P31|Q137374997
+LAST|P373|"Category:Aka (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-aka.svg"
+
+CREATE
+LAST|Lmul|"ak"
+LAST|Ltok|"ak"
+LAST|Len|"ak"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ako (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-ako.svg"
+
+CREATE
+LAST|Lmul|"ak"
+LAST|Ltok|"ak"
+LAST|Len|"ak"
+LAST|P31|Q137374997
+LAST|P373|"Category:Aku (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-aku.svg"
+
+CREATE
+LAST|Lmul|"al"
+LAST|Ltok|"al"
+LAST|Len|"al"
+LAST|P31|Q137374997
+LAST|P373|"Category:Alu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-alu.svg"
+
+CREATE
+LAST|Lmul|"alent"
+LAST|Ltok|"alent"
+LAST|Len|"alent"
+LAST|P31|Q137374997
+LAST|P373|"Category:Alente (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-alente.svg"
+
+CREATE
+LAST|Lmul|"alis"
+LAST|Ltok|"alis"
+LAST|Len|"alis"
+LAST|P31|Q137374997
+LAST|P373|"Category:Alisa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Alisa.svg"
+
+CREATE
+LAST|Lmul|"amank"
+LAST|Ltok|"amank"
+LAST|Len|"amank"
+LAST|P31|Q137374997
+LAST|P373|"Category:Amanka (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Amanka.svg"
+
+CREATE
+LAST|Lmul|"ameli"
+LAST|Ltok|"ameli"
+LAST|Len|"ameli"
+LAST|P31|Q137374997
+LAST|P373|"Category:Amelin (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Amelin.svg"
+
+CREATE
+LAST|Lmul|"amonk"
+LAST|Ltok|"amonk"
+LAST|Len|"amonk"
+LAST|P31|Q137374997
+LAST|P373|"Category:Amonka (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Amonka.svg"
+
+CREATE
+LAST|Lmul|"an"
+LAST|Ltok|"an"
+LAST|Len|"an"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ana (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-ana.svg"
+
+CREATE
+LAST|Lmul|"an"
+LAST|Ltok|"an"
+LAST|Len|"an"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ani (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-ani.svg"
+
+CREATE
+LAST|Lmul|"ans"
+LAST|Ltok|"ans"
+LAST|Len|"ans"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ansu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Ansu.svg"
+
+CREATE
+LAST|Lmul|"ant"
+LAST|Ltok|"ant"
+LAST|Len|"ant"
+LAST|P31|Q137374997
+LAST|P373|"Category:Anta (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-anta.svg"
+
+CREATE
+LAST|Lmul|"antepa"
+LAST|Ltok|"antepa"
+LAST|Len|"antepa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Antepan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Antepan.svg"
+
+CREATE
+LAST|Lmul|"antikontitutonelem"
+LAST|Ltok|"antikontitutonelem"
+LAST|Len|"antikontitutonelem"
+LAST|P31|Q137374997
+LAST|P373|"Category:Antikontitutonelema (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-antikontitutonelema.svg"
+
+CREATE
+LAST|Lmul|"ap"
+LAST|Ltok|"ap"
+LAST|Len|"ap"
+LAST|P31|Q137374997
+LAST|P373|"Category:Api (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-api.svg"
+
+CREATE
+LAST|Lmul|"apel"
+LAST|Ltok|"apel"
+LAST|Len|"apel"
+LAST|P31|Q137374997
+LAST|P373|"Category:Apelo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-apelo.svg"
+
+CREATE
+LAST|Lmul|"as"
+LAST|Ltok|"as"
+LAST|Len|"as"
+LAST|P31|Q137374997
+LAST|P373|"Category:Asu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-asu.svg"
+
+CREATE
+LAST|Lmul|"asik"
+LAST|Ltok|"asik"
+LAST|Len|"asik"
+LAST|P31|Q137374997
+LAST|P373|"Category:Asiku (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Asiku.svg"
+
+CREATE
+LAST|Lmul|"asuk"
+LAST|Ltok|"asuk"
+LAST|Len|"asuk"
+LAST|P31|Q137374997
+LAST|P373|"Category:Asuki (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Asuki.svg"
+
+CREATE
+LAST|Lmul|"asut"
+LAST|Ltok|"asut"
+LAST|Len|"asut"
+LAST|P31|Q137374997
+LAST|P373|"Category:Asuto (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Asuto.svg"
+
+CREATE
+LAST|Lmul|"at"
+LAST|Ltok|"at"
+LAST|Len|"at"
+LAST|P31|Q137374997
+LAST|P373|"Category:Atu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Atu.svg"
+
+CREATE
+LAST|Lmul|"awas"
+LAST|Ltok|"awas"
+LAST|Len|"awas"
+LAST|P31|Q137374997
+LAST|P373|"Category:Awase (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-awase.svg"
+
+CREATE
+LAST|Lmul|"ek"
+LAST|Ltok|"ek"
+LAST|Len|"ek"
+LAST|P31|Q137374997
+LAST|P373|"Category:Eki (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-eki.svg"
+
+CREATE
+LAST|Lmul|"ek"
+LAST|Ltok|"ek"
+LAST|Len|"ek"
+LAST|P31|Q137374997
+LAST|P373|"Category:Eko (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Eko.svg"
+
+CREATE
+LAST|Lmul|"ele"
+LAST|Ltok|"ele"
+LAST|Len|"ele"
+LAST|P31|Q137374997
+LAST|P373|"Category:Elen (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-elen.svg"
+
+CREATE
+LAST|Lmul|"elik"
+LAST|Ltok|"elik"
+LAST|Len|"elik"
+LAST|P31|Q137374997
+LAST|P373|"Category:Eliki (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-eliki.svg"
+
+CREATE
+LAST|Lmul|"en"
+LAST|Ltok|"en"
+LAST|Len|"en"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ene (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-ene.svg"
+
+CREATE
+LAST|Lmul|"en"
+LAST|Ltok|"en"
+LAST|Len|"en"
+LAST|P31|Q137374997
+LAST|P373|"Category:Eni (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-eni.svg"
+
+CREATE
+LAST|Lmul|"enep"
+LAST|Ltok|"enep"
+LAST|Len|"enep"
+LAST|P31|Q137374997
+LAST|P373|"Category:Enepi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-enepi.svg"
+
+CREATE
+LAST|Lmul|"enk"
+LAST|Ltok|"enk"
+LAST|Len|"enk"
+LAST|P31|Q137374997
+LAST|P373|"Category:Enki (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Enki.svg"
+
+CREATE
+LAST|Lmul|"enk"
+LAST|Ltok|"enk"
+LAST|Len|"enk"
+LAST|P31|Q137374997
+LAST|P373|"Category:Enko (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-enko.svg"
+
+CREATE
+LAST|Lmul|"epikul"
+LAST|Ltok|"epikul"
+LAST|Len|"epikul"
+LAST|P31|Q137374997
+LAST|P373|"Category:Epikule (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-epikule.svg"
+
+CREATE
+LAST|Lmul|"esil"
+LAST|Ltok|"esil"
+LAST|Len|"esil"
+LAST|P31|Q137374997
+LAST|P373|"Category:Esile (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Esile.svg"
+
+CREATE
+LAST|Lmul|"et"
+LAST|Ltok|"et"
+LAST|Len|"et"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ete (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-ete.svg"
+
+CREATE
+LAST|Lmul|"ew"
+LAST|Ltok|"ew"
+LAST|Len|"ew"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ewe (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-ewe.svg"
+
+CREATE
+LAST|Lmul|"ewek"
+LAST|Ltok|"ewek"
+LAST|Len|"ewek"
+LAST|P31|Q137374997
+LAST|P373|"Category:Eweke (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Eweke.svg"
+
+CREATE
+LAST|Lmul|"fairfa"
+LAST|Ltok|"fairfa"
+LAST|Len|"fairfa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Fairfax (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Fairfax.svg"
+
+CREATE
+LAST|Lmul|"h"
+LAST|Ltok|"h"
+LAST|Len|"h"
+LAST|P31|Q137374997
+LAST|P373|"Category:HD (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-HD.svg"
+
+CREATE
+LAST|Lmul|"ik"
+LAST|Ltok|"ik"
+LAST|Len|"ik"
+LAST|P31|Q137374997
+LAST|P373|"Category:Iki (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-iki.svg"
+
+CREATE
+LAST|Lmul|"ilaj"
+LAST|Ltok|"ilaj"
+LAST|Len|"ilaj"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ilaje (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Ilaje.svg"
+
+CREATE
+LAST|Lmul|"ilap"
+LAST|Ltok|"ilap"
+LAST|Len|"ilap"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ilapa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-ilapa.svg"
+
+CREATE
+LAST|Lmul|"int"
+LAST|Ltok|"int"
+LAST|Len|"int"
+LAST|P31|Q137374997
+LAST|P373|"Category:Inta (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-inta.svg"
+
+CREATE
+LAST|Lmul|"ip"
+LAST|Ltok|"ip"
+LAST|Len|"ip"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ipi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-ipi.svg"
+
+CREATE
+LAST|Lmul|"ipa"
+LAST|Ltok|"ipa"
+LAST|Len|"ipa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ipan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Ipan.svg"
+
+CREATE
+LAST|Lmul|"ipaw"
+LAST|Ltok|"ipaw"
+LAST|Len|"ipaw"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ipawi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Ipawi.svg"
+
+CREATE
+LAST|Lmul|"isej"
+LAST|Ltok|"isej"
+LAST|Len|"isej"
+LAST|P31|Q137374997
+LAST|P373|"Category:Iseja (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Iseja.svg"
+
+CREATE
+LAST|Lmul|"isek"
+LAST|Ltok|"isek"
+LAST|Len|"isek"
+LAST|P31|Q137374997
+LAST|P373|"Category:Iseki (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-iseki.svg"
+
+CREATE
+LAST|Lmul|"isipi"
+LAST|Ltok|"isipi"
+LAST|Len|"isipi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Isipin (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-isipin.svg"
+
+CREATE
+LAST|Lmul|"itom"
+LAST|Ltok|"itom"
+LAST|Len|"itom"
+LAST|P31|Q137374997
+LAST|P373|"Category:Itomi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-itomi.svg"
+
+CREATE
+LAST|Lmul|"j"
+LAST|Ltok|"j"
+LAST|Len|"j"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ja (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-ja.svg"
+
+CREATE
+LAST|Lmul|"j"
+LAST|Ltok|"j"
+LAST|Len|"j"
+LAST|P31|Q137374997
+LAST|P373|"Category:Je (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-je.svg"
+
+CREATE
+LAST|Lmul|"j"
+LAST|Ltok|"j"
+LAST|Len|"j"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ju (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-ju.svg"
+
+CREATE
+LAST|Lmul|"jak"
+LAST|Ltok|"jak"
+LAST|Len|"jak"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jaku (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-jaku.svg"
+
+CREATE
+LAST|Lmul|"jala"
+LAST|Ltok|"jala"
+LAST|Len|"jala"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jalan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-jalan.svg"
+
+CREATE
+LAST|Lmul|"jalep"
+LAST|Ltok|"jalep"
+LAST|Len|"jalep"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jalepu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Jalepu.svg"
+
+CREATE
+LAST|Lmul|"jam"
+LAST|Ltok|"jam"
+LAST|Len|"jam"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jami (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-jami.svg"
+
+CREATE
+LAST|Lmul|"jan"
+LAST|Ltok|"jan"
+LAST|Len|"jan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jans (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-jans.svg"
+
+CREATE
+LAST|Lmul|"jasu"
+LAST|Ltok|"jasu"
+LAST|Len|"jasu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jasun (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Jasun.svg"
+
+CREATE
+LAST|Lmul|"je"
+LAST|Ltok|"je"
+LAST|Len|"je"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jew (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-jew.svg"
+LAST|P11250|"je"
+
+CREATE
+LAST|Lmul|"jes"
+LAST|Ltok|"jes"
+LAST|Len|"jes"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jesi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Jesi.svg"
+
+CREATE
+LAST|Lmul|"jet"
+LAST|Ltok|"jet"
+LAST|Len|"jet"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jete (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-jete.svg"
+
+CREATE
+LAST|Lmul|"jonata"
+LAST|Ltok|"jonata"
+LAST|Len|"jonata"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jonatan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Jonatan.svg"
+
+CREATE
+LAST|Lmul|"jonk"
+LAST|Ltok|"jonk"
+LAST|Len|"jonk"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jonke (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-jonke.svg"
+
+CREATE
+LAST|Lmul|"jul"
+LAST|Ltok|"jul"
+LAST|Len|"jul"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jule (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-jule.svg"
+
+CREATE
+LAST|Lmul|"jule"
+LAST|Ltok|"jule"
+LAST|Len|"jule"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jules (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Jules.svg"
+LAST|P11250|"jule"
+
+CREATE
+LAST|Lmul|"jum"
+LAST|Ltok|"jum"
+LAST|Len|"jum"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jume (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-jume.svg"
+
+CREATE
+LAST|Lmul|"junik"
+LAST|Ltok|"junik"
+LAST|Len|"junik"
+LAST|P31|Q137374997
+LAST|P373|"Category:Juniko (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Juniko.svg"
+
+CREATE
+LAST|Lmul|"jusijesuw"
+LAST|Ltok|"jusijesuw"
+LAST|Len|"jusijesuw"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jusijesuwa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Jusijesuwa.svg"
+
+CREATE
+LAST|Lmul|"jusis"
+LAST|Ltok|"jusis"
+LAST|Len|"jusis"
+LAST|P31|Q137374997
+LAST|P373|"Category:Jusisa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Jusisa.svg"
+
+CREATE
+LAST|Lmul|"k"
+LAST|Ltok|"k"
+LAST|Len|"k"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ke (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-ke.svg"
+
+CREATE
+LAST|Lmul|"k"
+LAST|Ltok|"k"
+LAST|Len|"k"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ki (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-ki.svg"
+
+CREATE
+LAST|Lmul|"ka"
+LAST|Ltok|"ka"
+LAST|Len|"ka"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kan.svg"
+LAST|P11250|"ka"
+
+CREATE
+LAST|Lmul|"kake"
+LAST|Ltok|"kake"
+LAST|Len|"kake"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kaken (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Kaken.svg"
+
+CREATE
+LAST|Lmul|"kal"
+LAST|Ltok|"kal"
+LAST|Len|"kal"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kalu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Kalu.svg"
+
+CREATE
+LAST|Lmul|"kalapisituw"
+LAST|Ltok|"kalapisituw"
+LAST|Len|"kalapisituw"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kalapisituwi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kalapisituwi.svg"
+
+CREATE
+LAST|Lmul|"kalijopilal"
+LAST|Ltok|"kalijopilal"
+LAST|Len|"kalijopilal"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kalijopilale (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kalijopilale.svg"
+
+CREATE
+LAST|Lmul|"kamalawal"
+LAST|Ltok|"kamalawal"
+LAST|Len|"kamalawal"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kamalawala (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kamalawala.svg"
+
+CREATE
+LAST|Lmul|"kan"
+LAST|Ltok|"kan"
+LAST|Len|"kan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kana (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kana.svg"
+LAST|P11250|"kan"
+
+CREATE
+LAST|Lmul|"kan"
+LAST|Ltok|"kan"
+LAST|Len|"kan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kani (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kani.svg"
+LAST|P11250|"kan"
+
+CREATE
+LAST|Lmul|"kankul"
+LAST|Ltok|"kankul"
+LAST|Len|"kankul"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kankuli (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kankuli.svg"
+
+CREATE
+LAST|Lmul|"kap"
+LAST|Ltok|"kap"
+LAST|Len|"kap"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kapa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kapa.svg"
+
+CREATE
+LAST|Lmul|"kapes"
+LAST|Ltok|"kapes"
+LAST|Len|"kapes"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kapesi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kapesi.svg"
+
+CREATE
+LAST|Lmul|"kapil"
+LAST|Ltok|"kapil"
+LAST|Len|"kapil"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kapilu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Kapilu.svg"
+
+CREATE
+LAST|Lmul|"kekantesantakal"
+LAST|Ltok|"kekantesantakal"
+LAST|Len|"kekantesantakal"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kekantesantakalu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kekantesantakalu.svg"
+
+CREATE
+LAST|Lmul|"kel"
+LAST|Ltok|"kel"
+LAST|Len|"kel"
+LAST|P31|Q137374997
+LAST|P373|"Category:Keli (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Keli.svg"
+
+CREATE
+LAST|Lmul|"kel"
+LAST|Ltok|"kel"
+LAST|Len|"kel"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kelo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kelo.svg"
+
+CREATE
+LAST|Lmul|"kem"
+LAST|Ltok|"kem"
+LAST|Len|"kem"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kemu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Kemu.svg"
+
+CREATE
+LAST|Lmul|"kep"
+LAST|Ltok|"kep"
+LAST|Len|"kep"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kepa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kepa.svg"
+
+CREATE
+LAST|Lmul|"kep"
+LAST|Ltok|"kep"
+LAST|Len|"kep"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kepi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Kepi.svg"
+
+CREATE
+LAST|Lmul|"kepe"
+LAST|Ltok|"kepe"
+LAST|Len|"kepe"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kepen (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kepen.svg"
+
+CREATE
+LAST|Lmul|"kes"
+LAST|Ltok|"kes"
+LAST|Len|"kes"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kese (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kese.svg"
+
+CREATE
+LAST|Lmul|"kew"
+LAST|Ltok|"kew"
+LAST|Len|"kew"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kewe (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kewe.svg"
+
+CREATE
+LAST|Lmul|"kij"
+LAST|Ltok|"kij"
+LAST|Len|"kij"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kije (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kije.svg"
+
+CREATE
+LAST|Lmul|"kija"
+LAST|Ltok|"kija"
+LAST|Len|"kija"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kijan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Kijan.svg"
+
+CREATE
+LAST|Lmul|"kijesankal"
+LAST|Ltok|"kijesankal"
+LAST|Len|"kijesankal"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kijesankalu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kijesankalu.svg"
+
+CREATE
+LAST|Lmul|"kijet"
+LAST|Ltok|"kijet"
+LAST|Len|"kijet"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kijete (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kijete.svg"
+
+CREATE
+LAST|Lmul|"kijosi"
+LAST|Ltok|"kijosi"
+LAST|Len|"kijosi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kijosin (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kijosin.svg"
+
+CREATE
+LAST|Lmul|"kik"
+LAST|Ltok|"kik"
+LAST|Len|"kik"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kiki (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kiki.svg"
+
+CREATE
+LAST|Lmul|"kikol"
+LAST|Ltok|"kikol"
+LAST|Len|"kikol"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kikolo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kikolo.svg"
+
+CREATE
+LAST|Lmul|"kikul"
+LAST|Ltok|"kikul"
+LAST|Len|"kikul"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kikulo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kikulo.svg"
+
+CREATE
+LAST|Lmul|"kinut"
+LAST|Ltok|"kinut"
+LAST|Len|"kinut"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kinute (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kinute.svg"
+
+CREATE
+LAST|Lmul|"kis"
+LAST|Ltok|"kis"
+LAST|Len|"kis"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kisa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kisa.svg"
+
+CREATE
+LAST|Lmul|"kit"
+LAST|Ltok|"kit"
+LAST|Len|"kit"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kita (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Kita.svg"
+
+CREATE
+LAST|Lmul|"kit"
+LAST|Ltok|"kit"
+LAST|Len|"kit"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kitu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kitu.svg"
+
+CREATE
+LAST|Lmul|"kok"
+LAST|Ltok|"kok"
+LAST|Len|"kok"
+LAST|P31|Q137374997
+LAST|P373|"Category:Koko (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Koko.svg"
+
+CREATE
+LAST|Lmul|"kokolik"
+LAST|Ltok|"kokolik"
+LAST|Len|"kokolik"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kokoliko (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kokoliko.svg"
+
+CREATE
+LAST|Lmul|"kol"
+LAST|Ltok|"kol"
+LAST|Len|"kol"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kolo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kolo.svg"
+
+CREATE
+LAST|Lmul|"kolisi"
+LAST|Ltok|"kolisi"
+LAST|Len|"kolisi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kolisin (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Kolisin.svg"
+
+CREATE
+LAST|Lmul|"kon"
+LAST|Ltok|"kon"
+LAST|Len|"kon"
+LAST|P31|Q137374997
+LAST|P373|"Category:Koni (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-koni.svg"
+
+CREATE
+LAST|Lmul|"kons"
+LAST|Ltok|"kons"
+LAST|Len|"kons"
+LAST|P31|Q137374997
+LAST|P373|"Category:Konsi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-konsi.svg"
+
+CREATE
+LAST|Lmul|"konw"
+LAST|Ltok|"konw"
+LAST|Len|"konw"
+LAST|P31|Q137374997
+LAST|P373|"Category:Konwe (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-konwe.svg"
+
+CREATE
+LAST|Lmul|"kosa"
+LAST|Ltok|"kosa"
+LAST|Len|"kosa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kosan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kosan.svg"
+LAST|P11250|"kosa"
+
+CREATE
+LAST|Lmul|"kosikos"
+LAST|Ltok|"kosikos"
+LAST|Len|"kosikos"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kosikosa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kosikosa.svg"
+
+CREATE
+LAST|Lmul|"kul"
+LAST|Ltok|"kul"
+LAST|Len|"kul"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kulu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kulu.svg"
+
+CREATE
+LAST|Lmul|"kulas"
+LAST|Ltok|"kulas"
+LAST|Len|"kulas"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kulaso (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kulaso.svg"
+
+CREATE
+LAST|Lmul|"kulepik"
+LAST|Ltok|"kulepik"
+LAST|Len|"kulepik"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kulepiku (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kulepiku.svg"
+
+CREATE
+LAST|Lmul|"kulij"
+LAST|Ltok|"kulij"
+LAST|Len|"kulij"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kulijo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kulijo.svg"
+
+CREATE
+LAST|Lmul|"kunt"
+LAST|Ltok|"kunt"
+LAST|Len|"kunt"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kuntu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kuntu.svg"
+
+CREATE
+LAST|Lmul|"kutopom"
+LAST|Ltok|"kutopom"
+LAST|Len|"kutopom"
+LAST|P31|Q137374997
+LAST|P373|"Category:Kutopoma (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-kutopoma.svg"
+
+CREATE
+LAST|Lmul|"l"
+LAST|Ltok|"l"
+LAST|Len|"l"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-lo.svg"
+
+CREATE
+LAST|Lmul|"l"
+LAST|Ltok|"l"
+LAST|Len|"l"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-lu.svg"
+
+CREATE
+LAST|Lmul|"la"
+LAST|Ltok|"la"
+LAST|Len|"la"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-lan.svg"
+
+CREATE
+LAST|Lmul|"lansa"
+LAST|Ltok|"lansa"
+LAST|Len|"lansa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lansan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-lansan.svg"
+
+CREATE
+LAST|Lmul|"lap"
+LAST|Ltok|"lap"
+LAST|Len|"lap"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lape (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-lape.svg"
+
+CREATE
+LAST|Lmul|"las"
+LAST|Ltok|"las"
+LAST|Len|"las"
+LAST|P31|Q137374997
+LAST|P373|"Category:Laso (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-laso.svg"
+
+CREATE
+LAST|Lmul|"lat"
+LAST|Ltok|"lat"
+LAST|Len|"lat"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lato (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-lato.svg"
+
+CREATE
+LAST|Lmul|"law"
+LAST|Ltok|"law"
+LAST|Len|"law"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lawa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-lawa.svg"
+
+CREATE
+LAST|Lmul|"lenle"
+LAST|Ltok|"lenle"
+LAST|Len|"lenle"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lenlen (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-lenlen.svg"
+
+CREATE
+LAST|Lmul|"lepek"
+LAST|Ltok|"lepek"
+LAST|Len|"lepek"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lepeka (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Lepeka.svg"
+
+CREATE
+LAST|Lmul|"lijokuk"
+LAST|Ltok|"lijokuk"
+LAST|Len|"lijokuk"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lijokuku (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-lijokuku.svg"
+
+CREATE
+LAST|Lmul|"likuj"
+LAST|Ltok|"likuj"
+LAST|Len|"likuj"
+LAST|P31|Q137374997
+LAST|P373|"Category:Likujo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-likujo.svg"
+
+CREATE
+LAST|Lmul|"linj"
+LAST|Ltok|"linj"
+LAST|Len|"linj"
+LAST|P31|Q137374997
+LAST|P373|"Category:Linja (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-linja.svg"
+
+CREATE
+LAST|Lmul|"link"
+LAST|Ltok|"link"
+LAST|Len|"link"
+LAST|P31|Q137374997
+LAST|P373|"Category:Linku (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Linku.svg"
+
+CREATE
+LAST|Lmul|"linluw"
+LAST|Ltok|"linluw"
+LAST|Len|"linluw"
+LAST|P31|Q137374997
+LAST|P373|"Category:Linluwi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-linluwi.svg"
+
+CREATE
+LAST|Lmul|"linuw"
+LAST|Ltok|"linuw"
+LAST|Len|"linuw"
+LAST|P31|Q137374997
+LAST|P373|"Category:Linuwi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-linuwi.svg"
+
+CREATE
+LAST|Lmul|"lipamank"
+LAST|Ltok|"lipamank"
+LAST|Len|"lipamank"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lipamanka (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Lipamanka.svg"
+
+CREATE
+LAST|Lmul|"lisan"
+LAST|Ltok|"lisan"
+LAST|Len|"lisan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lisana (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-lisana.svg"
+
+CREATE
+LAST|Lmul|"loj"
+LAST|Ltok|"loj"
+LAST|Len|"loj"
+LAST|P31|Q137374997
+LAST|P373|"Category:Loje (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-loje.svg"
+
+CREATE
+LAST|Lmul|"lok"
+LAST|Ltok|"lok"
+LAST|Len|"lok"
+LAST|P31|Q137374997
+LAST|P373|"Category:Loka (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-loka.svg"
+
+CREATE
+LAST|Lmul|"loko"
+LAST|Ltok|"loko"
+LAST|Len|"loko"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lokon (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-lokon.svg"
+
+CREATE
+LAST|Lmul|"lokos"
+LAST|Ltok|"lokos"
+LAST|Len|"lokos"
+LAST|P31|Q137374997
+LAST|P373|"Category:Lokoso (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-lokoso.svg"
+
+CREATE
+LAST|Lmul|"losupa"
+LAST|Ltok|"losupa"
+LAST|Len|"losupa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Losupan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Losupan.svg"
+
+CREATE
+LAST|Lmul|"luk"
+LAST|Ltok|"luk"
+LAST|Len|"luk"
+LAST|P31|Q137374997
+LAST|P373|"Category:Luke (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Luke.svg"
+
+CREATE
+LAST|Lmul|"lun"
+LAST|Ltok|"lun"
+LAST|Len|"lun"
+LAST|P31|Q137374997
+LAST|P373|"Category:Luna (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Luna.svg"
+
+CREATE
+LAST|Lmul|"m"
+LAST|Ltok|"m"
+LAST|Len|"m"
+LAST|P31|Q137374997
+LAST|P373|"Category:Me (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-me.svg"
+
+CREATE
+LAST|Lmul|"majek"
+LAST|Ltok|"majek"
+LAST|Len|"majek"
+LAST|P31|Q137374997
+LAST|P373|"Category:Majeka (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Majeka.svg"
+
+CREATE
+LAST|Lmul|"mak"
+LAST|Ltok|"mak"
+LAST|Len|"mak"
+LAST|P31|Q137374997
+LAST|P373|"Category:Maki (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Maki.svg"
+
+CREATE
+LAST|Lmul|"mak"
+LAST|Ltok|"mak"
+LAST|Len|"mak"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mako (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Mako.svg"
+
+CREATE
+LAST|Lmul|"mamas"
+LAST|Ltok|"mamas"
+LAST|Len|"mamas"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mamasi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-mamasi.svg"
+
+CREATE
+LAST|Lmul|"mamasin"
+LAST|Ltok|"mamasin"
+LAST|Len|"mamasin"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mamasina (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-mamasina.svg"
+
+CREATE
+LAST|Lmul|"mank"
+LAST|Ltok|"mank"
+LAST|Len|"mank"
+LAST|P31|Q137374997
+LAST|P373|"Category:Manka (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Manka.svg"
+
+CREATE
+LAST|Lmul|"mas"
+LAST|Ltok|"mas"
+LAST|Len|"mas"
+LAST|P31|Q137374997
+LAST|P373|"Category:Masu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-masu.svg"
+
+CREATE
+LAST|Lmul|"masal"
+LAST|Ltok|"masal"
+LAST|Len|"masal"
+LAST|P31|Q137374997
+LAST|P373|"Category:Masalo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-masalo.svg"
+
+CREATE
+LAST|Lmul|"masent"
+LAST|Ltok|"masent"
+LAST|Len|"masent"
+LAST|P31|Q137374997
+LAST|P373|"Category:Masenta (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-masenta.svg"
+
+CREATE
+LAST|Lmul|"matul"
+LAST|Ltok|"matul"
+LAST|Len|"matul"
+LAST|P31|Q137374997
+LAST|P373|"Category:Matula (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-matula.svg"
+
+CREATE
+LAST|Lmul|"mediu"
+LAST|Ltok|"mediu"
+LAST|Len|"mediu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Medium (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Medium.svg"
+
+CREATE
+LAST|Lmul|"mekuw"
+LAST|Ltok|"mekuw"
+LAST|Len|"mekuw"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mekuwi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Mekuwi.svg"
+
+CREATE
+LAST|Lmul|"melinjakulekul"
+LAST|Ltok|"melinjakulekul"
+LAST|Len|"melinjakulekul"
+LAST|P31|Q137374997
+LAST|P373|"Category:Melinjakulekule (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-melinjakulekule.svg"
+
+CREATE
+LAST|Lmul|"melom"
+LAST|Ltok|"melom"
+LAST|Len|"melom"
+LAST|P31|Q137374997
+LAST|P373|"Category:Melome (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-melome.svg"
+
+CREATE
+LAST|Lmul|"mijom"
+LAST|Ltok|"mijom"
+LAST|Len|"mijom"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mijomi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-mijomi.svg"
+
+CREATE
+LAST|Lmul|"mik"
+LAST|Ltok|"mik"
+LAST|Len|"mik"
+LAST|P31|Q137374997
+LAST|P373|"Category:Miko (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-miko.svg"
+
+CREATE
+LAST|Lmul|"mil"
+LAST|Ltok|"mil"
+LAST|Len|"mil"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mila (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Mila.svg"
+
+CREATE
+LAST|Lmul|"mimuk"
+LAST|Ltok|"mimuk"
+LAST|Len|"mimuk"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mimuki (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Mimuki.svg"
+
+CREATE
+LAST|Lmul|"mis"
+LAST|Ltok|"mis"
+LAST|Len|"mis"
+LAST|P31|Q137374997
+LAST|P373|"Category:Misa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-misa.svg"
+
+CREATE
+LAST|Lmul|"molus"
+LAST|Ltok|"molus"
+LAST|Len|"molus"
+LAST|P31|Q137374997
+LAST|P373|"Category:Molusa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-molusa.svg"
+
+CREATE
+LAST|Lmul|"mon"
+LAST|Ltok|"mon"
+LAST|Len|"mon"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mono (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-mono.svg"
+
+CREATE
+LAST|Lmul|"mota"
+LAST|Ltok|"mota"
+LAST|Len|"mota"
+LAST|P31|Q137374997
+LAST|P373|"Category:Motan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-motan.svg"
+
+CREATE
+LAST|Lmul|"mulapis"
+LAST|Ltok|"mulapis"
+LAST|Len|"mulapis"
+LAST|P31|Q137374997
+LAST|P373|"Category:Mulapisu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-mulapisu.svg"
+
+CREATE
+LAST|Lmul|"n"
+LAST|Ltok|"n"
+LAST|Len|"n"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-nu.svg"
+
+CREATE
+LAST|Lmul|"na"
+LAST|Ltok|"na"
+LAST|Len|"na"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-nan.svg"
+
+CREATE
+LAST|Lmul|"nalanj"
+LAST|Ltok|"nalanj"
+LAST|Len|"nalanj"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nalanja (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-nalanja.svg"
+
+CREATE
+LAST|Lmul|"nalasun"
+LAST|Ltok|"nalasun"
+LAST|Len|"nalasun"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nalasuni (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Nalasuni.svg"
+
+CREATE
+LAST|Lmul|"nan"
+LAST|Ltok|"nan"
+LAST|Len|"nan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nano (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-nano.svg"
+LAST|P11250|"nan"
+
+CREATE
+LAST|Lmul|"nasuli"
+LAST|Ltok|"nasuli"
+LAST|Len|"nasuli"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nasulin (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Nasulin.svg"
+
+CREATE
+LAST|Lmul|"nat"
+LAST|Ltok|"nat"
+LAST|Len|"nat"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nata (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-nata.svg"
+
+CREATE
+LAST|Lmul|"nat"
+LAST|Ltok|"nat"
+LAST|Len|"nat"
+LAST|P31|Q137374997
+LAST|P373|"Category:Natu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-natu.svg"
+
+CREATE
+LAST|Lmul|"nej"
+LAST|Ltok|"nej"
+LAST|Len|"nej"
+LAST|P31|Q137374997
+LAST|P373|"Category:Neja (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-neja.svg"
+
+CREATE
+LAST|Lmul|"nel"
+LAST|Ltok|"nel"
+LAST|Len|"nel"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nele (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-nele.svg"
+
+CREATE
+LAST|Lmul|"nik"
+LAST|Ltok|"nik"
+LAST|Len|"nik"
+LAST|P31|Q137374997
+LAST|P373|"Category:Niko (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Niko.svg"
+
+CREATE
+LAST|Lmul|"nil"
+LAST|Ltok|"nil"
+LAST|Len|"nil"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nili (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Nili.svg"
+
+CREATE
+LAST|Lmul|"nimisi"
+LAST|Ltok|"nimisi"
+LAST|Len|"nimisi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nimisin (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-nimisin.svg"
+
+CREATE
+LAST|Lmul|"nit"
+LAST|Ltok|"nit"
+LAST|Len|"nit"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nito (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Nito.svg"
+
+CREATE
+LAST|Lmul|"nj"
+LAST|Ltok|"nj"
+LAST|Len|"nj"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nja (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-nja.svg"
+
+CREATE
+LAST|Lmul|"nls"
+LAST|Ltok|"nls"
+LAST|Len|"nls"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nlsn (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Nlsn.svg"
+
+CREATE
+LAST|Lmul|"now"
+LAST|Ltok|"now"
+LAST|Len|"now"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nowi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-nowi.svg"
+
+CREATE
+LAST|Lmul|"nusu"
+LAST|Ltok|"nusu"
+LAST|Len|"nusu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nusun (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-nusun.svg"
+
+CREATE
+LAST|Lmul|"nuta"
+LAST|Ltok|"nuta"
+LAST|Len|"nuta"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nutan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Nutan.svg"
+
+CREATE
+LAST|Lmul|"nuw"
+LAST|Ltok|"nuw"
+LAST|Len|"nuw"
+LAST|P31|Q137374997
+LAST|P373|"Category:Nuwa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-nuwa.svg"
+
+CREATE
+LAST|Lmul|"ojut"
+LAST|Ltok|"ojut"
+LAST|Len|"ojut"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ojuta (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-ojuta.svg"
+
+CREATE
+LAST|Lmul|"ok"
+LAST|Ltok|"ok"
+LAST|Len|"ok"
+LAST|P31|Q137374997
+LAST|P373|"Category:Oke (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-oke.svg"
+
+CREATE
+LAST|Lmul|"ok"
+LAST|Ltok|"ok"
+LAST|Len|"ok"
+LAST|P31|Q137374997
+LAST|P373|"Category:Oki (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-oki.svg"
+
+CREATE
+LAST|Lmul|"okepum"
+LAST|Ltok|"okepum"
+LAST|Len|"okepum"
+LAST|P31|Q137374997
+LAST|P373|"Category:Okepuma (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-okepuma.svg"
+
+CREATE
+LAST|Lmul|"olal"
+LAST|Ltok|"olal"
+LAST|Len|"olal"
+LAST|P31|Q137374997
+LAST|P373|"Category:Olala (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-olala.svg"
+
+CREATE
+LAST|Lmul|"ome"
+LAST|Ltok|"ome"
+LAST|Len|"ome"
+LAST|P31|Q137374997
+LAST|P373|"Category:Omen (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-omen.svg"
+
+CREATE
+LAST|Lmul|"omekalik"
+LAST|Ltok|"omekalik"
+LAST|Len|"omekalik"
+LAST|P31|Q137374997
+LAST|P373|"Category:Omekalike (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-omekalike.svg"
+
+CREATE
+LAST|Lmul|"omekap"
+LAST|Ltok|"omekap"
+LAST|Len|"omekap"
+LAST|P31|Q137374997
+LAST|P373|"Category:Omekapo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-omekapo.svg"
+
+CREATE
+LAST|Lmul|"on"
+LAST|Ltok|"on"
+LAST|Len|"on"
+LAST|P31|Q137374997
+LAST|P373|"Category:Oni (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-oni.svg"
+
+CREATE
+LAST|Lmul|"onon"
+LAST|Ltok|"onon"
+LAST|Len|"onon"
+LAST|P31|Q137374997
+LAST|P373|"Category:Onono (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-onono.svg"
+
+CREATE
+LAST|Lmul|"op"
+LAST|Ltok|"op"
+LAST|Len|"op"
+LAST|P31|Q137374997
+LAST|P373|"Category:Opa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Opa.svg"
+
+CREATE
+LAST|Lmul|"opasa"
+LAST|Ltok|"opasa"
+LAST|Len|"opasa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Opasan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-opasan.svg"
+
+CREATE
+LAST|Lmul|"ow"
+LAST|Ltok|"ow"
+LAST|Len|"ow"
+LAST|P31|Q137374997
+LAST|P373|"Category:Owe (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-owe.svg"
+
+CREATE
+LAST|Lmul|"p"
+LAST|Ltok|"p"
+LAST|Len|"p"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-pa.svg"
+
+CREATE
+LAST|Lmul|"p"
+LAST|Ltok|"p"
+LAST|Len|"p"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pe (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-pe.svg"
+
+CREATE
+LAST|Lmul|"pak"
+LAST|Ltok|"pak"
+LAST|Len|"pak"
+LAST|P31|Q137374997
+LAST|P373|"Category:Paka (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-paka.svg"
+
+CREATE
+LAST|Lmul|"pakol"
+LAST|Ltok|"pakol"
+LAST|Len|"pakol"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pakola (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-pakola.svg"
+
+CREATE
+LAST|Lmul|"palens"
+LAST|Ltok|"palens"
+LAST|Len|"palens"
+LAST|P31|Q137374997
+LAST|P373|"Category:Palensi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Palensi.svg"
+
+CREATE
+LAST|Lmul|"pam"
+LAST|Ltok|"pam"
+LAST|Len|"pam"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pami (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Pami.svg"
+
+CREATE
+LAST|Lmul|"pank"
+LAST|Ltok|"pank"
+LAST|Len|"pank"
+LAST|P31|Q137374997
+LAST|P373|"Category:Panke (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-panke.svg"
+
+CREATE
+LAST|Lmul|"panpa"
+LAST|Ltok|"panpa"
+LAST|Len|"panpa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Panpan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-panpan.svg"
+
+CREATE
+LAST|Lmul|"pasil"
+LAST|Ltok|"pasil"
+LAST|Len|"pasil"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pasila (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-pasila.svg"
+
+CREATE
+LAST|Lmul|"penp"
+LAST|Ltok|"penp"
+LAST|Len|"penp"
+LAST|P31|Q137374997
+LAST|P373|"Category:Penpo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-penpo.svg"
+
+CREATE
+LAST|Lmul|"pens"
+LAST|Ltok|"pens"
+LAST|Len|"pens"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pensa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Pensa.svg"
+
+CREATE
+LAST|Lmul|"pet"
+LAST|Ltok|"pet"
+LAST|Len|"pet"
+LAST|P31|Q137374997
+LAST|P373|"Category:Peto (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-peto.svg"
+
+CREATE
+LAST|Lmul|"pik"
+LAST|Ltok|"pik"
+LAST|Len|"pik"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pika (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-pika.svg"
+
+CREATE
+LAST|Lmul|"ping"
+LAST|Ltok|"ping"
+LAST|Len|"ping"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pingo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Pingo.svg"
+
+CREATE
+LAST|Lmul|"pip"
+LAST|Ltok|"pip"
+LAST|Len|"pip"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pipo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-pipo.svg"
+
+CREATE
+LAST|Lmul|"pipol"
+LAST|Ltok|"pipol"
+LAST|Len|"pipol"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pipolo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-pipolo.svg"
+
+CREATE
+LAST|Lmul|"polinpi"
+LAST|Ltok|"polinpi"
+LAST|Len|"polinpi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Polinpin (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-polinpin.svg"
+
+CREATE
+LAST|Lmul|"poma"
+LAST|Ltok|"poma"
+LAST|Len|"poma"
+LAST|P31|Q137374997
+LAST|P373|"Category:Poman (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Poman.svg"
+
+CREATE
+LAST|Lmul|"pomotol"
+LAST|Ltok|"pomotol"
+LAST|Len|"pomotol"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pomotolo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-pomotolo.svg"
+
+CREATE
+LAST|Lmul|"pon"
+LAST|Ltok|"pon"
+LAST|Len|"pon"
+LAST|P31|Q137374997
+LAST|P373|"Category:Poni (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-poni.svg"
+
+CREATE
+LAST|Lmul|"pul"
+LAST|Ltok|"pul"
+LAST|Len|"pul"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pula (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Pula.svg"
+
+CREATE
+LAST|Lmul|"pulas"
+LAST|Ltok|"pulas"
+LAST|Len|"pulas"
+LAST|P31|Q137374997
+LAST|P373|"Category:Pulaso (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-pulaso.svg"
+
+CREATE
+LAST|Lmul|"puw"
+LAST|Ltok|"puw"
+LAST|Len|"puw"
+LAST|P31|Q137374997
+LAST|P373|"Category:Puwa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-puwa.svg"
+
+CREATE
+LAST|Lmul|"saj"
+LAST|Ltok|"saj"
+LAST|Len|"saj"
+LAST|P31|Q137374997
+LAST|P373|"Category:Saja (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-saja.svg"
+
+CREATE
+LAST|Lmul|"salantapotalus"
+LAST|Ltok|"salantapotalus"
+LAST|Len|"salantapotalus"
+LAST|P31|Q137374997
+LAST|P373|"Category:Salantapotalusa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-salantapotalusa.svg"
+
+CREATE
+LAST|Lmul|"sam"
+LAST|Ltok|"sam"
+LAST|Len|"sam"
+LAST|P31|Q137374997
+LAST|P373|"Category:Samu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-samu.svg"
+
+CREATE
+LAST|Lmul|"sami"
+LAST|Ltok|"sami"
+LAST|Len|"sami"
+LAST|P31|Q137374997
+LAST|P373|"Category:Samin (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Samin.svg"
+
+CREATE
+LAST|Lmul|"sant"
+LAST|Ltok|"sant"
+LAST|Len|"sant"
+LAST|P31|Q137374997
+LAST|P373|"Category:Santa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-santa.svg"
+
+CREATE
+LAST|Lmul|"sapelipop"
+LAST|Ltok|"sapelipop"
+LAST|Len|"sapelipop"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sapelipope (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-sapelipope.svg"
+
+CREATE
+LAST|Lmul|"satu"
+LAST|Ltok|"satu"
+LAST|Len|"satu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Satun (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Satun.svg"
+
+CREATE
+LAST|Lmul|"sek"
+LAST|Ltok|"sek"
+LAST|Len|"sek"
+LAST|P31|Q137374997
+LAST|P373|"Category:Seka (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Seka.svg"
+
+CREATE
+LAST|Lmul|"sek"
+LAST|Ltok|"sek"
+LAST|Len|"sek"
+LAST|P31|Q137374997
+LAST|P373|"Category:Seki (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Seki.svg"
+
+CREATE
+LAST|Lmul|"siiilap"
+LAST|Ltok|"siiilap"
+LAST|Len|"siiilap"
+LAST|P31|Q137374997
+LAST|P373|"Category:Siiilapa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-siiilapa.svg"
+
+CREATE
+LAST|Lmul|"siilap"
+LAST|Ltok|"siilap"
+LAST|Len|"siilap"
+LAST|P31|Q137374997
+LAST|P373|"Category:Siilapa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-siilapa.svg"
+
+CREATE
+LAST|Lmul|"sijal"
+LAST|Ltok|"sijal"
+LAST|Len|"sijal"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sijala (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Sijala.svg"
+
+CREATE
+LAST|Lmul|"sijesuw"
+LAST|Ltok|"sijesuw"
+LAST|Len|"sijesuw"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sijesuwa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Sijesuwa.svg"
+
+CREATE
+LAST|Lmul|"sikak"
+LAST|Ltok|"sikak"
+LAST|Len|"sikak"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sikako (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-sikako.svg"
+
+CREATE
+LAST|Lmul|"sikom"
+LAST|Ltok|"sikom"
+LAST|Len|"sikom"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sikomo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-sikomo.svg"
+
+CREATE
+LAST|Lmul|"silan"
+LAST|Ltok|"silan"
+LAST|Len|"silan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Silani (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Silani.svg"
+
+CREATE
+LAST|Lmul|"silap"
+LAST|Ltok|"silap"
+LAST|Len|"silap"
+LAST|P31|Q137374997
+LAST|P373|"Category:Silapa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-silapa.svg"
+
+CREATE
+LAST|Lmul|"sip"
+LAST|Ltok|"sip"
+LAST|Len|"sip"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sipi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-sipi.svg"
+
+CREATE
+LAST|Lmul|"sipij"
+LAST|Ltok|"sipij"
+LAST|Len|"sipij"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sipije (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-sipije.svg"
+
+CREATE
+LAST|Lmul|"sis"
+LAST|Ltok|"sis"
+LAST|Len|"sis"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sisa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Sisa.svg"
+
+CREATE
+LAST|Lmul|"sis"
+LAST|Ltok|"sis"
+LAST|Len|"sis"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sisi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-sisi.svg"
+
+CREATE
+LAST|Lmul|"siwa"
+LAST|Ltok|"siwa"
+LAST|Len|"siwa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Siwan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Siwan.svg"
+
+CREATE
+LAST|Lmul|"siwal"
+LAST|Ltok|"siwal"
+LAST|Len|"siwal"
+LAST|P31|Q137374997
+LAST|P373|"Category:Siwala (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-siwala.svg"
+
+CREATE
+LAST|Lmul|"slap"
+LAST|Ltok|"slap"
+LAST|Len|"slap"
+LAST|P31|Q137374997
+LAST|P373|"Category:Slape (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-slape.svg"
+
+CREATE
+LAST|Lmul|"snowel"
+LAST|Ltok|"snowel"
+LAST|Len|"snowel"
+LAST|P31|Q137374997
+LAST|P373|"Category:Snoweli (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-snoweli.svg"
+
+CREATE
+LAST|Lmul|"sokel"
+LAST|Ltok|"sokel"
+LAST|Len|"sokel"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sokeli (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-sokeli.svg"
+
+CREATE
+LAST|Lmul|"son"
+LAST|Ltok|"son"
+LAST|Len|"son"
+LAST|P31|Q137374997
+LAST|P373|"Category:Soni (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-soni.svg"
+
+CREATE
+LAST|Lmul|"sot"
+LAST|Ltok|"sot"
+LAST|Len|"sot"
+LAST|P31|Q137374997
+LAST|P373|"Category:Soto (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-soto.svg"
+
+CREATE
+LAST|Lmul|"sowol"
+LAST|Ltok|"sowol"
+LAST|Len|"sowol"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sowoli (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-sowoli.svg"
+
+CREATE
+LAST|Lmul|"stell"
+LAST|Ltok|"stell"
+LAST|Len|"stell"
+LAST|P31|Q137374997
+LAST|P373|"Category:Stella (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Stella.svg"
+
+CREATE
+LAST|Lmul|"suk"
+LAST|Ltok|"suk"
+LAST|Len|"suk"
+LAST|P31|Q137374997
+LAST|P373|"Category:Suke (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-suke.svg"
+
+CREATE
+LAST|Lmul|"sulas"
+LAST|Ltok|"sulas"
+LAST|Len|"sulas"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sulaso (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-sulaso.svg"
+
+CREATE
+LAST|Lmul|"sunt"
+LAST|Ltok|"sunt"
+LAST|Len|"sunt"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sunta (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-sunta.svg"
+
+CREATE
+LAST|Lmul|"sutopatikun"
+LAST|Ltok|"sutopatikun"
+LAST|Len|"sutopatikun"
+LAST|P31|Q137374997
+LAST|P373|"Category:Sutopatikuna (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-sutopatikuna.svg"
+
+CREATE
+LAST|Lmul|"t"
+LAST|Ltok|"t"
+LAST|Len|"t"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ta (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-ta.svg"
+
+CREATE
+LAST|Lmul|"t"
+LAST|Ltok|"t"
+LAST|Len|"t"
+LAST|P31|Q137374997
+LAST|P373|"Category:Te (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-te.svg"
+
+CREATE
+LAST|Lmul|"t"
+LAST|Ltok|"t"
+LAST|Len|"t"
+LAST|P31|Q137374997
+LAST|P373|"Category:To (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-To.svg"
+
+CREATE
+LAST|Lmul|"ta"
+LAST|Ltok|"ta"
+LAST|Len|"ta"
+LAST|P31|Q137374997
+LAST|P373|"Category:Taa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-taa.svg"
+LAST|P11250|"ta"
+
+CREATE
+LAST|Lmul|"taaasu"
+LAST|Ltok|"taaasu"
+LAST|Len|"taaasu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Taaasun (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-taaasun.svg"
+
+CREATE
+LAST|Lmul|"taasu"
+LAST|Ltok|"taasu"
+LAST|Len|"taasu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Taasun (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-taasun.svg"
+
+CREATE
+LAST|Lmul|"tak"
+LAST|Ltok|"tak"
+LAST|Len|"tak"
+LAST|P31|Q137374997
+LAST|P373|"Category:Taki (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-taki.svg"
+
+CREATE
+LAST|Lmul|"tasu"
+LAST|Ltok|"tasu"
+LAST|Len|"tasu"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tasun (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-tasun.svg"
+
+CREATE
+LAST|Lmul|"tawak"
+LAST|Ltok|"tawak"
+LAST|Len|"tawak"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tawake (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-tawake.svg"
+
+CREATE
+LAST|Lmul|"te"
+LAST|Ltok|"te"
+LAST|Len|"te"
+LAST|P31|Q137374997
+LAST|P373|"Category:Ten (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-ten.svg"
+LAST|P11250|"te"
+
+CREATE
+LAST|Lmul|"tej"
+LAST|Ltok|"tej"
+LAST|Len|"tej"
+LAST|P31|Q137374997
+LAST|P373|"Category:Teje (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-teje.svg"
+
+CREATE
+LAST|Lmul|"teke"
+LAST|Ltok|"teke"
+LAST|Len|"teke"
+LAST|P31|Q137374997
+LAST|P373|"Category:Teken (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-teken.svg"
+
+CREATE
+LAST|Lmul|"tem"
+LAST|Ltok|"tem"
+LAST|Len|"tem"
+LAST|P31|Q137374997
+LAST|P373|"Category:Temi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Temi.svg"
+
+CREATE
+LAST|Lmul|"tenp"
+LAST|Ltok|"tenp"
+LAST|Len|"tenp"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tenpi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-tenpi.svg"
+
+CREATE
+LAST|Lmul|"tens"
+LAST|Ltok|"tens"
+LAST|Len|"tens"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tensi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Tensi.svg"
+
+CREATE
+LAST|Lmul|"tokan"
+LAST|Ltok|"tokan"
+LAST|Len|"tokan"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tokana (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-tokana.svg"
+
+CREATE
+LAST|Lmul|"toke"
+LAST|Ltok|"toke"
+LAST|Len|"toke"
+LAST|P31|Q137374997
+LAST|P373|"Category:Token (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Token.svg"
+
+CREATE
+LAST|Lmul|"tom"
+LAST|Ltok|"tom"
+LAST|Len|"tom"
+LAST|P31|Q137374997
+LAST|P373|"Category:Toma (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-toma.svg"
+
+CREATE
+LAST|Lmul|"ton"
+LAST|Ltok|"ton"
+LAST|Len|"ton"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tona (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-tona.svg"
+
+CREATE
+LAST|Lmul|"tonpit"
+LAST|Ltok|"tonpit"
+LAST|Len|"tonpit"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tonpite (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Tonpite.svg"
+
+CREATE
+LAST|Lmul|"tony"
+LAST|Ltok|"tony"
+LAST|Len|"tony"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tonyu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Tonyu.svg"
+
+CREATE
+LAST|Lmul|"top"
+LAST|Ltok|"top"
+LAST|Len|"top"
+LAST|P31|Q137374997
+LAST|P373|"Category:Topo (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-topo.svg"
+
+CREATE
+LAST|Lmul|"towa"
+LAST|Ltok|"towa"
+LAST|Len|"towa"
+LAST|P31|Q137374997
+LAST|P373|"Category:Towan (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Towan.svg"
+
+CREATE
+LAST|Lmul|"tuw"
+LAST|Ltok|"tuw"
+LAST|Len|"tuw"
+LAST|P31|Q137374997
+LAST|P373|"Category:Tuwa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-tuwa.svg"
+
+CREATE
+LAST|Lmul|"uk"
+LAST|Ltok|"uk"
+LAST|Len|"uk"
+LAST|P31|Q137374997
+LAST|P373|"Category:Uka (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-uka.svg"
+
+CREATE
+LAST|Lmul|"umes"
+LAST|Ltok|"umes"
+LAST|Len|"umes"
+LAST|P31|Q137374997
+LAST|P373|"Category:Umesu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-umesu.svg"
+
+CREATE
+LAST|Lmul|"un"
+LAST|Ltok|"un"
+LAST|Len|"un"
+LAST|P31|Q137374997
+LAST|P373|"Category:Unu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-unu.svg"
+
+CREATE
+LAST|Lmul|"unikijetesantakal"
+LAST|Ltok|"unikijetesantakal"
+LAST|Len|"unikijetesantakal"
+LAST|P31|Q137374997
+LAST|P373|"Category:Unikijetesantakalu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-unikijetesantakalu.svg"
+
+CREATE
+LAST|Lmul|"usaw"
+LAST|Ltok|"usaw"
+LAST|Len|"usaw"
+LAST|P31|Q137374997
+LAST|P373|"Category:Usawi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Usawi.svg"
+
+CREATE
+LAST|Lmul|"viv"
+LAST|Ltok|"viv"
+LAST|Len|"viv"
+LAST|P31|Q137374997
+LAST|P373|"Category:Vivi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-vivi.svg"
+
+CREATE
+LAST|Lmul|"votgi"
+LAST|Ltok|"votgi"
+LAST|Len|"votgi"
+LAST|P31|Q137374997
+LAST|P373|"Category:Votgil (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Votgil.svg"
+
+CREATE
+LAST|Lmul|"vrisk"
+LAST|Ltok|"vrisk"
+LAST|Len|"vrisk"
+LAST|P31|Q137374997
+LAST|P373|"Category:Vriska (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Vriska.svg"
+
+CREATE
+LAST|Lmul|"w"
+LAST|Ltok|"w"
+LAST|Len|"w"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wa (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-wa.svg"
+
+CREATE
+LAST|Lmul|"w"
+LAST|Ltok|"w"
+LAST|Len|"w"
+LAST|P31|Q137374997
+LAST|P373|"Category:We (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-we.svg"
+
+CREATE
+LAST|Lmul|"w"
+LAST|Ltok|"w"
+LAST|Len|"w"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-wi.svg"
+
+CREATE
+LAST|Lmul|"waj"
+LAST|Ltok|"waj"
+LAST|Len|"waj"
+LAST|P31|Q137374997
+LAST|P373|"Category:Waje (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Waje.svg"
+
+CREATE
+LAST|Lmul|"wakalit"
+LAST|Ltok|"wakalit"
+LAST|Len|"wakalit"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wakalito (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Wakalito.svg"
+
+CREATE
+LAST|Lmul|"wake"
+LAST|Ltok|"wake"
+LAST|Len|"wake"
+LAST|P31|Q137374997
+LAST|P373|"Category:Waken (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-waken.svg"
+
+CREATE
+LAST|Lmul|"walej"
+LAST|Ltok|"walej"
+LAST|Len|"walej"
+LAST|P31|Q137374997
+LAST|P373|"Category:Waleja (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-waleja.svg"
+
+CREATE
+LAST|Lmul|"wasowel"
+LAST|Ltok|"wasowel"
+LAST|Len|"wasowel"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wasoweli (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-wasoweli.svg"
+
+CREATE
+LAST|Lmul|"wawajet"
+LAST|Ltok|"wawajet"
+LAST|Len|"wawajet"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wawajete (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-wawajete.svg"
+
+CREATE
+LAST|Lmul|"we"
+LAST|Ltok|"we"
+LAST|Len|"we"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wen (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Wen.svg"
+LAST|P11250|"we"
+
+CREATE
+LAST|Lmul|"wek"
+LAST|Ltok|"wek"
+LAST|Len|"wek"
+LAST|P31|Q137374997
+LAST|P373|"Category:Weko (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Weko.svg"
+
+CREATE
+LAST|Lmul|"wekam"
+LAST|Ltok|"wekam"
+LAST|Len|"wekam"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wekama (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-wekama.svg"
+
+CREATE
+LAST|Lmul|"wij"
+LAST|Ltok|"wij"
+LAST|Len|"wij"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wiju (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-wiju.svg"
+
+CREATE
+LAST|Lmul|"wik"
+LAST|Ltok|"wik"
+LAST|Len|"wik"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wiki (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-wiki.svg"
+
+CREATE
+LAST|Lmul|"wikipesij"
+LAST|Ltok|"wikipesij"
+LAST|Len|"wikipesij"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wikipesija (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-Wikipesija.svg"
+
+CREATE
+LAST|Lmul|"wiw"
+LAST|Ltok|"wiw"
+LAST|Len|"wiw"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wiwi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-wiwi.svg"
+
+CREATE
+LAST|Lmul|"wowujit"
+LAST|Ltok|"wowujit"
+LAST|Len|"wowujit"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wowujiti (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-wowujiti.svg"
+
+CREATE
+LAST|Lmul|"wuwojit"
+LAST|Ltok|"wuwojit"
+LAST|Len|"wuwojit"
+LAST|P31|Q137374997
+LAST|P373|"Category:Wuwojiti (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-wuwojiti.svg"
+
+CREATE
+LAST|Lmul|"yupekos"
+LAST|Ltok|"yupekos"
+LAST|Len|"yupekos"
+LAST|P31|Q137374997
+LAST|P373|"Category:Yupekosi (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-yupekosi.svg"
+
+CREATE
+LAST|Lmul|"yut"
+LAST|Ltok|"yut"
+LAST|Len|"yut"
+LAST|P31|Q137374997
+LAST|P373|"Category:Yutu (toki pona)"
+LAST|P18|"Sitelen-seli-kiwen-yutu.svg"
+

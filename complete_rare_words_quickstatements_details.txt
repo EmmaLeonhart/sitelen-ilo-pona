@@ -1,0 +1,332 @@
+Complete QuickStatements for ALL rare Toki Pona words
+========================================================================================================================
+
+SUMMARY:
+  Total rare words: 302
+  - CREATE new items: 11
+  - ADD properties: 291
+
+CREATE group properties:
+  - With P18 (image): 11
+  - With P11250 (sonapona): 10
+  - With P1268 (concept): 11
+
+ADD group properties:
+  - With P18 (image): 277
+  - With P11250 (sonapona): 139
+  - With P1268 (concept): 3
+
+========================================================================================================================
+
+PART 1: CREATE 11 new items
+------------------------------------------------------------------------------------------------------------------------
+Word                      Commons Category                                        IMG  SP   Concept     
+------------------------------------------------------------------------------------------------------------------------
+jonke                     Category:Jonke (toki pona)                              Yes  Yes  Q3303681    
+kisa                      Category:Kisa (toki pona)                               Yes  Yes  Q146        
+kutopoma                  Category:Kutopoma (toki pona)                           Yes  Yes  Q137760739  
+linluwi                   Category:Linluwi (toki pona)                            Yes  Yes  Q75         
+melome                    Category:Melome (toki pona)                             Yes  Yes  Q9800899    
+mulapisu                  Category:Mulapisu (toki pona)                           Yes  Yes  Q177        
+nimisin                   Category:Nimisin (toki pona)                            Yes  Yes  Q130989     
+nja                       Category:Nja (toki pona)                                Yes  Yes  Q146        
+soto                      Category:Soto (toki pona)                               Yes  Yes  Q13196750   
+sutopatikuna              Category:Sutopatikuna (toki pona)                       Yes  Yes  Q15343      
+teje                      Category:Teje (toki pona)                               Yes  No   Q14565199   
+
+
+PART 2: ADD properties to 291 existing items
+------------------------------------------------------------------------------------------------------------------------
+Word                      QID             IMG  SP   Concept     
+------------------------------------------------------------------------------------------------------------------------
+aaanusememailmahjong      Q137763639      No   No   N/A         
+aasun                     Q137763640      Yes  No   N/A         
+aja                       Q137763641      Yes  No   N/A         
+aka                       Q137763642      Yes  Yes  N/A         
+ako                       Q137763644      Yes  Yes  N/A         
+aku                       Q137763645      Yes  Yes  N/A         
+alente                    Q137763646      Yes  No   N/A         
+ali                       Q137374187      No   No   Q2165236    
+alisa                     Q137763647      Yes  No   N/A         
+alu                       Q137763648      Yes  Yes  N/A         
+amanka                    Q137763649      Yes  No   N/A         
+amelin                    Q137763650      Yes  No   N/A         
+ana                       Q137763652      Yes  No   N/A         
+ani                       Q137763653      Yes  No   N/A         
+ansu                      Q137763654      Yes  No   N/A         
+anta                      Q137763655      Yes  Yes  N/A         
+antepan                   Q137763656      Yes  No   N/A         
+antikontitutonelema       Q137763657      Yes  Yes  N/A         
+apeja                     Q137374368      No   No   N/A         
+apelo                     Q137763658      Yes  Yes  N/A         
+api                       Q137763659      Yes  Yes  N/A         
+asiku                     Q137763660      Yes  No   N/A         
+asu                       Q137763661      Yes  Yes  N/A         
+asuki                     Q137763662      Yes  No   N/A         
+asuto                     Q137763663      Yes  No   N/A         
+atu                       Q137763664      Yes  No   N/A         
+awase                     Q137763665      Yes  Yes  N/A         
+eki                       Q137763666      Yes  Yes  N/A         
+eni                       Q137763667      Yes  No   N/A         
+enko                      Q137763668      Yes  Yes  N/A         
+epikule                   Q137763669      Yes  No   N/A         
+fairfax                   Q137763670      Yes  No   N/A         
+hd                        Q137763671      Yes  No   N/A         
+iki                       Q137763672      Yes  Yes  N/A         
+ilaje                     Q137763673      Yes  No   N/A         
+ilapa                     Q137763674      Yes  No   N/A         
+inta                      Q137763675      Yes  Yes  N/A         
+ipan                      Q137763676      Yes  No   N/A         
+ipawi                     Q137763677      Yes  No   N/A         
+ipi                       Q137763678      Yes  Yes  N/A         
+iseja                     Q137763679      Yes  No   N/A         
+iseki                     Q137763680      Yes  Yes  N/A         
+isipin                    Q137763681      Yes  Yes  N/A         
+itomi                     Q137763683      Yes  Yes  N/A         
+ja                        Q137763684      Yes  Yes  N/A         
+jalan                     Q137763685      Yes  Yes  N/A         
+jalepu                    Q137763686      Yes  No   N/A         
+jami                      Q137763687      Yes  Yes  N/A         
+jans                      Q137763688      Yes  Yes  N/A         
+jasun                     Q137763689      Yes  No   N/A         
+je                        Q137763691      Yes  Yes  N/A         
+jesi                      Q137763692      Yes  No   N/A         
+jew                       Q137763693      Yes  No   N/A         
+jonatan                   Q137763694      Yes  No   N/A         
+ju                        Q137763695      Yes  Yes  N/A         
+jule                      Q137763696      Yes  Yes  N/A         
+jules                     Q137763697      Yes  No   N/A         
+jume                      Q137763698      Yes  Yes  N/A         
+juniko                    Q137763699      Yes  No   N/A         
+jusijesuwa                Q137763700      Yes  No   N/A         
+kaken                     Q137763701      Yes  No   N/A         
+kalamarr                  Q137763702      No   Yes  N/A         
+kalijopilale              Q137763704      Yes  Yes  N/A         
+kalu                      Q137763705      Yes  No   N/A         
+kamalawala                Q137763706      Yes  Yes  N/A         
+kan                       Q137763707      Yes  Yes  N/A         
+kana                      Q137763708      Yes  No   N/A         
+kani                      Q137763709      Yes  Yes  N/A         
+kankuli                   Q137763710      Yes  No   N/A         
+kapa                      Q137763711      Yes  Yes  N/A         
+kapesi                    Q137763713      Yes  Yes  N/A         
+kapilu                    Q137763714      Yes  No   N/A         
+ke                        Q137763715      Yes  Yes  N/A         
+kekansan                  Q137763716      No   No   N/A         
+kekantesantakalu          Q137763717      Yes  No   N/A         
+keli                      Q137763718      Yes  No   N/A         
+kelo                      Q137763719      Yes  Yes  N/A         
+kemu                      Q137763720      Yes  No   N/A         
+kepa                      Q137763722      Yes  No   N/A         
+kepen                     Q137763723      Yes  Yes  N/A         
+kepi                      Q137763724      Yes  No   N/A         
+kese                      Q137763725      Yes  Yes  N/A         
+ketami                    Q137763726      No   No   N/A         
+kewe                      Q137763727      Yes  Yes  N/A         
+ki                        Q137763728      Yes  Yes  N/A         
+kijan                     Q137763729      Yes  No   N/A         
+kije                      Q137763730      Yes  No   N/A         
+kijesankalu               Q137763731      Yes  No   N/A         
+kijete                    Q137763732      Yes  No   N/A         
+kijosin                   Q137763733      Yes  No   N/A         
+kiki                      Q137763734      Yes  Yes  N/A         
+kikolo                    Q137763735      Yes  Yes  N/A         
+kikulo                    Q137763736      Yes  No   N/A         
+kinute                    Q137763737      Yes  No   N/A         
+kita                      Q137763738      Yes  No   N/A         
+kitu                      Q137763739      Yes  Yes  N/A         
+koko                      Q137763740      Yes  No   N/A         
+kolisin                   Q137763741      Yes  No   N/A         
+kolo                      Q137763742      Yes  Yes  N/A         
+koni                      Q137763744      Yes  No   N/A         
+konsi                     Q137763745      Yes  Yes  N/A         
+konwe                     Q137763746      Yes  Yes  N/A         
+kosan                     Q137763747      Yes  Yes  N/A         
+kosikosa                  Q137763748      Yes  No   N/A         
+kulepiku                  Q137763749      Yes  No   N/A         
+kulijo                    Q137763750      Yes  Yes  N/A         
+kulu                      Q137763751      Yes  Yes  N/A         
+kuntu                     Q137763752      Yes  Yes  N/A         
+lan                       Q137763753      Yes  Yes  N/A         
+lansan                    Q137763755      Yes  No   N/A         
+lato                      Q137763756      Yes  No   N/A         
+lenlen                    Q137763757      Yes  No   N/A         
+lepeka                    Q137763758      Yes  No   N/A         
+lijokuku                  Q137763759      Yes  Yes  N/A         
+likujo                    Q137763760      Yes  Yes  N/A         
+linku                     Q137763761      Yes  No   N/A         
+linuwi                    Q137763763      Yes  Yes  N/A         
+lipamanka                 Q137763764      Yes  No   N/A         
+lisana                    Q137763765      Yes  No   N/A         
+lo                        Q137763766      Yes  Yes  N/A         
+loka                      Q137763767      Yes  Yes  N/A         
+lokon                     Q137763768      Yes  Yes  N/A         
+lokoso                    Q137763769      Yes  No   N/A         
+losupan                   Q137763770      Yes  No   N/A         
+lu                        Q137763771      Yes  Yes  N/A         
+luke                      Q137763773      Yes  No   N/A         
+luna                      Q137763774      Yes  No   N/A         
+majeka                    Q137763775      Yes  No   N/A         
+majuna                    Q137374454      No   No   Q309        
+maki                      Q137763776      Yes  No   N/A         
+mako                      Q137763777      Yes  No   N/A         
+mamasi                    Q137763778      Yes  No   N/A         
+mamasina                  Q137763779      Yes  No   N/A         
+manka                     Q137763780      Yes  No   N/A         
+masalo                    Q137763781      Yes  Yes  N/A         
+masenta                   Q137763782      Yes  No   N/A         
+masu                      Q137763783      Yes  No   N/A         
+matula                    Q137763784      Yes  Yes  N/A         
+me                        Q137763785      Yes  Yes  N/A         
+medium                    Q137763786      Yes  No   N/A         
+mekuwi                    Q137763787      Yes  No   N/A         
+melinjakulekule           Q137763788      Yes  No   N/A         
+mijomi                    Q137763790      Yes  Yes  N/A         
+miko                      Q137763791      Yes  No   N/A         
+mila                      Q137763792      Yes  No   N/A         
+mimuki                    Q137763793      Yes  No   N/A         
+misa                      Q137763794      Yes  Yes  N/A         
+molusa                    Q137763795      Yes  Yes  N/A         
+mono                      Q137763796      Yes  No   N/A         
+motan                     Q137763797      Yes  No   N/A         
+nalanja                   Q137763798      Yes  Yes  N/A         
+nalasuni                  Q137763799      Yes  No   N/A         
+nan                       Q137763801      Yes  Yes  N/A         
+nano                      Q137763802      Yes  No   N/A         
+nasulin                   Q137763803      Yes  No   N/A         
+nata                      Q137763804      Yes  No   N/A         
+natu                      Q137763805      Yes  Yes  N/A         
+neja                      Q137763806      Yes  Yes  N/A         
+nele                      Q137763807      Yes  Yes  N/A         
+niko                      Q137763808      Yes  No   N/A         
+nili                      Q137763809      Yes  No   N/A         
+nito                      Q137763810      Yes  No   N/A         
+nlsn                      Q137763811      Yes  No   N/A         
+nowi                      Q137763812      Yes  Yes  N/A         
+nu                        Q137763813      Yes  Yes  N/A         
+nusun                     Q137763814      Yes  No   N/A         
+nutan                     Q137763815      Yes  No   N/A         
+nuwa                      Q137763816      Yes  No   N/A         
+ojuta                     Q137763818      Yes  Yes  N/A         
+oke                       Q137763819      Yes  Yes  N/A         
+okepuma                   Q137763820      Yes  Yes  N/A         
+oki                       Q137763821      Yes  Yes  N/A         
+olala                     Q137763822      Yes  Yes  N/A         
+omekalike                 Q137763823      Yes  Yes  N/A         
+omekapo                   Q137763824      Yes  Yes  N/A         
+omen                      Q137763825      Yes  Yes  N/A         
+oni                       Q137763826      Yes  Yes  N/A         
+onono                     Q137763827      Yes  No   N/A         
+opa                       Q137763829      Yes  No   N/A         
+opasan                    Q137763830      Yes  Yes  N/A         
+owe                       Q137763831      Yes  Yes  N/A         
+pa                        Q137763832      Yes  Yes  N/A         
+paka                      Q137763833      Yes  Yes  N/A         
+pake                      Q137374459      No   No   N/A         
+pakola                    Q137763834      Yes  Yes  N/A         
+palensi                   Q137763835      Yes  No   N/A         
+pami                      Q137763837      Yes  No   N/A         
+panke                     Q137763838      Yes  Yes  N/A         
+panpan                    Q137763839      Yes  Yes  N/A         
+pasila                    Q137763841      Yes  Yes  N/A         
+pata                      Q137374460      No   No   N/A         
+pe                        Q137763842      Yes  Yes  N/A         
+penpo                     Q137763843      Yes  Yes  N/A         
+pensa                     Q137763844      Yes  No   N/A         
+peta                      Q137374461      No   No   N/A         
+peto                      Q137763845      Yes  Yes  N/A         
+pika                      Q137763846      Yes  Yes  N/A         
+pingo                     Q137763847      Yes  Yes  N/A         
+pipo                      Q137763848      Yes  Yes  N/A         
+pipolo                    Q137763849      Yes  No   N/A         
+po                        Q137374462      No   No   N/A         
+polinpin                  Q137763850      Yes  Yes  N/A         
+poman                     Q137763851      Yes  No   N/A         
+pomotolo                  Q137763852      Yes  Yes  N/A         
+poni                      Q137763853      Yes  Yes  N/A         
+powe                      Q137722416      No   No   N/A         
+pula                      Q137763854      Yes  No   N/A         
+pulaso                    Q137763855      Yes  Yes  N/A         
+puwa                      Q137763856      Yes  Yes  N/A         
+saja                      Q137763857      Yes  No   N/A         
+salantapotalusa           Q137763859      Yes  No   N/A         
+samin                     Q137763860      Yes  No   N/A         
+samu                      Q137763861      Yes  Yes  N/A         
+san                       Q137374463      No   No   N/A         
+santa                     Q137763862      Yes  Yes  N/A         
+sapelipope                Q137763863      Yes  Yes  N/A         
+satun                     Q137763864      Yes  No   N/A         
+seka                      Q137763865      Yes  No   N/A         
+seki                      Q137763866      Yes  No   N/A         
+siiilapa                  Q137763867      Yes  No   N/A         
+siilapa                   Q137763868      Yes  No   N/A         
+sijala                    Q137763870      Yes  No   N/A         
+sijesuwa                  Q137763871      Yes  No   N/A         
+sikako                    Q137763872      Yes  Yes  N/A         
+sikomo                    Q137763873      Yes  Yes  N/A         
+silani                    Q137763874      Yes  No   N/A         
+silapa                    Q137763875      Yes  Yes  N/A         
+sipi                      Q137763877      Yes  Yes  N/A         
+sipije                    Q137763878      Yes  No   N/A         
+sisa                      Q137763879      Yes  No   N/A         
+sisi                      Q137763880      Yes  Yes  N/A         
+siwala                    Q137763882      Yes  Yes  N/A         
+siwan                     Q137763884      Yes  No   N/A         
+slape                     Q137763885      Yes  Yes  N/A         
+snoweli                   Q137763886      Yes  Yes  N/A         
+sokeli                    Q137763887      Yes  Yes  N/A         
+soni                      Q137763888      Yes  No   N/A         
+sowoli                    Q137763889      Yes  Yes  N/A         
+stella                    Q137763890      Yes  No   N/A         
+su                        Q137374531      No   No   Q124422915  
+suke                      Q137763891      Yes  Yes  N/A         
+sulaso                    Q137763892      Yes  Yes  N/A         
+sunta                     Q137763893      Yes  Yes  N/A         
+ta                        Q137763894      Yes  Yes  N/A         
+taki                      Q137763896      Yes  Yes  N/A         
+tasun                     Q137763897      Yes  No   N/A         
+tawake                    Q137763898      Yes  No   N/A         
+te                        Q137763899      Yes  Yes  N/A         
+teken                     Q137763900      Yes  Yes  N/A         
+temi                      Q137763901      Yes  No   N/A         
+ten                       Q137763902      Yes  Yes  N/A         
+tenpi                     Q137763903      Yes  No   N/A         
+tensi                     Q137763904      Yes  No   N/A         
+to                        Q137763905      Yes  Yes  N/A         
+tokana                    Q137763906      Yes  Yes  N/A         
+token                     Q137763907      Yes  No   N/A         
+toma                      Q137763909      Yes  Yes  N/A         
+tona                      Q137763910      Yes  Yes  N/A         
+tonpite                   Q137763911      Yes  No   N/A         
+tonyu                     Q137763912      Yes  No   N/A         
+topo                      Q137763913      Yes  No   N/A         
+towan                     Q137763915      Yes  No   N/A         
+tuwa                      Q137763916      Yes  No   N/A         
+uka                       Q137763917      Yes  Yes  N/A         
+umesu                     Q137763918      Yes  Yes  N/A         
+unikijetesantakalu        Q137763919      Yes  No   N/A         
+unu                       Q137763921      Yes  Yes  N/A         
+usawi                     Q137763923      Yes  Yes  N/A         
+vivi                      Q137763925      Yes  No   N/A         
+votgil                    Q137763926      Yes  No   N/A         
+vriska                    Q137763927      Yes  No   N/A         
+wa                        Q137763928      Yes  Yes  N/A         
+waje                      Q137763929      Yes  No   N/A         
+wakalito                  Q137763930      Yes  No   N/A         
+waken                     Q137763931      Yes  Yes  N/A         
+waleja                    Q137763932      Yes  Yes  N/A         
+wasoweli                  Q137763933      Yes  Yes  N/A         
+wawajete                  Q137763934      Yes  Yes  N/A         
+we                        Q137763936      Yes  Yes  N/A         
+wekama                    Q137763938      Yes  Yes  N/A         
+weko                      Q137763939      Yes  No   N/A         
+wen                       Q137763940      Yes  No   N/A         
+wi                        Q137763941      Yes  Yes  N/A         
+wiju                      Q137763942      Yes  No   N/A         
+wiki                      Q137763943      Yes  No   N/A         
+wikipesija                Q137763944      Yes  No   N/A         
+wiwi                      Q137763945      Yes  Yes  N/A         
+wowujiti                  Q137763946      Yes  No   N/A         
+wuwojiti                  Q137763947      Yes  Yes  N/A         
+yupekosi                  Q137763948      Yes  Yes  N/A         
+yutu                      Q137763949      Yes  Yes  N/A         

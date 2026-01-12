@@ -1,0 +1,18 @@
+QuickStatements to CREATE Wikidata items for rare Toki Pona words
+====================================================================================================
+
+Total items to create: 11
+
+Word                 Commons Category                                   Represents   Image
+----------------------------------------------------------------------------------------------------
+jonke                Category:Jonke (toki pona)                         Q3303681     Sitelen-seli-kiwen-jonke.svg
+kisa                 Category:Kisa (toki pona)                          Q146         Sitelen-seli-kiwen-kisa.svg
+kutopoma             Category:Kutopoma (toki pona)                      Q137760739   Sitelen-seli-kiwen-kutopoma.svg
+linluwi              Category:Linluwi (toki pona)                       Q75          Sitelen-seli-kiwen-linluwi.svg
+melome               Category:Melome (toki pona)                        Q9800899     Sitelen-seli-kiwen-melome.svg
+mulapisu             Category:Mulapisu (toki pona)                      Q177         Sitelen-seli-kiwen-mulapisu.svg
+nimisin              Category:Nimisin (toki pona)                       Q130989      Sitelen-seli-kiwen-nimisin.svg
+nja                  Category:Nja (toki pona)                           Q146         Sitelen-seli-kiwen-nja.svg
+soto                 Category:Soto (toki pona)                          Q13196750    Sitelen-seli-kiwen-soto.svg
+sutopatikuna         Category:Sutopatikuna (toki pona)                  Q15343       Sitelen-seli-kiwen-sutopatikuna.svg
+teje                 Category:Teje (toki pona)                          Q14565199    Sitelen-seli-kiwen-teje.svg
