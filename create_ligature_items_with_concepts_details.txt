@@ -1,0 +1,99 @@
+QuickStatements to CREATE Wikidata items for 92 ligatures with concept links
+================================================================================
+
+Total items to create: 92
+
+Word                      Concept QID     SVG File                      
+--------------------------------------------------------------------------------
+anpa lawa                 Q13164428       anpa lawa.svg                 
+ijo lawa                  Q11364          ijo lawa.svg                  
+ijo leko                  Q262959         ijo leko.svg                  
+ijo lili                  Q1621273        ijo lili.svg                  
+ijo lon                   Q7239           ijo lon.svg                   
+ijo sijelo                Q7239           ijo sijelo.svg                
+ijo wile                  Q7239           ijo wile.svg                  
+ilo kipisi                Q11016          ilo kipisi.svg                
+ilo lukin                 Q116877139      ilo lukin.svg                 
+ilo musi                  Q11422          ilo musi.svg                  
+ilo nanpa                 Q2135246        ilo nanpa.svg                 
+ilo suno                  Q12969754       ilo suno.svg                  
+ilo toki                  Q11035          ilo toki.svg                  
+jan lawa                  Q1251441        jan lawa.svg                  
+jan lili                  Q7569           jan lili.svg                  
+jan nasa                  Q29471598       jan nasa.svg                  
+jan pali                  Q268378         jan pali.svg                  
+jan sama                  Q137760727      jan sama.svg                  
+jan sewi                  Q178885         jan sewi.svg                  
+jan sona                  Q20826540       jan sona.svg                  
+jan utala                 Q4991371        jan utala.svg                 
+kalama musi               Q638            kalama musi.svg               
+kama sona                 Q137760728      kama sona.svg                 
+kili palisa               Q503            kili palisa.svg               
+kiwen kasi                Q287            kiwen kasi.svg                
+ko jaki                   Q496            ko jaki.svg                   
+ko lete                   Q7561           ko lete.svg                   
+kule kasi                 Q10834659       kule kasi.svg                 
+len lawa                  Q137760729      len lawa.svg                  
+len noka                  Q137261308      len noka.svg                  
+linja pona                Q124843967      linja pona.svg                
+linja sike                Q58372003       linja sike.svg                
+lipu kule                 Q108870328      lipu kule.svg                 
+lipu nimi                 Q23622          lipu nimi.svg                 
+lipu sewi                 Q179461         lipu sewi.svg                 
+lipu sona                 Q5292           lipu sona.svg                 
+lipu tenpo                Q108679008      lipu tenpo.svg                
+lipu toki                 Q571            lipu toki.svg                 
+luka luka                 Q23806          luka luka.svg                 
+luka luka luka            Q38701          luka luka luka.svg            
+luka luka tu              Q36977          luka luka tu.svg              
+luka luka tu tu           Q38582          luka luka tu tu.svg           
+luka luka tu wan          Q37141          luka luka tu wan.svg          
+luka luka wan             Q37136          luka luka wan.svg             
+luka tu                   Q23350          luka tu.svg                   
+luka tu tu                Q19108          luka tu tu.svg                
+luka tu wan               Q23355          luka tu wan.svg               
+luka wan                  Q23488          luka wan.svg                  
+lupa meli                 Q137441001      lupa meli.svg                 
+lupa monsi                Q497            lupa monsi.svg                
+ma ale                    Q2              ma ale.svg                    
+ma ali                    Q2              ma ali.svg                    
+ma pona                   Q137760731      ma pona.svg                   
+ma tomo                   Q515            ma tomo.svg                   
+meli tonsi                Q189125         meli tonsi.svg                
+mije tonsi                Q189125         mije tonsi.svg                
+nasin nanpa               Q11563          nasin nanpa.svg               
+nasin sitelen             Q8192           nasin sitelen.svg             
+nena kon                  Q7363           nena kon.svg                  
+nena kute                 Q7362           nena kute.svg                 
+nena mama                 Q9103           nena mama.svg                 
+nimi sin                  Q130989         nimi sin.svg                  
+palisa lili               Q10876          palisa lili.svg               
+pilin ike                 Q137760732      pilin ike.svg                 
+pilin pona                Q8              pilin pona.svg                
+poki len                  Q137760733      poki len.svg                  
+poki lili                 Q7868           poki lili.svg                 
+poki telo                 Q2453629        poki telo.svg                 
+pona lukin                Q7242           pona lukin.svg                
+sitelen ma                Q137760735      sitelen ma.svg                
+sitelen pona              Q58372003       sitelen pona.svg              
+sitelen sitelen           Q58372017       sitelen sitelen.svg           
+sitelen tawa              Q11424          sitelen tawa.svg              
+sitelen toki              Q8192           sitelen toki.svg              
+sona ma                   Q1071           sona ma.svg                   
+sona nanpa                Q395            sona nanpa.svg                
+sona pona                 Q133823176      sona pona.svg                 
+sona sijelo               Q8087           sona sijelo.svg               
+sona toki                 Q8162           sona toki.svg                 
+suno sama                 Q124422915      suno sama.svg                 
+supa lape                 Q42177          supa lape.svg                 
+supa monsi                Q137760736      supa monsi.svg                
+tenpo ni                  Q193168         tenpo ni.svg                  
+toki pona                 Q36846          toki pona.svg                 
+toki sin                  Q33215          toki sin.svg                  
+toki sona                 Q137760737      toki sona.svg                 
+tomo moku                 Q11707          tomo moku.svg                 
+tomo sona                 Q3914           tomo sona.svg                 
+tomo tawa                 Q11436          tomo tawa.svg                 
+tomo utala                Q57821          tomo utala.svg                
+tu tu                     Q202            tu tu.svg                     
+tu wan                    Q201            tu wan.svg                    

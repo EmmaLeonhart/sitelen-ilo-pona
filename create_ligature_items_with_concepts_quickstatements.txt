@@ -1,0 +1,828 @@
+CREATE
+LAST|Lmul|"anpa lawa"
+LAST|Ltok|"anpa lawa"
+LAST|Len|"anpa lawa"
+LAST|P31|Q137763215
+LAST|P373|"Anpa lawa (toki pona)"
+LAST|P1268|Q13164428
+LAST|P18|"anpa lawa.svg"
+
+CREATE
+LAST|Lmul|"ijo lawa"
+LAST|Ltok|"ijo lawa"
+LAST|Len|"ijo lawa"
+LAST|P31|Q137763215
+LAST|P373|"Ijo lawa (toki pona)"
+LAST|P1268|Q11364
+LAST|P18|"ijo lawa.svg"
+
+CREATE
+LAST|Lmul|"ijo leko"
+LAST|Ltok|"ijo leko"
+LAST|Len|"ijo leko"
+LAST|P31|Q137763215
+LAST|P373|"Ijo leko (toki pona)"
+LAST|P1268|Q262959
+LAST|P18|"ijo leko.svg"
+
+CREATE
+LAST|Lmul|"ijo lili"
+LAST|Ltok|"ijo lili"
+LAST|Len|"ijo lili"
+LAST|P31|Q137763215
+LAST|P373|"Ijo lili (toki pona)"
+LAST|P1268|Q1621273
+LAST|P18|"ijo lili.svg"
+
+CREATE
+LAST|Lmul|"ijo lon"
+LAST|Ltok|"ijo lon"
+LAST|Len|"ijo lon"
+LAST|P31|Q137763215
+LAST|P373|"Ijo lon (toki pona)"
+LAST|P1268|Q7239
+LAST|P18|"ijo lon.svg"
+
+CREATE
+LAST|Lmul|"ijo sijelo"
+LAST|Ltok|"ijo sijelo"
+LAST|Len|"ijo sijelo"
+LAST|P31|Q137763215
+LAST|P373|"Ijo sijelo (toki pona)"
+LAST|P1268|Q7239
+LAST|P18|"ijo sijelo.svg"
+
+CREATE
+LAST|Lmul|"ijo wile"
+LAST|Ltok|"ijo wile"
+LAST|Len|"ijo wile"
+LAST|P31|Q137763215
+LAST|P373|"Ijo wile (toki pona)"
+LAST|P1268|Q7239
+LAST|P18|"ijo wile.svg"
+
+CREATE
+LAST|Lmul|"ilo kipisi"
+LAST|Ltok|"ilo kipisi"
+LAST|Len|"ilo kipisi"
+LAST|P31|Q137763215
+LAST|P373|"Ilo kipisi (toki pona)"
+LAST|P1268|Q11016
+LAST|P18|"ilo kipisi.svg"
+
+CREATE
+LAST|Lmul|"ilo lukin"
+LAST|Ltok|"ilo lukin"
+LAST|Len|"ilo lukin"
+LAST|P31|Q137763215
+LAST|P373|"Ilo lukin (toki pona)"
+LAST|P1268|Q116877139
+LAST|P18|"ilo lukin.svg"
+
+CREATE
+LAST|Lmul|"ilo musi"
+LAST|Ltok|"ilo musi"
+LAST|Len|"ilo musi"
+LAST|P31|Q137763215
+LAST|P373|"Ilo musi (toki pona)"
+LAST|P1268|Q11422
+LAST|P18|"ilo musi.svg"
+
+CREATE
+LAST|Lmul|"ilo nanpa"
+LAST|Ltok|"ilo nanpa"
+LAST|Len|"ilo nanpa"
+LAST|P31|Q137763215
+LAST|P373|"Ilo nanpa (toki pona)"
+LAST|P1268|Q2135246
+LAST|P18|"ilo nanpa.svg"
+
+CREATE
+LAST|Lmul|"ilo suno"
+LAST|Ltok|"ilo suno"
+LAST|Len|"ilo suno"
+LAST|P31|Q137763215
+LAST|P373|"Ilo suno (toki pona)"
+LAST|P1268|Q12969754
+LAST|P18|"ilo suno.svg"
+
+CREATE
+LAST|Lmul|"ilo toki"
+LAST|Ltok|"ilo toki"
+LAST|Len|"ilo toki"
+LAST|P31|Q137763215
+LAST|P373|"Ilo toki (toki pona)"
+LAST|P1268|Q11035
+LAST|P18|"ilo toki.svg"
+
+CREATE
+LAST|Lmul|"jan lawa"
+LAST|Ltok|"jan lawa"
+LAST|Len|"jan lawa"
+LAST|P31|Q137763215
+LAST|P373|"Jan lawa (toki pona)"
+LAST|P1268|Q1251441
+LAST|P18|"jan lawa.svg"
+
+CREATE
+LAST|Lmul|"jan lili"
+LAST|Ltok|"jan lili"
+LAST|Len|"jan lili"
+LAST|P31|Q137763215
+LAST|P373|"Jan lili (toki pona)"
+LAST|P1268|Q7569
+LAST|P18|"jan lili.svg"
+
+CREATE
+LAST|Lmul|"jan nasa"
+LAST|Ltok|"jan nasa"
+LAST|Len|"jan nasa"
+LAST|P31|Q137763215
+LAST|P373|"Jan nasa (toki pona)"
+LAST|P1268|Q29471598
+LAST|P18|"jan nasa.svg"
+
+CREATE
+LAST|Lmul|"jan pali"
+LAST|Ltok|"jan pali"
+LAST|Len|"jan pali"
+LAST|P31|Q137763215
+LAST|P373|"Jan pali (toki pona)"
+LAST|P1268|Q268378
+LAST|P18|"jan pali.svg"
+
+CREATE
+LAST|Lmul|"jan sama"
+LAST|Ltok|"jan sama"
+LAST|Len|"jan sama"
+LAST|P31|Q137763215
+LAST|P373|"Jan sama (toki pona)"
+LAST|P1268|Q137760727
+LAST|P18|"jan sama.svg"
+
+CREATE
+LAST|Lmul|"jan sewi"
+LAST|Ltok|"jan sewi"
+LAST|Len|"jan sewi"
+LAST|P31|Q137763215
+LAST|P373|"Jan sewi (toki pona)"
+LAST|P1268|Q178885
+LAST|P18|"jan sewi.svg"
+
+CREATE
+LAST|Lmul|"jan sona"
+LAST|Ltok|"jan sona"
+LAST|Len|"jan sona"
+LAST|P31|Q137763215
+LAST|P373|"Jan sona (toki pona)"
+LAST|P1268|Q20826540
+LAST|P18|"jan sona.svg"
+
+CREATE
+LAST|Lmul|"jan utala"
+LAST|Ltok|"jan utala"
+LAST|Len|"jan utala"
+LAST|P31|Q137763215
+LAST|P373|"Jan utala (toki pona)"
+LAST|P1268|Q4991371
+LAST|P18|"jan utala.svg"
+
+CREATE
+LAST|Lmul|"kalama musi"
+LAST|Ltok|"kalama musi"
+LAST|Len|"kalama musi"
+LAST|P31|Q137763215
+LAST|P373|"Kalama musi (toki pona)"
+LAST|P1268|Q638
+LAST|P18|"kalama musi.svg"
+
+CREATE
+LAST|Lmul|"kama sona"
+LAST|Ltok|"kama sona"
+LAST|Len|"kama sona"
+LAST|P31|Q137763215
+LAST|P373|"Kama sona (toki pona)"
+LAST|P1268|Q137760728
+LAST|P18|"kama sona.svg"
+
+CREATE
+LAST|Lmul|"kili palisa"
+LAST|Ltok|"kili palisa"
+LAST|Len|"kili palisa"
+LAST|P31|Q137763215
+LAST|P373|"Kili palisa (toki pona)"
+LAST|P1268|Q503
+LAST|P18|"kili palisa.svg"
+
+CREATE
+LAST|Lmul|"kiwen kasi"
+LAST|Ltok|"kiwen kasi"
+LAST|Len|"kiwen kasi"
+LAST|P31|Q137763215
+LAST|P373|"Kiwen kasi (toki pona)"
+LAST|P1268|Q287
+LAST|P18|"kiwen kasi.svg"
+
+CREATE
+LAST|Lmul|"ko jaki"
+LAST|Ltok|"ko jaki"
+LAST|Len|"ko jaki"
+LAST|P31|Q137763215
+LAST|P373|"Ko jaki (toki pona)"
+LAST|P1268|Q496
+LAST|P18|"ko jaki.svg"
+
+CREATE
+LAST|Lmul|"ko lete"
+LAST|Ltok|"ko lete"
+LAST|Len|"ko lete"
+LAST|P31|Q137763215
+LAST|P373|"Ko lete (toki pona)"
+LAST|P1268|Q7561
+LAST|P18|"ko lete.svg"
+
+CREATE
+LAST|Lmul|"kule kasi"
+LAST|Ltok|"kule kasi"
+LAST|Len|"kule kasi"
+LAST|P31|Q137763215
+LAST|P373|"Kule kasi (toki pona)"
+LAST|P1268|Q10834659
+LAST|P18|"kule kasi.svg"
+
+CREATE
+LAST|Lmul|"len lawa"
+LAST|Ltok|"len lawa"
+LAST|Len|"len lawa"
+LAST|P31|Q137763215
+LAST|P373|"Len lawa (toki pona)"
+LAST|P1268|Q137760729
+LAST|P18|"len lawa.svg"
+
+CREATE
+LAST|Lmul|"len noka"
+LAST|Ltok|"len noka"
+LAST|Len|"len noka"
+LAST|P31|Q137763215
+LAST|P373|"Len noka (toki pona)"
+LAST|P1268|Q137261308
+LAST|P18|"len noka.svg"
+
+CREATE
+LAST|Lmul|"linja pona"
+LAST|Ltok|"linja pona"
+LAST|Len|"linja pona"
+LAST|P31|Q137763215
+LAST|P373|"Linja pona (toki pona)"
+LAST|P1268|Q124843967
+LAST|P18|"linja pona.svg"
+
+CREATE
+LAST|Lmul|"linja sike"
+LAST|Ltok|"linja sike"
+LAST|Len|"linja sike"
+LAST|P31|Q137763215
+LAST|P373|"Linja sike (toki pona)"
+LAST|P1268|Q58372003
+LAST|P18|"linja sike.svg"
+
+CREATE
+LAST|Lmul|"lipu kule"
+LAST|Ltok|"lipu kule"
+LAST|Len|"lipu kule"
+LAST|P31|Q137763215
+LAST|P373|"Lipu kule (toki pona)"
+LAST|P1268|Q108870328
+LAST|P18|"lipu kule.svg"
+
+CREATE
+LAST|Lmul|"lipu nimi"
+LAST|Ltok|"lipu nimi"
+LAST|Len|"lipu nimi"
+LAST|P31|Q137763215
+LAST|P373|"Lipu nimi (toki pona)"
+LAST|P1268|Q23622
+LAST|P18|"lipu nimi.svg"
+
+CREATE
+LAST|Lmul|"lipu sewi"
+LAST|Ltok|"lipu sewi"
+LAST|Len|"lipu sewi"
+LAST|P31|Q137763215
+LAST|P373|"Lipu sewi (toki pona)"
+LAST|P1268|Q179461
+LAST|P18|"lipu sewi.svg"
+
+CREATE
+LAST|Lmul|"lipu sona"
+LAST|Ltok|"lipu sona"
+LAST|Len|"lipu sona"
+LAST|P31|Q137763215
+LAST|P373|"Lipu sona (toki pona)"
+LAST|P1268|Q5292
+LAST|P18|"lipu sona.svg"
+
+CREATE
+LAST|Lmul|"lipu tenpo"
+LAST|Ltok|"lipu tenpo"
+LAST|Len|"lipu tenpo"
+LAST|P31|Q137763215
+LAST|P373|"Lipu tenpo (toki pona)"
+LAST|P1268|Q108679008
+LAST|P18|"lipu tenpo.svg"
+
+CREATE
+LAST|Lmul|"lipu toki"
+LAST|Ltok|"lipu toki"
+LAST|Len|"lipu toki"
+LAST|P31|Q137763215
+LAST|P373|"Lipu toki (toki pona)"
+LAST|P1268|Q571
+LAST|P18|"lipu toki.svg"
+
+CREATE
+LAST|Lmul|"luka luka"
+LAST|Ltok|"luka luka"
+LAST|Len|"luka luka"
+LAST|P31|Q137763215
+LAST|P373|"Luka luka (toki pona)"
+LAST|P1268|Q23806
+LAST|P18|"luka luka.svg"
+
+CREATE
+LAST|Lmul|"luka luka luka"
+LAST|Ltok|"luka luka luka"
+LAST|Len|"luka luka luka"
+LAST|P31|Q137763215
+LAST|P373|"Luka luka luka (toki pona)"
+LAST|P1268|Q38701
+LAST|P18|"luka luka luka.svg"
+
+CREATE
+LAST|Lmul|"luka luka tu"
+LAST|Ltok|"luka luka tu"
+LAST|Len|"luka luka tu"
+LAST|P31|Q137763215
+LAST|P373|"Luka luka tu (toki pona)"
+LAST|P1268|Q36977
+LAST|P18|"luka luka tu.svg"
+
+CREATE
+LAST|Lmul|"luka luka tu tu"
+LAST|Ltok|"luka luka tu tu"
+LAST|Len|"luka luka tu tu"
+LAST|P31|Q137763215
+LAST|P373|"Luka luka tu tu (toki pona)"
+LAST|P1268|Q38582
+LAST|P18|"luka luka tu tu.svg"
+
+CREATE
+LAST|Lmul|"luka luka tu wan"
+LAST|Ltok|"luka luka tu wan"
+LAST|Len|"luka luka tu wan"
+LAST|P31|Q137763215
+LAST|P373|"Luka luka tu wan (toki pona)"
+LAST|P1268|Q37141
+LAST|P18|"luka luka tu wan.svg"
+
+CREATE
+LAST|Lmul|"luka luka wan"
+LAST|Ltok|"luka luka wan"
+LAST|Len|"luka luka wan"
+LAST|P31|Q137763215
+LAST|P373|"Luka luka wan (toki pona)"
+LAST|P1268|Q37136
+LAST|P18|"luka luka wan.svg"
+
+CREATE
+LAST|Lmul|"luka tu"
+LAST|Ltok|"luka tu"
+LAST|Len|"luka tu"
+LAST|P31|Q137763215
+LAST|P373|"Luka tu (toki pona)"
+LAST|P1268|Q23350
+LAST|P18|"luka tu.svg"
+
+CREATE
+LAST|Lmul|"luka tu tu"
+LAST|Ltok|"luka tu tu"
+LAST|Len|"luka tu tu"
+LAST|P31|Q137763215
+LAST|P373|"Luka tu tu (toki pona)"
+LAST|P1268|Q19108
+LAST|P18|"luka tu tu.svg"
+
+CREATE
+LAST|Lmul|"luka tu wan"
+LAST|Ltok|"luka tu wan"
+LAST|Len|"luka tu wan"
+LAST|P31|Q137763215
+LAST|P373|"Luka tu wan (toki pona)"
+LAST|P1268|Q23355
+LAST|P18|"luka tu wan.svg"
+
+CREATE
+LAST|Lmul|"luka wan"
+LAST|Ltok|"luka wan"
+LAST|Len|"luka wan"
+LAST|P31|Q137763215
+LAST|P373|"Luka wan (toki pona)"
+LAST|P1268|Q23488
+LAST|P18|"luka wan.svg"
+
+CREATE
+LAST|Lmul|"lupa meli"
+LAST|Ltok|"lupa meli"
+LAST|Len|"lupa meli"
+LAST|P31|Q137763215
+LAST|P373|"Lupa meli (toki pona)"
+LAST|P1268|Q137441001
+LAST|P18|"lupa meli.svg"
+
+CREATE
+LAST|Lmul|"lupa monsi"
+LAST|Ltok|"lupa monsi"
+LAST|Len|"lupa monsi"
+LAST|P31|Q137763215
+LAST|P373|"Lupa monsi (toki pona)"
+LAST|P1268|Q497
+LAST|P18|"lupa monsi.svg"
+
+CREATE
+LAST|Lmul|"ma ale"
+LAST|Ltok|"ma ale"
+LAST|Len|"ma ale"
+LAST|P31|Q137763215
+LAST|P373|"Ma ale (toki pona)"
+LAST|P1268|Q2
+LAST|P18|"ma ale.svg"
+
+CREATE
+LAST|Lmul|"ma ali"
+LAST|Ltok|"ma ali"
+LAST|Len|"ma ali"
+LAST|P31|Q137763215
+LAST|P373|"Ma ali (toki pona)"
+LAST|P1268|Q2
+LAST|P18|"ma ali.svg"
+
+CREATE
+LAST|Lmul|"ma pona"
+LAST|Ltok|"ma pona"
+LAST|Len|"ma pona"
+LAST|P31|Q137763215
+LAST|P373|"Ma pona (toki pona)"
+LAST|P1268|Q137760731
+LAST|P18|"ma pona.svg"
+
+CREATE
+LAST|Lmul|"ma tomo"
+LAST|Ltok|"ma tomo"
+LAST|Len|"ma tomo"
+LAST|P31|Q137763215
+LAST|P373|"Ma tomo (toki pona)"
+LAST|P1268|Q515
+LAST|P18|"ma tomo.svg"
+
+CREATE
+LAST|Lmul|"meli tonsi"
+LAST|Ltok|"meli tonsi"
+LAST|Len|"meli tonsi"
+LAST|P31|Q137763215
+LAST|P373|"Meli tonsi (toki pona)"
+LAST|P1268|Q189125
+LAST|P18|"meli tonsi.svg"
+
+CREATE
+LAST|Lmul|"mije tonsi"
+LAST|Ltok|"mije tonsi"
+LAST|Len|"mije tonsi"
+LAST|P31|Q137763215
+LAST|P373|"Mije tonsi (toki pona)"
+LAST|P1268|Q189125
+LAST|P18|"mije tonsi.svg"
+
+CREATE
+LAST|Lmul|"nasin nanpa"
+LAST|Ltok|"nasin nanpa"
+LAST|Len|"nasin nanpa"
+LAST|P31|Q137763215
+LAST|P373|"Nasin nanpa (toki pona)"
+LAST|P1268|Q11563
+LAST|P18|"nasin nanpa.svg"
+
+CREATE
+LAST|Lmul|"nasin sitelen"
+LAST|Ltok|"nasin sitelen"
+LAST|Len|"nasin sitelen"
+LAST|P31|Q137763215
+LAST|P373|"Nasin sitelen (toki pona)"
+LAST|P1268|Q8192
+LAST|P18|"nasin sitelen.svg"
+
+CREATE
+LAST|Lmul|"nena kon"
+LAST|Ltok|"nena kon"
+LAST|Len|"nena kon"
+LAST|P31|Q137763215
+LAST|P373|"Nena kon (toki pona)"
+LAST|P1268|Q7363
+LAST|P18|"nena kon.svg"
+
+CREATE
+LAST|Lmul|"nena kute"
+LAST|Ltok|"nena kute"
+LAST|Len|"nena kute"
+LAST|P31|Q137763215
+LAST|P373|"Nena kute (toki pona)"
+LAST|P1268|Q7362
+LAST|P18|"nena kute.svg"
+
+CREATE
+LAST|Lmul|"nena mama"
+LAST|Ltok|"nena mama"
+LAST|Len|"nena mama"
+LAST|P31|Q137763215
+LAST|P373|"Nena mama (toki pona)"
+LAST|P1268|Q9103
+LAST|P18|"nena mama.svg"
+
+CREATE
+LAST|Lmul|"nimi sin"
+LAST|Ltok|"nimi sin"
+LAST|Len|"nimi sin"
+LAST|P31|Q137763215
+LAST|P373|"Nimi sin (toki pona)"
+LAST|P1268|Q130989
+LAST|P18|"nimi sin.svg"
+
+CREATE
+LAST|Lmul|"palisa lili"
+LAST|Ltok|"palisa lili"
+LAST|Len|"palisa lili"
+LAST|P31|Q137763215
+LAST|P373|"Palisa lili (toki pona)"
+LAST|P1268|Q10876
+LAST|P18|"palisa lili.svg"
+
+CREATE
+LAST|Lmul|"pilin ike"
+LAST|Ltok|"pilin ike"
+LAST|Len|"pilin ike"
+LAST|P31|Q137763215
+LAST|P373|"Pilin ike (toki pona)"
+LAST|P1268|Q137760732
+LAST|P18|"pilin ike.svg"
+
+CREATE
+LAST|Lmul|"pilin pona"
+LAST|Ltok|"pilin pona"
+LAST|Len|"pilin pona"
+LAST|P31|Q137763215
+LAST|P373|"Pilin pona (toki pona)"
+LAST|P1268|Q8
+LAST|P18|"pilin pona.svg"
+
+CREATE
+LAST|Lmul|"poki len"
+LAST|Ltok|"poki len"
+LAST|Len|"poki len"
+LAST|P31|Q137763215
+LAST|P373|"Poki len (toki pona)"
+LAST|P1268|Q137760733
+LAST|P18|"poki len.svg"
+
+CREATE
+LAST|Lmul|"poki lili"
+LAST|Ltok|"poki lili"
+LAST|Len|"poki lili"
+LAST|P31|Q137763215
+LAST|P373|"Poki lili (toki pona)"
+LAST|P1268|Q7868
+LAST|P18|"poki lili.svg"
+
+CREATE
+LAST|Lmul|"poki telo"
+LAST|Ltok|"poki telo"
+LAST|Len|"poki telo"
+LAST|P31|Q137763215
+LAST|P373|"Poki telo (toki pona)"
+LAST|P1268|Q2453629
+LAST|P18|"poki telo.svg"
+
+CREATE
+LAST|Lmul|"pona lukin"
+LAST|Ltok|"pona lukin"
+LAST|Len|"pona lukin"
+LAST|P31|Q137763215
+LAST|P373|"Pona lukin (toki pona)"
+LAST|P1268|Q7242
+LAST|P18|"pona lukin.svg"
+
+CREATE
+LAST|Lmul|"sitelen ma"
+LAST|Ltok|"sitelen ma"
+LAST|Len|"sitelen ma"
+LAST|P31|Q137763215
+LAST|P373|"Sitelen ma (toki pona)"
+LAST|P1268|Q137760735
+LAST|P18|"sitelen ma.svg"
+
+CREATE
+LAST|Lmul|"sitelen pona"
+LAST|Ltok|"sitelen pona"
+LAST|Len|"sitelen pona"
+LAST|P31|Q137763215
+LAST|P373|"Sitelen pona (toki pona)"
+LAST|P1268|Q58372003
+LAST|P18|"sitelen pona.svg"
+
+CREATE
+LAST|Lmul|"sitelen sitelen"
+LAST|Ltok|"sitelen sitelen"
+LAST|Len|"sitelen sitelen"
+LAST|P31|Q137763215
+LAST|P373|"Sitelen sitelen (toki pona)"
+LAST|P1268|Q58372017
+LAST|P18|"sitelen sitelen.svg"
+
+CREATE
+LAST|Lmul|"sitelen tawa"
+LAST|Ltok|"sitelen tawa"
+LAST|Len|"sitelen tawa"
+LAST|P31|Q137763215
+LAST|P373|"Sitelen tawa (toki pona)"
+LAST|P1268|Q11424
+LAST|P18|"sitelen tawa.svg"
+
+CREATE
+LAST|Lmul|"sitelen toki"
+LAST|Ltok|"sitelen toki"
+LAST|Len|"sitelen toki"
+LAST|P31|Q137763215
+LAST|P373|"Sitelen toki (toki pona)"
+LAST|P1268|Q8192
+LAST|P18|"sitelen toki.svg"
+
+CREATE
+LAST|Lmul|"sona ma"
+LAST|Ltok|"sona ma"
+LAST|Len|"sona ma"
+LAST|P31|Q137763215
+LAST|P373|"Sona ma (toki pona)"
+LAST|P1268|Q1071
+LAST|P18|"sona ma.svg"
+
+CREATE
+LAST|Lmul|"sona nanpa"
+LAST|Ltok|"sona nanpa"
+LAST|Len|"sona nanpa"
+LAST|P31|Q137763215
+LAST|P373|"Sona nanpa (toki pona)"
+LAST|P1268|Q395
+LAST|P18|"sona nanpa.svg"
+
+CREATE
+LAST|Lmul|"sona pona"
+LAST|Ltok|"sona pona"
+LAST|Len|"sona pona"
+LAST|P31|Q137763215
+LAST|P373|"Sona pona (toki pona)"
+LAST|P1268|Q133823176
+LAST|P18|"sona pona.svg"
+
+CREATE
+LAST|Lmul|"sona sijelo"
+LAST|Ltok|"sona sijelo"
+LAST|Len|"sona sijelo"
+LAST|P31|Q137763215
+LAST|P373|"Sona sijelo (toki pona)"
+LAST|P1268|Q8087
+LAST|P18|"sona sijelo.svg"
+
+CREATE
+LAST|Lmul|"sona toki"
+LAST|Ltok|"sona toki"
+LAST|Len|"sona toki"
+LAST|P31|Q137763215
+LAST|P373|"Sona toki (toki pona)"
+LAST|P1268|Q8162
+LAST|P18|"sona toki.svg"
+
+CREATE
+LAST|Lmul|"suno sama"
+LAST|Ltok|"suno sama"
+LAST|Len|"suno sama"
+LAST|P31|Q137763215
+LAST|P373|"Suno sama (toki pona)"
+LAST|P1268|Q124422915
+LAST|P18|"suno sama.svg"
+
+CREATE
+LAST|Lmul|"supa lape"
+LAST|Ltok|"supa lape"
+LAST|Len|"supa lape"
+LAST|P31|Q137763215
+LAST|P373|"Supa lape (toki pona)"
+LAST|P1268|Q42177
+LAST|P18|"supa lape.svg"
+
+CREATE
+LAST|Lmul|"supa monsi"
+LAST|Ltok|"supa monsi"
+LAST|Len|"supa monsi"
+LAST|P31|Q137763215
+LAST|P373|"Supa monsi (toki pona)"
+LAST|P1268|Q137760736
+LAST|P18|"supa monsi.svg"
+
+CREATE
+LAST|Lmul|"tenpo ni"
+LAST|Ltok|"tenpo ni"
+LAST|Len|"tenpo ni"
+LAST|P31|Q137763215
+LAST|P373|"Tenpo ni (toki pona)"
+LAST|P1268|Q193168
+LAST|P18|"tenpo ni.svg"
+
+CREATE
+LAST|Lmul|"toki pona"
+LAST|Ltok|"toki pona"
+LAST|Len|"toki pona"
+LAST|P31|Q137763215
+LAST|P373|"Toki pona (toki pona)"
+LAST|P1268|Q36846
+LAST|P18|"toki pona.svg"
+
+CREATE
+LAST|Lmul|"toki sin"
+LAST|Ltok|"toki sin"
+LAST|Len|"toki sin"
+LAST|P31|Q137763215
+LAST|P373|"Toki sin (toki pona)"
+LAST|P1268|Q33215
+LAST|P18|"toki sin.svg"
+
+CREATE
+LAST|Lmul|"toki sona"
+LAST|Ltok|"toki sona"
+LAST|Len|"toki sona"
+LAST|P31|Q137763215
+LAST|P373|"Toki sona (toki pona)"
+LAST|P1268|Q137760737
+LAST|P18|"toki sona.svg"
+
+CREATE
+LAST|Lmul|"tomo moku"
+LAST|Ltok|"tomo moku"
+LAST|Len|"tomo moku"
+LAST|P31|Q137763215
+LAST|P373|"Tomo moku (toki pona)"
+LAST|P1268|Q11707
+LAST|P18|"tomo moku.svg"
+
+CREATE
+LAST|Lmul|"tomo sona"
+LAST|Ltok|"tomo sona"
+LAST|Len|"tomo sona"
+LAST|P31|Q137763215
+LAST|P373|"Tomo sona (toki pona)"
+LAST|P1268|Q3914
+LAST|P18|"tomo sona.svg"
+
+CREATE
+LAST|Lmul|"tomo tawa"
+LAST|Ltok|"tomo tawa"
+LAST|Len|"tomo tawa"
+LAST|P31|Q137763215
+LAST|P373|"Tomo tawa (toki pona)"
+LAST|P1268|Q11436
+LAST|P18|"tomo tawa.svg"
+
+CREATE
+LAST|Lmul|"tomo utala"
+LAST|Ltok|"tomo utala"
+LAST|Len|"tomo utala"
+LAST|P31|Q137763215
+LAST|P373|"Tomo utala (toki pona)"
+LAST|P1268|Q57821
+LAST|P18|"tomo utala.svg"
+
+CREATE
+LAST|Lmul|"tu tu"
+LAST|Ltok|"tu tu"
+LAST|Len|"tu tu"
+LAST|P31|Q137763215
+LAST|P373|"Tu tu (toki pona)"
+LAST|P1268|Q202
+LAST|P18|"tu tu.svg"
+
+CREATE
+LAST|Lmul|"tu wan"
+LAST|Ltok|"tu wan"
+LAST|Len|"tu wan"
+LAST|P31|Q137763215
+LAST|P373|"Tu wan (toki pona)"
+LAST|P1268|Q201
+LAST|P18|"tu wan.svg"
+

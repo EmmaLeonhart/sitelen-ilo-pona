@@ -1,0 +1,14 @@
+Items that already exist on Wikidata but Commons category doesn't link back
+================================================================================
+
+jonke                     Q137768887      Jonke (toki pona)
+kisa                      Q137768888      Kisa (toki pona)
+kutopoma                  Q137768889      Kutopoma (toki pona)
+linluwi                   Q137768891      Linluwi (toki pona)
+melome                    Q137768892      Melome (toki pona)
+mulapisu                  Q137768893      Mulapisu (toki pona)
+nimisin                   Q137768894      Nimisin (toki pona)
+nja                       Q137768895      Nja (toki pona)
+soto                      Q137768896      Soto (toki pona)
+sutopatikuna              Q137768897      Sutopatikuna (toki pona)
+teje                      Q137768898      Teje (toki pona)
