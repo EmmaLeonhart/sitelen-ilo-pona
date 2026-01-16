@@ -1,0 +1,384 @@
+P527 (has part) with P1545 (series ordinal) QuickStatements
+For ligatures that were missing these properties
+================================================================================
+
+Total statements: 193
+Total ligatures: 92
+
+
+sitelen pona (Q137771442):
+  [1] sitelen (Q137104235)
+  [2] pona (Q137374270)
+
+pona lukin (Q137771440):
+  [1] pona (Q137374270)
+  [2] lukin (Q137374317)
+
+sitelen ma (Q137771441):
+  [1] sitelen (Q137104235)
+  [2] ma (Q137374319)
+
+sitelen toki (Q137771446):
+  [1] sitelen (Q137104235)
+  [2] toki (Q137374423)
+
+sona ma (Q137771447):
+  [1] sona (Q137374286)
+  [2] ma (Q137374319)
+
+sitelen sitelen (Q137771444):
+  [1] sitelen (Q137104235)
+  [2] sitelen (Q137104235)
+
+sitelen tawa (Q137771445):
+  [1] sitelen (Q137104235)
+  [2] tawa (Q137374289)
+
+sona sijelo (Q137771450):
+  [1] sona (Q137374286)
+  [2] sijelo (Q137374279)
+
+sona toki (Q137771451):
+  [1] sona (Q137374286)
+  [2] toki (Q137374423)
+
+sona nanpa (Q137771448):
+  [1] sona (Q137374286)
+  [2] nanpa (Q137374242)
+
+sona pona (Q137771449):
+  [1] sona (Q137374286)
+  [2] pona (Q137374270)
+
+supa lape (Q137771454):
+  [1] supa (Q137374534)
+  [2] lape (Q137374304)
+
+supa monsi (Q137771455):
+  [1] supa (Q137374534)
+  [2] monsi (Q137374234)
+
+suno sama (Q137771453):
+  [1] suno (Q137374533)
+  [2] sama (Q137374272)
+
+toki sin (Q137771458):
+  [1] toki (Q137374423)
+  [2] sin (Q137374281)
+
+toki sona (Q137771459):
+  [1] toki (Q137374423)
+  [2] sona (Q137374286)
+
+tenpo ni (Q137771456):
+  [1] tenpo (Q137374401)
+  [2] ni (Q137374246)
+
+toki pona (Q137771457):
+  [1] toki (Q137374423)
+  [2] pona (Q137374270)
+
+tomo tawa (Q137771462):
+  [1] tomo (Q137374541)
+  [2] tawa (Q137374289)
+
+tomo utala (Q137771463):
+  [1] tomo (Q137374541)
+  [2] utala (Q137374546)
+
+tomo moku (Q137771460):
+  [1] tomo (Q137374541)
+  [2] moku (Q137374231)
+
+tomo sona (Q137771461):
+  [1] tomo (Q137374541)
+  [2] sona (Q137374286)
+
+tu wan (Q137771466):
+  [1] tu (Q137374543)
+  [2] wan (Q137374548)
+
+tu tu (Q137771465):
+  [1] tu (Q137374543)
+  [2] tu (Q137374543)
+
+ijo leko (Q137771370):
+  [1] ijo (Q137374197)
+  [2] leko (Q137374381)
+
+ijo lili (Q137771371):
+  [1] ijo (Q137374197)
+  [2] lili (Q137374311)
+
+anpa lawa (Q137771368):
+  [1] anpa (Q135012208)
+  [2] lawa (Q137374306)
+
+ijo lawa (Q137771369):
+  [1] ijo (Q137374197)
+  [2] lawa (Q137374306)
+
+ijo wile (Q137771374):
+  [1] ijo (Q137374197)
+  [2] wile (Q137374550)
+
+ilo kipisi (Q137771375):
+  [1] ilo (Q137374199)
+  [2] kipisi (Q137374377)
+
+ijo lon (Q137771372):
+  [1] ijo (Q137374197)
+  [2] lon (Q137374315)
+
+ijo sijelo (Q137771373):
+  [1] ijo (Q137374197)
+  [2] sijelo (Q137374279)
+
+ilo nanpa (Q137771378):
+  [1] ilo (Q137374199)
+  [2] nanpa (Q137374242)
+
+ilo suno (Q137771379):
+  [1] ilo (Q137374199)
+  [2] suno (Q137374533)
+
+ilo lukin (Q137771376):
+  [1] ilo (Q137374199)
+  [2] lukin (Q137374317)
+
+ilo musi (Q137771377):
+  [1] ilo (Q137374199)
+  [2] musi (Q137374238)
+
+jan lawa (Q137771382):
+  [1] jan (Q105816257)
+  [2] lawa (Q137374306)
+
+jan lili (Q137771383):
+  [1] jan (Q105816257)
+  [2] lili (Q137374311)
+
+ilo toki (Q137771380):
+  [1] ilo (Q137374199)
+  [2] toki (Q137374423)
+
+jan sama (Q137771386):
+  [1] jan (Q105816257)
+  [2] sama (Q137374272)
+
+jan sewi (Q137771387):
+  [1] jan (Q105816257)
+  [2] sewi (Q137374278)
+
+jan nasa (Q137771384):
+  [1] jan (Q105816257)
+  [2] nasa (Q137374243)
+
+jan pali (Q137771385):
+  [1] jan (Q105816257)
+  [2] pali (Q137374256)
+
+kalama musi (Q137771390):
+  [1] kalama (Q137374207)
+  [2] musi (Q137374238)
+
+kama sona (Q137771391):
+  [1] kama (Q137374208)
+  [2] sona (Q137374286)
+
+jan sona (Q137771388):
+  [1] jan (Q105816257)
+  [2] sona (Q137374286)
+
+jan utala (Q137771389):
+  [1] jan (Q105816257)
+  [2] utala (Q137374546)
+
+ko jaki (Q137771394):
+  [1] ko (Q137374217)
+  [2] jaki (Q137374201)
+
+ko lete (Q137771395):
+  [1] ko (Q137374217)
+  [2] lete (Q137374309)
+
+kili palisa (Q137771392):
+  [1] kili (Q137374213)
+  [2] palisa (Q137374257)
+
+kiwen kasi (Q137771393):
+  [1] kiwen (Q137374216)
+  [2] kasi (Q137374209)
+
+len noka (Q137771398):
+  [1] len (Q137374308)
+  [2] noka (Q137104254)
+
+linja pona (Q137771399):
+  [1] linja (Q137374312)
+  [2] pona (Q137374270)
+
+kule kasi (Q137771396):
+  [1] kule (Q137374221)
+  [2] kasi (Q137374209)
+
+len lawa (Q137771397):
+  [1] len (Q137374308)
+  [2] lawa (Q137374306)
+
+lipu nimi (Q137771403):
+  [1] lipu (Q137374313)
+  [2] nimi (Q137374247)
+
+linja sike (Q137771400):
+  [1] linja (Q137374312)
+  [2] sike (Q137374280)
+
+lipu kule (Q137771401):
+  [1] lipu (Q137374313)
+  [2] kule (Q137374221)
+
+lipu tenpo (Q137771406):
+  [1] lipu (Q137374313)
+  [2] tenpo (Q137374401)
+
+lipu toki (Q137771407):
+  [1] lipu (Q137374313)
+  [2] toki (Q137374423)
+
+lipu sewi (Q137771404):
+  [1] lipu (Q137374313)
+  [2] sewi (Q137374278)
+
+lipu sona (Q137771405):
+  [1] lipu (Q137374313)
+  [2] sona (Q137374286)
+
+luka luka tu (Q137771410):
+  [1] luka (Q137374316)
+  [2] luka (Q137374316)
+  [3] tu (Q137374543)
+
+luka luka tu tu (Q137771411):
+  [1] luka (Q137374316)
+  [2] luka (Q137374316)
+  [3] tu (Q137374543)
+  [4] tu (Q137374543)
+
+luka luka (Q137771408):
+  [1] luka (Q137374316)
+  [2] luka (Q137374316)
+
+luka luka luka (Q137771409):
+  [1] luka (Q137374316)
+  [2] luka (Q137374316)
+  [3] luka (Q137374316)
+
+luka tu (Q137771414):
+  [1] luka (Q137374316)
+  [2] tu (Q137374543)
+
+luka tu tu (Q137771415):
+  [1] luka (Q137374316)
+  [2] tu (Q137374543)
+  [3] tu (Q137374543)
+
+luka luka tu wan (Q137771412):
+  [1] luka (Q137374316)
+  [2] luka (Q137374316)
+  [3] tu (Q137374543)
+  [4] wan (Q137374548)
+
+luka luka wan (Q137771413):
+  [1] luka (Q137374316)
+  [2] luka (Q137374316)
+  [3] wan (Q137374548)
+
+luka wan (Q137771418):
+  [1] luka (Q137374316)
+  [2] wan (Q137374548)
+
+lupa meli (Q137771419):
+  [1] lupa (Q137374318)
+  [2] meli (Q137374226)
+
+luka tu wan (Q137771417):
+  [1] luka (Q137374316)
+  [2] tu (Q137374543)
+  [3] wan (Q137374548)
+
+ma ali (Q137771422):
+  [1] ma (Q137374319)
+  [2] ali (Q137374187)
+
+ma pona (Q137771423):
+  [1] ma (Q137374319)
+  [2] pona (Q137374270)
+
+lupa monsi (Q137771420):
+  [1] lupa (Q137374318)
+  [2] monsi (Q137374234)
+
+ma ale (Q137771421):
+  [1] ma (Q137374319)
+  [2] ale (Q137104453)
+
+mije tonsi (Q137771427):
+  [1] mije (Q137374229)
+  [2] tonsi (Q137374542)
+
+ma tomo (Q137771424):
+  [1] ma (Q137374319)
+  [2] tomo (Q137374541)
+
+meli tonsi (Q137771425):
+  [1] meli (Q137374226)
+  [2] tonsi (Q137374542)
+
+nena kon (Q137771430):
+  [1] nena (Q137374245)
+  [2] kon (Q137374219)
+
+nena kute (Q137771431):
+  [1] nena (Q137374245)
+  [2] kute (Q137374223)
+
+nasin nanpa (Q137771428):
+  [1] nasin (Q137374244)
+  [2] nanpa (Q137374242)
+
+nasin sitelen (Q137771429):
+  [1] nasin (Q137374244)
+  [2] sitelen (Q137104235)
+
+palisa lili (Q137771434):
+  [1] palisa (Q137374257)
+  [2] lili (Q137374311)
+
+pilin ike (Q137771435):
+  [1] pilin (Q137374263)
+  [2] ike (Q137374198)
+
+nena mama (Q137771432):
+  [1] nena (Q137374245)
+  [2] mama (Q137374224)
+
+nimi sin (Q137771433):
+  [1] nimi (Q137374247)
+  [2] sin (Q137374281)
+
+poki lili (Q137771438):
+  [1] poki (Q137374269)
+  [2] lili (Q137374311)
+
+poki telo (Q137771439):
+  [1] poki (Q137374269)
+  [2] telo (Q137374538)
+
+pilin pona (Q137771436):
+  [1] pilin (Q137374263)
+  [2] pona (Q137374270)
+
+poki len (Q137771437):
+  [1] poki (Q137374269)
+  [2] len (Q137374308)
