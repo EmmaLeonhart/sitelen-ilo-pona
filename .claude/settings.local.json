@@ -60,7 +60,9 @@
       "Bash(while read f)",
       "Bash(do rm \"$f\")",
       "Bash(start \"\" \"C:\\\\Users\\\\Immanuelle\\\\Documents\\\\Github\\\\Sitelen\\\\uniform_syllables\\\\sitelen kalama pona - jan sewi Amatelasu.svg\")",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(timeout /t:*)",
+      "Bash(where:*)"
     ]
   }
 }
