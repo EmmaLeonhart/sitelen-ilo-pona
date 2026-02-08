@@ -456,8 +456,7 @@ def generate(text):
         right_w = (right_bbox[2] - right_bbox[0]) * cartouche_scale
         center_w = (center_bbox[2] - center_bbox[0]) * cartouche_scale
 
-        max_syl_w = max(syllable_widths) if syllable_widths else 0
-        seg_w = max(center_w, max_syl_w)
+        seg_w = center_w
         cartouche_inner_width = seg_w * len(syllable_widths)
         cartouche_total_width = left_w + cartouche_inner_width + right_w
 
@@ -471,7 +470,7 @@ def generate(text):
             'viewbox': cartouche_vb,
             'scale_x': cartouche_scale,
             'scale_y': cartouche_scale,
-            'x_offset': left_x - c_vb_x * cartouche_scale,
+            'x_offset': left_x - left_bbox[0] * cartouche_scale,
             'y_offset': 0,
         })
 
@@ -493,7 +492,7 @@ def generate(text):
             'viewbox': cartouche_vb,
             'scale_x': cartouche_scale,
             'scale_y': cartouche_scale,
-            'x_offset': right_x - c_vb_x * cartouche_scale,
+            'x_offset': right_x - right_bbox[0] * cartouche_scale,
             'y_offset': 0,
         })
 
