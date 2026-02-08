@@ -1,0 +1,4 @@
+Representation of "jan pi pana nimi" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pana: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pana.svg; nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg
+
+[[Category:Toki Pona text containing jan pi pana nimi]]

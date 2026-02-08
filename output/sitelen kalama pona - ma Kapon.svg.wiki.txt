@@ -1,0 +1,6 @@
+Representation of "ma Kapon" in sitelen kalama pona.
+Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; pon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pon.svg
+
+[[Category:Toki Pona text containing ma]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Pon]]

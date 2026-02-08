@@ -1,0 +1,4 @@
+Representation of "nimi lipu poka" in sitelen kalama pona.
+Sources: nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg; lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; poka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_poka.svg
+
+[[Category:Toki Pona text containing nimi lipu poka]]

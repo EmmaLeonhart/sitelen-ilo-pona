@@ -1,0 +1,4 @@
+Representation of "nasin mute pi ijo ni li tan seme" in sitelen kalama pona.
+Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mute.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ijo-ni: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-ni.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg; seme: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seme.svg
+
+[[Category:Toki Pona text containing nasin mute pi ijo ni li tan seme]]

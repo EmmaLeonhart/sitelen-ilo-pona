@@ -1,0 +1,4 @@
+Representation of "kalama toki lipu" in sitelen kalama pona.
+Sources: kalama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg
+
+[[Category:Toki Pona text containing kalama toki lipu]]

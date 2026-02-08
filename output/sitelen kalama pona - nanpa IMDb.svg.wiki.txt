@@ -1,0 +1,6 @@
+Representation of "nanpa IMDb" in sitelen kalama pona.
+Sources: nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg
+
+[[Category:Toki Pona text containing nanpa]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol M]]

@@ -1,0 +1,8 @@
+Representation of "nanpa pi jan Epelanto" in sitelen kalama pona.
+Sources: nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xe.svg; pe: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pe.svg; lan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lan.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg
+
+[[Category:Toki Pona text containing nanpa pi jan]]
+[[Category:Toki Pona text containing sound symbol E]]
+[[Category:Toki Pona text containing sound symbol Pe]]
+[[Category:Toki Pona text containing sound symbol Lan]]
+[[Category:Toki Pona text containing sound symbol To]]

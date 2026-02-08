@@ -1,0 +1,4 @@
+Representation of "ni li lon ma lawa seme" in sitelen kalama pona.
+Sources: ni: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ni.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg; seme: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seme.svg
+
+[[Category:Toki Pona text containing ni li lon ma lawa seme]]

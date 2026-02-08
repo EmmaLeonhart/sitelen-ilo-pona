@@ -1,0 +1,4 @@
+Representation of "pini pi tenpo pali" in sitelen kalama pona.
+Sources: pini: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pini.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; pali: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pali.svg
+
+[[Category:Toki Pona text containing pini pi tenpo pali]]

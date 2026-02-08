@@ -1,0 +1,4 @@
+Representation of "tan pi nimi ona" in sitelen kalama pona.
+Sources: tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg; ona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ona.svg
+
+[[Category:Toki Pona text containing tan pi nimi ona]]

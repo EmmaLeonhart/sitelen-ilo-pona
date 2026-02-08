@@ -1,0 +1,4 @@
+Representation of "ma seme li lawa e ijo ni" in sitelen kalama pona.
+Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; seme: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seme.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; ijo-ni: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-ni.svg
+
+[[Category:Toki Pona text containing ma seme li lawa e ijo ni]]

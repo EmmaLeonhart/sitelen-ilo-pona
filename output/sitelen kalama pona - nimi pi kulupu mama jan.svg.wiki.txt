@@ -1,0 +1,4 @@
+Representation of "nimi pi kulupu mama jan" in sitelen kalama pona.
+Sources: nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; mama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mama.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg
+
+[[Category:Toki Pona text containing nimi pi kulupu mama jan]]

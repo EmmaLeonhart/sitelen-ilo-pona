@@ -1,0 +1,515 @@
+qid,tok_label,tp_title,name
+Q154242,ala,,ala
+Q137374184,ala,,ala
+Q137374374,epiku,,epiku
+Q15290,pona,,pona
+Q137374270,pona,,pona
+Q1311,tenpo lete,,tenpo lete
+Q36846,toki pona,,toki pona
+Q137771457,toki pona,,toki pona
+Q137374192,awen,,awen
+Q120435970,a,,a
+Q137727398,a,,a
+Q137183894,akesi,,akesi
+Q137374183,akesi,,akesi
+Q36963,alasa,,alasa
+Q137374185,alasa,,alasa
+Q1,ale,,ale
+Q16502,ale,,ale
+Q2165236,ale,,ale
+Q137104453,ale,,ale
+Q137374187,ali,,ali
+Q15332388,anpa,,anpa
+Q135012208,anpa,,anpa
+Q10862449,ante,,ante
+Q137374189,ante,,ante
+Q137374190,anu,,anu
+Q137374193,e,,e
+Q137727400,e,,e
+Q137374194,en,,en
+Q137727401,en,,en
+Q137374196,esun,,esun
+Q137760199,esun,,esun
+Q35120,ijo,,ijo
+Q137374197,ijo,,ijo
+Q115208895,ike,,ike
+Q137374198,ike,,ike
+Q11016,ilo,,ilo
+Q137374199,ilo,,ilo
+Q137374200,insa,,insa
+Q112075129,jaki,,jaki
+Q137374201,jaki,,jaki
+Q5,jan,,jan
+Q215627,jan,,jan
+Q105816257,jan,,jan
+Q137727410,jan,,jan
+Q943,jelo,,jelo
+Q137374204,jelo,,jelo
+Q6498684,jo,,jo
+Q137374205,jo,,jo
+Q137727413,jo,,jo
+Q152,kala,,kala
+Q92186194,kala,,kala
+P51,kalama,,kalama
+Q11461,kalama,,kalama
+Q137374207,kalama,,kalama
+Q137374208,kama,,kama
+Q756,kasi,,kasi
+Q137374209,kasi,,kasi
+Q137374210,ken,,ken
+Q137727420,ken,,ken
+Q137760201,ken,,ken
+Q137374211,kepeken,,kepeken
+Q11661912,kili,,kili
+Q137374213,kili,,kili
+Q137374214,kin,,kin
+Q137727422,kin,,kin
+Q11438,kiwen,,kiwen
+Q137374216,kiwen,,kiwen
+Q137374217,ko,,ko
+Q137727423,ko,,ko
+Q137760203,ko,,ko
+Q11432,kon,,kon
+Q137374219,kon,,kon
+Q137727424,kon,,kon
+Q137760204,kon,,kon
+P462,kule,,kule
+Q1075,kule,,kule
+Q22006653,kule,,kule
+Q137374221,kule,,kule
+P195,kulupu,,kulupu
+Q16887380,kulupu,,kulupu
+Q137374222,kulupu,,kulupu
+Q7362,kute,,kute
+Q137374223,kute,,kute
+Q137374302,la,,la
+Q137727427,la,,la
+Q35831,lape,,lape
+Q137374304,lape,,lape
+Q10834659,laso,,laso
+Q137374305,laso,,laso
+Q23640,lawa,,lawa
+Q137374306,lawa,,lawa
+Q11460,len,,len
+Q137374308,len,,len
+Q137727430,len,,len
+Q270952,lete,,lete
+Q137374309,lete,,lete
+Q137374310,li,,li
+Q137727431,li,,li
+Q137374311,lili,,lili
+Q137374312,linja,,linja
+Q137760205,linja,,linja
+Q137374313,lipu,,lipu
+Q3142,loje,,loje
+Q137374314,loje,,loje
+P248,lon,,lon
+Q3,lon,,lon
+Q203872,lon,,lon
+Q137374315,lon,,lon
+Q137727434,lon,,lon
+Q137760206,lon,,lon
+Q33767,luka,,luka
+Q24517852,luka,,luka
+Q137374316,luka,,luka
+Q7364,lukin,,lukin
+Q162668,lukin,,lukin
+Q137374317,lukin,,lukin
+Q20204151,lupa,,lupa
+Q137374318,lupa,,lupa
+P17,ma,,ma
+Q2,ma,,ma
+Q137374319,ma,,ma
+Q137727437,ma,,ma
+P8810,mama,,mama
+Q7566,mama,,mama
+Q137374224,mama,,mama
+Q1368,mani,,mani
+Q137374225,mani,,mani
+Q467,meli,,meli
+Q43445,meli,,meli
+Q6581072,meli,,meli
+Q137374226,meli,,meli
+Q137374228,mi,,mi
+Q137727442,mi,,mi
+Q44148,mije,,mije
+Q6581097,mije,,mije
+Q137122691,mije,,mije
+Q137374229,mije,,mije
+Q2095,moku,,moku
+Q137374231,moku,,moku
+Q4,moli,,moli
+Q844482,moli,,moli
+Q137374233,moli,,moli
+Q42165,monsi,,monsi
+Q32198402,monsi,,monsi
+Q137374234,monsi,,monsi
+Q95605854,mu,,mu
+Q137374236,mu,,mu
+Q137727446,mu,,mu
+Q405,mun,,mun
+Q523,mun,,mun
+Q6999,mun,,mun
+Q137374237,mun,,mun
+Q137727447,mun,,mun
+Q173799,musi,,musi
+Q137374238,musi,,musi
+P1114,mute,,mute
+Q137374239,mute,,mute
+Q137374241,namako,,namako
+Q137760207,namako,,namako
+P1545,nanpa,,nanpa
+Q11563,nanpa,,nanpa
+Q137374242,nanpa,,nanpa
+Q137374243,nasa,,nasa
+Q5004679,nasin,,nasin
+Q137374244,nasin,,nasin
+Q7363,nena,,nena
+Q8502,nena,,nena
+Q137374245,nena,,nena
+Q137760208,nena,,nena
+Q137374246,ni,,ni
+Q137727452,ni,,ni
+P2561,nimi,,nimi
+Q8171,nimi,,nimi
+Q82799,nimi,,nimi
+Q137374247,nimi,,nimi
+Q15807,noka,,noka
+Q133105,noka,,noka
+Q62513663,noka,,noka
+Q137104254,noka,,noka
+Q137374249,o,,o
+Q137727405,o,,o
+Q137374250,oko,,oko
+Q316,olin,,olin
+Q137374251,olin,,olin
+Q137374252,ona,,ona
+Q529711,open,,open
+Q137374253,open,,open
+Q481609,pakala,,pakala
+Q137374254,pakala,,pakala
+P101,pali,,pali
+Q268378,pali,,pali
+Q137374256,pali,,pali
+Q10971443,palisa,,palisa
+Q137374257,palisa,,palisa
+Q7802,pan,,pan
+Q12117,pan,,pan
+Q137374258,pan,,pan
+Q137727459,pan,,pan
+Q137374259,pana,,pana
+Q137374262,pi,,pi
+Q137727462,pi,,pi
+Q877674,pilin,,pilin
+Q137374263,pilin,,pilin
+Q137760209,pilin,,pilin
+Q23445,pimeja,,pimeja
+Q137374264,pimeja,,pimeja
+Q12769393,pini,,pini
+Q137374265,pini,,pini
+Q1390,pipi,,pipi
+Q137374266,pipi,,pipi
+Q2151613,poka,,poka
+Q137374268,poka,,poka
+Q987767,poki,,poki
+Q137374269,poki,,poki
+Q137374271,pu,,pu
+Q137727466,pu,,pu
+Q137374272,sama,,sama
+Q28128222,seli,,seli
+Q137374274,seli,,seli
+Q137760210,seli,,seli
+Q1074,selo,,selo
+Q171187,selo,,selo
+Q184453,selo,,selo
+Q137374275,selo,,selo
+Q12892367,seme,,seme
+Q137374277,seme,,seme
+Q190,sewi,,sewi
+Q178885,sewi,,sewi
+Q15332375,sewi,,sewi
+Q137374278,sewi,,sewi
+Q137543021,sewi,,sewi
+P1419,sijelo,,sijelo
+Q207961,sijelo,,sijelo
+Q137374279,sijelo,,sijelo
+Q446,sike,,sike
+Q12507,sike,,sike
+Q17278,sike,,sike
+Q18545,sike,,sike
+Q838611,sike,,sike
+Q137374280,sike,,sike
+Q137760211,sike,,sike
+Q137374281,sin,,sin
+Q137727473,sin,,sin
+Q135010765,sina,,sina
+Q592177,sinpin,,sinpin
+Q32198356,sinpin,,sinpin
+Q137374283,sinpin,,sinpin
+P18,sitelen,,sitelen
+Q478798,sitelen,,sitelen
+Q2250012,sitelen,,sitelen
+Q137104235,sitelen,,sitelen
+Q9081,sona,,sona
+Q137374286,sona,,sona
+Q110551885,soweli,,soweli
+Q137374287,soweli,,soweli
+Q137374532,suli,,suli
+Q525,suno,,suno
+Q12969754,suno,,suno
+Q125280194,suno,,suno
+Q137374533,suno,,suno
+Q137374534,supa,,supa
+Q137760212,supa,,supa
+Q2382369,suwi,,suwi
+Q137374535,suwi,,suwi
+P828,tan,,tan
+Q137374536,tan,,tan
+Q137727479,tan,,tan
+Q137374537,taso,,taso
+Q7590,tawa,,tawa
+Q79782,tawa,,tawa
+Q137374289,tawa,,tawa
+Q283,telo,,telo
+Q137374538,telo,,telo
+P585,tenpo,,tenpo
+Q11471,tenpo,,tenpo
+Q137374401,tenpo,,tenpo
+Q315,toki,,toki
+Q34770,toki,,toki
+Q137374423,toki,,toki
+Q3947,tomo,,tomo
+Q41176,tomo,,tomo
+Q137374541,tomo,,tomo
+Q137374543,tu,,tu
+Q137727484,tu,,tu
+Q608,unpa,,unpa
+Q5873,unpa,,unpa
+Q137374544,unpa,,unpa
+Q9635,uta,,uta
+Q137374545,uta,,uta
+Q400889,utala,,utala
+Q137374546,utala,,utala
+Q23444,walo,,walo
+Q137374547,walo,,walo
+Q137374548,wan,,wan
+Q137727487,wan,,wan
+Q5113,waso,,waso
+Q137374291,waso,,waso
+Q11379,wawa,,wawa
+Q137374549,wawa,,wawa
+Q19829125,weka,,weka
+Q137374292,weka,,weka
+Q775842,wile,,wile
+Q137374550,wile,,wile
+Q17297777,jan pona,,jan pona
+Q137763422,jan pona,,jan pona
+Q121439,kijetesantakalu,,kijetesantakalu
+Q147114,kijetesantakalu,,kijetesantakalu
+Q2670845,kijetesantakalu,,kijetesantakalu
+Q119228903,kijetesantakalu,,kijetesantakalu
+Q137145315,kijetesantakalu,,kijetesantakalu
+Q137760202,kijetesantakalu,,kijetesantakalu
+Q48270,tonsi,,tonsi
+Q189125,tonsi,,tonsi
+Q137374542,tonsi,,tonsi
+P108,lawa pali,,lawa pali
+P1001,ma seme li lawa e ijo ni,,ma seme li lawa e ijo ni
+P1082,mute jan,,mute jan
+P1098,mute pi jan toki,,mute pi jan toki
+P1066,ona li kama sona tan jan seme,,ona li kama sona tan jan seme
+P106,pali jan,,pali jan
+P109,sitelen nimi luka,,sitelen nimi luka
+P10,sitelen tawa,,sitelen tawa
+Q11424,sitelen tawa,,sitelen tawa
+Q137771445,sitelen tawa,,sitelen tawa
+P103,toki mama,,toki mama
+Q36870,toki mama,,toki mama
+P1589,anpa ma nanpa wan,,anpa ma nanpa wan
+Q137763275,ijo kama,,ijo kama
+P156,ijo kama poka,,ijo kama poka
+Q104154041,ijo kama poka,,ijo kama poka
+P276,ijo li lon seme,,ijo li lon seme
+P279,ijo li ona la ijo li seme kin,,ijo li ona la ijo li seme kin
+P1889,ijo pi sama ala,,ijo pi sama ala
+Q137763348,ijo pini,,ijo pini
+P155,ijo pini poka,,ijo pini poka
+Q104154042,ijo pini poka,,ijo pini poka
+P1303,ilo pi kalama musi,,ilo pi kalama musi
+Q34379,ilo pi kalama musi,,ilo pi kalama musi
+P26,jan olin lawa,,jan olin lawa
+Q137771385,jan pali,,jan pali
+P50,jan sitelen,,jan sitelen
+Q36180,jan sitelen,,jan sitelen
+Q482980,jan sitelen,,jan sitelen
+Q1028181,jan sitelen,,jan sitelen
+P1424,kipisi suli pi kulupu Wikimedia,,kipisi suli pi kulupu Wikimedia
+P1687,kule lon lipu Wikinanpa,,kule lon lipu Wikinanpa
+Q18616576,kule lon lipu Wikinanpa,,kule lon lipu Wikinanpa
+P1340,kule lukin,,kule lukin
+P172,kulupu jan,,kulupu jan
+Q41710,kulupu jan,,kulupu jan
+Q16334295,kulupu jan,,kulupu jan
+P2378,kulupu lawa,,kulupu lawa
+P3113,li jo ala e,,li jo ala e
+P2670,li jo e ijo pi kulupu ni,,li jo e ijo pi kulupu ni
+P1343,lipu ni li toki e ijo ni,,lipu ni li toki e ijo ni
+Q571,lipu toki,,lipu toki
+Q137771407,lipu toki,,lipu toki
+P1581,lipu toki pi ma ilo,,lipu toki pi ma ilo
+P119,ma awen moli,,ma awen moli
+P27,ma jan,,ma jan
+P150,ma lili li lon ma ni,,ma lili li lon ma ni
+P20,ma moli,,ma moli
+P30,ma suli,,ma suli
+Q5107,ma suli,,ma suli
+P190,ma tomo sama,,ma tomo sama
+P112,mama kulupu,,mama kulupu
+P25,mama meli,,mama meli
+Q7560,mama meli,,mama meli
+Q137763533,mama meli,,mama meli
+P22,mama mije,,mama mije
+Q7565,mama mije,,mama mije
+Q137763534,mama mije,,mama mije
+Q116872803,mama nena,,mama nena
+P170,mama pali,,mama pali
+P21,meli anu mije anu tonsi,,meli anu mije anu tonsi
+P1902,nanpa jan Posipa,,nanpa jan Posipa
+P1334,nanpa la ma ona pi open suno li lon seme,,nanpa la ma ona pi open suno li lon seme
+P227,nanpa lon nasin lipu pi ma Tosi,,nanpa lon nasin lipu pi ma Tosi
+P1601,nanpa pi jan Epelanto,,nanpa pi jan Epelanto
+P1196,nasin moli,,nasin moli
+P144,nasin mute pi ijo ni li tan seme,,nasin mute pi ijo ni li tan seme
+P1454,nasin pi lipu lawa,,nasin pi lipu lawa
+P140,nasin sewi,,nasin sewi
+Q9174,nasin sewi,,nasin sewi
+P282,nasin sitelen,,nasin sitelen
+Q8192,nasin sitelen,,nasin sitelen
+Q137771429,nasin sitelen,,nasin sitelen
+P3137,nena mama,,nena mama
+Q137771432,nena mama,,nena mama
+P131,ni li lon ma lawa seme,,ni li lon ma lawa seme
+P2341,ni li tan ma seme,,ni li tan ma seme
+Q789016,nimi ijo,,nimi ijo
+P735,nimi jan,,nimi jan
+P1549,nimi jan ma,,nimi jan ma
+P1813,nimi lili,,nimi lili
+P1476,nimi lipu,,nimi lipu
+P1680,nimi lipu poka,,nimi lipu poka
+P1448,nimi lon lipu lawa,,nimi lon lipu lawa
+P2919,nimi luka,,nimi luka
+P1705,nimi mama,,nimi mama
+P1559,nimi mama jan,,nimi mama jan
+P2521,nimi meli,,nimi meli
+P1477,nimi open,,nimi open
+P13326,nimi open pi toki pona,,nimi open pi toki pona
+P1814,nimi pi sitelen Kana,,nimi pi sitelen Kana
+P19,ona li kama lon ma seme,,ona li kama lon ma seme
+P1830,ona li lawa e seme,,ona li lawa e seme
+P1376,ona li ma tomo lawa pi ma seme,,ona li ma tomo lawa pi ma seme
+P1971,ona li mama pi jan pi mute seme,,ona li mama pi jan pi mute seme
+P2031,open pi tenpo pali,,open pi tenpo pali
+P1534,pini li tan seme,,pini li tan seme
+P2032,pini pi tenpo pali,,pini pi tenpo pali
+P180,seme li lon sitelen,,seme li lon sitelen
+P242,sitelen ma alasa,,sitelen ma alasa
+P1442,sitelen pi kiwen moli,,sitelen pi kiwen moli
+P1282,sona OpenStreetMap,,sona OpenStreetMap
+P2043,suli palisa,,suli palisa
+Q36253,suli palisa,,suli palisa
+P2048,suli sewi,,suli sewi
+Q208826,suli sewi,,suli sewi
+P138,tan pi nimi ona,,tan pi nimi ona
+P1412,toki pi ken kepeken,,toki pi ken kepeken
+P2096,toki sitelen,,toki sitelen
+Q137760737,toki sona,,toki sona
+Q137771459,toki sona,,toki sona
+P31,ona li seme,,ona li seme
+P35,jan lawa,,jan lawa
+Q1251441,jan lawa,,jan lawa
+Q137771382,jan lawa,,jan lawa
+P3373,jan pi mama sama,,jan pi mama sama
+Q31184,jan pi mama sama,,jan pi mama sama
+Q137760727,jan pi mama sama,,jan pi mama sama
+Q137771386,jan sama,,jan sama
+Q137374377,kipisi,,kipisi
+P36,ma tomo lawa,,ma tomo lawa
+Q5119,ma tomo lawa,,ma tomo lawa
+Q595094,meli pi mama sama,,meli pi mama sama
+Q137763541,meli sama,,meli sama
+Q10861465,mije pi mama sama,,mije pi mama sama
+Q137763550,mije sama,,mije sama
+P345,nanpa IMDb,,nanpa IMDb
+P3321,nimi mije,,nimi mije
+P361,ona li lon seme,,ona li lon seme
+Q137374460,pata,,pata
+P407,toki tan,,toki tan
+P364,toki tan pi sitelen tawa,,toki tan pi sitelen tawa
+P3729,ijo lili pi suli nanpa wan,,ijo lili pi suli nanpa wan
+P3730,ijo suli pi lili nanpa wan,,ijo suli pi lili nanpa wan
+P451,jan olin pi lawa ala,,jan olin pi lawa ala
+P3938,jan pi pana nimi,,jan pi pana nimi
+P443,kalama toki,,kalama toki
+P3984,kulupu pi lipu Wesi,,kulupu pi lipu Wesi
+Q28464970,kulupu pi lipu Wesi,,kulupu pi lipu Wesi
+P373,kulupu sitelen pi lipu Komon,,kulupu sitelen pi lipu Komon
+P424,nanpa toki lon nasin Wikimesija,,nanpa toki lon nasin Wikimesija
+P4132,nasin toki,,nasin toki
+P3909,nimi pini,,nimi pini
+Q355409,nimi pini,,nimi pini
+P421,ona li lon kulupu seme pi tenpo ilo,,ona li lon kulupu seme pi tenpo ilo
+P41,sitelen len,,sitelen len
+P37,toki lawa,,toki lawa
+Q23492,toki lawa,,toki lawa
+Q120429,jasima,,jasima
+Q137374375,jasima,,jasima
+P5168,kule li tawa nimi ijo,,kule li tawa nimi ijo
+P69,kulupu pi pana sona,,kulupu pi pana sona
+P495,ma tan,,ma tan
+P551,ma tomo jan,,ma tomo jan
+P625,nanpa la ona li lon seme,,nanpa la ona li lon seme
+P605,nanpa ma lon nasin NUTS,,nanpa ma lon nasin NUTS
+P518,ni li lon seme,,ni li lon seme
+P6553,"nimi ""ona"" ona li seme lon toki ante",,"nimi ""ona"" ona li seme lon toki ante"
+P461,ona li ante ale tawa ijo ni,,ona li ante ale tawa ijo ni
+P527,ona li jo e seme,,ona li jo e seme
+P553,ona li jo e sijelo lon lipu ilo seme,,ona li jo e sijelo lon lipu ilo seme
+P569,ona li kama lon tenpo seme,,ona li kama lon tenpo seme
+P460,ona li ken sama ijo ni,,ona li ken sama ijo ni
+P47,ona li lon poka pi,,ona li lon poka pi
+P6758,pali musi sijelo la kulupu seme li pona tawa ona,,pali musi sijelo la kulupu seme li pona tawa ona
+P459,seme la jan li kama sona e nasin pona,,seme la jan li kama sona e nasin pona
+P610,sewi ma nanpa wan,,sewi ma nanpa wan
+P487,sitelen pi nasin Unicode,,sitelen pi nasin Unicode
+Q29654788,sitelen pi nasin Unicode,,sitelen pi nasin Unicode
+P509,tan moli,,tan moli
+P570,tenpo moli,,tenpo moli
+P580,tenpo open,,tenpo open
+P571,tenpo pi kama lon,,tenpo pi kama lon
+P582,tenpo pini,,tenpo pini
+Q309,tenpo pini,,tenpo pini
+P6886,toki pi pali lipu,,toki pi pali lipu
+Q3914,tomo sona,,tomo sona
+Q137771461,tomo sona,,tomo sona
+Q10000001,jan Tasijana Kolosisikowa,,jan Tasijana Kolosisikowa
+P85,kalama musi lawa ma,,kalama musi lawa ma
+P989,kalama toki lipu,,kalama toki lipu
+P793,kama suli,,kama suli
+P910,kulupu suli pi kulupu Wikimedia,,kulupu suli pi kulupu Wikimedia
+P7763,lawa jo pi pali ona la,,lawa jo pi pali ona la
+P973,lipu ni li toki e ni,,lipu ni li toki e ni
+P856,lipu pi ma ilo,,lipu pi ma ilo
+Q10000,lipu Wikipesija pi toki Netelan,,lipu Wikipesija pi toki Netelan
+P91,nasin pi olin unpa,,nasin pi olin unpa
+P8798,ni li tawa nasin kule seme,,ni li tawa nasin kule seme
+P742,nimi ante,,nimi ante
+Q61002,nimi ante,,nimi ante
+P734,nimi pi kulupu mama jan,,nimi pi kulupu mama jan
+P802,ona li pana e sona tawa jan seme,,ona li pana e sona tawa jan seme
+P800,pali suli,,pali suli
+Q78522641,pali suli,,pali suli
+P898,sitelen IPA,,sitelen IPA
+P948,sitelen suli,,sitelen suli
+Q1000,ma Kapon,,ma Kapon
+Q100135481,toki Wakilu,,toki Wakilu
+Q10014,ma tomo Kanpen,,ma tomo Kanpen

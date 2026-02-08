@@ -1,0 +1,4 @@
+Representation of "seme la jan li kama sona e nasin pona" in sitelen kalama pona.
+Sources: seme: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seme.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_la.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; kama-sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kama-sona.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pona.svg
+
+[[Category:Toki Pona text containing seme la jan li kama sona e nasin pona]]

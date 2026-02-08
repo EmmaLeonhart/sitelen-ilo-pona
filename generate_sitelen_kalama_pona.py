@@ -350,6 +350,17 @@ def syllable_category_label(syllable):
     return syllable[0].upper() + syllable[1:]
 
 
+def safe_filename(name):
+    """Make a Windows-safe filename segment."""
+    # Replace invalid characters for Windows filenames.
+    name = re.sub(r'[<>:"/\\\\|?*]', '_', name)
+    # Trim trailing dots/spaces which are invalid in Windows.
+    name = name.rstrip(' .')
+    if not name:
+        return 'untitled'
+    return name
+
+
 def generate(text):
     """Generate a composed SVG for the given toki pona phrase."""
     print(f'Input: {text}')
@@ -660,7 +671,7 @@ def generate(text):
 
     output_dir = SCRIPT_DIR / 'output'
     output_dir.mkdir(exist_ok=True)
-    output_name = f'sitelen kalama pona - {text}.svg'
+    output_name = f'sitelen kalama pona - {safe_filename(text)}.svg'
     output_path = output_dir / output_name
     with open(str(output_path), 'w', encoding='utf-8') as f:
         f.write(svg_content)

@@ -1,0 +1,4 @@
+Representation of "ma awen moli" in sitelen kalama pona.
+Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; awen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_awen.svg; moli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moli.svg
+
+[[Category:Toki Pona text containing ma awen moli]]

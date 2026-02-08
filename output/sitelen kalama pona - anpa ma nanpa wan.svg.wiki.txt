@@ -1,0 +1,4 @@
+Representation of "anpa ma nanpa wan" in sitelen kalama pona.
+Sources: anpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_anpa.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg
+
+[[Category:Toki Pona text containing anpa ma nanpa wan]]

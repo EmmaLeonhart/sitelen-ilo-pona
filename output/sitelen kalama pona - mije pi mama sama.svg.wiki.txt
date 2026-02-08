@@ -1,0 +1,4 @@
+Representation of "mije pi mama sama" in sitelen kalama pona.
+Sources: mije: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mije.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; mama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mama.svg; sama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sama.svg
+
+[[Category:Toki Pona text containing mije pi mama sama]]

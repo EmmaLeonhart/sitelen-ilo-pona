@@ -1,0 +1,4 @@
+Representation of "nanpa la ona li lon seme" in sitelen kalama pona.
+Sources: nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_la.svg; ona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ona.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; seme: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seme.svg
+
+[[Category:Toki Pona text containing nanpa la ona li lon seme]]

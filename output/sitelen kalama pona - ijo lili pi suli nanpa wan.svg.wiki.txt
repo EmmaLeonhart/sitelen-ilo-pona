@@ -1,0 +1,4 @@
+Representation of "ijo lili pi suli nanpa wan" in sitelen kalama pona.
+Sources: ijo-lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-lili.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg
+
+[[Category:Toki Pona text containing ijo lili pi suli nanpa wan]]

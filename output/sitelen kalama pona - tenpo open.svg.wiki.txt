@@ -1,0 +1,4 @@
+Representation of "tenpo open" in sitelen kalama pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; open: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_open.svg
+
+[[Category:Toki Pona text containing tenpo open]]

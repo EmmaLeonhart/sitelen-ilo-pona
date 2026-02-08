@@ -1,0 +1,4 @@
+Representation of "meli anu mije anu tonsi" in sitelen kalama pona.
+Sources: meli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_meli.svg; anu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_anu.svg; mije: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mije.svg; anu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_anu.svg; tonsi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tonsi.svg
+
+[[Category:Toki Pona text containing meli anu mije anu tonsi]]

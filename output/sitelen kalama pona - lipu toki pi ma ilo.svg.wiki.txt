@@ -1,0 +1,4 @@
+Representation of "lipu toki pi ma ilo" in sitelen kalama pona.
+Sources: lipu-toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu-toki.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg
+
+[[Category:Toki Pona text containing lipu toki pi ma ilo]]

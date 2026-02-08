@@ -1,0 +1,4 @@
+Representation of "kulupu pi pana sona" in sitelen kalama pona.
+Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pana: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pana.svg; sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona.svg
+
+[[Category:Toki Pona text containing kulupu pi pana sona]]

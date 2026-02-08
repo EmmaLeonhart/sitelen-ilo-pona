@@ -1,0 +1,4 @@
+Representation of "tenpo moli" in sitelen kalama pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; moli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moli.svg
+
+[[Category:Toki Pona text containing tenpo moli]]

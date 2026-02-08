@@ -1,0 +1,4 @@
+Representation of "mute pi jan toki" in sitelen kalama pona.
+Sources: mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mute.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; jan-toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-toki.svg
+
+[[Category:Toki Pona text containing mute pi jan toki]]

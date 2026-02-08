@@ -1,0 +1,4 @@
+Representation of "ona li seme" in sitelen kalama pona.
+Sources: ona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ona.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; seme: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seme.svg
+
+[[Category:Toki Pona text containing ona li seme]]

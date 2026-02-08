@@ -1,0 +1,4 @@
+Representation of "pini li tan seme" in sitelen kalama pona.
+Sources: pini: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pini.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg; seme: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seme.svg
+
+[[Category:Toki Pona text containing pini li tan seme]]

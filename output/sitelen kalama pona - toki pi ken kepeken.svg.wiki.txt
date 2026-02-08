@@ -1,0 +1,4 @@
+Representation of "toki pi ken kepeken" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ken: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ken.svg; kepeken: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kepeken.svg
+
+[[Category:Toki Pona text containing toki pi ken kepeken]]

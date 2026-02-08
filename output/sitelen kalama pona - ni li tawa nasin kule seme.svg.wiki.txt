@@ -1,0 +1,4 @@
+Representation of "ni li tawa nasin kule seme" in sitelen kalama pona.
+Sources: ni: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ni.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; kule: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kule.svg; seme: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seme.svg
+
+[[Category:Toki Pona text containing ni li tawa nasin kule seme]]

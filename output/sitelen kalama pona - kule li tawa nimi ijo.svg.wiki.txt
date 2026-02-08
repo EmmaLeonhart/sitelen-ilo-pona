@@ -1,0 +1,4 @@
+Representation of "kule li tawa nimi ijo" in sitelen kalama pona.
+Sources: kule: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kule.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg; ijo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo.svg
+
+[[Category:Toki Pona text containing kule li tawa nimi ijo]]

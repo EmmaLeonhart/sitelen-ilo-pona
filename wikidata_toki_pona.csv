@@ -1,0 +1,4191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='item'/>
+		<variable name='tokLabel'/>
+		<variable name='tpTitle'/>
+	</head>
+	<results>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q154242</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ala</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374184</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ala</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374374</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>epiku</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q15290</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374270</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1311</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tenpo lete</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q36846</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki pona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137771457</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki pona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374192</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>awen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q120435970</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>a</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727398</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>a</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137183894</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>akesi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374183</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>akesi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q36963</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>alasa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374185</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>alasa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ale</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q16502</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ale</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2165236</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ale</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137104453</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ale</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374187</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ali</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q15332388</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>anpa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q135012208</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>anpa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q10862449</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ante</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374189</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ante</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374190</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>anu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374193</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>e</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727400</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>e</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374194</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>en</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727401</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>en</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374196</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>esun</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137760199</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>esun</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q35120</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ijo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374197</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ijo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q115208895</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ike</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374198</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ike</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q11016</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ilo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374199</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ilo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374200</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>insa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q112075129</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jaki</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374201</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jaki</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q5</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q215627</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q105816257</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727410</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q943</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jelo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374204</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jelo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q6498684</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374205</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727413</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q152</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kala</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q92186194</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kala</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P51</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kalama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q11461</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kalama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374207</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kalama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374208</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q756</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kasi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374209</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kasi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374210</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ken</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727420</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ken</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137760201</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ken</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374211</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kepeken</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q11661912</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kili</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374213</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kili</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374214</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727422</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q11438</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kiwen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374216</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kiwen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374217</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ko</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727423</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ko</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137760203</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ko</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q11432</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374219</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727424</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137760204</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P462</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kule</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1075</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kule</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q22006653</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kule</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374221</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kule</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P195</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kulupu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q16887380</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kulupu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374222</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kulupu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7362</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kute</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374223</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kute</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374302</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>la</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727427</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>la</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q35831</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lape</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374304</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lape</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q10834659</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>laso</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374305</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>laso</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q23640</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374306</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q11460</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>len</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374308</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>len</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727430</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>len</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q270952</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lete</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374309</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lete</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374310</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>li</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727431</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>li</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374311</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lili</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374312</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>linja</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137760205</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>linja</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374313</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lipu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q3142</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>loje</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374314</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>loje</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P248</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q3</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q203872</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374315</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727434</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137760206</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q33767</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>luka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q24517852</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>luka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374316</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>luka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7364</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lukin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q162668</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lukin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374317</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lukin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q20204151</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lupa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374318</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lupa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P17</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374319</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727437</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P8810</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7566</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374224</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1368</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mani</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374225</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mani</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q467</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>meli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q43445</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>meli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q6581072</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>meli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374226</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>meli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374228</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727442</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q44148</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mije</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q6581097</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mije</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137122691</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mije</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374229</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mije</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2095</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>moku</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374231</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>moku</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q4</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>moli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q844482</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>moli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374233</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>moli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q42165</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>monsi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q32198402</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>monsi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374234</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>monsi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q95605854</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374236</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727446</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q405</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mun</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q523</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mun</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q6999</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mun</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374237</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mun</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727447</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mun</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q173799</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>musi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374238</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>musi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1114</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mute</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374239</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mute</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374241</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>namako</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137760207</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>namako</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1545</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nanpa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q11563</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nanpa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374242</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nanpa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374243</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nasa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q5004679</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nasin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374244</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nasin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7363</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nena</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q8502</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nena</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374245</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nena</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137760208</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nena</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374246</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ni</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727452</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ni</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P2561</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q8171</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q82799</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374247</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q15807</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>noka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q133105</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>noka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q62513663</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>noka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137104254</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>noka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374249</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>o</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727405</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>o</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374250</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>oko</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q316</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>olin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374251</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>olin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374252</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q529711</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>open</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374253</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>open</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q481609</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pakala</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374254</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pakala</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P101</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pali</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q268378</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pali</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374256</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pali</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q10971443</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>palisa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374257</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>palisa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7802</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q12117</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374258</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727459</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374259</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pana</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374262</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727462</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q877674</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pilin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374263</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pilin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137760209</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pilin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q23445</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pimeja</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374264</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pimeja</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q12769393</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pini</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374265</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pini</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1390</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pipi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374266</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pipi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2151613</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>poka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374268</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>poka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q987767</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>poki</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374269</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>poki</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374271</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727466</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374272</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q28128222</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>seli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374274</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>seli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137760210</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>seli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1074</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>selo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q171187</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>selo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q184453</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>selo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374275</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>selo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q12892367</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374277</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q190</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sewi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q178885</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sewi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q15332375</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sewi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374278</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sewi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137543021</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sewi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1419</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sijelo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q207961</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sijelo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374279</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sijelo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q446</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sike</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q12507</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sike</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q17278</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sike</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q18545</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sike</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q838611</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sike</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374280</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sike</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137760211</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sike</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374281</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727473</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q135010765</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sina</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q592177</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sinpin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q32198356</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sinpin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374283</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sinpin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P18</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sitelen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q478798</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sitelen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2250012</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sitelen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137104235</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sitelen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q9081</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374286</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q110551885</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>soweli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374287</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>soweli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374532</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>suli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q525</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>suno</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q12969754</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>suno</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q125280194</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>suno</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374533</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>suno</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374534</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>supa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137760212</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>supa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2382369</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>suwi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374535</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>suwi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P828</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374536</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727479</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374537</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>taso</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7590</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q79782</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374289</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q283</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>telo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374538</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>telo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P585</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tenpo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q11471</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tenpo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374401</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tenpo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q315</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q34770</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374423</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q3947</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tomo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q41176</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tomo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374541</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tomo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374543</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727484</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q608</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>unpa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q5873</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>unpa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374544</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>unpa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q9635</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>uta</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374545</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>uta</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q400889</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>utala</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374546</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>utala</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q23444</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>walo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374547</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>walo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374548</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>wan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137727487</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>wan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q5113</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>waso</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374291</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>waso</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q11379</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>wawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374549</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>wawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q19829125</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>weka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374292</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>weka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q775842</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>wile</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374550</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>wile</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q17297777</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan pona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137763422</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan pona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q121439</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kijetesantakalu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q147114</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kijetesantakalu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2670845</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kijetesantakalu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q119228903</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kijetesantakalu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137145315</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kijetesantakalu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137760202</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kijetesantakalu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q48270</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tonsi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q189125</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tonsi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374542</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tonsi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P108</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lawa pali</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1001</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma seme li lawa e ijo ni</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1082</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mute jan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1098</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mute pi jan toki</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1066</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona li kama sona tan jan seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P106</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pali jan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P109</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sitelen nimi luka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P10</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sitelen tawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q11424</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sitelen tawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137771445</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sitelen tawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P103</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki mama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q36870</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki mama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1589</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>anpa ma nanpa wan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137763275</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ijo kama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P156</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ijo kama poka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q104154041</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ijo kama poka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P276</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ijo li lon seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P279</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ijo li ona la ijo li seme kin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1889</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ijo pi sama ala</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137763348</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ijo pini</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P155</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ijo pini poka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q104154042</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ijo pini poka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1303</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ilo pi kalama musi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q34379</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ilo pi kalama musi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P26</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan olin lawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137771385</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan pali</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P50</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan sitelen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q36180</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan sitelen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q482980</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan sitelen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1028181</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan sitelen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1424</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kipisi suli pi kulupu Wikimedia</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1687</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kule lon lipu Wikinanpa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q18616576</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kule lon lipu Wikinanpa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1340</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kule lukin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P172</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kulupu jan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q41710</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kulupu jan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q16334295</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kulupu jan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P2378</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kulupu lawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P3113</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>li jo ala e</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P2670</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>li jo e ijo pi kulupu ni</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1343</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lipu ni li toki e ijo ni</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q571</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lipu toki</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137771407</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lipu toki</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1581</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lipu toki pi ma ilo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P119</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma awen moli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P27</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma jan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P150</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma lili li lon ma ni</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P20</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma moli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P30</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma suli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q5107</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma suli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P190</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma tomo sama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P112</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mama kulupu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P25</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mama meli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7560</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mama meli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137763533</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mama meli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P22</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mama mije</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7565</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mama mije</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137763534</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mama mije</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q116872803</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mama nena</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P170</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mama pali</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P21</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>meli anu mije anu tonsi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1902</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nanpa jan Posipa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1334</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nanpa la ma ona pi open suno li lon seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P227</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nanpa lon nasin lipu pi ma Tosi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1601</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nanpa pi jan Epelanto</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1196</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nasin moli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P144</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nasin mute pi ijo ni li tan seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1454</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nasin pi lipu lawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P140</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nasin sewi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q9174</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nasin sewi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P282</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nasin sitelen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q8192</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nasin sitelen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137771429</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nasin sitelen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P3137</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nena mama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137771432</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nena mama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P131</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ni li lon ma lawa seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P2341</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ni li tan ma seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q789016</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi ijo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P735</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi jan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1549</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi jan ma</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1813</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi lili</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1476</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi lipu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1680</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi lipu poka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1448</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi lon lipu lawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P2919</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi luka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1705</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi mama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1559</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi mama jan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P2521</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi meli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1477</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi open</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P13326</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi open pi toki pona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1814</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi pi sitelen Kana</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P19</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona li kama lon ma seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1830</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona li lawa e seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1376</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona li ma tomo lawa pi ma seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1971</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona li mama pi jan pi mute seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P2031</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>open pi tenpo pali</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1534</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pini li tan seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P2032</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pini pi tenpo pali</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P180</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>seme li lon sitelen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P242</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sitelen ma alasa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1442</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sitelen pi kiwen moli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1282</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sona OpenStreetMap</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P2043</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>suli palisa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q36253</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>suli palisa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P2048</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>suli sewi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q208826</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>suli sewi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P138</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tan pi nimi ona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P1412</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki pi ken kepeken</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P2096</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki sitelen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137760737</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki sona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137771459</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki sona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P31</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona li seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P35</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan lawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1251441</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan lawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137771382</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan lawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P3373</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan pi mama sama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q31184</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan pi mama sama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137760727</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan pi mama sama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137771386</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan sama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374377</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kipisi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P36</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma tomo lawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q5119</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma tomo lawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q595094</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>meli pi mama sama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137763541</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>meli sama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q10861465</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mije pi mama sama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137763550</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>mije sama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P345</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nanpa IMDb</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P3321</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi mije</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P361</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona li lon seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374460</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pata</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P407</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki tan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P364</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki tan pi sitelen tawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P3729</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ijo lili pi suli nanpa wan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P3730</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ijo suli pi lili nanpa wan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P451</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan olin pi lawa ala</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P3938</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan pi pana nimi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P443</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kalama toki</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P3984</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kulupu pi lipu Wesi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q28464970</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kulupu pi lipu Wesi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P373</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kulupu sitelen pi lipu Komon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P424</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nanpa toki lon nasin Wikimesija</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P4132</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nasin toki</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P3909</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi pini</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q355409</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi pini</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P421</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona li lon kulupu seme pi tenpo ilo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P41</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sitelen len</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P37</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki lawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q23492</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki lawa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q120429</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jasima</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137374375</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jasima</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P5168</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kule li tawa nimi ijo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P69</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kulupu pi pana sona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P495</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma tan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P551</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma tomo jan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P625</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nanpa la ona li lon seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P605</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nanpa ma lon nasin NUTS</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P518</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ni li lon seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P6553</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi "ona" ona li seme lon toki ante</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P461</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona li ante ale tawa ijo ni</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P527</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona li jo e seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P553</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona li jo e sijelo lon lipu ilo seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P569</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona li kama lon tenpo seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P460</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona li ken sama ijo ni</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P47</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona li lon poka pi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P6758</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pali musi sijelo la kulupu seme li pona tawa ona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P459</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>seme la jan li kama sona e nasin pona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P610</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sewi ma nanpa wan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P487</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sitelen pi nasin Unicode</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q29654788</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sitelen pi nasin Unicode</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P509</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tan moli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P570</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tenpo moli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P580</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tenpo open</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P571</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tenpo pi kama lon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P582</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tenpo pini</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q309</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tenpo pini</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P6886</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki pi pali lipu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q3914</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tomo sona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q137771461</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>tomo sona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q10000001</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>jan Tasijana Kolosisikowa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P85</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kalama musi lawa ma</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P989</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kalama toki lipu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P793</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kama suli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P910</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>kulupu suli pi kulupu Wikimedia</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P7763</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lawa jo pi pali ona la</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P973</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lipu ni li toki e ni</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P856</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lipu pi ma ilo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q10000</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>lipu Wikipesija pi toki Netelan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P91</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nasin pi olin unpa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P8798</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ni li tawa nasin kule seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P742</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi ante</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q61002</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi ante</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P734</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>nimi pi kulupu mama jan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P802</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ona li pana e sona tawa jan seme</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P800</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pali suli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q78522641</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>pali suli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P898</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sitelen IPA</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/P948</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>sitelen suli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1000</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma Kapon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q100135481</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>toki Wakilu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q10014</uri>
+			</binding>
+			<binding name='tokLabel'>
+				<literal xml:lang='tok'>ma tomo Kanpen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/enSPARQL-QUERY: queryStr=SELECT ?item ?tokLabel ?tpTitle WHERE {
+  { ?item rdfs:label ?tokLabel .
+    FILTER(LANG(?tokLabel) = "tok")
+  }
+  UNION
+  { ?tpArticle schema:about ?item ;
+               schema:isPartOf <https://tokipona.wikipedia.org/> ;
+               schema:name ?tpTitle .
+  }
+}
+
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.FutureTask.get(FutureTask.java:205)
+	at com.bigdata.rdf.sail.webapp.BigdataServlet.submitApiTask(BigdataServlet.java:292)
+	at com.bigdata.rdf.sail.webapp.QueryServlet.doSparqlQuery(QueryServlet.java:678)
+	at com.bigdata.rdf.sail.webapp.QueryServlet.doGet(QueryServlet.java:290)
+	at com.bigdata.rdf.sail.webapp.RESTServlet.doGet(RESTServlet.java:240)
+	at com.bigdata.rdf.sail.webapp.MultiTenancyServlet.doGet(MultiTenancyServlet.java:273)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:687)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:865)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1655)
+	at org.wikidata.query.rdf.blazegraph.throttling.ThrottlingFilter.doFilter(ThrottlingFilter.java:322)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)
+	at org.wikidata.query.rdf.blazegraph.throttling.SystemOverloadFilter.doFilter(SystemOverloadFilter.java:84)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)
+	at ch.qos.logback.classic.helpers.MDCInsertingServletFilter.doFilter(MDCInsertingServletFilter.java:50)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)
+	at org.wikidata.query.rdf.blazegraph.filters.QueryEventSenderFilter.doFilter(QueryEventSenderFilter.java:125)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)
+	at org.wikidata.query.rdf.blazegraph.filters.ClientIPFilter.doFilter(ClientIPFilter.java:43)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)
+	at org.wikidata.query.rdf.blazegraph.filters.JWTIdentityFilter.doFilter(JWTIdentityFilter.java:66)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)
+	at org.wikidata.query.rdf.blazegraph.filters.RealAgentFilter.doFilter(RealAgentFilter.java:33)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1642)
+	at org.wikidata.query.rdf.blazegraph.filters.RequestConcurrencyFilter.doFilter(RequestConcurrencyFilter.java:50)
+	at org.eclipse.jetty.servlet.ServletHandler$CachedChain.doFilter(ServletHandler.java:1634)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:533)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:146)
+	at org.eclipse.jetty.security.SecurityHandler.handle(SecurityHandler.java:548)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:257)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1595)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:255)
+	at org.eclipse.jetty.server.handler.ContextHandler.doHandle(ContextHandler.java:1340)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:203)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:473)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1564)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:201)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1242)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:144)
+	at org.eclipse.jetty.server.handler.ContextHandlerCollection.handle(ContextHandlerCollection.java:220)
+	at org.eclipse.jetty.server.handler.HandlerCollection.handle(HandlerCollection.java:126)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.eclipse.jetty.server.Server.handle(Server.java:503)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:364)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:260)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:305)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:103)
+	at org.eclipse.jetty.io.ChannelEndPoint$2.run(ChannelEndPoint.java:118)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:333)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:310)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:168)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:126)
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:366)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:765)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:683)
+	at java.lang.Thread.run(Thread.java:750)
