@@ -31,6 +31,12 @@ SPECIAL_COMMONS = {
 CONSONANTS = set('mnptkwjls')
 TARGET_HEIGHT = 1000
 SPACING = 80
+CARTOUCHE_STROKE = 60
+CARTOUCHE_SIDE_WIDTH = 180
+CARTOUCHE_PAD_X = 60
+CARTOUCHE_PAD_Y = 60
+CARTOUCHE_OUTER_RADIUS = 120
+SOUND_TARGET_HEIGHT = TARGET_HEIGHT - 2 * (CARTOUCHE_STROKE + CARTOUCHE_PAD_Y)
 
 
 def get_available_compounds():
@@ -184,7 +190,10 @@ def generate(text):
     syllables = parse_syllables(sound_name) if sound_name else []
     print(f'  Syllables: {syllables}')
 
-    pieces = []
+    word_pieces = []
+    syllable_pieces = []
+    cartouche_rects = []
+    cartouche_paths = []
     sources = []
     x_cursor = 0
 
@@ -196,12 +205,13 @@ def generate(text):
         if paths and vb:
             vb_x, vb_y, vb_w, vb_h = vb
             scale = TARGET_HEIGHT / vb_h if vb_h > 0 else 1
-            pieces.append({
+            word_pieces.append({
                 'type': 'word',
                 'paths': paths,
                 'viewbox': vb,
                 'scale': scale,
                 'x_offset': x_cursor,
+                'y_offset': 0,
             })
             x_cursor += vb_w * scale + SPACING
             sources.append(f'{word}: {word_commons_url(word)}')
@@ -209,7 +219,8 @@ def generate(text):
         else:
             print(f'  Warning: could not load SVG for "{word}"')
 
-    # Read syllable SVGs
+    # Read syllable SVGs and compute cartouche layout
+    syllable_items = []
     for syl in syllables:
         svg_name = syllable_to_svg_name(syl)
         svg_file = SYLLABLES_DIR / f'sitelen kalama pona - {svg_name}.svg'
@@ -217,22 +228,102 @@ def generate(text):
 
         if paths and vb:
             vb_x, vb_y, vb_w, vb_h = vb
-            scale = TARGET_HEIGHT / vb_h if vb_h > 0 else 1
-            pieces.append({
-                'type': 'syllable',
+            scale = SOUND_TARGET_HEIGHT / vb_h if vb_h > 0 else 1
+            syllable_items.append({
+                'syllable': syl,
                 'paths': paths,
                 'viewbox': vb,
                 'scale': scale,
-                'x_offset': x_cursor,
             })
-            x_cursor += vb_w * scale + SPACING
             sources.append(f'{syl}: {syllable_commons_url(syl)}')
             print(f'  Loaded syllable: {syl}')
         else:
             print(f'  Warning: could not load syllable "{syl}"')
 
+    if syllable_items:
+        syllable_start_x = x_cursor
+        syllable_widths = []
+        for item in syllable_items:
+            vb_x, vb_y, vb_w, vb_h = item['viewbox']
+            syllable_widths.append(vb_w * item['scale'])
+
+        syllable_total_width = sum(syllable_widths)
+        if len(syllable_widths) > 1:
+            syllable_total_width += SPACING * (len(syllable_widths) - 1)
+
+        cartouche_inner_width = syllable_total_width + 2 * CARTOUCHE_PAD_X
+        cartouche_total_width = cartouche_inner_width + 2 * CARTOUCHE_SIDE_WIDTH
+
+        # Add cartouche shapes (left, middle, right)
+        left_x = syllable_start_x
+        middle_x = left_x + CARTOUCHE_SIDE_WIDTH
+        right_x = middle_x + cartouche_inner_width
+        stroke = CARTOUCHE_STROKE
+        height = TARGET_HEIGHT
+
+        def add_rect(x, y, w, h):
+            cartouche_rects.append({'x': x, 'y': y, 'w': w, 'h': h})
+
+        def add_left_bracket(x, y, w, h):
+            r = min(CARTOUCHE_OUTER_RADIUS, w, h / 2)
+            path = (
+                f'M {x + w} {y} '
+                f'H {x + r} '
+                f'A {r} {r} 0 0 0 {x} {y + r} '
+                f'V {y + h - r} '
+                f'A {r} {r} 0 0 0 {x + r} {y + h} '
+                f'H {x + w} '
+                f'Z'
+            )
+            cartouche_paths.append(path)
+
+        def add_right_bracket(x, y, w, h):
+            r = min(CARTOUCHE_OUTER_RADIUS, w, h / 2)
+            path = (
+                f'M {x} {y} '
+                f'H {x + w - r} '
+                f'A {r} {r} 0 0 1 {x + w} {y + r} '
+                f'V {y + h - r} '
+                f'A {r} {r} 0 0 1 {x + w - r} {y + h} '
+                f'H {x} '
+                f'Z'
+            )
+            cartouche_paths.append(path)
+
+        # Left piece
+        add_left_bracket(left_x, 0, CARTOUCHE_SIDE_WIDTH, height)
+        add_rect(left_x, 0, CARTOUCHE_SIDE_WIDTH, stroke)
+        add_rect(left_x, height - stroke, CARTOUCHE_SIDE_WIDTH, stroke)
+
+        # Middle piece
+        add_rect(middle_x, 0, cartouche_inner_width, stroke)
+        add_rect(middle_x, height - stroke, cartouche_inner_width, stroke)
+
+        # Right piece (flipped)
+        add_right_bracket(right_x, 0, CARTOUCHE_SIDE_WIDTH, height)
+        add_rect(right_x, 0, CARTOUCHE_SIDE_WIDTH, stroke)
+        add_rect(right_x, height - stroke, CARTOUCHE_SIDE_WIDTH, stroke)
+
+        # Place syllables inside cartouche
+        x_cursor = middle_x + CARTOUCHE_PAD_X
+        y_offset = CARTOUCHE_STROKE + CARTOUCHE_PAD_Y
+        for item, width in zip(syllable_items, syllable_widths):
+            syllable_pieces.append({
+                'type': 'syllable',
+                'paths': item['paths'],
+                'viewbox': item['viewbox'],
+                'scale': item['scale'],
+                'x_offset': x_cursor,
+                'y_offset': y_offset,
+            })
+            x_cursor += width + SPACING
+
+        # Move cursor to the end of cartouche block
+        x_cursor = syllable_start_x + cartouche_total_width + SPACING
+
     # Build SVG
-    total_width = x_cursor - SPACING if pieces else 0
+    has_content = bool(word_pieces or syllable_pieces or cartouche_rects)
+    total_width = x_cursor - SPACING if has_content else 0
 
     comment_lines = [
         f'Representation of "{text}" in sitelen kalama pona',
@@ -255,11 +346,12 @@ def generate(text):
             return ''
         return re.sub(r'scale\(\s*1\s*,\s*-1\s*\)', '', transform).strip()
 
-    for piece in pieces:
+    # Render word glyphs
+    for piece in word_pieces:
         vb_x, vb_y, vb_w, vb_h = piece['viewbox']
         s = piece['scale']
         tx = piece['x_offset'] - vb_x * s
-        ty = -vb_y * s
+        ty = -vb_y * s + piece['y_offset']
 
         for path in piece['paths']:
             transform = path.get('transform', '')
@@ -274,6 +366,48 @@ def generate(text):
                 outer = f'translate({tx:.2f},{ty:.2f}) scale({s:.4f},{-s:.4f})'
             else:
                 # Syllable SVGs: viewBox like "0 0 1000 1000", no flip
+                outer = f'translate({tx:.2f},{ty:.2f}) scale({s:.4f},{s:.4f})'
+
+            if inner_transform:
+                svg_parts.append(
+                    f'  <g transform="{outer}">'
+                    f'<path d="{path["d"]}" transform="{inner_transform}" fill="#000000" />'
+                    f'</g>'
+                )
+            else:
+                svg_parts.append(
+                    f'  <path d="{path["d"]}"'
+                    f' transform="{outer}"'
+                    f' fill="#000000" />'
+                )
+
+    # Render cartouche brackets and rectangles behind syllables
+    for path in cartouche_paths:
+        svg_parts.append(f'  <path d="{path}" fill="#000000" />')
+
+    for rect in cartouche_rects:
+        svg_parts.append(
+            f'  <rect x="{rect["x"]:.2f}" y="{rect["y"]:.2f}"'
+            f' width="{rect["w"]:.2f}" height="{rect["h"]:.2f}"'
+            f' fill="#000000" />'
+        )
+
+    # Render syllable glyphs
+    for piece in syllable_pieces:
+        vb_x, vb_y, vb_w, vb_h = piece['viewbox']
+        s = piece['scale']
+        tx = piece['x_offset'] - vb_x * s
+        ty = -vb_y * s + piece['y_offset']
+
+        for path in piece['paths']:
+            transform = path.get('transform', '')
+            has_flip = 'scale(1,-1)' in transform.replace(' ', '')
+            inner_transform = strip_flip_transform(transform) if has_flip else transform
+            inner_transform = inner_transform.strip()
+
+            if has_flip:
+                outer = f'translate({tx:.2f},{ty:.2f}) scale({s:.4f},{-s:.4f})'
+            else:
                 outer = f'translate({tx:.2f},{ty:.2f}) scale({s:.4f},{s:.4f})'
 
             if inner_transform:
