@@ -32,11 +32,10 @@ CONSONANTS = set('mnptkwjls')
 TARGET_HEIGHT = 1000
 SPACING = 80
 CARTOUCHE_STROKE = 60
-CARTOUCHE_SIDE_WIDTH = 180
-CARTOUCHE_PAD_X = 60
+CARTOUCHE_PAD_X = 80
 CARTOUCHE_PAD_Y = 60
-CARTOUCHE_OUTER_RADIUS = 120
-SOUND_TARGET_HEIGHT = TARGET_HEIGHT - 2 * (CARTOUCHE_STROKE + CARTOUCHE_PAD_Y)
+CARTOUCHE_SVG = SCRIPT_DIR / 'Jan_Sinpo_We_(Jimbo_Wales_in_Sitelen_Pona).svg'
+CARTOUCHE_BAR_HEIGHT_SRC = 0.846667
 
 
 def get_available_compounds():
@@ -78,6 +77,35 @@ def read_svg_paths(svg_file):
         return None, None
 
     return paths, vb
+
+
+def read_svg_paths_by_label(svg_file, labels):
+    """Read path data by inkscape:label. Returns (paths_by_label, viewBox)."""
+    if not svg_file.exists():
+        return None, None
+
+    tree = ET.parse(str(svg_file))
+    root = tree.getroot()
+    ns = {
+        'svg': 'http://www.w3.org/2000/svg',
+        'inkscape': 'http://www.inkscape.org/namespaces/inkscape',
+    }
+
+    viewBox = root.get('viewBox', '0 0 1000 1000')
+    vb = [float(x) for x in viewBox.split()]
+
+    paths_by_label = {label: [] for label in labels}
+    for path_el in root.findall('.//svg:path', ns) + root.findall('.//path'):
+        label = path_el.get(f'{{{ns["inkscape"]}}}label')
+        if label not in paths_by_label:
+            continue
+        d = path_el.get('d')
+        if not d:
+            continue
+        transform = path_el.get('transform', '')
+        paths_by_label[label].append({'d': d, 'transform': transform})
+
+    return paths_by_label, vb
 
 
 def parse_syllables(name):
@@ -192,8 +220,7 @@ def generate(text):
 
     word_pieces = []
     syllable_pieces = []
-    cartouche_rects = []
-    cartouche_paths = []
+    cartouche_pieces = []
     sources = []
     x_cursor = 0
 
@@ -228,7 +255,7 @@ def generate(text):
 
         if paths and vb:
             vb_x, vb_y, vb_w, vb_h = vb
-            scale = SOUND_TARGET_HEIGHT / vb_h if vb_h > 0 else 1
+            scale = 1
             syllable_items.append({
                 'syllable': syl,
                 'paths': paths,
@@ -241,72 +268,74 @@ def generate(text):
             print(f'  Warning: could not load syllable "{syl}"')
 
     if syllable_items:
-        syllable_start_x = x_cursor
+        cartouche_labels = {'left', 'center', 'right'}
+        cartouche_paths_by_label, cartouche_vb = read_svg_paths_by_label(
+            CARTOUCHE_SVG,
+            cartouche_labels,
+        )
+        if not cartouche_paths_by_label or not cartouche_vb:
+            raise FileNotFoundError(
+                f'Cartouche SVG not found or invalid: {CARTOUCHE_SVG}'
+            )
+
+        if any(not cartouche_paths_by_label[label] for label in cartouche_labels):
+            raise ValueError('Cartouche SVG is missing left/center/right labels.')
+
+        c_vb_x, c_vb_y, c_vb_w, c_vb_h = cartouche_vb
+        cartouche_scale = TARGET_HEIGHT / c_vb_h if c_vb_h > 0 else 1
+        cartouche_bar_height = CARTOUCHE_BAR_HEIGHT_SRC * cartouche_scale
+        sound_target_height = TARGET_HEIGHT - 2 * (cartouche_bar_height + CARTOUCHE_PAD_Y)
+
+        # Update syllable scaling to fit cartouche height
         syllable_widths = []
         for item in syllable_items:
             vb_x, vb_y, vb_w, vb_h = item['viewbox']
+            item['scale'] = sound_target_height / vb_h if vb_h > 0 else 1
             syllable_widths.append(vb_w * item['scale'])
+
+        syllable_start_x = x_cursor
 
         syllable_total_width = sum(syllable_widths)
         if len(syllable_widths) > 1:
             syllable_total_width += SPACING * (len(syllable_widths) - 1)
 
         cartouche_inner_width = syllable_total_width + 2 * CARTOUCHE_PAD_X
-        cartouche_total_width = cartouche_inner_width + 2 * CARTOUCHE_SIDE_WIDTH
+        cartouche_side_width = c_vb_w * cartouche_scale
+        cartouche_total_width = cartouche_inner_width + 2 * cartouche_side_width
 
-        # Add cartouche shapes (left, middle, right)
         left_x = syllable_start_x
-        middle_x = left_x + CARTOUCHE_SIDE_WIDTH
+        middle_x = left_x + cartouche_side_width
         right_x = middle_x + cartouche_inner_width
-        stroke = CARTOUCHE_STROKE
-        height = TARGET_HEIGHT
 
-        def add_rect(x, y, w, h):
-            cartouche_rects.append({'x': x, 'y': y, 'w': w, 'h': h})
-
-        def add_left_bracket(x, y, w, h):
-            r = min(CARTOUCHE_OUTER_RADIUS, w, h / 2)
-            path = (
-                f'M {x + w} {y} '
-                f'H {x + r} '
-                f'A {r} {r} 0 0 0 {x} {y + r} '
-                f'V {y + h - r} '
-                f'A {r} {r} 0 0 0 {x + r} {y + h} '
-                f'H {x + w} '
-                f'Z'
-            )
-            cartouche_paths.append(path)
-
-        def add_right_bracket(x, y, w, h):
-            r = min(CARTOUCHE_OUTER_RADIUS, w, h / 2)
-            path = (
-                f'M {x} {y} '
-                f'H {x + w - r} '
-                f'A {r} {r} 0 0 1 {x + w} {y + r} '
-                f'V {y + h - r} '
-                f'A {r} {r} 0 0 1 {x + w - r} {y + h} '
-                f'H {x} '
-                f'Z'
-            )
-            cartouche_paths.append(path)
-
-        # Left piece
-        add_left_bracket(left_x, 0, CARTOUCHE_SIDE_WIDTH, height)
-        add_rect(left_x, 0, CARTOUCHE_SIDE_WIDTH, stroke)
-        add_rect(left_x, height - stroke, CARTOUCHE_SIDE_WIDTH, stroke)
-
-        # Middle piece
-        add_rect(middle_x, 0, cartouche_inner_width, stroke)
-        add_rect(middle_x, height - stroke, cartouche_inner_width, stroke)
-
-        # Right piece (flipped)
-        add_right_bracket(right_x, 0, CARTOUCHE_SIDE_WIDTH, height)
-        add_rect(right_x, 0, CARTOUCHE_SIDE_WIDTH, stroke)
-        add_rect(right_x, height - stroke, CARTOUCHE_SIDE_WIDTH, stroke)
+        # Add cartouche shapes (left, middle, right) from SVG
+        cartouche_pieces.append({
+            'paths': cartouche_paths_by_label['left'],
+            'viewbox': cartouche_vb,
+            'scale_x': cartouche_scale,
+            'scale_y': cartouche_scale,
+            'x_offset': left_x,
+            'y_offset': 0,
+        })
+        cartouche_pieces.append({
+            'paths': cartouche_paths_by_label['center'],
+            'viewbox': cartouche_vb,
+            'scale_x': cartouche_scale * (cartouche_inner_width / c_vb_w),
+            'scale_y': cartouche_scale,
+            'x_offset': middle_x,
+            'y_offset': 0,
+        })
+        cartouche_pieces.append({
+            'paths': cartouche_paths_by_label['right'],
+            'viewbox': cartouche_vb,
+            'scale_x': cartouche_scale,
+            'scale_y': cartouche_scale,
+            'x_offset': right_x,
+            'y_offset': 0,
+        })
 
         # Place syllables inside cartouche
         x_cursor = middle_x + CARTOUCHE_PAD_X
-        y_offset = CARTOUCHE_STROKE + CARTOUCHE_PAD_Y
+        y_offset = cartouche_bar_height + CARTOUCHE_PAD_Y
         for item, width in zip(syllable_items, syllable_widths):
             syllable_pieces.append({
                 'type': 'syllable',
@@ -381,16 +410,28 @@ def generate(text):
                     f' fill="#000000" />'
                 )
 
-    # Render cartouche brackets and rectangles behind syllables
-    for path in cartouche_paths:
-        svg_parts.append(f'  <path d="{path}" fill="#000000" />')
+    # Render cartouche pieces behind syllables
+    for piece in cartouche_pieces:
+        vb_x, vb_y, vb_w, vb_h = piece['viewbox']
+        sx = piece['scale_x']
+        sy = piece['scale_y']
+        tx = piece['x_offset'] - vb_x * sx
+        ty = piece['y_offset'] - vb_y * sy
 
-    for rect in cartouche_rects:
-        svg_parts.append(
-            f'  <rect x="{rect["x"]:.2f}" y="{rect["y"]:.2f}"'
-            f' width="{rect["w"]:.2f}" height="{rect["h"]:.2f}"'
-            f' fill="#000000" />'
-        )
+        for path in piece['paths']:
+            inner_transform = (path.get('transform') or '').strip()
+            if inner_transform:
+                svg_parts.append(
+                    f'  <g transform="translate({tx:.2f},{ty:.2f}) scale({sx:.4f},{sy:.4f})">'
+                    f'<path d="{path["d"]}" transform="{inner_transform}" fill="#000000" />'
+                    f'</g>'
+                )
+            else:
+                svg_parts.append(
+                    f'  <path d="{path["d"]}"'
+                    f' transform="translate({tx:.2f},{ty:.2f}) scale({sx:.4f},{sy:.4f})"'
+                    f' fill="#000000" />'
+                )
 
     # Render syllable glyphs
     for piece in syllable_pieces:
