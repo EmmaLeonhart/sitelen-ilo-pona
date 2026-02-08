@@ -1,9 +1,15 @@
-"""Extract all glyphs from sitelen-seli-kiwen.woff2 into individual SVG files."""
-import sys, io, os
+"""Extract all glyphs from sitelen-seli-kiwen.woff2 into individual SVG files.
+
+Uses uharfbuzz to discover compound word glyphs via ZWJ shaping.
+Outputs files named to match Wikimedia Commons conventions:
+  - Individual: 'Sitelen seli kiwen - jan.svg'
+  - Compound:   'Sitelen seli kiwen - jan-sewi.svg'
+"""
+import sys, io, os, tempfile
 from pathlib import Path
 from fontTools.ttLib import TTFont
 from fontTools.pens.svgPathPen import SVGPathPen
-from fontTools.pens.boundsPen import BoundsPen
+import uharfbuzz as hb
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
@@ -51,43 +57,11 @@ WORDS = {
     'pake': 0xF19A0, 'apeja': 0xF19A1, 'majuna': 0xF19A2, 'powe': 0xF19A3,
 }
 
-
-def extract_glyph_svg(font, glyph_set, codepoint):
-    """Extract a glyph as a standalone SVG string."""
-    cmap = font.getBestCmap()
-    if codepoint not in cmap:
-        return None
-    glyph_name = cmap[codepoint]
-    glyph = glyph_set[glyph_name]
-
-    pen = SVGPathPen(glyph_set)
-    glyph.draw(pen)
-    path_data = pen.getCommands()
-    if not path_data:
-        return None
-
-    bounds_pen = BoundsPen(glyph_set)
-    glyph.draw(bounds_pen)
-    bounds = bounds_pen.bounds
-    if not bounds:
-        return None
-
-    xmin, ymin, xmax, ymax = bounds
-    w = xmax - xmin
-    h = ymax - ymin
-    ascent = font['hhea'].ascent
-
-    # Use 1000x1000 viewBox, scale to fit, flip Y
-    svg = f'''<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 {-ascent} {glyph.width} {ascent - font['hhea'].descent}">
-  <path d="{path_data}" transform="scale(1,-1)" fill="currentColor"/>
-</svg>
-'''
-    return svg
+ZWJ = 0x200D
 
 
 def extract_glyph_svg_by_name(font, glyph_set, glyph_name):
-    """Extract a glyph by its internal name."""
+    """Extract a glyph by its internal name as SVG."""
     if glyph_name not in glyph_set:
         return None
     glyph = glyph_set[glyph_name]
@@ -109,40 +83,40 @@ def extract_glyph_svg_by_name(font, glyph_set, glyph_name):
     return svg
 
 
-def get_compound_ligatures(font):
-    """Extract compound word ligatures from GSUB."""
-    if 'GSUB' not in font:
-        return {}
-    gsub = font['GSUB']
-    cmap = font.getBestCmap()
-    reverse = {v: k for k, v in cmap.items()}
+def find_compounds_via_harfbuzz(font_path, ttfont):
+    """Use harfbuzz to find all 2-word ZWJ compounds."""
+    # Save as TTF for harfbuzz (it can't read WOFF2 cmap properly)
+    tmp = tempfile.NamedTemporaryFile(suffix='.ttf', delete=False)
+    tmp_path = tmp.name
+    tmp.close()
+    ttfont_copy = TTFont(str(font_path))
+    ttfont_copy.flavor = None
+    ttfont_copy.save(tmp_path)
+    ttfont_copy.close()
+
+    with open(tmp_path, 'rb') as f:
+        font_data = f.read()
+    os.unlink(tmp_path)
+
+    blob = hb.Blob(font_data)
+    face = hb.Face(blob)
+    hb_font = hb.Font(face)
+    glyph_order = ttfont.getGlyphOrder()
+    word_list = sorted(WORDS.keys())
 
     compounds = {}
-    # Check all liga lookups
-    for fr in gsub.table.FeatureList.FeatureRecord:
-        if fr.FeatureTag != 'liga':
-            continue
-        for li in fr.Feature.LookupListIndex:
-            lookup = gsub.table.LookupList.Lookup[li]
-            if lookup.LookupType != 4:
-                continue
-            for st in lookup.SubTable:
-                if not hasattr(st, 'ligatures'):
-                    continue
-                for fg, ls in st.ligatures.items():
-                    for l in ls:
-                        comps = [fg] + l.Component
-                        chars = []
-                        for g in comps:
-                            if g in reverse:
-                                chars.append(chr(reverse[g]))
-                            else:
-                                chars.append(None)
-                        if any(c is None for c in chars):
-                            continue
-                        text = ''.join(chars).lower()
-                        if text.isalpha() and len(text) > 1:
-                            compounds[text] = l.LigGlyph
+    for w1 in word_list:
+        for w2 in word_list:
+            buf = hb.Buffer()
+            buf.add_codepoints([WORDS[w1], ZWJ, WORDS[w2]])
+            buf.guess_segment_properties()
+            hb.shape(hb_font, buf, {'calt': True, 'liga': True, 'rlig': True})
+            infos = buf.glyph_infos
+            if len(infos) == 1:
+                gid = infos[0].codepoint
+                gname = glyph_order[gid]
+                compounds[f'{w1}-{w2}'] = gname
+
     return compounds
 
 
@@ -151,42 +125,42 @@ def main():
 
     font = TTFont(str(FONT_PATH))
     glyph_set = font.getGlyphSet()
+    cmap = font.getBestCmap()
 
     # 1. Extract individual words
     count = 0
     for word, cp in sorted(WORDS.items()):
-        svg = extract_glyph_svg(font, glyph_set, cp)
+        if cp not in cmap:
+            print(f'  SKIP: {word} (not in cmap)')
+            continue
+        glyph_name = cmap[cp]
+        svg = extract_glyph_svg_by_name(font, glyph_set, glyph_name)
         if svg:
             filename = f'Sitelen seli kiwen - {word}.svg'
             (OUTPUT_DIR / filename).write_text(svg, encoding='utf-8')
             count += 1
             print(f'  {word}')
         else:
-            print(f'  SKIP: {word} (no glyph)')
+            print(f'  SKIP: {word} (no path data)')
 
     print(f'\nExtracted {count} individual word SVGs')
 
-    # 2. Extract compound ligatures
-    compounds = get_compound_ligatures(font)
+    # 2. Find and extract compound glyphs via harfbuzz ZWJ shaping
+    print('\nDiscovering compound glyphs via harfbuzz...')
+    compounds = find_compounds_via_harfbuzz(FONT_PATH, font)
+    print(f'Found {len(compounds)} compounds')
+
     compound_count = 0
-    for text, glyph_name in sorted(compounds.items()):
-        # Skip single words already extracted
-        if text in WORDS:
-            continue
+    for name, glyph_name in sorted(compounds.items()):
         svg = extract_glyph_svg_by_name(font, glyph_set, glyph_name)
         if svg:
-            # Try to split into toki pona words for hyphenated filename
-            # These are concatenated like "jansewi" - try to split at word boundaries
-            filename = f'Sitelen seli kiwen - {text}.svg'
+            filename = f'Sitelen seli kiwen - {name}.svg'
             (OUTPUT_DIR / filename).write_text(svg, encoding='utf-8')
             compound_count += 1
-            if compound_count <= 30:
-                print(f'  compound: {text}')
-        else:
-            pass  # many are empty/decorative glyphs
+            print(f'  {name}')
 
-    print(f'Extracted {compound_count} compound/special SVGs')
-    print(f'\nAll SVGs saved to: {OUTPUT_DIR}')
+    print(f'\nExtracted {compound_count} compound SVGs')
+    print(f'Total: {count + compound_count} SVGs saved to: {OUTPUT_DIR}')
     font.close()
 
 
