@@ -377,7 +377,7 @@ def generate(text):
 
         if paths and vb:
             vb_x, vb_y, vb_w, vb_h = vb
-            scale = TARGET_HEIGHT / vb_h if vb_h > 0 else 1
+            scale = (TARGET_HEIGHT / vb_h if vb_h > 0 else 1) * 0.9
             word_pieces.append({
                 'type': 'word',
                 'paths': paths,
@@ -438,7 +438,7 @@ def generate(text):
         syllable_widths = []
         for item in syllable_items:
             vb_x, vb_y, vb_w, vb_h = item['viewbox']
-            item['scale'] = TARGET_HEIGHT / vb_h if vb_h > 0 else 1
+            item['scale'] = (TARGET_HEIGHT / vb_h if vb_h > 0 else 1) * 0.9
             syllable_widths.append(vb_w * item['scale'])
 
         syllable_start_x = x_cursor
