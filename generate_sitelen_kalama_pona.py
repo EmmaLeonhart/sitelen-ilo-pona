@@ -401,7 +401,7 @@ def generate(text):
 
         if paths and vb:
             vb_x, vb_y, vb_w, vb_h = vb
-            scale = (TARGET_HEIGHT / vb_h if vb_h > 0 else 1) * 1.1
+            scale = (TARGET_HEIGHT / vb_h if vb_h > 0 else 1) * 1.2
             syllable_items.append({
                 'syllable': syl,
                 'paths': paths,
