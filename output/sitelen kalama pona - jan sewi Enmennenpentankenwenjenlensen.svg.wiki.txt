@@ -1,0 +1,14 @@
+Representation of "jan sewi Enmennenpentankenwenjenlensen" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xen.svg; men: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_men.svg; nen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nen.svg; pen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pen.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tan.svg; ken: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ken.svg; wen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wen.svg; jen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jen.svg; len: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_len.svg; sen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sen.svg
+
+[[Category:Toki Pona text containing jan sewi]]
+[[Category:Toki Pona text containing sound symbol En]]
+[[Category:Toki Pona text containing sound symbol Men]]
+[[Category:Toki Pona text containing sound symbol Nen]]
+[[Category:Toki Pona text containing sound symbol Pen]]
+[[Category:Toki Pona text containing sound symbol Tan]]
+[[Category:Toki Pona text containing sound symbol Ken]]
+[[Category:Toki Pona text containing sound symbol Wen]]
+[[Category:Toki Pona text containing sound symbol Jen]]
+[[Category:Toki Pona text containing sound symbol Len]]
+[[Category:Toki Pona text containing sound symbol Sen]]
