@@ -42,10 +42,10 @@ def get_available_compounds():
     return compounds
 
 
-def read_svg_path(svg_file):
-    """Read path data and viewBox from an SVG file. Returns (path_data, viewBox, transform)."""
+def read_svg_paths(svg_file):
+    """Read path data and viewBox from an SVG file. Returns (paths, viewBox)."""
     if not svg_file.exists():
-        return None, None, None
+        return None, None
 
     tree = ET.parse(str(svg_file))
     root = tree.getroot()
@@ -54,14 +54,24 @@ def read_svg_path(svg_file):
     viewBox = root.get('viewBox', '0 0 1000 1000')
     vb = [float(x) for x in viewBox.split()]
 
-    path_el = root.find('.//svg:path', ns)
-    if path_el is None:
-        path_el = root.find('.//path')
-    if path_el is None:
-        return None, None, None
+    path_els = root.findall('.//svg:path', ns)
+    if not path_els:
+        path_els = root.findall('.//path')
+    if not path_els:
+        return None, None
 
-    transform = path_el.get('transform', '')
-    return path_el.get('d'), vb, transform
+    paths = []
+    for path_el in path_els:
+        d = path_el.get('d')
+        if not d:
+            continue
+        transform = path_el.get('transform', '')
+        paths.append({'d': d, 'transform': transform})
+
+    if not paths:
+        return None, None
+
+    return paths, vb
 
 
 def parse_syllables(name):
@@ -181,16 +191,15 @@ def generate(text):
     # Read word SVGs
     for word in matched_words:
         svg_file = WORD_SVGS_DIR / f'Sitelen seli kiwen - {word}.svg'
-        path_data, vb, transform = read_svg_path(svg_file)
+        paths, vb = read_svg_paths(svg_file)
 
-        if path_data and vb:
+        if paths and vb:
             vb_x, vb_y, vb_w, vb_h = vb
             scale = TARGET_HEIGHT / vb_h if vb_h > 0 else 1
             pieces.append({
                 'type': 'word',
-                'path': path_data,
+                'paths': paths,
                 'viewbox': vb,
-                'transform': transform,
                 'scale': scale,
                 'x_offset': x_cursor,
             })
@@ -204,16 +213,15 @@ def generate(text):
     for syl in syllables:
         svg_name = syllable_to_svg_name(syl)
         svg_file = SYLLABLES_DIR / f'sitelen kalama pona - {svg_name}.svg'
-        path_data, vb, transform = read_svg_path(svg_file)
+        paths, vb = read_svg_paths(svg_file)
 
-        if path_data and vb:
+        if paths and vb:
             vb_x, vb_y, vb_w, vb_h = vb
             scale = TARGET_HEIGHT / vb_h if vb_h > 0 else 1
             pieces.append({
                 'type': 'syllable',
-                'path': path_data,
+                'paths': paths,
                 'viewbox': vb,
-                'transform': transform,
                 'scale': scale,
                 'x_offset': x_cursor,
             })
@@ -242,31 +250,44 @@ def generate(text):
         '     xmlns="http://www.w3.org/2000/svg">',
     ]
 
+    def strip_flip_transform(transform):
+        if not transform:
+            return ''
+        return re.sub(r'scale\(\s*1\s*,\s*-1\s*\)', '', transform).strip()
+
     for piece in pieces:
         vb_x, vb_y, vb_w, vb_h = piece['viewbox']
         s = piece['scale']
-        has_flip = 'scale(1,-1)' in (piece['transform'] or '')
+        tx = piece['x_offset'] - vb_x * s
+        ty = -vb_y * s
 
-        if has_flip:
-            # Word SVGs from font: viewBox like "0 -1000 900 1200", path has scale(1,-1)
-            # The path is in font coordinates (Y-up). scale(1,-1) flips it.
-            # viewBox origin is (0, -ascent). We need to map this into our output space.
-            tx = piece['x_offset'] - vb_x * s
-            ty = -vb_y * s
-            svg_parts.append(
-                f'  <path d="{piece["path"]}"'
-                f' transform="translate({tx:.2f},{ty:.2f}) scale({s:.4f},{-s:.4f})"'
-                f' fill="#000000" />'
-            )
-        else:
-            # Syllable SVGs: viewBox like "0 0 1000 1000", no flip
-            tx = piece['x_offset'] - vb_x * s
-            ty = -vb_y * s
-            svg_parts.append(
-                f'  <path d="{piece["path"]}"'
-                f' transform="translate({tx:.2f},{ty:.2f}) scale({s:.4f},{s:.4f})"'
-                f' fill="#000000" />'
-            )
+        for path in piece['paths']:
+            transform = path.get('transform', '')
+            has_flip = 'scale(1,-1)' in transform.replace(' ', '')
+            inner_transform = strip_flip_transform(transform) if has_flip else transform
+            inner_transform = inner_transform.strip()
+
+            if has_flip:
+                # Word SVGs from font: viewBox like "0 -1000 900 1200", path has scale(1,-1)
+                # The path is in font coordinates (Y-up). scale(1,-1) flips it.
+                # viewBox origin is (0, -ascent). We need to map this into our output space.
+                outer = f'translate({tx:.2f},{ty:.2f}) scale({s:.4f},{-s:.4f})'
+            else:
+                # Syllable SVGs: viewBox like "0 0 1000 1000", no flip
+                outer = f'translate({tx:.2f},{ty:.2f}) scale({s:.4f},{s:.4f})'
+
+            if inner_transform:
+                svg_parts.append(
+                    f'  <g transform="{outer}">'
+                    f'<path d="{path["d"]}" transform="{inner_transform}" fill="#000000" />'
+                    f'</g>'
+                )
+            else:
+                svg_parts.append(
+                    f'  <path d="{path["d"]}"'
+                    f' transform="{outer}"'
+                    f' fill="#000000" />'
+                )
 
     svg_parts.append('</svg>')
     svg_content = '\n'.join(svg_parts) + '\n'
