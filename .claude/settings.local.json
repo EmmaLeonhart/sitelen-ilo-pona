@@ -55,7 +55,8 @@
       "Bash(done)",
       "Bash(sort:*)",
       "Bash(uniq:*)",
-      "Bash(do certutil -hashfile \"$f\" MD5)"
+      "Bash(do certutil -hashfile \"$f\" MD5)",
+      "Bash(del \"C:\\\\Users\\\\Immanuelle\\\\Documents\\\\Github\\\\Sitelen\\\\j_series_splines.json\")"
     ]
   }
 }
