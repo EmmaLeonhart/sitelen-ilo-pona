@@ -31,11 +31,7 @@ SPECIAL_COMMONS = {
 CONSONANTS = set('mnptkwjls')
 TARGET_HEIGHT = 1000
 SPACING = 80
-CARTOUCHE_STROKE = 60
-CARTOUCHE_PAD_X = 80
-CARTOUCHE_PAD_Y = 60
 CARTOUCHE_SVG = SCRIPT_DIR / 'Jan_Sinpo_We_(Jimbo_Wales_in_Sitelen_Pona).svg'
-CARTOUCHE_BAR_HEIGHT_SRC = 0.846667
 
 
 def get_available_compounds():
@@ -106,6 +102,156 @@ def read_svg_paths_by_label(svg_file, labels):
         paths_by_label[label].append({'d': d, 'transform': transform})
 
     return paths_by_label, vb
+
+
+def _path_bbox(d):
+    """Approximate bbox for an SVG path (handles common commands safely)."""
+    if not d:
+        return None
+    tokens = re.findall(r'[a-zA-Z]|[-+]?(?:\d*\.\d+|\d+)(?:[eE][-+]?\d+)?', d)
+    if not tokens:
+        return None
+
+    idx = 0
+    cmd = None
+    x = y = 0.0
+    start_x = start_y = 0.0
+    last_cx = last_cy = None
+    min_x = min_y = float('inf')
+    max_x = max_y = float('-inf')
+
+    def update(px, py):
+        nonlocal min_x, min_y, max_x, max_y
+        min_x = min(min_x, px)
+        min_y = min(min_y, py)
+        max_x = max(max_x, px)
+        max_y = max(max_y, py)
+
+    def read_numbers(n):
+        nonlocal idx
+        if idx + n > len(tokens):
+            return None
+        vals = tokens[idx:idx + n]
+        if any(re.match(r'[a-zA-Z]', v) for v in vals):
+            return None
+        idx += n
+        return [float(v) for v in vals]
+
+    while idx < len(tokens):
+        if re.match(r'[a-zA-Z]', tokens[idx]):
+            cmd = tokens[idx]
+            idx += 1
+        if cmd is None:
+            break
+
+        c = cmd
+        if c in ('Z', 'z'):
+            x, y = start_x, start_y
+            update(x, y)
+            cmd = None
+            continue
+
+        if c in ('M', 'm', 'L', 'l', 'T', 't'):
+            vals = read_numbers(2)
+            if not vals:
+                break
+            dx, dy = vals
+            if c.islower():
+                x += dx
+                y += dy
+            else:
+                x = dx
+                y = dy
+            if c in ('M', 'm'):
+                start_x, start_y = x, y
+                cmd = 'l' if c == 'm' else 'L'
+            update(x, y)
+        elif c in ('H', 'h'):
+            vals = read_numbers(1)
+            if not vals:
+                break
+            dx = vals[0]
+            x = x + dx if c == 'h' else dx
+            update(x, y)
+        elif c in ('V', 'v'):
+            vals = read_numbers(1)
+            if not vals:
+                break
+            dy = vals[0]
+            y = y + dy if c == 'v' else dy
+            update(x, y)
+        elif c in ('C', 'c'):
+            vals = read_numbers(6)
+            if not vals:
+                break
+            x1, y1, x2, y2, x3, y3 = vals
+            if c.islower():
+                x1 += x; y1 += y; x2 += x; y2 += y; x3 += x; y3 += y
+            update(x1, y1)
+            update(x2, y2)
+            x, y = x3, y3
+            update(x, y)
+            last_cx, last_cy = x2, y2
+        elif c in ('S', 's'):
+            vals = read_numbers(4)
+            if not vals:
+                break
+            x2, y2, x3, y3 = vals
+            if last_cx is None:
+                x1, y1 = x, y
+            else:
+                x1, y1 = 2 * x - last_cx, 2 * y - last_cy
+            if c.islower():
+                x2 += x; y2 += y; x3 += x; y3 += y
+            update(x1, y1)
+            update(x2, y2)
+            x, y = x3, y3
+            update(x, y)
+            last_cx, last_cy = x2, y2
+        elif c in ('Q', 'q'):
+            vals = read_numbers(4)
+            if not vals:
+                break
+            x1, y1, x2, y2 = vals
+            if c.islower():
+                x1 += x; y1 += y; x2 += x; y2 += y
+            update(x1, y1)
+            x, y = x2, y2
+            update(x, y)
+            last_cx, last_cy = x1, y1
+        elif c in ('A', 'a'):
+            vals = read_numbers(7)
+            if not vals:
+                break
+            x2, y2 = vals[5], vals[6]
+            if c.islower():
+                x2 += x; y2 += y
+            x, y = x2, y2
+            update(x, y)
+        else:
+            cmd = None
+
+    if min_x == float('inf'):
+        return None
+    return min_x, min_y, max_x, max_y
+
+
+def _paths_bbox(paths):
+    bbox = None
+    for p in paths:
+        b = _path_bbox(p.get('d', ''))
+        if not b:
+            continue
+        if bbox is None:
+            bbox = list(b)
+        else:
+            bbox[0] = min(bbox[0], b[0])
+            bbox[1] = min(bbox[1], b[1])
+            bbox[2] = max(bbox[2], b[2])
+            bbox[3] = max(bbox[3], b[3])
+    if bbox is None:
+        return None
+    return tuple(bbox)
 
 
 def parse_syllables(name):
@@ -255,7 +401,7 @@ def generate(text):
 
         if paths and vb:
             vb_x, vb_y, vb_w, vb_h = vb
-            scale = 1
+            scale = TARGET_HEIGHT / vb_h if vb_h > 0 else 1
             syllable_items.append({
                 'syllable': syl,
                 'paths': paths,
@@ -283,14 +429,16 @@ def generate(text):
 
         c_vb_x, c_vb_y, c_vb_w, c_vb_h = cartouche_vb
         cartouche_scale = TARGET_HEIGHT / c_vb_h if c_vb_h > 0 else 1
-        cartouche_bar_height = CARTOUCHE_BAR_HEIGHT_SRC * cartouche_scale
-        sound_target_height = TARGET_HEIGHT - 2 * (cartouche_bar_height + CARTOUCHE_PAD_Y)
+        center_bbox = _paths_bbox(cartouche_paths_by_label['center'])
+        if not center_bbox:
+            raise ValueError('Failed to compute cartouche center bounds.')
+        cartouche_bar_height = (center_bbox[3] - center_bbox[1]) * cartouche_scale
 
         # Update syllable scaling to fit cartouche height
         syllable_widths = []
         for item in syllable_items:
             vb_x, vb_y, vb_w, vb_h = item['viewbox']
-            item['scale'] = sound_target_height / vb_h if vb_h > 0 else 1
+            item['scale'] = TARGET_HEIGHT / vb_h if vb_h > 0 else 1
             syllable_widths.append(vb_w * item['scale'])
 
         syllable_start_x = x_cursor
@@ -299,44 +447,61 @@ def generate(text):
         if len(syllable_widths) > 1:
             syllable_total_width += SPACING * (len(syllable_widths) - 1)
 
-        cartouche_inner_width = syllable_total_width + 2 * CARTOUCHE_PAD_X
-        cartouche_side_width = c_vb_w * cartouche_scale
-        cartouche_total_width = cartouche_inner_width + 2 * cartouche_side_width
+        left_bbox = _paths_bbox(cartouche_paths_by_label['left'])
+        right_bbox = _paths_bbox(cartouche_paths_by_label['right'])
+        if not left_bbox or not right_bbox:
+            raise ValueError('Failed to compute cartouche side bounds.')
+
+        left_w = (left_bbox[2] - left_bbox[0]) * cartouche_scale
+        right_w = (right_bbox[2] - right_bbox[0]) * cartouche_scale
+        center_w = (center_bbox[2] - center_bbox[0]) * cartouche_scale
+
+        max_syl_w = max(syllable_widths) if syllable_widths else 0
+        seg_w = max(center_w, max_syl_w)
+        cartouche_inner_width = seg_w * len(syllable_widths)
+        cartouche_total_width = left_w + cartouche_inner_width + right_w
 
         left_x = syllable_start_x
-        middle_x = left_x + cartouche_side_width
+        middle_x = left_x + left_w
         right_x = middle_x + cartouche_inner_width
 
-        # Add cartouche shapes (left, middle, right) from SVG
+        # Left/right keep native proportions (scale_x == scale_y)
         cartouche_pieces.append({
             'paths': cartouche_paths_by_label['left'],
             'viewbox': cartouche_vb,
             'scale_x': cartouche_scale,
             'scale_y': cartouche_scale,
-            'x_offset': left_x,
+            'x_offset': left_x - c_vb_x * cartouche_scale,
             'y_offset': 0,
         })
-        cartouche_pieces.append({
-            'paths': cartouche_paths_by_label['center'],
-            'viewbox': cartouche_vb,
-            'scale_x': cartouche_scale * (cartouche_inner_width / c_vb_w),
-            'scale_y': cartouche_scale,
-            'x_offset': middle_x,
-            'y_offset': 0,
-        })
+
+        # Center repeats per syllable, no stretching
+        for i in range(len(syllable_widths)):
+            seg_x = middle_x + i * seg_w
+            center_x = seg_x + (seg_w - center_w) / 2
+            cartouche_pieces.append({
+                'paths': cartouche_paths_by_label['center'],
+                'viewbox': cartouche_vb,
+                'scale_x': cartouche_scale,
+                'scale_y': cartouche_scale,
+                'x_offset': center_x - center_bbox[0] * cartouche_scale,
+                'y_offset': 0,
+            })
+
         cartouche_pieces.append({
             'paths': cartouche_paths_by_label['right'],
             'viewbox': cartouche_vb,
             'scale_x': cartouche_scale,
             'scale_y': cartouche_scale,
-            'x_offset': right_x,
+            'x_offset': right_x - c_vb_x * cartouche_scale,
             'y_offset': 0,
         })
 
         # Place syllables inside cartouche
-        x_cursor = middle_x + CARTOUCHE_PAD_X
-        y_offset = cartouche_bar_height + CARTOUCHE_PAD_Y
-        for item, width in zip(syllable_items, syllable_widths):
+        y_offset = 0
+        for i, (item, width) in enumerate(zip(syllable_items, syllable_widths)):
+            seg_x = middle_x + i * seg_w
+            x_cursor = seg_x + (seg_w - width) / 2
             syllable_pieces.append({
                 'type': 'syllable',
                 'paths': item['paths'],
@@ -345,13 +510,12 @@ def generate(text):
                 'x_offset': x_cursor,
                 'y_offset': y_offset,
             })
-            x_cursor += width + SPACING
 
         # Move cursor to the end of cartouche block
         x_cursor = syllable_start_x + cartouche_total_width + SPACING
 
     # Build SVG
-    has_content = bool(word_pieces or syllable_pieces or cartouche_rects)
+    has_content = bool(word_pieces or syllable_pieces or cartouche_pieces)
     total_width = x_cursor - SPACING if has_content else 0
 
     comment_lines = [
