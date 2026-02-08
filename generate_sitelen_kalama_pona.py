@@ -271,8 +271,10 @@ def generate(text):
     svg_parts.append('</svg>')
     svg_content = '\n'.join(svg_parts) + '\n'
 
+    output_dir = SCRIPT_DIR / 'output'
+    output_dir.mkdir(exist_ok=True)
     output_name = f'sitelen kalama pona - {text}.svg'
-    output_path = SYLLABLES_DIR / output_name
+    output_path = output_dir / output_name
     with open(str(output_path), 'w', encoding='utf-8') as f:
         f.write(svg_content)
 
