@@ -1,7 +1,7 @@
-StartChar: NameMe.65536
-Encoding: 65536 -1 0
+StartChar: NameMe.65537
+Encoding: 65537 -1 1
 Width: 1000
-Flags: H
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
