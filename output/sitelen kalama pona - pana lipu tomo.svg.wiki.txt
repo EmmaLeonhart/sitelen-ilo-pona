@@ -1,0 +1,4 @@
+Representation of "pana lipu tomo" in sitelen kalama pona.
+Sources: pana: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pana.svg; lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg
+
+[[Category:Toki Pona text containing pana lipu tomo]]

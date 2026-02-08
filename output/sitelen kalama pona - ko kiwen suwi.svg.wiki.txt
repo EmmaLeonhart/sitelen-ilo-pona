@@ -1,0 +1,4 @@
+Representation of "ko kiwen suwi" in sitelen kalama pona.
+Sources: ko: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ko.svg; kiwen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen.svg; suwi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suwi.svg
+
+[[Category:Toki Pona text containing ko kiwen suwi]]

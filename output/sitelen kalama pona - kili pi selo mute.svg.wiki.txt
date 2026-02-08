@@ -1,0 +1,4 @@
+Representation of "kili pi selo mute" in sitelen kalama pona.
+Sources: kili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kili.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; selo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_selo.svg; mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mute.svg
+
+[[Category:Toki Pona text containing kili pi selo mute]]

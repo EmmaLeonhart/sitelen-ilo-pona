@@ -1,0 +1,4 @@
+Representation of "nasin pi esun ala" in sitelen kalama pona.
+Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; esun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_esun.svg; ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ala.svg
+
+[[Category:Toki Pona text containing nasin pi esun ala]]

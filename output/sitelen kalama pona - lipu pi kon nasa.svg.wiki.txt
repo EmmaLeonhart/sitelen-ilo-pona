@@ -1,0 +1,4 @@
+Representation of "lipu pi kon nasa" in sitelen kalama pona.
+Sources: lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kon.svg; nasa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasa.svg
+
+[[Category:Toki Pona text containing lipu pi kon nasa]]

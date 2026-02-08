@@ -1,0 +1,4 @@
+Representation of "pipi jelo pimeja pi ko suwi" in sitelen kalama pona.
+Sources: pipi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pipi.svg; jelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jelo.svg; pimeja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pimeja.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ko.svg; suwi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suwi.svg
+
+[[Category:Toki Pona text containing pipi jelo pimeja pi ko suwi]]

@@ -1,0 +1,4 @@
+Representation of "pipi kala linja" in sitelen kalama pona.
+Sources: pipi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pipi.svg; kala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kala.svg; linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg
+
+[[Category:Toki Pona text containing pipi kala linja]]

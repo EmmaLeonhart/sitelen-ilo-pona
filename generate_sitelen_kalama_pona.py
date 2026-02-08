@@ -17,7 +17,11 @@ import re
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+if sys.stdout and hasattr(sys.stdout, 'buffer'):
+    try:
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+    except Exception:
+        pass
 
 SCRIPT_DIR = Path(__file__).parent
 SYLLABLES_DIR = SCRIPT_DIR / 'uniform_syllables'

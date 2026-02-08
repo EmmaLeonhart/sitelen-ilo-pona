@@ -1,0 +1,4 @@
+Representation of "telo sijelo loje" in sitelen kalama pona.
+Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg; loje: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_loje.svg
+
+[[Category:Toki Pona text containing telo sijelo loje]]

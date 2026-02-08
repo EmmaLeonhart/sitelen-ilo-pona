@@ -1,0 +1,4 @@
+Representation of "mije pi olin e mije" in sitelen kalama pona.
+Sources: mije: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mije.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; olin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_olin.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; mije: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mije.svg
+
+[[Category:Toki Pona text containing mije pi olin e mije]]

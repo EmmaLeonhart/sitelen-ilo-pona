@@ -1,0 +1,4 @@
+Representation of "pali e kasi" in sitelen kalama pona.
+Sources: pali: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pali.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; kasi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kasi.svg
+
+[[Category:Toki Pona text containing pali e kasi]]

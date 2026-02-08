@@ -1,0 +1,4 @@
+Representation of "meli pi olin e meli" in sitelen kalama pona.
+Sources: meli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_meli.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; olin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_olin.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; meli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_meli.svg
+
+[[Category:Toki Pona text containing meli pi olin e meli]]

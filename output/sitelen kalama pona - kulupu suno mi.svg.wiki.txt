@@ -1,0 +1,4 @@
+Representation of "kulupu suno mi" in sitelen kalama pona.
+Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; suno: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suno.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mi.svg
+
+[[Category:Toki Pona text containing kulupu suno mi]]

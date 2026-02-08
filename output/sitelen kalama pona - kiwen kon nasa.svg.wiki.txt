@@ -1,0 +1,4 @@
+Representation of "kiwen kon nasa" in sitelen kalama pona.
+Sources: kiwen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen.svg; kon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kon.svg; nasa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasa.svg
+
+[[Category:Toki Pona text containing kiwen kon nasa]]

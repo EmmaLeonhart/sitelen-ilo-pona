@@ -1,123 +1,81 @@
+"""
+Process toki pona Wikipedia page titles from the fetched CSV.
+
+Reads wikidata_toki_pona.csv (pageid, title) and:
+  1. Filters to titles that contain at least one valid toki pona word or proper name
+  2. Writes wikidata_toki_pona_names.txt (one title per line, for batch SVG generation)
+"""
+
 import csv
+import re
 import sys
-import xml.etree.ElementTree as ET
 from pathlib import Path
 
-
-def qid_from_uri(uri: str) -> str:
-    if not uri:
-        return ""
-    return uri.rsplit("/", 1)[-1]
+SCRIPT_DIR = Path(__file__).parent
+WORD_SVGS_DIR = SCRIPT_DIR / 'sitelen_seli_kiwen_svgs'
 
 
-def read_rows_from_xml(path: Path):
-    text = path.read_text(encoding="utf-8", errors="ignore")
-
-    # Robust line-based parsing to tolerate malformed XML.
-    current = None
-    item = ""
-    tok = ""
-    tp = ""
-    in_result = False
-
-    def flush():
-        nonlocal item, tok, tp, in_result
-        if in_result and (item or tok or tp):
-            yield {"item": item, "tokLabel": tok, "tpTitle": tp}
-        item = ""
-        tok = ""
-        tp = ""
-        in_result = False
-
-    for line in text.splitlines():
-        if "<result" in line:
-            in_result = True
-            item = ""
-            tok = ""
-            tp = ""
-            current = None
-        if "binding name='item'" in line or 'binding name="item"' in line:
-            current = "item"
-        elif "binding name='tokLabel'" in line or 'binding name="tokLabel"' in line:
-            current = "tokLabel"
-        elif "binding name='tpTitle'" in line or 'binding name="tpTitle"' in line:
-            current = "tpTitle"
-
-        if "<uri>" in line and "</uri>" in line and current == "item":
-            item = line.split("<uri>", 1)[1].split("</uri>", 1)[0].strip()
-        if "<literal" in line and "</literal>" in line:
-            value = line.split(">", 1)[1].split("</literal>", 1)[0]
-            if current == "tokLabel":
-                tok = value.strip()
-            elif current == "tpTitle":
-                tp = value.strip()
-
-        if "</result>" in line:
-            yield from flush()
-
-    # Flush any trailing partial result
-    yield from flush()
+def get_known_words():
+    """Get the set of toki pona words that have SVG glyphs."""
+    words = set()
+    for f in WORD_SVGS_DIR.glob('Sitelen seli kiwen - *.svg'):
+        name = f.stem.replace('Sitelen seli kiwen - ', '')
+        # Single words only (compounds have hyphens)
+        if '-' not in name:
+            words.add(name)
+    return words
 
 
-def read_rows_from_csv(path: Path):
-    with path.open("r", encoding="utf-8", newline="") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            yield row
+def is_processable(title, known_words):
+    """Check if a title can produce any SVG content.
+
+    A title is processable if it contains at least one known toki pona word
+    or a capitalized proper name (which would become a sound cartouche).
+    """
+    tokens = title.split()
+    for token in tokens:
+        if token.lower() in known_words:
+            return True
+        # Capitalized token with only letters = proper name for cartouche
+        if token[0].isupper() and re.match(r'^[A-Za-z]+$', token):
+            return True
+    return False
 
 
 def main():
-    root = Path(__file__).parent
-    src = root / "wikidata_toki_pona.csv"
-    out_csv = root / "wikidata_toki_pona_processed.csv"
-    name_list = root / "wikidata_toki_pona_names.txt"
+    src = SCRIPT_DIR / 'wikidata_toki_pona.csv'
+    out_names = SCRIPT_DIR / 'wikidata_toki_pona_names.txt'
 
     if not src.exists():
-        print(f"Missing input: {src}", file=sys.stderr)
+        print(f'Missing input: {src}', file=sys.stderr)
         sys.exit(1)
 
-    head = src.read_text(encoding="utf-8", errors="ignore").lstrip()
-    if head.startswith("<"):
-        rows_iter = read_rows_from_xml(src)
-    else:
-        rows_iter = read_rows_from_csv(src)
+    known_words = get_known_words()
+    print(f'Known toki pona word glyphs: {len(known_words)}')
 
-    rows = []
-    name_set = []
-    seen = set()
+    titles = []
+    skipped = []
 
-    for r in rows_iter:
-        qid = qid_from_uri(r.get("item", ""))
-        tok = r.get("tokLabel", "") or ""
-        tp = r.get("tpTitle", "") or ""
-        name = tok if tok else tp
-        name = name.replace("_", " ").strip()
-        if not name:
-            continue
-        rows.append(
-            {
-                "qid": qid,
-                "tok_label": tok,
-                "tp_title": tp,
-                "name": name,
-            }
-        )
-        if name not in seen:
-            seen.add(name)
-            name_set.append(name)
+    with open(src, 'r', encoding='utf-8', newline='') as f:
+        for row in csv.DictReader(f):
+            title = row['title'].strip()
+            if not title:
+                continue
+            if is_processable(title, known_words):
+                titles.append(title)
+            else:
+                skipped.append(title)
 
-    with out_csv.open("w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=["qid", "tok_label", "tp_title", "name"])
-        writer.writeheader()
-        writer.writerows(rows)
+    with open(out_names, 'w', encoding='utf-8') as f:
+        for title in titles:
+            f.write(title + '\n')
 
-    with name_list.open("w", encoding="utf-8") as f:
-        for name in name_set:
-            f.write(name + "\n")
-
-    print(f"Wrote {out_csv}")
-    print(f"Wrote {name_list} ({len(name_set)} unique names)")
+    print(f'Processable titles: {len(titles)}')
+    print(f'Skipped titles: {len(skipped)}')
+    if skipped:
+        print(f'  Examples of skipped: {skipped[:10]}')
+    print(f'Wrote {out_names}')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

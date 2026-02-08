@@ -1,0 +1,4 @@
+Representation of "musi pi kiwen en lipu en ilo kipisi" in sitelen kalama pona.
+Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kiwen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_en.svg; lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_en.svg; ilo-kipisi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo-kipisi.svg
+
+[[Category:Toki Pona text containing musi pi kiwen en lipu en ilo kipisi]]

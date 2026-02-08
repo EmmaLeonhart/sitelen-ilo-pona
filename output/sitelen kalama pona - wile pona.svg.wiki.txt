@@ -1,0 +1,4 @@
+Representation of "wile pona" in sitelen kalama pona.
+Sources: wile: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wile.svg; pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pona.svg
+
+[[Category:Toki Pona text containing wile pona]]

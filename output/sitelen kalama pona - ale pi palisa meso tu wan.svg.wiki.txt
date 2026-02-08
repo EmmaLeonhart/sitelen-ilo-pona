@@ -1,0 +1,4 @@
+Representation of "ale pi palisa meso tu wan" in sitelen kalama pona.
+Sources: ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ale.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; palisa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_palisa.svg; meso: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_meso.svg; tu-wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu-wan.svg
+
+[[Category:Toki Pona text containing ale pi palisa meso tu wan]]
