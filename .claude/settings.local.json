@@ -59,7 +59,8 @@
       "Bash(del \"C:\\\\Users\\\\Immanuelle\\\\Documents\\\\Github\\\\Sitelen\\\\j_series_splines.json\")",
       "Bash(while read f)",
       "Bash(do rm \"$f\")",
-      "Bash(start \"\" \"C:\\\\Users\\\\Immanuelle\\\\Documents\\\\Github\\\\Sitelen\\\\uniform_syllables\\\\sitelen kalama pona - jan sewi Amatelasu.svg\")"
+      "Bash(start \"\" \"C:\\\\Users\\\\Immanuelle\\\\Documents\\\\Github\\\\Sitelen\\\\uniform_syllables\\\\sitelen kalama pona - jan sewi Amatelasu.svg\")",
+      "Bash(git push:*)"
     ]
   }
 }
