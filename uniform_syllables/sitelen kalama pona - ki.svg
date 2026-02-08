@@ -1,96 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="98.0"
-   height="98.0"
-   viewBox="12.767640999999998 37.2802695 98.0 98.0"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
    id="svg1"
-   sodipodi:docname="sitelen kalama pona - ki.svg"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="12.132653"
-     inkscape:cx="53.615644"
-     inkscape:cy="68.863751"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
-  <defs
-     id="defs1" />
-  <g
-     id="g2"
-     transform="translate(58.310729,8.9776137)">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:8.665;stroke-opacity:1"
-       id="path2"
-       sodipodi:type="arc"
-       sodipodi:cx="81.285629"
-       sodipodi:cy="-20.5991"
-       sodipodi:rx="23.325483"
-       sodipodi:ry="23.53154"
-       sodipodi:start="0"
-       sodipodi:end="3.1452504"
-       sodipodi:open="true"
-       sodipodi:arc-type="arc"
-       d="M 104.61111,-20.5991 A 23.325483,23.53154 0 0 1 92.923733,-0.2058585 23.325483,23.53154 0 0 1 69.573664,-0.24894012 23.325483,23.53154 0 0 1 57.960302,-20.685172"
-       transform="rotate(90)" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:8.665;stroke-opacity:1"
-       id="rect2"
-       width="0.74179983"
-       height="9.0664425"
-       x="-48.886719"
-       y="28.824736"
-       transform="rotate(-50.3642)" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:8.665;stroke-opacity:1"
-       id="rect2-8"
-       width="0.74179983"
-       height="9.0664425"
-       x="72.478401"
-       y="-72.7901"
-       transform="matrix(0.6379053,0.77011481,0.77011481,-0.6379053,0,0)" />
-  </g>
-  <rect
-     style="fill:#000000;stroke-width:8.665"
-     id="rect1"
-     width="9.8616352"
-     height="50.047798"
-     x="-39.807129"
-     y="-129.55292"
-     transform="scale(1,-1)" />
+   xmlns="http://www.w3.org/2000/svg">
   <path
-     style="fill:#000000;stroke-width:8.665"
-     id="path1-1"
-     sodipodi:type="arc"
-     sodipodi:cx="-75.75119"
-     sodipodi:cy="-32.778248"
-     sodipodi:rx="14.114466"
-     sodipodi:ry="11.772327"
-     sodipodi:start="0"
-     sodipodi:end="3.1452504"
-     sodipodi:arc-type="arc"
-     d="m -61.636724,-32.778248 a 14.114466,11.772327 0 0 1 -7.072142,10.202304 14.114466,11.772327 0 0 1 -14.129343,-0.02155 14.114466,11.772327 0 0 1 -7.027352,-10.223811"
-     transform="matrix(0.67528947,-0.7375528,-0.7375528,-0.67528947,0,0)"
-     sodipodi:open="true" />
-  <circle
-     style="fill:#000000;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-     id="path3"
-     cx="64.165871"
-     cy="50.187336"
-     r="4.6454606" />
+     d="M 401.00,131.00 C 376.66,131.00 351.33,107.86 351.33,84.01 C 351.33,81.77 351.54,79.45 352.00,77.06 C 353.02,48.40 378.36,33.25 392.71,24.67 C 393.22,24.36 398.21,21.37 399.37,20.49 L 422.46,49.25 C 427.47,52.78 438.12,62.38 438.12,80.17 C 438.12,81.22 438.08,82.28 437.99,83.32 C 437.99,83.51 437.99,83.70 437.99,83.90 C 438.00,84.93 438.01,86.06 438.01,87.29 C 438.01,130.35 403.09,131.00 401.00,131.00  Z M 201.42,181.56 L 232.54,142.41 L 388.58,266.44 L 357.46,305.59 C 357.46,305.59 201.46,181.59 201.42,181.56  Z M 408.05,512.35 L 449.97,539.62 L 341.95,705.65 L 300.03,678.38 C 300.03,678.38 408.03,512.38 408.05,512.35  Z M 603.52,100.45 C 617.37,100.45 630.21,111.06 630.21,126.54 C 630.21,131.42 628.96,135.38 628.29,137.09 L 611.57,130.58 C 610.87,134.39 609.27,138.07 606.79,141.28 L 605.30,128.14 L 581.72,118.96 L 587.27,143.62 L 606.10,150.24 C 601.54,151.34 598.35,153.47 590.37,154.38 C 589.39,154.49 588.26,154.63 586.82,154.63 C 584.68,154.63 578.80,154.30 573.26,151.03 C 462.15,156.17 403.43,286.67 403.43,386.40 C 403.43,391.40 403.58,396.35 403.87,401.24 C 421.69,511.78 515.35,602.55 619.46,625.39 L 632.56,627.26 C 632.56,627.26 625.49,676.75 625.44,676.74 C 610.56,674.62 610.56,674.62 609.70,674.43 C 484.63,647.45 374.92,539.74 354.31,407.89 C 354.27,407.67 353.42,400.12 353.42,385.59 C 353.42,249.92 438.68,100.88 580.40,100.88 C 585.35,100.88 589.69,100.88 593.24,101.79 C 593.35,101.76 598.57,100.45 603.52,100.45 Z"
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     id="glyph" />
 </svg>
