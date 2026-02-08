@@ -48,7 +48,14 @@
       "Bash(timeout 2 tail:*)",
       "Bash(exit:*)",
       "WebFetch(domain:pastebin.com)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(start \"\" \"C:\\\\Users\\\\Immanuelle\\\\Documents\\\\Github\\\\Sitelen\\\\uniform_syllables\\\\reupload.html\")",
+      "Bash(for f in *.glyph)",
+      "Bash(do md5sum \"$f\")",
+      "Bash(done)",
+      "Bash(sort:*)",
+      "Bash(uniq:*)",
+      "Bash(do certutil -hashfile \"$f\" MD5)"
     ]
   }
 }
