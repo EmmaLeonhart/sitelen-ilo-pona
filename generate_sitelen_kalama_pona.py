@@ -401,7 +401,7 @@ def generate(text):
 
         if paths and vb:
             vb_x, vb_y, vb_w, vb_h = vb
-            scale = TARGET_HEIGHT / vb_h if vb_h > 0 else 1
+            scale = (TARGET_HEIGHT / vb_h if vb_h > 0 else 1) * 1.1
             syllable_items.append({
                 'syllable': syl,
                 'paths': paths,
@@ -497,10 +497,11 @@ def generate(text):
         })
 
         # Place syllables inside cartouche
-        y_offset = 0
         for i, (item, width) in enumerate(zip(syllable_items, syllable_widths)):
             seg_x = middle_x + i * seg_w
             x_cursor = seg_x + (seg_w - width) / 2
+            vb_x, vb_y, vb_w, vb_h = item['viewbox']
+            y_offset = (TARGET_HEIGHT - vb_h * item['scale']) / 2
             syllable_pieces.append({
                 'type': 'syllable',
                 'paths': item['paths'],
