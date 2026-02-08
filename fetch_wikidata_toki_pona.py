@@ -1,78 +1,55 @@
 import csv
-import io
+import json
 import sys
 import urllib.parse
 import urllib.request
 from pathlib import Path
 
-SPARQL_URL = "https://query.wikidata.org/sparql"
+API_URL = "https://tok.wikipedia.org/w/api.php"
 USER_AGENT = "SitelenBot/1.0 (https://github.com/immanuelle-leonhart/Sitelen)"
 
-QUERY_TOK_LABELS = """\
-SELECT ?item ?tokLabel WHERE {
-  ?item rdfs:label ?tokLabel .
-  FILTER(LANG(?tokLabel) = "tok")
-}
-"""
 
-QUERY_TP_WIKIPEDIA = """\
-SELECT ?item ?tpTitle WHERE {
-  ?tpArticle schema:about ?item ;
-             schema:isPartOf <https://tokipona.wikipedia.org/> ;
-             schema:name ?tpTitle .
-}
-"""
+def fetch_all_pages():
+    """Fetch all mainspace pages from toki pona Wikipedia via allpages API."""
+    pages = []
+    params = {
+        "action": "query",
+        "list": "allpages",
+        "apnamespace": "0",
+        "aplimit": "500",
+        "format": "json",
+    }
+    while True:
+        url = API_URL + "?" + urllib.parse.urlencode(params)
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
 
+        for p in data["query"]["allpages"]:
+            pages.append({"pageid": p["pageid"], "title": p["title"]})
 
-def run_query(query):
-    params = {"query": query}
-    url = SPARQL_URL + "?" + urllib.parse.urlencode(params)
-    req = urllib.request.Request(url, headers={
-        "User-Agent": USER_AGENT,
-        "Accept": "text/csv",
-    })
-    with urllib.request.urlopen(req, timeout=120) as resp:
-        return resp.read().decode("utf-8")
+        if "continue" in data:
+            params["apcontinue"] = data["continue"]["apcontinue"]
+            print(f"  ...{len(pages)} pages so far")
+        else:
+            break
+
+    return pages
 
 
 def main():
     out_path = Path(__file__).parent / "wikidata_toki_pona.csv"
 
-    print("Fetching toki pona labels...")
-    try:
-        labels_csv = run_query(QUERY_TOK_LABELS)
-    except Exception as exc:
-        print(f"Failed to fetch tok labels: {exc}", file=sys.stderr)
-        sys.exit(1)
+    print("Fetching all pages from tok.wikipedia.org...")
+    pages = fetch_all_pages()
 
-    print("Fetching toki pona Wikipedia articles...")
-    try:
-        wp_csv = run_query(QUERY_TP_WIKIPEDIA)
-    except Exception as exc:
-        print(f"Failed to fetch tp Wikipedia articles: {exc}", file=sys.stderr)
-        sys.exit(1)
-
-    # Parse labels: item -> tokLabel
-    items = {}  # qid -> {tokLabel, tpTitle}
-    for row in csv.DictReader(io.StringIO(labels_csv)):
-        qid = row["item"]
-        items.setdefault(qid, {"tokLabel": "", "tpTitle": ""})
-        items[qid]["tokLabel"] = row["tokLabel"]
-
-    # Parse Wikipedia articles: item -> tpTitle
-    for row in csv.DictReader(io.StringIO(wp_csv)):
-        qid = row["item"]
-        items.setdefault(qid, {"tokLabel": "", "tpTitle": ""})
-        items[qid]["tpTitle"] = row["tpTitle"]
-
-    # Write merged CSV
     with open(out_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
-        writer.writerow(["item", "tokLabel", "tpTitle"])
-        for qid in sorted(items):
-            writer.writerow([qid, items[qid]["tokLabel"], items[qid]["tpTitle"]])
+        writer.writerow(["pageid", "title"])
+        for p in pages:
+            writer.writerow([p["pageid"], p["title"]])
 
-    print(f"Wrote {len(items)} items to {out_path}")
+    print(f"Wrote {len(pages)} pages to {out_path}")
 
 
 if __name__ == "__main__":
