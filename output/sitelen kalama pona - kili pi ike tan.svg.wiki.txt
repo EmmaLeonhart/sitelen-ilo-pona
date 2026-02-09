@@ -1,4 +1,5 @@
 Representation of "kili pi ike tan" in sitelen kalama pona.
 Sources: kili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kili.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ike.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing kili pi ike tan]]

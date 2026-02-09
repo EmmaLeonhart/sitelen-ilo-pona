@@ -1,4 +1,5 @@
 Representation of "sona sijelo pi poka tu wan" in sitelen kalama pona.
 Sources: sona-sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona-sijelo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; poka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_poka.svg; tu-wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu-wan.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing sona sijelo pi poka tu wan]]

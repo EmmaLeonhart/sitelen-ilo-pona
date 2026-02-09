@@ -1,4 +1,5 @@
 Representation of "telo kiwen lete" in sitelen kalama pona.
 Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; kiwen-lete: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen-lete.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing telo kiwen lete]]

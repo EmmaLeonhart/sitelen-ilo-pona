@@ -1,4 +1,5 @@
 Representation of "nena pi sinpin lawa" in sitelen kalama pona.
 Sources: nena: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nena.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sinpin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sinpin.svg; lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing nena pi sinpin lawa]]

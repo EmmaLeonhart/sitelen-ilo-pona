@@ -1,4 +1,5 @@
 Representation of "wile tawa suli" in sitelen kalama pona.
 Sources: wile: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wile.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing wile tawa suli]]

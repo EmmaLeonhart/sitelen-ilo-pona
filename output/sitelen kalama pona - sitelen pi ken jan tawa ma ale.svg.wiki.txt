@@ -1,4 +1,5 @@
 Representation of "sitelen pi ken jan tawa ma ale" in sitelen kalama pona.
 Sources: sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ken: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ken.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; ma-ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-ale.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing sitelen pi ken jan tawa ma ale]]

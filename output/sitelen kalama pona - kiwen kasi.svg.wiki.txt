@@ -1,4 +1,5 @@
 Representation of "kiwen kasi" in sitelen kalama pona.
 Sources: kiwen-kasi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen-kasi.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing kiwen kasi]]

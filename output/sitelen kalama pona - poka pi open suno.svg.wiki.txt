@@ -1,4 +1,5 @@
 Representation of "poka pi open suno" in sitelen kalama pona.
 Sources: poka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_poka.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; open: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_open.svg; suno: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suno.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing poka pi open suno]]

@@ -541,7 +541,7 @@ def generate(text):
 
     # Categories for Commons uploads
     word_phrase = ' '.join(word_tokens)
-    categories = []
+    categories = ['[[Category:Sitelen kalama pona]]']
     if word_phrase:
         categories.append(f'[[Category:Toki Pona text containing {word_phrase}]]')
     for syl in syllables:

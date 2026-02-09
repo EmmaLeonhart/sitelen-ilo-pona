@@ -1,4 +1,5 @@
 Representation of "toki monsuta" in sitelen kalama pona.
 Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; monsuta: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_monsuta.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing toki monsuta]]

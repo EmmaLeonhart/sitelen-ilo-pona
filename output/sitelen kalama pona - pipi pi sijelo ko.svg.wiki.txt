@@ -1,4 +1,5 @@
 Representation of "pipi pi sijelo ko" in sitelen kalama pona.
 Sources: pipi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pipi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ko.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing pipi pi sijelo ko]]

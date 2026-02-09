@@ -1,4 +1,5 @@
 Representation of "ilo utala tu" in sitelen kalama pona.
 Sources: ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; utala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_utala.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing ilo utala tu]]

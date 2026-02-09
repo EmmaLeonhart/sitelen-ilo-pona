@@ -1,4 +1,5 @@
 Representation of "mun loje" in sitelen kalama pona.
 Sources: mun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mun.svg; loje: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_loje.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing mun loje]]

@@ -1,4 +1,5 @@
 Representation of "kulupu pi kulupu pi wawa lawa ala" in sitelen kalama pona.
 Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; wawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wawa.svg; lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg; ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ala.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing kulupu pi kulupu pi wawa lawa ala]]

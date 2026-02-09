@@ -1,4 +1,5 @@
 Representation of "jaki pi pakala e ilo awen pi sijelo jan" in sitelen kalama pona.
 Sources: jaki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jaki.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pakala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pakala.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; awen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_awen.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing jaki pi pakala e ilo awen pi sijelo jan]]

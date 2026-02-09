@@ -1,4 +1,5 @@
 Representation of "ijo lili tomo" in sitelen kalama pona.
 Sources: ijo-lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-lili.svg; tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing ijo lili tomo]]

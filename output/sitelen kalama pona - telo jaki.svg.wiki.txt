@@ -1,4 +1,5 @@
 Representation of "telo jaki" in sitelen kalama pona.
 Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; jaki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jaki.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing telo jaki]]

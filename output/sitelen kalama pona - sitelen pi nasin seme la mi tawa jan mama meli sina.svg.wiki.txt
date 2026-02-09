@@ -1,4 +1,5 @@
 Representation of "sitelen pi nasin seme la mi tawa jan mama meli sina" in sitelen kalama pona.
 Sources: sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; seme: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seme.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_la.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mi.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; mama-meli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mama-meli.svg; sina: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sina.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing sitelen pi nasin seme la mi tawa jan mama meli sina]]

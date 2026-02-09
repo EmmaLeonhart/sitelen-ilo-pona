@@ -1,4 +1,5 @@
 Representation of "tenpo pi palisa lili" in sitelen kalama pona.
 Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; palisa-lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_palisa-lili.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing tenpo pi palisa lili]]

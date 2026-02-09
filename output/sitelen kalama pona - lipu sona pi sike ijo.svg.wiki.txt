@@ -1,4 +1,5 @@
 Representation of "lipu sona pi sike ijo" in sitelen kalama pona.
 Sources: lipu-sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu-sona.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg; ijo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing lipu sona pi sike ijo]]

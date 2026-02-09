@@ -1,4 +1,5 @@
 Representation of "ko lawa" in sitelen kalama pona.
 Sources: ko: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ko.svg; lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing ko lawa]]

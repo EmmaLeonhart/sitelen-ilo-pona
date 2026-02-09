@@ -1,6 +1,7 @@
 Representation of "jan Fansiko Masija Nujema" in sitelen kalama pona.
 Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; an: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xan.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg; nu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nu.svg; je: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_je.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing jan]]
 [[Category:Toki Pona text containing sound symbol An]]
 [[Category:Toki Pona text containing sound symbol Si]]

@@ -1,4 +1,5 @@
 Representation of "nasin pi mama sewi mute" in sitelen kalama pona.
 Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; mama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mama.svg; sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sewi.svg; mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mute.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing nasin pi mama sewi mute]]

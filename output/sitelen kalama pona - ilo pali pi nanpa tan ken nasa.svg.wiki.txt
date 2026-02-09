@@ -1,4 +1,5 @@
 Representation of "ilo pali pi nanpa tan ken nasa" in sitelen kalama pona.
 Sources: ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; pali: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pali.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg; ken: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ken.svg; nasa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasa.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing ilo pali pi nanpa tan ken nasa]]

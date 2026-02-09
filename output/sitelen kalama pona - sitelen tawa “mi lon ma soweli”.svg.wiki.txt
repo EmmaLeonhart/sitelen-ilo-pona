@@ -1,4 +1,5 @@
 Representation of "sitelen tawa “mi lon ma soweli”" in sitelen kalama pona.
 Sources: sitelen-tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen-tawa.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing sitelen tawa “mi lon ma soweli”]]

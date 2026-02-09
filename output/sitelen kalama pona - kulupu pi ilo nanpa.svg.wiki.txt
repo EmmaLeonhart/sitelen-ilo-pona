@@ -1,4 +1,5 @@
 Representation of "kulupu pi ilo nanpa" in sitelen kalama pona.
 Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ilo-nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo-nanpa.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing kulupu pi ilo nanpa]]

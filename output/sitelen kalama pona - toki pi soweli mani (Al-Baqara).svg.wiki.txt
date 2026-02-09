@@ -1,4 +1,5 @@
 Representation of "toki pi soweli mani (Al-Baqara)" in sitelen kalama pona.
 Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg; mani: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mani.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing toki pi soweli mani (Al-Baqara)]]

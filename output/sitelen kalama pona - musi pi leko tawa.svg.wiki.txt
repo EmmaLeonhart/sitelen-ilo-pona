@@ -1,4 +1,5 @@
 Representation of "musi pi leko tawa" in sitelen kalama pona.
 Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; leko: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_leko.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing musi pi leko tawa]]

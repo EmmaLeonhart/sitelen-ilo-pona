@@ -1,4 +1,5 @@
 Representation of "wan pi jan mute" in sitelen kalama pona.
 Sources: wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; jan-mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-mute.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing wan pi jan mute]]

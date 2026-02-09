@@ -1,4 +1,5 @@
 Representation of "telo tan sewi" in sitelen kalama pona.
 Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg; sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sewi.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing telo tan sewi]]

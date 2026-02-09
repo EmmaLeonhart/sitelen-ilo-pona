@@ -1,4 +1,5 @@
 Representation of "utala suli pi ma ale nanpa tu" in sitelen kalama pona.
 Sources: utala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_utala.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma-ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-ale.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing utala suli pi ma ale nanpa tu]]
