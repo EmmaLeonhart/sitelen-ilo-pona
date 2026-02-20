@@ -121,6 +121,7 @@ This outputs `fonts/sitelen-kalama-pona.otf` and `fonts/sitelen-kalama-pona.woff
 
 ## License
 
-No license has been specified for this project. If you would like to use these
-fonts, please contact the author. The [SIL Open Font License (OFL)](https://scripts.sil.org/OFL)
-is the standard open license for fonts if you plan to release them openly.
+This project is released under the [SIL Open Font License 1.1](LICENSE) (OFL-1.1).
+You are free to use, study, modify, and redistribute these fonts, including
+embedding them in documents or software, as long as the fonts are not sold
+standalone. See [LICENSE](LICENSE) for full terms.
