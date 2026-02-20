@@ -18,8 +18,7 @@ The font files are in the [`fonts/`](fonts/) directory:
 |------|--------|-------------|
 | [`sitelen-kalama-pona.otf`](fonts/sitelen-kalama-pona.otf) | OTF | Sitelen Kalama Pona — desktop use |
 | [`sitelen-kalama-pona.woff2`](fonts/sitelen-kalama-pona.woff2) | WOFF2 | Sitelen Kalama Pona — web use |
-| [`sitelen-seli-kiwen.woff2`](fonts/sitelen-seli-kiwen.woff2) | WOFF2 | Sitelen Seli Kiwen — web use |
-| [`sitelen-seli-kiwen-asuki.woff2`](fonts/sitelen-seli-kiwen-asuki.woff2) | WOFF2 | Sitelen Seli Kiwen (asuki variant) |
+| (original repo) | - | [Sitelen Seli Kiwen](https://github.com/kreativekorp/sitelen-seli-kiwen) |
 
 ---
 
@@ -82,9 +81,11 @@ A phonetic abugida covering all 100 Toki Pona syllables. Each glyph is mapped to
 
 ## Sitelen Seli Kiwen
 
-A logographic font containing word symbols for Toki Pona vocabulary. Glyphs are encoded in the ConScript Unicode Registry (CSUR) range at F19xx codepoints.
+A logographic font containing word symbols for Toki Pona vocabulary. Created by [KreativeKorp](https://github.com/kreativekorp).
 
-Individual word glyphs are in [`sitelen_seli_kiwen_svgs/`](sitelen_seli_kiwen_svgs/) as standalone SVG files.
+- [Original Repository & Downloads](https://github.com/kreativekorp/sitelen-seli-kiwen)
+
+Individual word glyphs are in [`sitelen_seli_kiwen_svgs/`](sitelen_seli_kiwen_svgs/) as standalone SVG files for use in generating composite SVGs.
 
 ---
 

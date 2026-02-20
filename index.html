@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sitelen - Toki Pona Fonts</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --bg: #f8fafc;
+            --text: #1e293b;
+        }
+        body { font-family: system-ui, -apple-system, sans-serif; line-height: 1.6; color: var(--text); background: var(--bg); margin: 0; padding: 0; }
+        .container { max-width: 900px; margin: 0 auto; padding: 2rem; }
+        header { border-bottom: 2px solid #e2e8f0; margin-bottom: 2rem; padding-bottom: 1rem; }
+        h1 { margin: 0; color: #0f172a; }
+        .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
+        .card { background: white; padding: 1.5rem; border-radius: 12px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); }
+        .card h2 { margin-top: 0; font-size: 1.25rem; color: #1e293b; }
+        .download-btn { display: inline-block; background: var(--primary); color: white; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; font-weight: bold; margin-top: 1rem; transition: background 0.2s; }
+        .download-btn:hover { background: #1d4ed8; }
+        .gallery-link { display: block; margin-top: 2rem; text-align: center; color: var(--primary); font-weight: bold; text-decoration: none; font-size: 1.2rem; }
+        .gallery-link:hover { text-decoration: underline; }
+        footer { margin-top: 4rem; text-align: center; font-size: 0.9rem; color: #64748b; }
+        code { background: #f1f5f9; padding: 0.2rem 0.4rem; border-radius: 4px; font-family: monospace; }
+        @media (max-width: 640px) { .grid { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Sitelen — Toki Pona Fonts</h1>
+            <p>Phonetic and logographic font systems for the minimalist language.</p>
+        </header>
+
+        <div class="grid">
+            <div class="card">
+                <h2>Sitelen Kalama Pona</h2>
+                <p>A phonetic abugida covering all 100 Toki Pona syllables.</p>
+                <a href="fonts/sitelen-kalama-pona.otf" class="download-btn">Download OTF (Desktop)</a>
+                <a href="fonts/sitelen-kalama-pona.woff2" class="download-btn">Download WOFF2 (Web)</a>
+            </div>
+            <div class="card">
+                <h2>Sitelen Seli Kiwen</h2>
+                <p>A word symbol font containing logographs for Toki Pona vocabulary. Created by <a href="https://github.com/kreativekorp">KreativeKorp</a>.</p>
+                <a href="https://github.com/kreativekorp/sitelen-seli-kiwen" class="download-btn">Visit Original Repository</a>
+            </div>
+        </div>
+
+        <a href="gallery.html" class="gallery-link">🎨 View SVG Glyphs Gallery</a>
+
+        <section style="margin-top: 3rem;">
+            <h2>Web Usage</h2>
+            <p>You can use these fonts on your website by including the following CSS:</p>
+            <pre style="background: #1e293b; color: #f8fafc; padding: 1rem; border-radius: 8px; overflow-x: auto;">
+@font-face {
+    font-family: 'Sitelen Kalama Pona';
+    src: url('fonts/sitelen-kalama-pona.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Sitelen Seli Kiwen';
+    src: url('fonts/sitelen-seli-kiwen.woff2') format('woff2');
+}</pre>
+        </section>
+
+        <footer>
+            <p>&copy; 2026 Immanuelle. Licensed under the <a href="LICENSE">SIL Open Font License 1.1</a>.</p>
+            <p><a href="https://github.com/Emma-Leonhart/Sitelen">GitHub Repository</a></p>
+        </footer>
+    </div>
+</body>
+</html>

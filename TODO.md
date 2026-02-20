@@ -22,22 +22,10 @@ The goal is a fully automated GitHub Actions pipeline that:
 
 ### Implementation Steps
 
-- [ ] **`scripts/fetch_wikidata_sparql.py`** — Replace Wikipedia API fetch with a Wikidata
-      SPARQL query. Query: all `?item` where `?item rdfs:label ?label` and `LANG(?label) = "tok"`.
-      Output a CSV with `(qid, label)` pairs to `data/wikidata_tok_labels.csv`.
-
-- [ ] **`scripts/generate_pipeline.py`** (or extend `batch_generate_svgs.py`) — Drive the full
-      pipeline: read the SPARQL CSV, generate an SVG for each label via
-      `generate_sitelen_kalama_pona.generate()`, write it to `output/`.
-
-- [ ] **`scripts/generate_quickstatements.py`** — For each generated SVG that was uploaded to
-      Commons, emit a QuickStatements batch (tab-separated) to add `P18` on the Wikidata item.
-      Format: `Q12345\tP18\t"Sitelen kalama pona - foo bar.svg"`.
-
-- [ ] **`.github/workflows/generate-svgs.yml`** — GitHub Actions workflow:
-  - Trigger: `push` to `main` and `schedule` (weekly, e.g. every Sunday 00:00 UTC)
-  - Steps: checkout, install Python deps (`fonttools`, `requests`), run SPARQL fetch,
-    run batch SVG generation, commit & push any new output files, upload artifacts
+- [x] **`scripts/fetch_wikidata_sparql.py`** — Replaced SPARQL with more reliable Wikidata Search API (CirrusSearch) to avoid timeouts.
+- [x] **`.github/workflows/generate-svgs.yml`** — Updated with correct branch and dependencies.
+- [x] **Landing Page** — Added `index.html` and `gallery.html` for downloads and SVG viewing.
+- [x] **Attribution** — Corrected font attribution and linked to original Sitelen Seli Kiwen repository.
 
 - [ ] **License headers** — Add OFL license header to generated SVG files and Commons pages
 
