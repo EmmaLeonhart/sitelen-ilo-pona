@@ -2,8 +2,8 @@ import os
 import re
 import glob
 
-SFDIR = os.path.join(os.path.dirname(__file__), '..sfdir')
-OUTDIR = os.path.join(os.path.dirname(__file__), 'uniform_syllables')
+SFDIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), '..sfdir')
+OUTDIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'uniform_syllables')
 
 ASCENT = 800  # from font.props
 

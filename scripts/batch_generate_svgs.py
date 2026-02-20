@@ -14,10 +14,11 @@ from pathlib import Path
 from generate_sitelen_kalama_pona import generate
 
 SCRIPT_DIR = Path(__file__).parent
+ROOT_DIR = SCRIPT_DIR.parent
 
 
 def main():
-    names_file = SCRIPT_DIR / 'wikidata_toki_pona_names.txt'
+    names_file = ROOT_DIR / 'data' / 'wikidata_toki_pona_names.txt'
     if not names_file.exists():
         print(f'Missing {names_file} - run process_wikidata_toki_pona.py first',
               file=sys.stderr)

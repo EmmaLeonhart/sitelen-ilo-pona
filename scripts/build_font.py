@@ -18,7 +18,8 @@ from fontTools.fontBuilder import FontBuilder
 from fontTools.misc.psCharStrings import T2CharString
 
 SCRIPT_DIR = Path(__file__).parent
-SFDIR = SCRIPT_DIR / '..sfdir'
+ROOT_DIR = SCRIPT_DIR.parent
+SFDIR = ROOT_DIR / '..sfdir'
 
 ASCENT = 800
 DESCENT = 200
@@ -199,14 +200,14 @@ def main():
     })
     fb.setupPost()
 
-    otf_path = SCRIPT_DIR / 'sitelen-kalama-pona.otf'
+    otf_path = ROOT_DIR / 'fonts' / 'sitelen-kalama-pona.otf'
     fb.font.save(str(otf_path))
     print(f'\nWrote {otf_path}')
 
     # Also save as woff2
     try:
         fb.font.flavor = 'woff2'
-        woff2_path = SCRIPT_DIR / 'sitelen-kalama-pona.woff2'
+        woff2_path = ROOT_DIR / 'fonts' / 'sitelen-kalama-pona.woff2'
         fb.font.save(str(woff2_path))
         print(f'Wrote {woff2_path}')
     except Exception as exc:

@@ -24,8 +24,9 @@ if sys.stdout and hasattr(sys.stdout, 'buffer'):
         pass
 
 SCRIPT_DIR = Path(__file__).parent
-SYLLABLES_DIR = SCRIPT_DIR / 'uniform_syllables'
-WORD_SVGS_DIR = SCRIPT_DIR / 'sitelen_seli_kiwen_svgs'
+ROOT_DIR = SCRIPT_DIR.parent
+SYLLABLES_DIR = ROOT_DIR / 'uniform_syllables'
+WORD_SVGS_DIR = ROOT_DIR / 'sitelen_seli_kiwen_svgs'
 
 # Special Commons filenames that don't follow the standard pattern
 SPECIAL_COMMONS = {
@@ -35,7 +36,7 @@ SPECIAL_COMMONS = {
 CONSONANTS = set('mnptkwjls')
 TARGET_HEIGHT = 1000
 SPACING = 80
-CARTOUCHE_SVG = SCRIPT_DIR / 'Jan_Sinpo_We_(Jimbo_Wales_in_Sitelen_Pona).svg'
+CARTOUCHE_SVG = ROOT_DIR / 'Jan_Sinpo_We_(Jimbo_Wales_in_Sitelen_Pona).svg'
 
 
 def get_available_compounds():
@@ -673,7 +674,7 @@ def generate(text):
     svg_parts.append('</svg>')
     svg_content = '\n'.join(svg_parts) + '\n'
 
-    output_dir = SCRIPT_DIR / 'output'
+    output_dir = ROOT_DIR / 'output'
     output_dir.mkdir(exist_ok=True)
     output_name = f'sitelen kalama pona - {safe_filename(text)}.svg'
     output_path = output_dir / output_name
