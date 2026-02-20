@@ -6,6 +6,10 @@
 - [x] Add `README.md` with download links, install instructions, and codepoint table
 - [x] Add OFL-1.1 open source license
 
+## Urgent
+
+Oh sitelen seli kiwen is not a part of this project. Here’s the source for it https://github.com/kreativekorp/sitelen-seli-kiwen link it instead of having it downloadable on ohr repo. It is just used for generating svgs in our workflow. Don’t want to seem like I’m taking credit for something I’m not.
+
 ## Planned: Automated Wikidata Pipeline
 
 The goal is a fully automated GitHub Actions pipeline that:
