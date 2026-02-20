@@ -12,7 +12,8 @@ import sys
 from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).parent
-WORD_SVGS_DIR = SCRIPT_DIR / 'sitelen_seli_kiwen_svgs'
+ROOT_DIR = SCRIPT_DIR.parent
+WORD_SVGS_DIR = ROOT_DIR / 'sitelen_seli_kiwen_svgs'
 
 
 def get_known_words():
@@ -43,8 +44,8 @@ def is_processable(title, known_words):
 
 
 def main():
-    src = SCRIPT_DIR / 'wikidata_toki_pona.csv'
-    out_names = SCRIPT_DIR / 'wikidata_toki_pona_names.txt'
+    src = ROOT_DIR / 'data' / 'wikidata_toki_pona.csv'
+    out_names = ROOT_DIR / 'data' / 'wikidata_toki_pona_names.txt'
 
     if not src.exists():
         print(f'Missing input: {src}', file=sys.stderr)

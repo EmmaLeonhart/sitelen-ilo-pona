@@ -14,8 +14,9 @@ import uharfbuzz as hb
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 SCRIPT_DIR = Path(__file__).parent
-FONT_PATH = SCRIPT_DIR / 'sitelen-seli-kiwen.woff2'
-OUTPUT_DIR = SCRIPT_DIR / 'sitelen_seli_kiwen_svgs'
+ROOT_DIR = SCRIPT_DIR.parent
+FONT_PATH = ROOT_DIR / 'fonts' / 'sitelen-seli-kiwen.woff2'
+OUTPUT_DIR = ROOT_DIR / 'sitelen_seli_kiwen_svgs'
 
 # Word -> F19xx codepoint
 WORDS = {

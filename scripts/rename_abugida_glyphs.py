@@ -1,7 +1,7 @@
 import os
 import glob
 
-SFDIR = os.path.join(os.path.dirname(__file__), '..sfdir')
+SFDIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), '..sfdir')
 
 consonants = ['x', 'm', 'n', 'p', 't', 'k', 'w', 'j', 'l', 's']
 vowels = ['a', 'an', 'e', 'en', 'i', 'in', 'o', 'on', 'u', 'un']

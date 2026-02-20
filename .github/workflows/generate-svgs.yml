@@ -1,0 +1,63 @@
+name: Generate Sitelen SVGs
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Every Sunday at 00:00 UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install fonttools requests
+
+      - name: Fetch Wikidata items with Toki Pona labels (SPARQL)
+        run: python scripts/fetch_wikidata_sparql.py
+
+      - name: Generate SVG images
+        run: python scripts/batch_generate_svgs.py
+
+      - name: Generate QuickStatements
+        run: python scripts/generate_quickstatements.py
+
+      - name: Commit and push new outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/ data/
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Auto-generate sitelen SVGs from Wikidata [skip ci]"
+          git push
+
+      - name: Upload SVG artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: sitelen-svgs
+          path: output/
+          retention-days: 30
+
+      - name: Upload QuickStatements
+        uses: actions/upload-artifact@v4
+        with:
+          name: quickstatements
+          path: data/quickstatements.txt
+          retention-days: 30
+          if-no-files-found: warn

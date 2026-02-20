@@ -38,7 +38,7 @@ def fetch_all_pages():
 
 
 def main():
-    out_path = Path(__file__).parent / "wikidata_toki_pona.csv"
+    out_path = Path(__file__).parent.parent / "data" / "wikidata_toki_pona.csv"
 
     print("Fetching all pages from tok.wikipedia.org...")
     pages = fetch_all_pages()
