@@ -1,0 +1,19 @@
+Representation of "musi Supekalipasilisikepijalisosi" in sitelen kalama pona.
+Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; pe: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pe.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; ke: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ke.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; so: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_so.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing musi]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol Pe]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol Pa]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Ke]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol Ja]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol So]]
+[[Category:Toki Pona text containing sound symbol Si]]

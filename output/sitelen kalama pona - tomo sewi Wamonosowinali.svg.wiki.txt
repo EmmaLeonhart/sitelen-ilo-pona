@@ -1,0 +1,12 @@
+Representation of "tomo sewi Wamonosowinali" in sitelen kalama pona.
+Sources: tomo-sewi: https://commons.wikimedia.org/wiki/File:Tomo_sewi_old.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg; mo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mo.svg; no: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_no.svg; so: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_so.svg; wi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wi.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo sewi]]
+[[Category:Toki Pona text containing sound symbol Wa]]
+[[Category:Toki Pona text containing sound symbol Mo]]
+[[Category:Toki Pona text containing sound symbol No]]
+[[Category:Toki Pona text containing sound symbol So]]
+[[Category:Toki Pona text containing sound symbol Wi]]
+[[Category:Toki Pona text containing sound symbol Na]]
+[[Category:Toki Pona text containing sound symbol Li]]

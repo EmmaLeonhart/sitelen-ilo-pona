@@ -1,0 +1,17 @@
+Representation of "tomo sewi Tukijomi en tomo sewi Kasiman" in sitelen kalama pona.
+Sources: tomo-sewi: https://commons.wikimedia.org/wiki/File:Tomo_sewi_old.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tu.svg; ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg; jo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jo.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xen.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg; mo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mo.svg; se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg; wi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wi.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; man: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_man.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo sewi]]
+[[Category:Toki Pona text containing sound symbol Tu]]
+[[Category:Toki Pona text containing sound symbol Ki]]
+[[Category:Toki Pona text containing sound symbol Jo]]
+[[Category:Toki Pona text containing sound symbol Mi]]
+[[Category:Toki Pona text containing sound symbol En]]
+[[Category:Toki Pona text containing sound symbol To]]
+[[Category:Toki Pona text containing sound symbol Mo]]
+[[Category:Toki Pona text containing sound symbol Se]]
+[[Category:Toki Pona text containing sound symbol Wi]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Man]]

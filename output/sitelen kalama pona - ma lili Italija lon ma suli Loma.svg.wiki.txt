@@ -1,0 +1,15 @@
+Representation of "ma lili Italija lon ma suli Loma" in sitelen kalama pona.
+Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lon.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; lo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lo.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma lili]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol Ta]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol Ja]]
+[[Category:Toki Pona text containing sound symbol Lon]]
+[[Category:Toki Pona text containing sound symbol Ma]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol Lo]]
+[[Category:Toki Pona text containing sound symbol Ma]]

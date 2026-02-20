@@ -1,0 +1,5 @@
+Representation of "toki pona ligatures" in sitelen kalama pona.
+Sources: toki-pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki-pona.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki pona ligatures]]

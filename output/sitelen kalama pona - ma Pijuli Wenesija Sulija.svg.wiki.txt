@@ -1,0 +1,15 @@
+Representation of "ma Pijuli Wenesija Sulija" in sitelen kalama pona.
+Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; ju: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ju.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; we: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_we.svg; ne: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ne.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol Ju]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol We]]
+[[Category:Toki Pona text containing sound symbol Ne]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Ja]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol Ja]]

@@ -1,0 +1,12 @@
+Representation of "jan Pansisije Lanika" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pan.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; je: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_je.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ni.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol Pan]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Je]]
+[[Category:Toki Pona text containing sound symbol La]]
+[[Category:Toki Pona text containing sound symbol Ni]]
+[[Category:Toki Pona text containing sound symbol Ka]]

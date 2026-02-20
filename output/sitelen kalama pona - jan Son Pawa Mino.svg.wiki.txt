@@ -1,0 +1,10 @@
+Representation of "jan Son Pawa Mino" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; son: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_son.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg; no: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_no.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol Son]]
+[[Category:Toki Pona text containing sound symbol Pa]]
+[[Category:Toki Pona text containing sound symbol Wa]]
+[[Category:Toki Pona text containing sound symbol Mi]]
+[[Category:Toki Pona text containing sound symbol No]]

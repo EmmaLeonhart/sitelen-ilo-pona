@@ -1,0 +1,8 @@
+Representation of "ma tomo Punponten" in sitelen kalama pona.
+Sources: ma-tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-tomo.svg; pun: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pun.svg; pon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pon.svg; ten: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ten.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma tomo]]
+[[Category:Toki Pona text containing sound symbol Pun]]
+[[Category:Toki Pona text containing sound symbol Pon]]
+[[Category:Toki Pona text containing sound symbol Ten]]

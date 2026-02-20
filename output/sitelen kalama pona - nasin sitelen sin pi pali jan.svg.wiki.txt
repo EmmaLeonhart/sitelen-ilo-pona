@@ -1,0 +1,5 @@
+Representation of "nasin sitelen sin pi pali jan" in sitelen kalama pona.
+Sources: nasin-sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin-sitelen.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sin.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pali: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pali.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nasin sitelen sin pi pali jan]]

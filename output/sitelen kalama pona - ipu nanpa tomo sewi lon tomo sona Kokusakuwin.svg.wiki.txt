@@ -1,0 +1,10 @@
+Representation of "ipu nanpa tomo sewi lon tomo sona Kokusakuwin" in sitelen kalama pona.
+Sources: nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; tomo-sewi: https://commons.wikimedia.org/wiki/File:Tomo_sewi_old.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; tomo-sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo-sona.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg; sa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sa.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg; win: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_win.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ipu nanpa tomo sewi lon tomo sona]]
+[[Category:Toki Pona text containing sound symbol Ko]]
+[[Category:Toki Pona text containing sound symbol Ku]]
+[[Category:Toki Pona text containing sound symbol Sa]]
+[[Category:Toki Pona text containing sound symbol Ku]]
+[[Category:Toki Pona text containing sound symbol Win]]

@@ -1,0 +1,8 @@
+Representation of "toki Populi" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg; pu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pu.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki]]
+[[Category:Toki Pona text containing sound symbol Po]]
+[[Category:Toki Pona text containing sound symbol Pu]]
+[[Category:Toki Pona text containing sound symbol Li]]

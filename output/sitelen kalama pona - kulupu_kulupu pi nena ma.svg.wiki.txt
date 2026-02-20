@@ -1,0 +1,5 @@
+Representation of "kulupu:kulupu pi nena ma" in sitelen kalama pona.
+Sources: pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; nena: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nena.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:kulupu pi nena ma]]

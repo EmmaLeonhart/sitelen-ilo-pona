@@ -1,0 +1,5 @@
+Representation of "nasin tenpo pi pali nanpa" in sitelen kalama pona.
+Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pali: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pali.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nasin tenpo pi pali nanpa]]

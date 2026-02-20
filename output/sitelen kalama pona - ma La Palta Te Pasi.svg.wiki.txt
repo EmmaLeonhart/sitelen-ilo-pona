@@ -1,0 +1,12 @@
+Representation of "ma La Palta Te Pasi" in sitelen kalama pona.
+Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma]]
+[[Category:Toki Pona text containing sound symbol La]]
+[[Category:Toki Pona text containing sound symbol Pa]]
+[[Category:Toki Pona text containing sound symbol L]]
+[[Category:Toki Pona text containing sound symbol Ta]]
+[[Category:Toki Pona text containing sound symbol Te]]
+[[Category:Toki Pona text containing sound symbol Pa]]
+[[Category:Toki Pona text containing sound symbol Si]]

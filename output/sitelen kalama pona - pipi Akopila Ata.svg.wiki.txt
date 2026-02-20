@@ -1,0 +1,11 @@
+Representation of "pipi Akopila Ata" in sitelen kalama pona.
+Sources: pipi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pipi.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing pipi]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Ko]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol La]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Ta]]

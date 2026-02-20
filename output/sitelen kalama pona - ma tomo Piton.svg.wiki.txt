@@ -1,0 +1,7 @@
+Representation of "ma tomo Piton" in sitelen kalama pona.
+Sources: ma-tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-tomo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; ton: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ton.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma tomo]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol Ton]]

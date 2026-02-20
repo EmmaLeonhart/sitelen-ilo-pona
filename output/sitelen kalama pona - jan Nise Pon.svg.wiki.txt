@@ -1,0 +1,8 @@
+Representation of "jan Nise Pon" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ni.svg; se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg; pon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pon.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol Ni]]
+[[Category:Toki Pona text containing sound symbol Se]]
+[[Category:Toki Pona text containing sound symbol Pon]]

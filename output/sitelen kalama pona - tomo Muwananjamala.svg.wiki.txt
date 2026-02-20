@@ -1,0 +1,11 @@
+Representation of "tomo Muwananjamala" in sitelen kalama pona.
+Sources: tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; mu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mu.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg; nan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nan.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo]]
+[[Category:Toki Pona text containing sound symbol Mu]]
+[[Category:Toki Pona text containing sound symbol Wa]]
+[[Category:Toki Pona text containing sound symbol Nan]]
+[[Category:Toki Pona text containing sound symbol Ja]]
+[[Category:Toki Pona text containing sound symbol Ma]]
+[[Category:Toki Pona text containing sound symbol La]]

@@ -1,0 +1,8 @@
+Representation of "tomo sewi suli Mijosin" in sitelen kalama pona.
+Sources: tomo-sewi: https://commons.wikimedia.org/wiki/File:Tomo_sewi_old.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg; jo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jo.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sin.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo sewi suli]]
+[[Category:Toki Pona text containing sound symbol Mi]]
+[[Category:Toki Pona text containing sound symbol Jo]]
+[[Category:Toki Pona text containing sound symbol Sin]]

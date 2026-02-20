@@ -1,0 +1,8 @@
+Representation of "tomo sewi suli Kijosu" in sitelen kalama pona.
+Sources: tomo-sewi: https://commons.wikimedia.org/wiki/File:Tomo_sewi_old.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg; jo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jo.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo sewi suli]]
+[[Category:Toki Pona text containing sound symbol Ki]]
+[[Category:Toki Pona text containing sound symbol Jo]]
+[[Category:Toki Pona text containing sound symbol Su]]

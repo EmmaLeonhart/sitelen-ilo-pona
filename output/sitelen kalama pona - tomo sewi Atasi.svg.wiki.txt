@@ -1,0 +1,8 @@
+Representation of "tomo sewi Atasi" in sitelen kalama pona.
+Sources: tomo-sewi: https://commons.wikimedia.org/wiki/File:Tomo_sewi_old.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo sewi]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Ta]]
+[[Category:Toki Pona text containing sound symbol Si]]

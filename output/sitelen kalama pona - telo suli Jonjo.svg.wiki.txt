@@ -1,0 +1,7 @@
+Representation of "telo suli Jonjo" in sitelen kalama pona.
+Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; jon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jon.svg; jo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jo.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing telo suli]]
+[[Category:Toki Pona text containing sound symbol Jon]]
+[[Category:Toki Pona text containing sound symbol Jo]]

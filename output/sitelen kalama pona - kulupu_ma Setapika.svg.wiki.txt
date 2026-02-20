@@ -1,0 +1,9 @@
+Representation of "kulupu:ma Setapika" in sitelen kalama pona.
+Sources: se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:ma]]
+[[Category:Toki Pona text containing sound symbol Se]]
+[[Category:Toki Pona text containing sound symbol Ta]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol Ka]]

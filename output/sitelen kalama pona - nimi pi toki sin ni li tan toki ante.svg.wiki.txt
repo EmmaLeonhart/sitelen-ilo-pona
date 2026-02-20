@@ -1,0 +1,5 @@
+Representation of "nimi pi toki sin ni li tan toki ante" in sitelen kalama pona.
+Sources: nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; toki-sin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki-sin.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ni.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; ante: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ante.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nimi pi toki sin ni li tan toki ante]]

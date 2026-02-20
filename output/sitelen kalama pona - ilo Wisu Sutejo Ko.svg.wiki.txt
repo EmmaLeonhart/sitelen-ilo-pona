@@ -1,0 +1,11 @@
+Representation of "ilo Wisu Sutejo Ko" in sitelen kalama pona.
+Sources: ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; wi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wi.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg; jo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jo.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ilo]]
+[[Category:Toki Pona text containing sound symbol Wi]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol Te]]
+[[Category:Toki Pona text containing sound symbol Jo]]
+[[Category:Toki Pona text containing sound symbol Ko]]

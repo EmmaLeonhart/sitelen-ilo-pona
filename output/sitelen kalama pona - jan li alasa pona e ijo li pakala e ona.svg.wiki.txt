@@ -1,0 +1,5 @@
+Representation of "jan li alasa pona e ijo li pakala e ona" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; alasa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_alasa.svg; pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pona.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; ijo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; pakala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pakala.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; ona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ona.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan li alasa pona e ijo li pakala e ona]]

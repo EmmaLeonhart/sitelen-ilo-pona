@@ -1,0 +1,8 @@
+Representation of "ma tomo Akila" in sitelen kalama pona.
+Sources: ma-tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-tomo.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma tomo]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Ki]]
+[[Category:Toki Pona text containing sound symbol La]]

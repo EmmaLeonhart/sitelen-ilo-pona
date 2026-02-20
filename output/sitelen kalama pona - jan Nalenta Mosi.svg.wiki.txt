@@ -1,0 +1,10 @@
+Representation of "jan Nalenta Mosi" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg; len: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_len.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; mo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mo.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol Na]]
+[[Category:Toki Pona text containing sound symbol Len]]
+[[Category:Toki Pona text containing sound symbol Ta]]
+[[Category:Toki Pona text containing sound symbol Mo]]
+[[Category:Toki Pona text containing sound symbol Si]]

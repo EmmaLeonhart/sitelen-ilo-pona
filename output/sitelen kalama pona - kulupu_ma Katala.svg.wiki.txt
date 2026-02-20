@@ -1,0 +1,8 @@
+Representation of "kulupu:ma Katala" in sitelen kalama pona.
+Sources: ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:ma]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Ta]]
+[[Category:Toki Pona text containing sound symbol La]]

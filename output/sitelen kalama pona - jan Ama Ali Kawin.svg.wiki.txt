@@ -1,0 +1,11 @@
+Representation of "jan Ama Ali Kawin" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; win: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_win.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Ma]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Win]]

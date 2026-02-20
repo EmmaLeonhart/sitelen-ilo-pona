@@ -1,0 +1,8 @@
+Representation of "toki Lumansi" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; lu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lu.svg; man: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_man.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki]]
+[[Category:Toki Pona text containing sound symbol Lu]]
+[[Category:Toki Pona text containing sound symbol Man]]
+[[Category:Toki Pona text containing sound symbol Si]]

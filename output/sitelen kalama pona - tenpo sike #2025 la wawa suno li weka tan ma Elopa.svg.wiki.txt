@@ -1,0 +1,8 @@
+Representation of "tenpo sike #2025 la wawa suno li weka tan ma Elopa" in sitelen kalama pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_la.svg; wawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wawa.svg; suno: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suno.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; weka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_weka.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xe.svg; lo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lo.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tenpo sike #2025 la wawa suno li weka tan ma]]
+[[Category:Toki Pona text containing sound symbol E]]
+[[Category:Toki Pona text containing sound symbol Lo]]
+[[Category:Toki Pona text containing sound symbol Pa]]

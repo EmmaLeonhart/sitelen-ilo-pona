@@ -1,0 +1,11 @@
+Representation of "jan Katun Amupala" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tu.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg; mu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mu.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Tu]]
+[[Category:Toki Pona text containing sound symbol Na]]
+[[Category:Toki Pona text containing sound symbol Mu]]
+[[Category:Toki Pona text containing sound symbol Pa]]
+[[Category:Toki Pona text containing sound symbol La]]

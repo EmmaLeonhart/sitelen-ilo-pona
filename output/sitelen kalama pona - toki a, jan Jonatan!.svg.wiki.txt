@@ -1,0 +1,8 @@
+Representation of "toki a, jan Jonatan!" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; jo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jo.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki a, jan]]
+[[Category:Toki Pona text containing sound symbol Jo]]
+[[Category:Toki Pona text containing sound symbol Na]]
+[[Category:Toki Pona text containing sound symbol Tan]]

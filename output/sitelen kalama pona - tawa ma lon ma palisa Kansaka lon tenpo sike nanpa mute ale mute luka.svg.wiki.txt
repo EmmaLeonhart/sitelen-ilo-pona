@@ -1,0 +1,23 @@
+Representation of "tawa ma lon ma palisa Kansaka lon tenpo sike nanpa mute ale mute luka" in sitelen kalama pona.
+Sources: tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; palisa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_palisa.svg; kan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kan.svg; sa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sa.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lon.svg; ten: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ten.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; ke: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ke.svg; nan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nan.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; mu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mu.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; le: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_le.svg; mu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mu.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg; lu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lu.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tawa ma lon ma palisa]]
+[[Category:Toki Pona text containing sound symbol Kan]]
+[[Category:Toki Pona text containing sound symbol Sa]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Lon]]
+[[Category:Toki Pona text containing sound symbol Ten]]
+[[Category:Toki Pona text containing sound symbol Po]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Ke]]
+[[Category:Toki Pona text containing sound symbol Nan]]
+[[Category:Toki Pona text containing sound symbol Pa]]
+[[Category:Toki Pona text containing sound symbol Mu]]
+[[Category:Toki Pona text containing sound symbol Te]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Le]]
+[[Category:Toki Pona text containing sound symbol Mu]]
+[[Category:Toki Pona text containing sound symbol Te]]
+[[Category:Toki Pona text containing sound symbol Lu]]
+[[Category:Toki Pona text containing sound symbol Ka]]

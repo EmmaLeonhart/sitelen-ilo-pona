@@ -1,0 +1,5 @@
+Representation of "nasin pali pi ijo lili" in sitelen kalama pona.
+Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; pali: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pali.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ijo-lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-lili.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nasin pali pi ijo lili]]

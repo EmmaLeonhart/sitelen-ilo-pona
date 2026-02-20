@@ -1,0 +1,17 @@
+Representation of "tomo Usu Santuwalijun pi ilo tawa" in sitelen kalama pona.
+Sources: tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; u: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xu.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; san: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_san.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tu.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; jun: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jun.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; lo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lo.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo]]
+[[Category:Toki Pona text containing sound symbol U]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol San]]
+[[Category:Toki Pona text containing sound symbol Tu]]
+[[Category:Toki Pona text containing sound symbol Wa]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol Jun]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol Lo]]
+[[Category:Toki Pona text containing sound symbol Ta]]
+[[Category:Toki Pona text containing sound symbol Wa]]

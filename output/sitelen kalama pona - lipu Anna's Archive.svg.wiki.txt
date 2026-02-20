@@ -1,0 +1,10 @@
+Representation of "lipu Anna's Archive" in sitelen kalama pona.
+Sources: lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; an: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xan.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg; sa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sa.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xe.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing lipu]]
+[[Category:Toki Pona text containing sound symbol An]]
+[[Category:Toki Pona text containing sound symbol Na]]
+[[Category:Toki Pona text containing sound symbol Sa]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol E]]

@@ -1,0 +1,7 @@
+Representation of "toki luka Anku" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; luka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_luka.svg; an: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xan.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki luka]]
+[[Category:Toki Pona text containing sound symbol An]]
+[[Category:Toki Pona text containing sound symbol Ku]]

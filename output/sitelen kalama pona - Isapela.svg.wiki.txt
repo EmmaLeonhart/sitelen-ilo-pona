@@ -1,0 +1,8 @@
+Representation of "Isapela" in sitelen kalama pona.
+Sources: i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; sa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sa.svg; pe: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pe.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol Sa]]
+[[Category:Toki Pona text containing sound symbol Pe]]
+[[Category:Toki Pona text containing sound symbol La]]

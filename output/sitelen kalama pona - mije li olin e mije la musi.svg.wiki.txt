@@ -1,0 +1,5 @@
+Representation of "mije li olin e mije la musi" in sitelen kalama pona.
+Sources: mije: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mije.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; olin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_olin.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; mije: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mije.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_la.svg; musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing mije li olin e mije la musi]]

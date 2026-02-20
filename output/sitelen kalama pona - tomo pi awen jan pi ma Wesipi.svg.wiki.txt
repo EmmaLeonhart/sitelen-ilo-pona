@@ -1,0 +1,8 @@
+Representation of "tomo pi awen jan pi ma Wesipi" in sitelen kalama pona.
+Sources: tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; awen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_awen.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; we: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_we.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo pi awen jan pi ma]]
+[[Category:Toki Pona text containing sound symbol We]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Pi]]

@@ -1,0 +1,5 @@
+Representation of "kulupu:kulupu jan nanpa wan" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:kulupu jan nanpa wan]]

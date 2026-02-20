@@ -1,0 +1,7 @@
+Representation of "kulupu:jan pi ilo Jutu" in sitelen kalama pona.
+Sources: pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; ju: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ju.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:jan pi ilo]]
+[[Category:Toki Pona text containing sound symbol Ju]]
+[[Category:Toki Pona text containing sound symbol Tu]]

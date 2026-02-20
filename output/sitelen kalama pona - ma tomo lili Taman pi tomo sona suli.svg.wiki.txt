@@ -1,0 +1,14 @@
+Representation of "ma tomo lili Taman pi tomo sona suli" in sitelen kalama pona.
+Sources: ma-tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-tomo.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; man: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_man.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg; mo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mo.svg; so: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_so.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma tomo lili]]
+[[Category:Toki Pona text containing sound symbol Ta]]
+[[Category:Toki Pona text containing sound symbol Man]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol To]]
+[[Category:Toki Pona text containing sound symbol Mo]]
+[[Category:Toki Pona text containing sound symbol So]]
+[[Category:Toki Pona text containing sound symbol Na]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol Li]]

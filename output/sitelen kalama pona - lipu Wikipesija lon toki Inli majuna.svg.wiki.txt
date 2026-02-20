@@ -1,0 +1,18 @@
+Representation of "lipu Wikipesija lon toki Inli majuna" in sitelen kalama pona.
+Sources: lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; wi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wi.svg; ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg; pe: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pe.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lon.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg; ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg; in: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xin.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; ju: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ju.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing lipu]]
+[[Category:Toki Pona text containing sound symbol Wi]]
+[[Category:Toki Pona text containing sound symbol Ki]]
+[[Category:Toki Pona text containing sound symbol Pe]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Ja]]
+[[Category:Toki Pona text containing sound symbol Lon]]
+[[Category:Toki Pona text containing sound symbol To]]
+[[Category:Toki Pona text containing sound symbol Ki]]
+[[Category:Toki Pona text containing sound symbol In]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol Ma]]
+[[Category:Toki Pona text containing sound symbol Ju]]
+[[Category:Toki Pona text containing sound symbol Na]]

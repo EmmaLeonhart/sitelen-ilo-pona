@@ -1,0 +1,7 @@
+Representation of "soweli pan pi ma Jewe" in sitelen kalama pona.
+Sources: soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg; pan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; je: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_je.svg; we: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_we.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing soweli pan pi ma]]
+[[Category:Toki Pona text containing sound symbol Je]]
+[[Category:Toki Pona text containing sound symbol We]]

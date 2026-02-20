@@ -1,0 +1,16 @@
+Representation of "jan Elisape nanpa wan pi ma Inli" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xe.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; sa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sa.svg; pe: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pe.svg; nan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nan.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; in: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xin.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol E]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol Sa]]
+[[Category:Toki Pona text containing sound symbol Pe]]
+[[Category:Toki Pona text containing sound symbol Nan]]
+[[Category:Toki Pona text containing sound symbol Pa]]
+[[Category:Toki Pona text containing sound symbol Wan]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol Ma]]
+[[Category:Toki Pona text containing sound symbol In]]
+[[Category:Toki Pona text containing sound symbol Li]]

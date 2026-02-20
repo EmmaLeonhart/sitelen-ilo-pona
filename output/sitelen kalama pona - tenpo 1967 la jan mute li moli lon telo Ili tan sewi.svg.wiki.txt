@@ -1,0 +1,10 @@
+Representation of "tenpo 1967 la jan mute li moli lon telo Ili tan sewi" in sitelen kalama pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_la.svg; jan-mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-mute.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; moli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moli.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tan.svg; se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg; wi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tenpo 1967 la jan mute li moli lon telo]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol Tan]]
+[[Category:Toki Pona text containing sound symbol Se]]
+[[Category:Toki Pona text containing sound symbol Wi]]

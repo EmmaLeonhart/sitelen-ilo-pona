@@ -1,0 +1,10 @@
+Representation of "toki luka Isijopija" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; luka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_luka.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; jo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki luka]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Jo]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol Ja]]

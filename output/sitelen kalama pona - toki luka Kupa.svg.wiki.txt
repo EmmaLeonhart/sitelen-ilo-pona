@@ -1,0 +1,7 @@
+Representation of "toki luka Kupa" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; luka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_luka.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki luka]]
+[[Category:Toki Pona text containing sound symbol Ku]]
+[[Category:Toki Pona text containing sound symbol Pa]]

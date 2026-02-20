@@ -1,0 +1,6 @@
+Representation of "Siwi" in sitelen kalama pona.
+Sources: si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; wi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Wi]]

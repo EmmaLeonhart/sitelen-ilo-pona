@@ -1,0 +1,8 @@
+Representation of "Ometepe" in sitelen kalama pona.
+Sources: o: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xo.svg; me: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_me.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg; pe: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pe.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sound symbol O]]
+[[Category:Toki Pona text containing sound symbol Me]]
+[[Category:Toki Pona text containing sound symbol Te]]
+[[Category:Toki Pona text containing sound symbol Pe]]

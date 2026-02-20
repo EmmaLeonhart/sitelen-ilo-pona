@@ -1,0 +1,10 @@
+Representation of "ma Kijukantusu" in sitelen kalama pona.
+Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg; ju: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ju.svg; kan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kan.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tu.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma]]
+[[Category:Toki Pona text containing sound symbol Ki]]
+[[Category:Toki Pona text containing sound symbol Ju]]
+[[Category:Toki Pona text containing sound symbol Kan]]
+[[Category:Toki Pona text containing sound symbol Tu]]
+[[Category:Toki Pona text containing sound symbol Su]]

@@ -1,0 +1,5 @@
+Representation of "ijo jo pi sona tan mama" in sitelen kalama pona.
+Sources: ijo-jo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-jo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg; mama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mama.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ijo jo pi sona tan mama]]

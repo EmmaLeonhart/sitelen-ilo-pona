@@ -1,0 +1,8 @@
+Representation of "ma tomo pi ma Pokasi" in sitelen kalama pona.
+Sources: ma-tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-tomo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma tomo pi ma]]
+[[Category:Toki Pona text containing sound symbol Po]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Si]]

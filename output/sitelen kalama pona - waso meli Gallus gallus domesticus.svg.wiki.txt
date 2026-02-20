@@ -1,0 +1,19 @@
+Representation of "waso meli Gallus gallus domesticus" in sitelen kalama pona.
+Sources: waso: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_waso.svg; meli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_meli.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; lu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lu.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; lu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lu.svg; o: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xo.svg; me: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_me.svg; ti: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ti.svg; u: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing waso meli]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol L]]
+[[Category:Toki Pona text containing sound symbol Lu]]
+[[Category:Toki Pona text containing sound symbol S]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol L]]
+[[Category:Toki Pona text containing sound symbol Lu]]
+[[Category:Toki Pona text containing sound symbol S]]
+[[Category:Toki Pona text containing sound symbol O]]
+[[Category:Toki Pona text containing sound symbol Me]]
+[[Category:Toki Pona text containing sound symbol S]]
+[[Category:Toki Pona text containing sound symbol Ti]]
+[[Category:Toki Pona text containing sound symbol U]]
+[[Category:Toki Pona text containing sound symbol S]]

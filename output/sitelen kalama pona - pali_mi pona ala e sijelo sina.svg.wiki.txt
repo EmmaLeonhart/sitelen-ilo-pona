@@ -1,0 +1,5 @@
+Representation of "pali:mi pona ala e sijelo sina" in sitelen kalama pona.
+Sources: pona-ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pona-ala.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg; sina: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sina.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing pali:mi pona ala e sijelo sina]]

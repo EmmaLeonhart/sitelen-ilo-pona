@@ -1,0 +1,5 @@
+Representation of "oko pi ale" in sitelen kalama pona.
+Sources: oko: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_oko.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ale.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing oko pi ale]]

@@ -1,0 +1,8 @@
+Representation of "tomo sewi Kasinten" in sitelen kalama pona.
+Sources: tomo-sewi: https://commons.wikimedia.org/wiki/File:Tomo_sewi_old.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sin.svg; ten: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ten.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo sewi]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Sin]]
+[[Category:Toki Pona text containing sound symbol Ten]]

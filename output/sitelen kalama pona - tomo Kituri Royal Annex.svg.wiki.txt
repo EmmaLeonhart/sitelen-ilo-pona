@@ -1,0 +1,12 @@
+Representation of "tomo Kituri Royal Annex" in sitelen kalama pona.
+Sources: tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tu.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; o: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xo.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; lan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lan.svg; ne: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ne.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo]]
+[[Category:Toki Pona text containing sound symbol Ki]]
+[[Category:Toki Pona text containing sound symbol Tu]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol O]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Lan]]
+[[Category:Toki Pona text containing sound symbol Ne]]

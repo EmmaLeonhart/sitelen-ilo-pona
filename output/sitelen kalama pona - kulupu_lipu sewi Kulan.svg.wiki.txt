@@ -1,0 +1,7 @@
+Representation of "kulupu:lipu sewi Kulan" in sitelen kalama pona.
+Sources: sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sewi.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg; lan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:lipu sewi]]
+[[Category:Toki Pona text containing sound symbol Ku]]
+[[Category:Toki Pona text containing sound symbol Lan]]

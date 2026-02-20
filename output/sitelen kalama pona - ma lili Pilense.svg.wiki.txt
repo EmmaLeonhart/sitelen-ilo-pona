@@ -1,0 +1,8 @@
+Representation of "ma lili Pilense" in sitelen kalama pona.
+Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; len: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_len.svg; se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma lili]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol Len]]
+[[Category:Toki Pona text containing sound symbol Se]]

@@ -1,0 +1,8 @@
+Representation of "ma kipisi Sanpilan" in sitelen kalama pona.
+Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; kipisi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kipisi.svg; san: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_san.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; lan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma kipisi]]
+[[Category:Toki Pona text containing sound symbol San]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol Lan]]

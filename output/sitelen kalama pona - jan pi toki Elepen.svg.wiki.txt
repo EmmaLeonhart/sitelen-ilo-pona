@@ -1,0 +1,8 @@
+Representation of "jan pi toki Elepen" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xe.svg; le: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_le.svg; pen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pen.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan pi toki]]
+[[Category:Toki Pona text containing sound symbol E]]
+[[Category:Toki Pona text containing sound symbol Le]]
+[[Category:Toki Pona text containing sound symbol Pen]]

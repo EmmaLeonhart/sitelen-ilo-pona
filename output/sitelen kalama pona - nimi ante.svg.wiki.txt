@@ -1,4 +1,5 @@
 Representation of "nimi ante" in sitelen kalama pona.
 Sources: nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg; ante: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ante.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing nimi ante]]

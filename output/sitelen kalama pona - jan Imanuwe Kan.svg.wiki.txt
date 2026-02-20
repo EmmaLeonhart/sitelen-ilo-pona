@@ -1,0 +1,10 @@
+Representation of "jan Imanuwe Kan" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; nu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nu.svg; we: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_we.svg; kan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol Ma]]
+[[Category:Toki Pona text containing sound symbol Nu]]
+[[Category:Toki Pona text containing sound symbol We]]
+[[Category:Toki Pona text containing sound symbol Kan]]

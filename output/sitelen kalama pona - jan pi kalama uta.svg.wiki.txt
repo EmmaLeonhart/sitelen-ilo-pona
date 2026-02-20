@@ -1,0 +1,5 @@
+Representation of "jan pi kalama uta" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kalama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama.svg; uta: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_uta.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan pi kalama uta]]

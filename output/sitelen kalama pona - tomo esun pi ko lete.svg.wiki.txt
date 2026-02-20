@@ -1,0 +1,5 @@
+Representation of "tomo esun pi ko lete" in sitelen kalama pona.
+Sources: tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; esun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_esun.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ko-lete: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ko-lete.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo esun pi ko lete]]

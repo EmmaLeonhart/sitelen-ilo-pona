@@ -1,0 +1,8 @@
+Representation of "toki Malana" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki]]
+[[Category:Toki Pona text containing sound symbol Ma]]
+[[Category:Toki Pona text containing sound symbol La]]
+[[Category:Toki Pona text containing sound symbol Na]]

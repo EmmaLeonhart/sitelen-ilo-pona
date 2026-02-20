@@ -1,0 +1,5 @@
+Representation of "telo pi jan suli" in sitelen kalama pona.
+Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; jan-suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-suli.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing telo pi jan suli]]

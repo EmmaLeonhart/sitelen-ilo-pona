@@ -1,0 +1,5 @@
+Representation of "kulupu:kulupu pi kule olin" in sitelen kalama pona.
+Sources: pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kule: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kule.svg; olin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_olin.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:kulupu pi kule olin]]

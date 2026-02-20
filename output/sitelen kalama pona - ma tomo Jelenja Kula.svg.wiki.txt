@@ -1,0 +1,10 @@
+Representation of "ma tomo Jelenja Kula" in sitelen kalama pona.
+Sources: ma-tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-tomo.svg; je: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_je.svg; len: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_len.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma tomo]]
+[[Category:Toki Pona text containing sound symbol Je]]
+[[Category:Toki Pona text containing sound symbol Len]]
+[[Category:Toki Pona text containing sound symbol Ja]]
+[[Category:Toki Pona text containing sound symbol Ku]]
+[[Category:Toki Pona text containing sound symbol La]]

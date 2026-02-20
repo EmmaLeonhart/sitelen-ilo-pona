@@ -1,0 +1,5 @@
+Representation of "jan pi kulupu pali sama" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; pali: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pali.svg; sama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sama.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan pi kulupu pali sama]]

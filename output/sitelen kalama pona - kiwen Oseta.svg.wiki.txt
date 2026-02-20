@@ -1,0 +1,8 @@
+Representation of "kiwen Oseta" in sitelen kalama pona.
+Sources: kiwen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen.svg; o: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xo.svg; se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kiwen]]
+[[Category:Toki Pona text containing sound symbol O]]
+[[Category:Toki Pona text containing sound symbol Se]]
+[[Category:Toki Pona text containing sound symbol Ta]]

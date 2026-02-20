@@ -1,0 +1,5 @@
+Representation of "tomo tawa supa mi pi lon sewi li jo e kala linja mute mute" in sitelen kalama pona.
+Sources: tomo-tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo-tawa.svg; supa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_supa.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sewi.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; jo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jo.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; kala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kala.svg; linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg; mute-mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mute-mute.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo tawa supa mi pi lon sewi li jo e kala linja mute mute]]

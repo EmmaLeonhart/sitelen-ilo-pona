@@ -1,0 +1,10 @@
+Representation of "lipu Phabricator" in sitelen kalama pona.
+Sources: lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing lipu]]
+[[Category:Toki Pona text containing sound symbol P]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol To]]

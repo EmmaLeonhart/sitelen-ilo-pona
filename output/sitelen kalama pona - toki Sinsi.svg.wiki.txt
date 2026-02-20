@@ -1,0 +1,7 @@
+Representation of "toki Sinsi" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sin.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki]]
+[[Category:Toki Pona text containing sound symbol Sin]]
+[[Category:Toki Pona text containing sound symbol Si]]

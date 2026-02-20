@@ -1,0 +1,5 @@
+Representation of "nimi #2 li ante e nimi #1" in sitelen kalama pona.
+Sources: nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; ante: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ante.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nimi #2 li ante e nimi #1]]

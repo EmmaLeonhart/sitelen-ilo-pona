@@ -1,0 +1,5 @@
+Representation of "linluwi pi ma tu" in sitelen kalama pona.
+Sources: pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing linluwi pi ma tu]]

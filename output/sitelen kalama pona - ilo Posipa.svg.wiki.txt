@@ -1,0 +1,8 @@
+Representation of "ilo Posipa" in sitelen kalama pona.
+Sources: ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ilo]]
+[[Category:Toki Pona text containing sound symbol Po]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Pa]]

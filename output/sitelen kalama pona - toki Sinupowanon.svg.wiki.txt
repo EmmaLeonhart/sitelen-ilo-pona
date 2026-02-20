@@ -1,0 +1,10 @@
+Representation of "toki Sinupowanon" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; nu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nu.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg; non: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_non.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Nu]]
+[[Category:Toki Pona text containing sound symbol Po]]
+[[Category:Toki Pona text containing sound symbol Wa]]
+[[Category:Toki Pona text containing sound symbol Non]]

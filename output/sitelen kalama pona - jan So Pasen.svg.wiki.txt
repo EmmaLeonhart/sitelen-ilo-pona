@@ -1,0 +1,8 @@
+Representation of "jan So Pasen" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; so: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_so.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; sen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sen.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol So]]
+[[Category:Toki Pona text containing sound symbol Pa]]
+[[Category:Toki Pona text containing sound symbol Sen]]

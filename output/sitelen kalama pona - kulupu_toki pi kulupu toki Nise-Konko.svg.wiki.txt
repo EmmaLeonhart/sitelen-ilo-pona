@@ -1,0 +1,9 @@
+Representation of "kulupu:toki pi kulupu toki Nise-Konko" in sitelen kalama pona.
+Sources: pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ni.svg; se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg; kon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kon.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:toki pi kulupu toki]]
+[[Category:Toki Pona text containing sound symbol Ni]]
+[[Category:Toki Pona text containing sound symbol Se]]
+[[Category:Toki Pona text containing sound symbol Kon]]
+[[Category:Toki Pona text containing sound symbol Ko]]
