@@ -109,10 +109,10 @@
       margin-bottom: 2rem;
     }
 
-    /* Grid of all 100 glyphs */
+    /* Grid of all 100 glyphs — fixed 10 columns so each row = one onset */
     .glyph-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+      grid-template-columns: repeat(10, 1fr);
       gap: 0.5rem;
     }
 
@@ -241,9 +241,15 @@
 
 <div class="section" style="margin-top:2.5rem;">
   <h2>Codepoint Map</h2>
+  <div style="overflow-x:auto;">
   <table>
     <thead>
       <tr><th>Codepoint</th><th>Syllable</th><th>Glyph</th>
+          <th>Codepoint</th><th>Syllable</th><th>Glyph</th>
+          <th>Codepoint</th><th>Syllable</th><th>Glyph</th>
+          <th>Codepoint</th><th>Syllable</th><th>Glyph</th>
+          <th>Codepoint</th><th>Syllable</th><th>Glyph</th>
+          <th>Codepoint</th><th>Syllable</th><th>Glyph</th>
           <th>Codepoint</th><th>Syllable</th><th>Glyph</th>
           <th>Codepoint</th><th>Syllable</th><th>Glyph</th>
           <th>Codepoint</th><th>Syllable</th><th>Glyph</th>
@@ -251,6 +257,7 @@
     </thead>
     <tbody id="table-body"></tbody>
   </table>
+  </div>
 </div>
 
 <footer>
@@ -281,13 +288,13 @@
     grid.appendChild(cell);
   });
 
-  // Build codepoint table, 5 entries per row
+  // Build codepoint table, 10 entries per row (row-major: each row = one onset)
   const tbody = document.getElementById('table-body');
-  const PER_ROW = 5;
+  const PER_ROW = 10;
   for (let row = 0; row < Math.ceil(syllables.length / PER_ROW); row++) {
     const tr = document.createElement('tr');
     for (let col = 0; col < PER_ROW; col++) {
-      const i = row + col * Math.ceil(syllables.length / PER_ROW);
+      const i = row * PER_ROW + col;
       if (i >= syllables.length) {
         tr.innerHTML += '<td></td><td></td><td></td>';
       } else {
