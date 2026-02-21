@@ -38,6 +38,16 @@ jobs:
       - name: Generate QuickStatements
         run: python scripts/generate_quickstatements.py
 
+      - name: Rebuild output/index.json
+        run: |
+          python3 -c "
+import json, os
+files = sorted(f for f in os.listdir('output') if f.endswith('.svg') and not f.endswith('.wiki.txt'))
+with open('output/index.json', 'w') as fh:
+    json.dump(files, fh, ensure_ascii=False)
+print(f'index.json: {len(files)} entries')
+"
+
       - name: Commit and push new outputs
         run: |
           git config user.name "github-actions[bot]"
