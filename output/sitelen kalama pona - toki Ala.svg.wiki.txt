@@ -1,7 +1,5 @@
-Representation of "toki Ala" in sitelen kalama pona.
-Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg
+Representation of "toki ala" in sitelen kalama pona.
+Sources: toki-ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki-ala.svg
 
 [[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing toki]]
-[[Category:Toki Pona text containing sound symbol A]]
-[[Category:Toki Pona text containing sound symbol La]]
+[[Category:Toki Pona text containing toki ala]]

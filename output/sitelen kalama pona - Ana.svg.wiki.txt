@@ -1,6 +1,5 @@
-Representation of "Ana" in sitelen kalama pona.
-Sources: a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg
+Representation of "ana" in sitelen kalama pona.
+Sources: (none)
 
 [[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sound symbol A]]
-[[Category:Toki Pona text containing sound symbol Na]]
+[[Category:Toki Pona text containing ana]]
