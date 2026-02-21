@@ -1,0 +1,5 @@
+Representation of "musi pi pini ike" in sitelen kalama pona.
+Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pini: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pini.svg; ike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ike.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing musi pi pini ike]]

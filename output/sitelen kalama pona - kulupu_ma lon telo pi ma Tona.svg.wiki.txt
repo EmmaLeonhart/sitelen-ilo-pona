@@ -1,0 +1,7 @@
+Representation of "kulupu:ma lon telo pi ma Tona" in sitelen kalama pona.
+Sources: lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:ma lon telo pi ma]]
+[[Category:Toki Pona text containing sound symbol To]]
+[[Category:Toki Pona text containing sound symbol Na]]

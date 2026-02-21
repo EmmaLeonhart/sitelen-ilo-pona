@@ -1,0 +1,7 @@
+Representation of "jan Mete" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; me: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_me.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol Me]]
+[[Category:Toki Pona text containing sound symbol Te]]

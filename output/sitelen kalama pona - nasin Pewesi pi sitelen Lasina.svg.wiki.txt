@@ -1,0 +1,15 @@
+Representation of "nasin Pewesi pi sitelen Lasina" in sitelen kalama pona.
+Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; pe: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pe.svg; we: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_we.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg; len: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_len.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nasin]]
+[[Category:Toki Pona text containing sound symbol Pe]]
+[[Category:Toki Pona text containing sound symbol We]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Te]]
+[[Category:Toki Pona text containing sound symbol Len]]
+[[Category:Toki Pona text containing sound symbol La]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Na]]

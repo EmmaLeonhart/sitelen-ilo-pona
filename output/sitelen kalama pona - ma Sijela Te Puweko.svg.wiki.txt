@@ -1,4 +1,4 @@
-Representation of "ma Sijela te Puweko" in sitelen kalama pona.
+Representation of "ma Sijela Te Puweko" in sitelen kalama pona.
 Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; je: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_je.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg; pu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pu.svg; we: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_we.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg
 
 [[Category:Sitelen kalama pona]]

@@ -1,0 +1,12 @@
+Representation of "linluwi lon ma Kanpusi lon ma Tawi" in sitelen kalama pona.
+Sources: lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; kan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kan.svg; pu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pu.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lon.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; wi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing linluwi lon ma]]
+[[Category:Toki Pona text containing sound symbol Kan]]
+[[Category:Toki Pona text containing sound symbol Pu]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Lon]]
+[[Category:Toki Pona text containing sound symbol Ma]]
+[[Category:Toki Pona text containing sound symbol Ta]]
+[[Category:Toki Pona text containing sound symbol Wi]]

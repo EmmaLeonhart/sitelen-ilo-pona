@@ -1,0 +1,9 @@
+Representation of "jan Wan Sinpelen" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wan.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sin.svg; pe: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pe.svg; len: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_len.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol Wan]]
+[[Category:Toki Pona text containing sound symbol Sin]]
+[[Category:Toki Pona text containing sound symbol Pe]]
+[[Category:Toki Pona text containing sound symbol Len]]

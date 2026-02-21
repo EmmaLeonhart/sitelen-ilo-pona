@@ -1,0 +1,7 @@
+Representation of "kulupu Sepa" in sitelen kalama pona.
+Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu]]
+[[Category:Toki Pona text containing sound symbol Se]]
+[[Category:Toki Pona text containing sound symbol Pa]]

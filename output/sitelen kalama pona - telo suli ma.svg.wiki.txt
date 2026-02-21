@@ -1,0 +1,5 @@
+Representation of "telo suli ma" in sitelen kalama pona.
+Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing telo suli ma]]

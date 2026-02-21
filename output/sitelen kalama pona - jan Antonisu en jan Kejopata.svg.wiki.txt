@@ -1,0 +1,15 @@
+Representation of "jan Antonisu en jan Kejopata" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; an: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xan.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ni.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xen.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jan.svg; ke: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ke.svg; jo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jo.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol An]]
+[[Category:Toki Pona text containing sound symbol To]]
+[[Category:Toki Pona text containing sound symbol Ni]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol En]]
+[[Category:Toki Pona text containing sound symbol Jan]]
+[[Category:Toki Pona text containing sound symbol Ke]]
+[[Category:Toki Pona text containing sound symbol Jo]]
+[[Category:Toki Pona text containing sound symbol Pa]]
+[[Category:Toki Pona text containing sound symbol Ta]]

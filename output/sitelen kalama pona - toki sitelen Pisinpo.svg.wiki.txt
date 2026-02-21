@@ -1,0 +1,8 @@
+Representation of "toki sitelen Pisinpo" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sin.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki sitelen]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol Sin]]
+[[Category:Toki Pona text containing sound symbol Po]]

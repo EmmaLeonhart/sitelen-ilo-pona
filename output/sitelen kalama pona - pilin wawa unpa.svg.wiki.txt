@@ -1,0 +1,5 @@
+Representation of "pilin wawa unpa" in sitelen kalama pona.
+Sources: pilin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pilin.svg; wawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wawa.svg; unpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_unpa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing pilin wawa unpa]]

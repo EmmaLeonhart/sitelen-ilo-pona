@@ -1,0 +1,5 @@
+Representation of "suno pi ken lukin" in sitelen kalama pona.
+Sources: suno: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suno.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ken: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ken.svg; lukin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lukin.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing suno pi ken lukin]]

@@ -1,6 +1,7 @@
 Representation of "kule lon lipu Wikinanpa" in sitelen kalama pona.
 Sources: kule: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kule.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; wi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wi.svg; ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg; nan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nan.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg
 
+[[Category:Sitelen kalama pona]]
 [[Category:Toki Pona text containing kule lon lipu]]
 [[Category:Toki Pona text containing sound symbol Wi]]
 [[Category:Toki Pona text containing sound symbol Ki]]

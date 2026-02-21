@@ -1,5 +1,6 @@
-Representation of "sitelen a" in sitelen kalama pona.
-Sources: sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_a.svg
+Representation of "sitelen A" in sitelen kalama pona.
+Sources: sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg
 
 [[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sitelen a]]
+[[Category:Toki Pona text containing sitelen]]
+[[Category:Toki Pona text containing sound symbol A]]

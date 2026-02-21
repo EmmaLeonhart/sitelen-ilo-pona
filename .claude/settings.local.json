@@ -62,7 +62,9 @@
       "Bash(start \"\" \"C:\\\\Users\\\\Immanuelle\\\\Documents\\\\Github\\\\Sitelen\\\\uniform_syllables\\\\sitelen kalama pona - jan sewi Amatelasu.svg\")",
       "Bash(git push:*)",
       "Bash(timeout /t:*)",
-      "Bash(where:*)"
+      "Bash(where:*)",
+      "Bash(gh run list:*)",
+      "Bash(gh run view:*)"
     ]
   }
 }

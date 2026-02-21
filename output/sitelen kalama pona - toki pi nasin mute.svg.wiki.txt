@@ -1,0 +1,5 @@
+Representation of "toki pi nasin mute" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mute.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki pi nasin mute]]

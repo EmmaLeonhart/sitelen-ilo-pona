@@ -1,0 +1,5 @@
+Representation of "tenpo wan lon tenpo pi sitelen tawa" in sitelen kalama pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sitelen-tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen-tawa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tenpo wan lon tenpo pi sitelen tawa]]

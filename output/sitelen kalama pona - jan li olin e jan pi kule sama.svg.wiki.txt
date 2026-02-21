@@ -1,0 +1,5 @@
+Representation of "jan li olin e jan pi kule sama" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; olin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_olin.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kule: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kule.svg; sama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sama.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan li olin e jan pi kule sama]]

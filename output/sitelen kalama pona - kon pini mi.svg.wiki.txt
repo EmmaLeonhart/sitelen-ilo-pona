@@ -1,0 +1,5 @@
+Representation of "kon pini mi" in sitelen kalama pona.
+Sources: kon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kon.svg; pini: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pini.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kon pini mi]]

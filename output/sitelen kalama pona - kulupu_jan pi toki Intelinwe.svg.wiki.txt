@@ -1,0 +1,9 @@
+Representation of "kulupu:jan pi toki Intelinwe" in sitelen kalama pona.
+Sources: pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; in: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xin.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg; lin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lin.svg; we: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_we.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:jan pi toki]]
+[[Category:Toki Pona text containing sound symbol In]]
+[[Category:Toki Pona text containing sound symbol Te]]
+[[Category:Toki Pona text containing sound symbol Lin]]
+[[Category:Toki Pona text containing sound symbol We]]

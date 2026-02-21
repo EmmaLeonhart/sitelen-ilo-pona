@@ -1,0 +1,12 @@
+Representation of "toki soweli tan jan Beatrix Potter" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xe.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki soweli tan jan]]
+[[Category:Toki Pona text containing sound symbol E]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol T]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol Po]]
+[[Category:Toki Pona text containing sound symbol T]]
+[[Category:Toki Pona text containing sound symbol Te]]

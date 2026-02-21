@@ -1,0 +1,5 @@
+Representation of "sitelen tawa pi jan utala mun" in sitelen kalama pona.
+Sources: sitelen-tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen-tawa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; jan-utala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-utala.svg; mun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mun.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sitelen tawa pi jan utala mun]]

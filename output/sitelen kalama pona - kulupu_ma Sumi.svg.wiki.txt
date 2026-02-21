@@ -1,0 +1,7 @@
+Representation of "kulupu:ma Sumi" in sitelen kalama pona.
+Sources: su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:ma]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol Mi]]

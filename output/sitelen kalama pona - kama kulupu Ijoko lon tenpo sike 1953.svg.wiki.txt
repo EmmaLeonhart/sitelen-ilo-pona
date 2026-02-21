@@ -1,0 +1,13 @@
+Representation of "kama kulupu Ijoko lon tenpo sike 1953" in sitelen kalama pona.
+Sources: kama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kama.svg; kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; jo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jo.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lon.svg; ten: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ten.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; ke: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ke.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kama kulupu]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol Jo]]
+[[Category:Toki Pona text containing sound symbol Ko]]
+[[Category:Toki Pona text containing sound symbol Lon]]
+[[Category:Toki Pona text containing sound symbol Ten]]
+[[Category:Toki Pona text containing sound symbol Po]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Ke]]

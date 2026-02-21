@@ -1,0 +1,7 @@
+Representation of "jan pi toki Ito" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan pi toki]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol To]]

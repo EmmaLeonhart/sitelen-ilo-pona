@@ -1,0 +1,10 @@
+Representation of "toki sewi ike la utala lawa pi jan Asija-Nolin" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sewi.svg; ike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ike.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_la.svg; utala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_utala.svg; lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg; no: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_no.svg; lin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lin.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki sewi ike la utala lawa pi jan]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Ja]]
+[[Category:Toki Pona text containing sound symbol No]]
+[[Category:Toki Pona text containing sound symbol Lin]]

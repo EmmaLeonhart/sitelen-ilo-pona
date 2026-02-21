@@ -1,0 +1,5 @@
+Representation of "pali:lipu pona" in sitelen kalama pona.
+Sources: pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pona.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing pali:lipu pona]]

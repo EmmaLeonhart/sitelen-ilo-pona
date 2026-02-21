@@ -1,0 +1,11 @@
+Representation of "jan Leposin Wikensan" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; le: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_le.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sin.svg; wi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wi.svg; ken: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ken.svg; san: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_san.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol Le]]
+[[Category:Toki Pona text containing sound symbol Po]]
+[[Category:Toki Pona text containing sound symbol Sin]]
+[[Category:Toki Pona text containing sound symbol Wi]]
+[[Category:Toki Pona text containing sound symbol Ken]]
+[[Category:Toki Pona text containing sound symbol San]]

@@ -1,0 +1,5 @@
+Representation of "pali:lipu open pali" in sitelen kalama pona.
+Sources: open: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_open.svg; pali: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pali.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing pali:lipu open pali]]

@@ -1,0 +1,8 @@
+Representation of "Li Sanpeji" in sitelen kalama pona.
+Sources: li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; san: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_san.svg; pe: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pe.svg; ji: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ji.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol San]]
+[[Category:Toki Pona text containing sound symbol Pe]]
+[[Category:Toki Pona text containing sound symbol Ji]]

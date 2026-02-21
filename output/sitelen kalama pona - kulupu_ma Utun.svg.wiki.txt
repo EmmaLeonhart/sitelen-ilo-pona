@@ -1,0 +1,7 @@
+Representation of "kulupu:ma Utun" in sitelen kalama pona.
+Sources: u: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xu.svg; tun: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tun.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:ma]]
+[[Category:Toki Pona text containing sound symbol U]]
+[[Category:Toki Pona text containing sound symbol Tun]]

@@ -1,0 +1,12 @@
+Representation of "kulupu:ma Kinejekatolija" in sitelen kalama pona.
+Sources: ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg; ne: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ne.svg; je: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_je.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:ma]]
+[[Category:Toki Pona text containing sound symbol Ki]]
+[[Category:Toki Pona text containing sound symbol Ne]]
+[[Category:Toki Pona text containing sound symbol Je]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol To]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol Ja]]

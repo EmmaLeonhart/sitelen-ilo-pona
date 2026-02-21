@@ -1,0 +1,6 @@
+Representation of "kulupu:kipisi ma Kin" in sitelen kalama pona.
+Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; kin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kin.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:kipisi ma]]
+[[Category:Toki Pona text containing sound symbol Kin]]

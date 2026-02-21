@@ -1,0 +1,5 @@
+Representation of "toki pi kulupu lili" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki pi kulupu lili]]

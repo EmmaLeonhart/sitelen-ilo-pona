@@ -1,0 +1,7 @@
+Representation of "pali:ma mi lon ilo Siko" in sitelen kalama pona.
+Sources: mi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mi.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing pali:ma mi lon ilo]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Ko]]

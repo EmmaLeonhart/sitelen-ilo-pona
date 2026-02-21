@@ -1,0 +1,5 @@
+Representation of "toki luka pi ma ale" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; luka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_luka.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma-ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-ale.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki luka pi ma ale]]

@@ -1,0 +1,10 @@
+Representation of "kulupu:ma Penesuwela" in sitelen kalama pona.
+Sources: pe: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pe.svg; ne: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ne.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; we: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_we.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:ma]]
+[[Category:Toki Pona text containing sound symbol Pe]]
+[[Category:Toki Pona text containing sound symbol Ne]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol We]]
+[[Category:Toki Pona text containing sound symbol La]]

@@ -1,0 +1,8 @@
+Representation of "akesi Sukele" in sitelen kalama pona.
+Sources: akesi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_akesi.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; ke: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ke.svg; le: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_le.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing akesi]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol Ke]]
+[[Category:Toki Pona text containing sound symbol Le]]

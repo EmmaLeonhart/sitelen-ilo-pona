@@ -1,0 +1,7 @@
+Representation of "kulupu Pito" in sitelen kalama pona.
+Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol To]]

@@ -1,0 +1,5 @@
+Representation of "jan li moli e ona sama e jan ante mute" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; moli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moli.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; ona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ona.svg; sama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sama.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; jan-ante: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-ante.svg; mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mute.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan li moli e ona sama e jan ante mute]]

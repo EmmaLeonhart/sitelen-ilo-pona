@@ -1,0 +1,8 @@
+Representation of "ilo Nepula" in sitelen kalama pona.
+Sources: ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; ne: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ne.svg; pu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pu.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ilo]]
+[[Category:Toki Pona text containing sound symbol Ne]]
+[[Category:Toki Pona text containing sound symbol Pu]]
+[[Category:Toki Pona text containing sound symbol La]]

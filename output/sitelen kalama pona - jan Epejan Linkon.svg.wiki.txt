@@ -1,0 +1,10 @@
+Representation of "jan Epejan Linkon" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xe.svg; pe: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pe.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jan.svg; lin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lin.svg; kon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kon.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol E]]
+[[Category:Toki Pona text containing sound symbol Pe]]
+[[Category:Toki Pona text containing sound symbol Jan]]
+[[Category:Toki Pona text containing sound symbol Lin]]
+[[Category:Toki Pona text containing sound symbol Kon]]

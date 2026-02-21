@@ -1,0 +1,5 @@
+Representation of "selo pi ma mi" in sitelen kalama pona.
+Sources: selo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_selo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing selo pi ma mi]]

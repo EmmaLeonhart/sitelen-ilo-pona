@@ -1,0 +1,5 @@
+Representation of "jan pi sona nanpa" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sona-nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona-nanpa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan pi sona nanpa]]

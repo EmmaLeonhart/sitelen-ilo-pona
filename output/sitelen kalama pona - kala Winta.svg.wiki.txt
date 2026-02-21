@@ -1,0 +1,7 @@
+Representation of "kala Winta" in sitelen kalama pona.
+Sources: kala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kala.svg; win: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_win.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kala]]
+[[Category:Toki Pona text containing sound symbol Win]]
+[[Category:Toki Pona text containing sound symbol Ta]]

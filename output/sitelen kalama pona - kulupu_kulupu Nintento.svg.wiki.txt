@@ -1,0 +1,8 @@
+Representation of "kulupu:kulupu Nintento" in sitelen kalama pona.
+Sources: nin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nin.svg; ten: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ten.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:kulupu]]
+[[Category:Toki Pona text containing sound symbol Nin]]
+[[Category:Toki Pona text containing sound symbol Ten]]
+[[Category:Toki Pona text containing sound symbol To]]

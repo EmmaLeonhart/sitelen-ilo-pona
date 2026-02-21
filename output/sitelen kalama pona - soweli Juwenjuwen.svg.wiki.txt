@@ -1,0 +1,9 @@
+Representation of "soweli Juwenjuwen" in sitelen kalama pona.
+Sources: soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg; ju: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ju.svg; wen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wen.svg; ju: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ju.svg; wen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wen.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing soweli]]
+[[Category:Toki Pona text containing sound symbol Ju]]
+[[Category:Toki Pona text containing sound symbol Wen]]
+[[Category:Toki Pona text containing sound symbol Ju]]
+[[Category:Toki Pona text containing sound symbol Wen]]

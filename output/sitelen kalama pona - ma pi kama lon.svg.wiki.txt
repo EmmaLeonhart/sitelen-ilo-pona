@@ -1,0 +1,5 @@
+Representation of "ma pi kama lon" in sitelen kalama pona.
+Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kama.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma pi kama lon]]

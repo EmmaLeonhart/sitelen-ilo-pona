@@ -1,0 +1,10 @@
+Representation of "toki luka Pukinapaso" in sitelen kalama pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; luka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_luka.svg; pu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pu.svg; ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; so: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_so.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki luka]]
+[[Category:Toki Pona text containing sound symbol Pu]]
+[[Category:Toki Pona text containing sound symbol Ki]]
+[[Category:Toki Pona text containing sound symbol Na]]
+[[Category:Toki Pona text containing sound symbol Pa]]
+[[Category:Toki Pona text containing sound symbol So]]

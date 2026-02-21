@@ -1,0 +1,5 @@
+Representation of "pali:tomo pi toki ante" in sitelen kalama pona.
+Sources: pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; ante: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ante.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing pali:tomo pi toki ante]]

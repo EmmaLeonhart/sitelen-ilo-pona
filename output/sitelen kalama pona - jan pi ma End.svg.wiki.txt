@@ -1,0 +1,6 @@
+Representation of "jan pi ma End" in sitelen kalama pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xen.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan pi ma]]
+[[Category:Toki Pona text containing sound symbol En]]

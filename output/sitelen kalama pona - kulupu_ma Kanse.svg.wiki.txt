@@ -1,0 +1,7 @@
+Representation of "kulupu:ma Kanse" in sitelen kalama pona.
+Sources: kan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kan.svg; se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:ma]]
+[[Category:Toki Pona text containing sound symbol Kan]]
+[[Category:Toki Pona text containing sound symbol Se]]

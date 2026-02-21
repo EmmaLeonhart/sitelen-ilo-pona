@@ -1,0 +1,5 @@
+Representation of "meli li olin e meli la musi" in sitelen kalama pona.
+Sources: meli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_meli.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; olin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_olin.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; meli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_meli.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_la.svg; musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing meli li olin e meli la musi]]
