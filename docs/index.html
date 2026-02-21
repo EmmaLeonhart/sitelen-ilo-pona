@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sitelen Kalama Pona</title>
+  <style>
+    @font-face {
+      font-family: 'Sitelen Kalama Pona';
+      src: url('../fonts/sitelen-kalama-pona.woff2') format('woff2'),
+           url('../fonts/sitelen-kalama-pona.otf') format('opentype');
+      font-display: swap;
+    }
+
+    :root {
+      --bg: #0f0f11;
+      --surface: #1a1a1f;
+      --border: #2e2e38;
+      --text: #e8e8f0;
+      --muted: #888899;
+      --accent: #7c6af7;
+      --accent-dim: #3d3478;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, sans-serif;
+      line-height: 1.6;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .hero {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 5rem 2rem 3rem;
+      text-align: center;
+    }
+
+    .hero h1 {
+      font-size: clamp(2rem, 5vw, 3.5rem);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin-bottom: 0.5rem;
+    }
+
+    .hero .subtitle {
+      color: var(--muted);
+      font-size: 1.1rem;
+      margin-bottom: 2.5rem;
+    }
+
+    .download-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: var(--accent);
+      color: #fff;
+      padding: 0.75rem 1.75rem;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 1rem;
+      transition: opacity 0.15s;
+    }
+    .download-btn:hover { opacity: 0.85; text-decoration: none; }
+
+    .download-links {
+      margin-top: 1rem;
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+    .download-links a { color: var(--muted); margin: 0 0.5rem; }
+    .download-links a:hover { color: var(--text); }
+
+    /* ── Specimen ── */
+    .section {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 2rem;
+    }
+
+    .section h2 {
+      font-size: 1rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--muted);
+      margin-bottom: 1.25rem;
+    }
+
+    /* Big specimen */
+    .specimen-big {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 2.5rem 2rem;
+      font-family: 'Sitelen Kalama Pona', monospace;
+      font-size: 3.5rem;
+      line-height: 1.4;
+      letter-spacing: 0.05em;
+      text-align: center;
+      word-break: break-all;
+      overflow-wrap: anywhere;
+      margin-bottom: 2rem;
+    }
+
+    /* Grid of all 100 glyphs */
+    .glyph-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+      gap: 0.5rem;
+    }
+
+    .glyph-cell {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.75rem 0.5rem 0.5rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .glyph-cell .glyph {
+      font-family: 'Sitelen Kalama Pona', monospace;
+      font-size: 2.2rem;
+      line-height: 1;
+    }
+
+    .glyph-cell .label {
+      font-size: 0.7rem;
+      color: var(--muted);
+      font-family: monospace;
+    }
+
+    /* Codepoint table */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.85rem;
+    }
+
+    th, td {
+      padding: 0.5rem 0.75rem;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+    }
+
+    th {
+      color: var(--muted);
+      font-weight: 600;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    td.cp { font-family: monospace; color: var(--muted); }
+    td.syl { font-family: monospace; }
+    td.glyph-preview {
+      font-family: 'Sitelen Kalama Pona', monospace;
+      font-size: 1.6rem;
+      line-height: 1;
+      padding-top: 0.25rem;
+      padding-bottom: 0.25rem;
+    }
+
+    tr:hover td { background: var(--surface); }
+
+    /* Footer */
+    footer {
+      max-width: 860px;
+      margin: 3rem auto 2rem;
+      padding: 1.5rem 2rem 0;
+      border-top: 1px solid var(--border);
+      font-size: 0.85rem;
+      color: var(--muted);
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 0.5rem;
+    }
+
+    footer a { color: var(--muted); }
+    footer a:hover { color: var(--text); }
+  </style>
+</head>
+<body>
+
+<div class="hero">
+  <h1>Sitelen Kalama Pona</h1>
+  <p class="subtitle">A phonetic syllable font for Toki Pona &mdash; 100 glyphs, one per syllable</p>
+
+  <a class="download-btn" href="../fonts/sitelen-kalama-pona.otf" download>
+    &#8595; Download OTF
+  </a>
+  <div class="download-links">
+    <a href="../fonts/sitelen-kalama-pona.woff2" download>WOFF2 for web</a>
+    &middot;
+    <a href="https://github.com/Emma-Leonhart/Sitelen">GitHub</a>
+    &middot;
+    <a href="https://github.com/Emma-Leonhart/Sitelen/blob/master/LICENSE">OFL License</a>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Specimen</h2>
+  <!--
+    Toki Pona phrase rendered in Sitelen Kalama Pona:
+    "toki pona" → to-ki po-na  (U+E12E U+E136 U+E124 U+E114)
+    "jan pona"  → ja-n po-na   (U+E147 U+E124 U+E114)
+    "mi lon"    → mi lo-n      (U+E118 U+E157)
+  -->
+  <div class="specimen-big">
+    &#xE12E;&#xE136; &#xE124;&#xE114;<br>
+    &#xE147; &#xE124;&#xE114;<br>
+    &#xE118; &#xE157;
+  </div>
+  <p style="color:var(--muted);font-size:0.85rem;text-align:center;margin-bottom:2rem;">
+    toki pona &nbsp;/&nbsp; jan pona &nbsp;/&nbsp; mi lon
+  </p>
+</div>
+
+<div class="section">
+  <h2>All Glyphs</h2>
+  <div class="glyph-grid" id="grid"></div>
+</div>
+
+<div class="section" style="margin-top:2.5rem;">
+  <h2>Installation &mdash; Web</h2>
+  <pre style="background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:1.25rem;font-size:0.85rem;overflow:auto;"><code>@font-face {
+  font-family: 'Sitelen Kalama Pona';
+  src: url('sitelen-kalama-pona.woff2') format('woff2');
+}</code></pre>
+</div>
+
+<div class="section" style="margin-top:2.5rem;">
+  <h2>Codepoint Map</h2>
+  <table>
+    <thead>
+      <tr><th>Codepoint</th><th>Syllable</th><th>Glyph</th>
+          <th>Codepoint</th><th>Syllable</th><th>Glyph</th>
+          <th>Codepoint</th><th>Syllable</th><th>Glyph</th>
+          <th>Codepoint</th><th>Syllable</th><th>Glyph</th>
+          <th>Codepoint</th><th>Syllable</th><th>Glyph</th></tr>
+    </thead>
+    <tbody id="table-body"></tbody>
+  </table>
+</div>
+
+<footer>
+  <span>Sitelen Kalama Pona &mdash; released under <a href="https://github.com/Emma-Leonhart/Sitelen/blob/master/LICENSE">OFL-1.1</a></span>
+  <span>SVG generation uses <a href="https://github.com/kreativekorp/sitelen-seli-kiwen">Sitelen Seli Kiwen</a> by KreativeKorp</span>
+</footer>
+
+<script>
+  const consonants = ['', 'm', 'n', 'p', 't', 'k', 'w', 'j', 'l', 's'];
+  const vowels = ['a', 'an', 'e', 'en', 'i', 'in', 'o', 'on', 'u', 'un'];
+
+  const syllables = [];
+  for (const c of consonants) {
+    for (const v of vowels) {
+      syllables.push(c + v);
+    }
+  }
+
+  const PUA_BASE = 0xE100;
+
+  // Build glyph grid
+  const grid = document.getElementById('grid');
+  syllables.forEach((syl, i) => {
+    const cp = PUA_BASE + i;
+    const cell = document.createElement('div');
+    cell.className = 'glyph-cell';
+    cell.innerHTML = `<span class="glyph">&#x${cp.toString(16).toUpperCase()};</span><span class="label">${syl}</span>`;
+    grid.appendChild(cell);
+  });
+
+  // Build codepoint table, 5 entries per row
+  const tbody = document.getElementById('table-body');
+  const PER_ROW = 5;
+  for (let row = 0; row < Math.ceil(syllables.length / PER_ROW); row++) {
+    const tr = document.createElement('tr');
+    for (let col = 0; col < PER_ROW; col++) {
+      const i = row + col * Math.ceil(syllables.length / PER_ROW);
+      if (i >= syllables.length) {
+        tr.innerHTML += '<td></td><td></td><td></td>';
+      } else {
+        const cp = PUA_BASE + i;
+        const hex = 'U+' + cp.toString(16).toUpperCase();
+        tr.innerHTML += `<td class="cp">${hex}</td><td class="syl">${syllables[i]}</td><td class="glyph-preview">&#x${cp.toString(16)}</td>`;
+      }
+    }
+    tbody.appendChild(tr);
+  }
+</script>
+
+</body>
+</html>
