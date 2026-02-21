@@ -1,0 +1,11 @@
+Representation of "jan sewi Katakulokusin" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg; lo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lo.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sin.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Ta]]
+[[Category:Toki Pona text containing sound symbol Ku]]
+[[Category:Toki Pona text containing sound symbol Lo]]
+[[Category:Toki Pona text containing sound symbol Ku]]
+[[Category:Toki Pona text containing sound symbol Sin]]

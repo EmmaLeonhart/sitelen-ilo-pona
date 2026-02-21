@@ -1,0 +1,12 @@
+Representation of "jan sewi Amenotokotasi" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; me: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_me.svg; no: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_no.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Me]]
+[[Category:Toki Pona text containing sound symbol No]]
+[[Category:Toki Pona text containing sound symbol To]]
+[[Category:Toki Pona text containing sound symbol Ko]]
+[[Category:Toki Pona text containing sound symbol Ta]]
+[[Category:Toki Pona text containing sound symbol Si]]

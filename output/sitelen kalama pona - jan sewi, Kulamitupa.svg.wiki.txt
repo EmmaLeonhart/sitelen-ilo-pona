@@ -1,0 +1,10 @@
+Representation of "jan sewi Kulamitupa" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tu.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi]]
+[[Category:Toki Pona text containing sound symbol Ku]]
+[[Category:Toki Pona text containing sound symbol La]]
+[[Category:Toki Pona text containing sound symbol Mi]]
+[[Category:Toki Pona text containing sound symbol Tu]]
+[[Category:Toki Pona text containing sound symbol Pa]]

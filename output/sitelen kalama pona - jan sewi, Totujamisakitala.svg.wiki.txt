@@ -1,0 +1,13 @@
+Representation of "jan sewi Totujamisakitala" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tu.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg; sa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sa.svg; ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi]]
+[[Category:Toki Pona text containing sound symbol To]]
+[[Category:Toki Pona text containing sound symbol Tu]]
+[[Category:Toki Pona text containing sound symbol Ja]]
+[[Category:Toki Pona text containing sound symbol Mi]]
+[[Category:Toki Pona text containing sound symbol Sa]]
+[[Category:Toki Pona text containing sound symbol Ki]]
+[[Category:Toki Pona text containing sound symbol Ta]]
+[[Category:Toki Pona text containing sound symbol La]]

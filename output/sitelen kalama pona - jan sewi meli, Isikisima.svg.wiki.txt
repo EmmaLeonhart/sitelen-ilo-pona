@@ -1,0 +1,10 @@
+Representation of "jan sewi meli Isikisima" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; meli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_meli.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi meli]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Ki]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Ma]]

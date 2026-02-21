@@ -1,0 +1,15 @@
+Representation of "jan sewi Asinasusi en Tenasusi" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xen.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Na]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol En]]
+[[Category:Toki Pona text containing sound symbol Te]]
+[[Category:Toki Pona text containing sound symbol Na]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol Si]]

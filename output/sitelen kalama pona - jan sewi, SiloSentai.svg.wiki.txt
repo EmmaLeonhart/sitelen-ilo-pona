@@ -1,0 +1,10 @@
+Representation of "jan sewi Silo Sentai" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; lo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lo.svg; sen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sen.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Lo]]
+[[Category:Toki Pona text containing sound symbol Sen]]
+[[Category:Toki Pona text containing sound symbol Ta]]
+[[Category:Toki Pona text containing sound symbol I]]

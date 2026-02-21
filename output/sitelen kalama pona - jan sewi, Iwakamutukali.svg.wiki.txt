@@ -1,0 +1,12 @@
+Representation of "jan sewi Iwakamutukali" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; mu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mu.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tu.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol Wa]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Mu]]
+[[Category:Toki Pona text containing sound symbol Tu]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Li]]

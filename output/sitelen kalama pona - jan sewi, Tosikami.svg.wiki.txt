@@ -1,0 +1,9 @@
+Representation of "jan sewi Tosikami" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi]]
+[[Category:Toki Pona text containing sound symbol To]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Mi]]

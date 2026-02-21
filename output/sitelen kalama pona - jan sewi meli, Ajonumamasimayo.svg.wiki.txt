@@ -1,0 +1,13 @@
+Representation of "jan sewi meli Ajonumamasimayo" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; meli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_meli.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; jo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jo.svg; nu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nu.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; o: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xo.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi meli]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Jo]]
+[[Category:Toki Pona text containing sound symbol Nu]]
+[[Category:Toki Pona text containing sound symbol Ma]]
+[[Category:Toki Pona text containing sound symbol Ma]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Ma]]
+[[Category:Toki Pona text containing sound symbol O]]

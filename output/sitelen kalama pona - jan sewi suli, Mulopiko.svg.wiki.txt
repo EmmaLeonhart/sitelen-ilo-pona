@@ -1,0 +1,9 @@
+Representation of "jan sewi suli Mulopiko" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; mu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mu.svg; lo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi suli]]
+[[Category:Toki Pona text containing sound symbol Mu]]
+[[Category:Toki Pona text containing sound symbol Lo]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol Ko]]

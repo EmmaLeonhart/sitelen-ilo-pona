@@ -1,0 +1,12 @@
+Representation of "jan sewi mije Kipisakamitaka" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; mije: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mije.svg; ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; sa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sa.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi mije]]
+[[Category:Toki Pona text containing sound symbol Ki]]
+[[Category:Toki Pona text containing sound symbol Pi]]
+[[Category:Toki Pona text containing sound symbol Sa]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Mi]]
+[[Category:Toki Pona text containing sound symbol Ta]]
+[[Category:Toki Pona text containing sound symbol Ka]]

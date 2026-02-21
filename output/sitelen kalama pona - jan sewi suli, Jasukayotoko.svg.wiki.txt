@@ -1,0 +1,11 @@
+Representation of "jan sewi suli Jasukayotoko" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; o: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xo.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi suli]]
+[[Category:Toki Pona text containing sound symbol Ja]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol O]]
+[[Category:Toki Pona text containing sound symbol To]]
+[[Category:Toki Pona text containing sound symbol Ko]]

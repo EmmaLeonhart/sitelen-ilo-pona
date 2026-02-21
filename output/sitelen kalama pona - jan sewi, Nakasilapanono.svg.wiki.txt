@@ -1,0 +1,12 @@
+Representation of "jan sewi Nakasilapanono" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; no: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_no.svg; no: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_no.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi]]
+[[Category:Toki Pona text containing sound symbol Na]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol La]]
+[[Category:Toki Pona text containing sound symbol Pa]]
+[[Category:Toki Pona text containing sound symbol No]]
+[[Category:Toki Pona text containing sound symbol No]]

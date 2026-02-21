@@ -1,0 +1,10 @@
+Representation of "jan sewi Kulaokami" in sitelen kalama pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; o: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xo.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi]]
+[[Category:Toki Pona text containing sound symbol Ku]]
+[[Category:Toki Pona text containing sound symbol La]]
+[[Category:Toki Pona text containing sound symbol O]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Mi]]
