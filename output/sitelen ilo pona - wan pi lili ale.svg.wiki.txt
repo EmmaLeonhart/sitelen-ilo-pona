@@ -1,0 +1,5 @@
+Representation of "wan pi lili ale" in sitelen ilo pona.
+Sources: wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg; ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ale.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing wan pi lili ale]]

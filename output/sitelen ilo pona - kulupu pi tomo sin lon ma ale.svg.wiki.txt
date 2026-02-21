@@ -1,0 +1,5 @@
+Representation of "kulupu pi tomo sin lon ma ale" in sitelen ilo pona.
+Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sin.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; ma-ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-ale.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu pi tomo sin lon ma ale]]

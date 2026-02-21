@@ -1,0 +1,7 @@
+Representation of "musi pi ko Kapi" in sitelen ilo pona.
+Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ko.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing musi pi ko]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Pi]]

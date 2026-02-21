@@ -1,0 +1,7 @@
+Representation of "tenpo kama pi jan Jesu" in sitelen ilo pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; kama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kama.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; je: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_je.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tenpo kama pi jan]]
+[[Category:Toki Pona text containing sound symbol Je]]
+[[Category:Toki Pona text containing sound symbol Su]]

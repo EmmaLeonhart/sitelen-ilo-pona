@@ -1,0 +1,8 @@
+Representation of "musi Amanka" in sitelen ilo pona.
+Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; man: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_man.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing musi]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Man]]
+[[Category:Toki Pona text containing sound symbol Ka]]

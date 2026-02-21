@@ -1,0 +1,7 @@
+Representation of "ilo Tanpa" in sitelen ilo pona.
+Sources: ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tan.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ilo]]
+[[Category:Toki Pona text containing sound symbol Tan]]
+[[Category:Toki Pona text containing sound symbol Pa]]

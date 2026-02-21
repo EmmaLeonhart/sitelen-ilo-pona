@@ -1,0 +1,7 @@
+Representation of "nena ma Wapu" in sitelen ilo pona.
+Sources: nena: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nena.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg; pu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nena ma]]
+[[Category:Toki Pona text containing sound symbol Wa]]
+[[Category:Toki Pona text containing sound symbol Pu]]

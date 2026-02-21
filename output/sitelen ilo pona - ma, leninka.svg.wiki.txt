@@ -1,0 +1,8 @@
+Representation of "ma Leninka" in sitelen ilo pona.
+Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; le: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_le.svg; nin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nin.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma]]
+[[Category:Toki Pona text containing sound symbol Le]]
+[[Category:Toki Pona text containing sound symbol Nin]]
+[[Category:Toki Pona text containing sound symbol Ka]]

@@ -1,0 +1,5 @@
+Representation of "sike anpa pi kute jan" in sitelen ilo pona.
+Sources: sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg; anpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_anpa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kute.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sike anpa pi kute jan]]

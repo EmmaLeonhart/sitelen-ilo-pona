@@ -1,0 +1,5 @@
+Representation of "jan pi tawa telo" in sitelen ilo pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan pi tawa telo]]

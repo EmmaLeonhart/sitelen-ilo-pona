@@ -1,0 +1,5 @@
+Representation of "sitelen tawa "nasin seme la mi tawa jan mama meli sina"" in sitelen ilo pona.
+Sources: sitelen-tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen-tawa.svg; seme: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seme.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_la.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mi.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; mama-meli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mama-meli.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sitelen tawa "nasin seme la mi tawa jan mama meli sina"]]

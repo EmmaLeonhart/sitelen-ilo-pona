@@ -1,0 +1,5 @@
+Representation of "telo suli moli" in sitelen ilo pona.
+Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; moli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moli.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing telo suli moli]]

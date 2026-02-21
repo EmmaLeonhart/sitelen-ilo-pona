@@ -1,0 +1,5 @@
+Representation of "toki pi ma ante" in sitelen ilo pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; ante: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ante.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki pi ma ante]]

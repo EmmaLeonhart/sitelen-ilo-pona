@@ -1,0 +1,5 @@
+Representation of "jan sewi nanpa tu wan pi open" in sitelen ilo pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; tu-wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu-wan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; open: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_open.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi nanpa tu wan pi open]]

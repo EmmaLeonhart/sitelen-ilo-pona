@@ -1,0 +1,8 @@
+Representation of "nasin sitelen Olija" in sitelen ilo pona.
+Sources: nasin-sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin-sitelen.svg; o: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xo.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nasin sitelen]]
+[[Category:Toki Pona text containing sound symbol O]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol Ja]]

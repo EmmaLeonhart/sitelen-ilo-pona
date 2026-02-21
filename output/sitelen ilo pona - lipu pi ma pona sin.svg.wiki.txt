@@ -1,0 +1,5 @@
+Representation of "lipu pi ma pona sin" in sitelen ilo pona.
+Sources: lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma-pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-pona.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sin.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing lipu pi ma pona sin]]

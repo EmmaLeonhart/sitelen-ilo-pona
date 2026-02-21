@@ -1,0 +1,7 @@
+Representation of "tomo sona suli Ino" in sitelen ilo pona.
+Sources: tomo-sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo-sona.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; no: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_no.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo sona suli]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol No]]

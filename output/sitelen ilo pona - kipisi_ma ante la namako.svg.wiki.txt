@@ -1,0 +1,5 @@
+Representation of "kipisi:ma ante la namako" in sitelen ilo pona.
+Sources: ante: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ante.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_la.svg; namako: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_namako.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kipisi:ma ante la namako]]

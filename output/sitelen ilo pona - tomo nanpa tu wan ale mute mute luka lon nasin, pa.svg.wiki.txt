@@ -1,0 +1,6 @@
+Representation of "tomo nanpa tu wan ale mute mute luka lon nasin Pa" in sitelen ilo pona.
+Sources: tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; tu-wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu-wan.svg; ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ale.svg; mute-mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mute-mute.svg; luka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_luka.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo nanpa tu wan ale mute mute luka lon nasin]]
+[[Category:Toki Pona text containing sound symbol Pa]]

@@ -1,0 +1,7 @@
+Representation of "kulupu pi toki pona pi ma Anku" in sitelen ilo pona.
+Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; toki-pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki-pona.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; an: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xan.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu pi toki pona pi ma]]
+[[Category:Toki Pona text containing sound symbol An]]
+[[Category:Toki Pona text containing sound symbol Ku]]

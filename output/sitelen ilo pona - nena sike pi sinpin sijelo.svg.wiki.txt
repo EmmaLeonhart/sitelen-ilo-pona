@@ -1,0 +1,5 @@
+Representation of "nena sike pi sinpin sijelo" in sitelen ilo pona.
+Sources: nena: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nena.svg; sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sinpin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sinpin.svg; sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nena sike pi sinpin sijelo]]

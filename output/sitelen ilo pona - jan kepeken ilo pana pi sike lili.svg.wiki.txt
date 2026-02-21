@@ -1,0 +1,5 @@
+Representation of "jan kepeken ilo pana pi sike lili" in sitelen ilo pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; kepeken: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kepeken.svg; ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; pana: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pana.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sike-lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike-lili.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan kepeken ilo pana pi sike lili]]

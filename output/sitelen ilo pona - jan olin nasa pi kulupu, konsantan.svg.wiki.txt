@@ -1,0 +1,8 @@
+Representation of "jan olin nasa pi kulupu Konsantan" in sitelen ilo pona.
+Sources: jan-olin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-olin.svg; nasa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; kon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kon.svg; san: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_san.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan olin nasa pi kulupu]]
+[[Category:Toki Pona text containing sound symbol Kon]]
+[[Category:Toki Pona text containing sound symbol San]]
+[[Category:Toki Pona text containing sound symbol Tan]]

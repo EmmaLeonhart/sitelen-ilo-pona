@@ -1,0 +1,5 @@
+Representation of "kipisi:lipu open la seme li sin lon ma" in sitelen ilo pona.
+Sources: open: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_open.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_la.svg; seme: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seme.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sin.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kipisi:lipu open la seme li sin lon ma]]

@@ -1,0 +1,5 @@
+Representation of "sitelen pi pini ala" in sitelen ilo pona.
+Sources: sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pini: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pini.svg; ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ala.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sitelen pi pini ala]]

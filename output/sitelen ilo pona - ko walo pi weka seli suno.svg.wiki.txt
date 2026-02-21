@@ -1,0 +1,5 @@
+Representation of "ko walo pi weka seli suno" in sitelen ilo pona.
+Sources: ko-walo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ko-walo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; weka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_weka.svg; seli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seli.svg; suno: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suno.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ko walo pi weka seli suno]]

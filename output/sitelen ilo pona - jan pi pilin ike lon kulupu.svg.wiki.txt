@@ -1,0 +1,5 @@
+Representation of "jan pi pilin ike lon kulupu" in sitelen ilo pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pilin-ike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pilin-ike.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan pi pilin ike lon kulupu]]

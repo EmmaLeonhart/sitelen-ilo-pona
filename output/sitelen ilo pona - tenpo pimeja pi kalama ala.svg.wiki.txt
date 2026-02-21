@@ -1,0 +1,5 @@
+Representation of "tenpo pimeja pi kalama ala" in sitelen ilo pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; pimeja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pimeja.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kalama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama.svg; ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ala.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tenpo pimeja pi kalama ala]]

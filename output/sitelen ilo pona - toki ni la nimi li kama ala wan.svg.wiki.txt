@@ -1,0 +1,5 @@
+Representation of "toki ni la nimi li kama ala wan" in sitelen ilo pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ni.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_la.svg; nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; kama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kama.svg; ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ala.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki ni la nimi li kama ala wan]]

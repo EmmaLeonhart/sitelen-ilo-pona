@@ -1,0 +1,7 @@
+Representation of "nasin Wiki" in sitelen ilo pona.
+Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; wi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wi.svg; ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nasin]]
+[[Category:Toki Pona text containing sound symbol Wi]]
+[[Category:Toki Pona text containing sound symbol Ki]]

@@ -1,0 +1,5 @@
+Representation of "nanpa awen" in sitelen ilo pona.
+Sources: nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; awen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_awen.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nanpa awen]]

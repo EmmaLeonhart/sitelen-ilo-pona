@@ -1,0 +1,9 @@
+Representation of "nena Kansenkunka" in sitelen ilo pona.
+Sources: nena: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nena.svg; kan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kan.svg; sen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sen.svg; kun: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kun.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nena]]
+[[Category:Toki Pona text containing sound symbol Kan]]
+[[Category:Toki Pona text containing sound symbol Sen]]
+[[Category:Toki Pona text containing sound symbol Kun]]
+[[Category:Toki Pona text containing sound symbol Ka]]

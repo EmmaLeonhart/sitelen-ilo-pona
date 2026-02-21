@@ -1,0 +1,7 @@
+Representation of "telo linja Tuse" in sitelen ilo pona.
+Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tu.svg; se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing telo linja]]
+[[Category:Toki Pona text containing sound symbol Tu]]
+[[Category:Toki Pona text containing sound symbol Se]]

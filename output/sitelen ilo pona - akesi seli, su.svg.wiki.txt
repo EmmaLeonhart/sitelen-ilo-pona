@@ -1,0 +1,6 @@
+Representation of "akesi seli Su" in sitelen ilo pona.
+Sources: akesi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_akesi.svg; seli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seli.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing akesi seli]]
+[[Category:Toki Pona text containing sound symbol Su]]

@@ -1,0 +1,8 @@
+Representation of "tomo sewi pi mani pana tawa tenpo musi sewi mun en tenpo musi sewi Niname" in sitelen ilo pona.
+Sources: tomo-sewi: https://commons.wikimedia.org/wiki/File:Tomo_sewi_old.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; mani: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mani.svg; pana: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pana.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sewi.svg; mun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mun.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_en.svg; tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sewi.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ni.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg; me: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_me.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo sewi pi mani pana tawa tenpo musi sewi mun en tenpo musi sewi]]
+[[Category:Toki Pona text containing sound symbol Ni]]
+[[Category:Toki Pona text containing sound symbol Na]]
+[[Category:Toki Pona text containing sound symbol Me]]

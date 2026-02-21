@@ -1,0 +1,7 @@
+Representation of "nasin ISO 8601" in sitelen ilo pona.
+Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; so: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_so.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nasin]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol So]]

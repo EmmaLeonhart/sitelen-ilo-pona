@@ -1,0 +1,5 @@
+Representation of "musi sike pi lipu tu tu" in sitelen ilo pona.
+Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; tu-tu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu-tu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing musi sike pi lipu tu tu]]

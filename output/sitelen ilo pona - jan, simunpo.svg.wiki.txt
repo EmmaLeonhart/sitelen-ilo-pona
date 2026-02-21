@@ -1,0 +1,8 @@
+Representation of "jan Simun Po" in sitelen ilo pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; mun: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mun.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Mun]]
+[[Category:Toki Pona text containing sound symbol Po]]

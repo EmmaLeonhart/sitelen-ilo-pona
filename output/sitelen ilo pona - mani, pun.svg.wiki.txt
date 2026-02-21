@@ -1,0 +1,6 @@
+Representation of "mani Pun" in sitelen ilo pona.
+Sources: mani: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mani.svg; pun: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pun.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing mani]]
+[[Category:Toki Pona text containing sound symbol Pun]]

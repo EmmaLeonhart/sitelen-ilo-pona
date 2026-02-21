@@ -1,0 +1,16 @@
+Representation of "musi Pokemon Kin en musi Pokemon Pin" in sitelen ilo pona.
+Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg; ke: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ke.svg; mon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mon.svg; ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg; nen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nen.svg; mu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mu.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg; ke: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ke.svg; mon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mon.svg; pin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pin.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing musi]]
+[[Category:Toki Pona text containing sound symbol Po]]
+[[Category:Toki Pona text containing sound symbol Ke]]
+[[Category:Toki Pona text containing sound symbol Mon]]
+[[Category:Toki Pona text containing sound symbol Ki]]
+[[Category:Toki Pona text containing sound symbol Nen]]
+[[Category:Toki Pona text containing sound symbol Mu]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Po]]
+[[Category:Toki Pona text containing sound symbol Ke]]
+[[Category:Toki Pona text containing sound symbol Mon]]
+[[Category:Toki Pona text containing sound symbol Pin]]

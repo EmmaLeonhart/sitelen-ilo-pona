@@ -1,0 +1,5 @@
+Representation of "ale pi nasin ante tu" in sitelen ilo pona.
+Sources: ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ale.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; ante: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ante.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ale pi nasin ante tu]]

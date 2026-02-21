@@ -1,0 +1,5 @@
+Representation of "musi pi wile sona pi meli sewi" in sitelen ilo pona.
+Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; wile: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wile.svg; sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; meli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_meli.svg; sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sewi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing musi pi wile sona pi meli sewi]]

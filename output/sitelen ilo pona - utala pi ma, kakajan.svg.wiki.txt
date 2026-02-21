@@ -1,0 +1,8 @@
+Representation of "utala pi ma Kakajan" in sitelen ilo pona.
+Sources: utala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_utala.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing utala pi ma]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Ka]]
+[[Category:Toki Pona text containing sound symbol Jan]]

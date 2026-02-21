@@ -1,0 +1,7 @@
+Representation of "tenpo Minu" in sitelen ilo pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg; nu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tenpo]]
+[[Category:Toki Pona text containing sound symbol Mi]]
+[[Category:Toki Pona text containing sound symbol Nu]]

@@ -1,0 +1,7 @@
+Representation of "mun Puto" in sitelen ilo pona.
+Sources: mun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mun.svg; pu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pu.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing mun]]
+[[Category:Toki Pona text containing sound symbol Pu]]
+[[Category:Toki Pona text containing sound symbol To]]

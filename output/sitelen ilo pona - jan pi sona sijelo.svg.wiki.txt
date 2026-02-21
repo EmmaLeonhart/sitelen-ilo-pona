@@ -1,0 +1,5 @@
+Representation of "jan pi sona sijelo" in sitelen ilo pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sona-sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona-sijelo.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan pi sona sijelo]]

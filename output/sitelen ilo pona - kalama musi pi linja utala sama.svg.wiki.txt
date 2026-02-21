@@ -1,0 +1,5 @@
+Representation of "kalama musi pi linja utala sama" in sitelen ilo pona.
+Sources: kalama-musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama-musi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg; utala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_utala.svg; sama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sama.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kalama musi pi linja utala sama]]

@@ -1,0 +1,5 @@
+Representation of "tomo tawa telo li pakala e kiwen lete" in sitelen ilo pona.
+Sources: tomo-tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo-tawa.svg; telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; pakala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pakala.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; kiwen-lete: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen-lete.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo tawa telo li pakala e kiwen lete]]

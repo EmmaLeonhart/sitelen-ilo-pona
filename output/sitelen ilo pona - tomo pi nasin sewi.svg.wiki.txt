@@ -1,0 +1,5 @@
+Representation of "tomo pi nasin sewi" in sitelen ilo pona.
+Sources: tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sewi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo pi nasin sewi]]

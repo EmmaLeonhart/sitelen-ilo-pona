@@ -1,0 +1,8 @@
+Representation of "jan sewi Zakonken" in sitelen ilo pona.
+Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; kon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kon.svg; ken: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ken.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan sewi]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Kon]]
+[[Category:Toki Pona text containing sound symbol Ken]]

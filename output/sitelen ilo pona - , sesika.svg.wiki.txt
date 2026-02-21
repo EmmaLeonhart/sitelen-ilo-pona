@@ -1,0 +1,7 @@
+Representation of "Sesika" in sitelen ilo pona.
+Sources: se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sound symbol Se]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Ka]]

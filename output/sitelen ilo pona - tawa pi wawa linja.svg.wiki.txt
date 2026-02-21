@@ -1,0 +1,5 @@
+Representation of "tawa pi wawa linja" in sitelen ilo pona.
+Sources: tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; wawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wawa.svg; linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tawa pi wawa linja]]

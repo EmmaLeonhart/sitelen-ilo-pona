@@ -1,0 +1,8 @@
+Representation of "tomo pi ma tomo A Noje" in sitelen ilo pona.
+Sources: tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma-tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-tomo.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; no: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_no.svg; je: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_je.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo pi ma tomo]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol No]]
+[[Category:Toki Pona text containing sound symbol Je]]

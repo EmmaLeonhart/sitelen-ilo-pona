@@ -1,0 +1,8 @@
+Representation of "kulupu:toki Elina" in sitelen ilo pona.
+Sources: e: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xe.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:toki]]
+[[Category:Toki Pona text containing sound symbol E]]
+[[Category:Toki Pona text containing sound symbol Li]]
+[[Category:Toki Pona text containing sound symbol Na]]

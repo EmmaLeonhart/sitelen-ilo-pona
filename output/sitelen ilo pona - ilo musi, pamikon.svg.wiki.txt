@@ -1,0 +1,8 @@
+Representation of "ilo musi Pamikon" in sitelen ilo pona.
+Sources: ilo-musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo-musi.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg; kon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kon.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ilo musi]]
+[[Category:Toki Pona text containing sound symbol Pa]]
+[[Category:Toki Pona text containing sound symbol Mi]]
+[[Category:Toki Pona text containing sound symbol Kon]]

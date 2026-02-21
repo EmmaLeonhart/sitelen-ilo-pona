@@ -1,0 +1,5 @@
+Representation of "tenpo kiwen sinpin insa" in sitelen ilo pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; kiwen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen.svg; sinpin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sinpin.svg; insa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_insa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tenpo kiwen sinpin insa]]

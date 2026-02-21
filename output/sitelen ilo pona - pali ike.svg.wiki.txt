@@ -1,0 +1,5 @@
+Representation of "pali ike" in sitelen ilo pona.
+Sources: pali: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pali.svg; ike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ike.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing pali ike]]

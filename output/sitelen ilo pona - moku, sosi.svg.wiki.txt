@@ -1,0 +1,7 @@
+Representation of "moku Sosi" in sitelen ilo pona.
+Sources: moku: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moku.svg; so: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_so.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing moku]]
+[[Category:Toki Pona text containing sound symbol So]]
+[[Category:Toki Pona text containing sound symbol Si]]

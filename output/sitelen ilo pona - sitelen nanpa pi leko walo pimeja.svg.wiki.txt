@@ -1,0 +1,5 @@
+Representation of "sitelen nanpa pi leko walo pimeja" in sitelen ilo pona.
+Sources: sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; leko: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_leko.svg; walo-pimeja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_walo-pimeja.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sitelen nanpa pi leko walo pimeja]]

@@ -1,0 +1,8 @@
+Representation of "kulupu:ma Nusilan" in sitelen ilo pona.
+Sources: nu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nu.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; lan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:ma]]
+[[Category:Toki Pona text containing sound symbol Nu]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Lan]]

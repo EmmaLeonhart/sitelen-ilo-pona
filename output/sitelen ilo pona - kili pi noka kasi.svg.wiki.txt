@@ -1,0 +1,5 @@
+Representation of "kili pi noka kasi" in sitelen ilo pona.
+Sources: kili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kili.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; noka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_noka.svg; kasi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kasi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kili pi noka kasi]]

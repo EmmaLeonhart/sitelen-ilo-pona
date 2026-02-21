@@ -1,0 +1,7 @@
+Representation of "ma meso pi jan Tokin" in sitelen ilo pona.
+Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; meso: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_meso.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg; kin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kin.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma meso pi jan]]
+[[Category:Toki Pona text containing sound symbol To]]
+[[Category:Toki Pona text containing sound symbol Kin]]

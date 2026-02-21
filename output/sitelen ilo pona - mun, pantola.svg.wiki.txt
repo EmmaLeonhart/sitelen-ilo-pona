@@ -1,0 +1,8 @@
+Representation of "mun Pantola" in sitelen ilo pona.
+Sources: mun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mun.svg; pan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pan.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing mun]]
+[[Category:Toki Pona text containing sound symbol Pan]]
+[[Category:Toki Pona text containing sound symbol To]]
+[[Category:Toki Pona text containing sound symbol La]]

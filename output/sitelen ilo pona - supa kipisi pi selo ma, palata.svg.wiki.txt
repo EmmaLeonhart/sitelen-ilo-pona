@@ -1,0 +1,8 @@
+Representation of "supa kipisi pi selo ma Palata" in sitelen ilo pona.
+Sources: supa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_supa.svg; kipisi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kipisi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; selo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_selo.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing supa kipisi pi selo ma]]
+[[Category:Toki Pona text containing sound symbol Pa]]
+[[Category:Toki Pona text containing sound symbol La]]
+[[Category:Toki Pona text containing sound symbol Ta]]

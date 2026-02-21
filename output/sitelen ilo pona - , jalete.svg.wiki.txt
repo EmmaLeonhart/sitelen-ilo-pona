@@ -1,0 +1,7 @@
+Representation of "Jalete" in sitelen ilo pona.
+Sources: ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg; le: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_le.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sound symbol Ja]]
+[[Category:Toki Pona text containing sound symbol Le]]
+[[Category:Toki Pona text containing sound symbol Te]]

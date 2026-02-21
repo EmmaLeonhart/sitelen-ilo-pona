@@ -1,0 +1,5 @@
+Representation of "kulupu:supa kipisi pi selo ma" in sitelen ilo pona.
+Sources: kipisi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kipisi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; selo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_selo.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:supa kipisi pi selo ma]]

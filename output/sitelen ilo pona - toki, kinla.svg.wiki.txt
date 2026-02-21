@@ -1,0 +1,7 @@
+Representation of "toki Kinla" in sitelen ilo pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; kin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kin.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki]]
+[[Category:Toki Pona text containing sound symbol Kin]]
+[[Category:Toki Pona text containing sound symbol La]]

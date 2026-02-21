@@ -1,0 +1,5 @@
+Representation of "kulupu:ma lon telo" in sitelen ilo pona.
+Sources: lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:ma lon telo]]

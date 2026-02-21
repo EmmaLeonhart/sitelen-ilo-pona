@@ -1,0 +1,5 @@
+Representation of "sijelo tomo pi sinpin nena sama luka tu wan" in sitelen ilo pona.
+Sources: sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg; tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sinpin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sinpin.svg; nena: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nena.svg; sama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sama.svg; luka-tu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_luka-tu.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sijelo tomo pi sinpin nena sama luka tu wan]]

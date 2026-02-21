@@ -1,0 +1,5 @@
+Representation of "jan pi mama mama sama" in sitelen ilo pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; mama-mama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mama-mama.svg; sama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sama.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan pi mama mama sama]]

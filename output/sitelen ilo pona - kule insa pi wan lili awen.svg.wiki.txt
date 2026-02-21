@@ -1,0 +1,5 @@
+Representation of "kule insa pi wan lili awen" in sitelen ilo pona.
+Sources: kule: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kule.svg; insa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_insa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg; awen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_awen.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kule insa pi wan lili awen]]

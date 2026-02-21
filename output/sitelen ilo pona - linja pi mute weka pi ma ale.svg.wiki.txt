@@ -1,0 +1,5 @@
+Representation of "linja pi mute weka pi ma ale" in sitelen ilo pona.
+Sources: linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mute.svg; weka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_weka.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma-ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-ale.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing linja pi mute weka pi ma ale]]

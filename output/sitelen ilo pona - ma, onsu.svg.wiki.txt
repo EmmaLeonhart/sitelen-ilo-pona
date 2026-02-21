@@ -1,0 +1,7 @@
+Representation of "ma Onsu" in sitelen ilo pona.
+Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; on: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xon.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ma]]
+[[Category:Toki Pona text containing sound symbol On]]
+[[Category:Toki Pona text containing sound symbol Su]]

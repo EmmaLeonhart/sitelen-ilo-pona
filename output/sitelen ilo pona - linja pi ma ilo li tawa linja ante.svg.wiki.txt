@@ -1,0 +1,5 @@
+Representation of "linja pi ma ilo li tawa linja ante" in sitelen ilo pona.
+Sources: linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg; ante: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ante.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing linja pi ma ilo li tawa linja ante]]

@@ -1,0 +1,7 @@
+Representation of "ko pan Ata" in sitelen ilo pona.
+Sources: ko: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ko.svg; pan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pan.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ko pan]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Ta]]

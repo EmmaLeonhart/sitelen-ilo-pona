@@ -1,0 +1,10 @@
+Representation of "nasin ilo ActivityPub" in sitelen ilo pona.
+Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; ti: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ti.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; pu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nasin ilo]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Ti]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol T]]
+[[Category:Toki Pona text containing sound symbol Pu]]

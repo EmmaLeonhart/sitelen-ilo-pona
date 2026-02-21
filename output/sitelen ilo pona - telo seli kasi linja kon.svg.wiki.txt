@@ -1,0 +1,5 @@
+Representation of "telo seli kasi linja kon" in sitelen ilo pona.
+Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; seli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seli.svg; kasi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kasi.svg; linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg; kon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kon.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing telo seli kasi linja kon]]

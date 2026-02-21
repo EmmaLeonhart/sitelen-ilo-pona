@@ -1,0 +1,7 @@
+Representation of "mun Wenu" in sitelen ilo pona.
+Sources: mun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mun.svg; we: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_we.svg; nu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing mun]]
+[[Category:Toki Pona text containing sound symbol We]]
+[[Category:Toki Pona text containing sound symbol Nu]]

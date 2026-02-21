@@ -1,0 +1,5 @@
+Representation of "lipu pi soweli suli walo pimeja" in sitelen ilo pona.
+Sources: lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; walo-pimeja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_walo-pimeja.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing lipu pi soweli suli walo pimeja]]

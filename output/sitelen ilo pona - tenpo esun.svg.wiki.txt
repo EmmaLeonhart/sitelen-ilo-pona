@@ -1,0 +1,5 @@
+Representation of "tenpo esun" in sitelen ilo pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; esun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_esun.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tenpo esun]]

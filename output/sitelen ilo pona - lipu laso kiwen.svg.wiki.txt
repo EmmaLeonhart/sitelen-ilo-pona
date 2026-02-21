@@ -1,0 +1,5 @@
+Representation of "lipu laso kiwen" in sitelen ilo pona.
+Sources: lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; laso: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_laso.svg; kiwen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing lipu laso kiwen]]

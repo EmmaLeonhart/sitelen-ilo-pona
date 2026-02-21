@@ -1,0 +1,7 @@
+Representation of "kala Samon" in sitelen ilo pona.
+Sources: kala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kala.svg; sa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sa.svg; mon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mon.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kala]]
+[[Category:Toki Pona text containing sound symbol Sa]]
+[[Category:Toki Pona text containing sound symbol Mon]]

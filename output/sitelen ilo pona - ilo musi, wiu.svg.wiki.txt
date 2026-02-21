@@ -1,0 +1,7 @@
+Representation of "ilo musi Wi U" in sitelen ilo pona.
+Sources: ilo-musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo-musi.svg; wi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wi.svg; u: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ilo musi]]
+[[Category:Toki Pona text containing sound symbol Wi]]
+[[Category:Toki Pona text containing sound symbol U]]

@@ -1,0 +1,5 @@
+Representation of "mije pi palisa unpa ala" in sitelen ilo pona.
+Sources: mije: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mije.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; palisa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_palisa.svg; unpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_unpa.svg; ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ala.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing mije pi palisa unpa ala]]

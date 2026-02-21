@@ -1,0 +1,7 @@
+Representation of "kulupu mama Sasun" in sitelen ilo pona.
+Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; mama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mama.svg; sa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sa.svg; sun: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sun.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu mama]]
+[[Category:Toki Pona text containing sound symbol Sa]]
+[[Category:Toki Pona text containing sound symbol Sun]]

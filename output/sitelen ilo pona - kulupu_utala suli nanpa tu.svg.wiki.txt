@@ -1,0 +1,5 @@
+Representation of "kulupu:utala suli nanpa tu" in sitelen ilo pona.
+Sources: suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:utala suli nanpa tu]]

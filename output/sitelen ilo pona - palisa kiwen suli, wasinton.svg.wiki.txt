@@ -1,0 +1,8 @@
+Representation of "palisa kiwen suli Wasinton" in sitelen ilo pona.
+Sources: palisa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_palisa.svg; kiwen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sin.svg; ton: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ton.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing palisa kiwen suli]]
+[[Category:Toki Pona text containing sound symbol Wa]]
+[[Category:Toki Pona text containing sound symbol Sin]]
+[[Category:Toki Pona text containing sound symbol Ton]]

@@ -1,0 +1,5 @@
+Representation of "jan lon lupa" in sitelen ilo pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; lupa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lupa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan lon lupa]]

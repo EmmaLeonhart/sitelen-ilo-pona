@@ -1,0 +1,5 @@
+Representation of "kasi pi tenpo lete o" in sitelen ilo pona.
+Sources: kasi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kasi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; lete: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lete.svg; o: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_o.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kasi pi tenpo lete o]]

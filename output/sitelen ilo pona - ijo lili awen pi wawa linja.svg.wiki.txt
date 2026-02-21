@@ -1,0 +1,5 @@
+Representation of "ijo lili awen pi wawa linja" in sitelen ilo pona.
+Sources: ijo-lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-lili.svg; awen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_awen.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; wawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wawa.svg; linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ijo lili awen pi wawa linja]]

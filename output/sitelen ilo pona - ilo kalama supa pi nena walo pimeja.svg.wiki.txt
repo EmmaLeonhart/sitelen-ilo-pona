@@ -1,0 +1,5 @@
+Representation of "ilo kalama supa pi nena walo pimeja" in sitelen ilo pona.
+Sources: ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; kalama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama.svg; supa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_supa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; nena: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nena.svg; walo-pimeja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_walo-pimeja.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ilo kalama supa pi nena walo pimeja]]

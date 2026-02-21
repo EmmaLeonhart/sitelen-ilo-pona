@@ -1,0 +1,5 @@
+Representation of "ante suli pi kon ma" in sitelen ilo pona.
+Sources: ante: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ante.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kon.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ante suli pi kon ma]]

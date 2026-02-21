@@ -1,0 +1,5 @@
+Representation of "utala pi tenpo sike ale" in sitelen ilo pona.
+Sources: utala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_utala.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg; ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ale.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing utala pi tenpo sike ale]]

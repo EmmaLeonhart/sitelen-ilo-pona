@@ -1,0 +1,5 @@
+Representation of "kalama musi pi kulupu utala wile" in sitelen ilo pona.
+Sources: kalama-musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama-musi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; utala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_utala.svg; wile: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wile.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kalama musi pi kulupu utala wile]]

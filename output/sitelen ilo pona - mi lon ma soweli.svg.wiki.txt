@@ -1,0 +1,5 @@
+Representation of "mi lon ma soweli" in sitelen ilo pona.
+Sources: mi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mi.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing mi lon ma soweli]]

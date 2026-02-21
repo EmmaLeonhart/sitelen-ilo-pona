@@ -1,0 +1,5 @@
+Representation of "tenpo kiwen sin" in sitelen ilo pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; kiwen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sin.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tenpo kiwen sin]]

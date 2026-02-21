@@ -1,0 +1,5 @@
+Representation of "pipi ike pi wawa nasa" in sitelen ilo pona.
+Sources: pipi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pipi.svg; ike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ike.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; wawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wawa.svg; nasa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing pipi ike pi wawa nasa]]

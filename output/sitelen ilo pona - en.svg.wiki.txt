@@ -1,0 +1,5 @@
+Representation of "en" in sitelen ilo pona.
+Sources: en: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_en.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing en]]

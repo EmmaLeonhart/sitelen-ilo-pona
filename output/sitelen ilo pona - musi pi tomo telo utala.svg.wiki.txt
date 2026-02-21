@@ -1,0 +1,5 @@
+Representation of "musi pi tomo telo utala" in sitelen ilo pona.
+Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; tomo-telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo-telo.svg; utala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_utala.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing musi pi tomo telo utala]]

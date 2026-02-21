@@ -1,0 +1,9 @@
+Representation of "utala Elowison" in sitelen ilo pona.
+Sources: utala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_utala.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xe.svg; lo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lo.svg; wi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wi.svg; son: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_son.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing utala]]
+[[Category:Toki Pona text containing sound symbol E]]
+[[Category:Toki Pona text containing sound symbol Lo]]
+[[Category:Toki Pona text containing sound symbol Wi]]
+[[Category:Toki Pona text containing sound symbol Son]]

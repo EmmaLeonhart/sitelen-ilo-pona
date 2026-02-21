@@ -1,0 +1,6 @@
+Representation of "sitelen tawa pi kulupu Winx" in sitelen ilo pona.
+Sources: sitelen-tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen-tawa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; win: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_win.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sitelen tawa pi kulupu]]
+[[Category:Toki Pona text containing sound symbol Win]]

@@ -1,0 +1,8 @@
+Representation of "kulupu:ma Awawi" in sitelen ilo pona.
+Sources: a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg; wi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:ma]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Wa]]
+[[Category:Toki Pona text containing sound symbol Wi]]

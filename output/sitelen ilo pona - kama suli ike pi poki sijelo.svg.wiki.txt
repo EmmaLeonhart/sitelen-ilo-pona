@@ -1,0 +1,5 @@
+Representation of "kama suli ike pi poki sijelo" in sitelen ilo pona.
+Sources: kama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kama.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; ike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ike.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; poki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_poki.svg; sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kama suli ike pi poki sijelo]]

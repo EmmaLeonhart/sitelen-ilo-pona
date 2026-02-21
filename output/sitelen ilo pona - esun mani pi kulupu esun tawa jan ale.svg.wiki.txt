@@ -1,0 +1,5 @@
+Representation of "esun mani pi kulupu esun tawa jan ale" in sitelen ilo pona.
+Sources: esun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_esun.svg; mani: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mani.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; esun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_esun.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; jan-ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-ale.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing esun mani pi kulupu esun tawa jan ale]]

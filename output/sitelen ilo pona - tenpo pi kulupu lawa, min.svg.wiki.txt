@@ -1,0 +1,6 @@
+Representation of "tenpo pi kulupu lawa Min" in sitelen ilo pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg; min: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_min.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tenpo pi kulupu lawa]]
+[[Category:Toki Pona text containing sound symbol Min]]

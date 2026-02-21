@@ -1,0 +1,5 @@
+Representation of "palisa pi meso sike" in sitelen ilo pona.
+Sources: palisa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_palisa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; meso: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_meso.svg; sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing palisa pi meso sike]]

@@ -1,0 +1,5 @@
+Representation of "kiwen jan pi ken ale" in sitelen ilo pona.
+Sources: kiwen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ken: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ken.svg; ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ale.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kiwen jan pi ken ale]]

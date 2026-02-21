@@ -1,0 +1,5 @@
+Representation of "ilo leko en ilo sike" in sitelen ilo pona.
+Sources: ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; leko: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_leko.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_en.svg; ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ilo leko en ilo sike]]

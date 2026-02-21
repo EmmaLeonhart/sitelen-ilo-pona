@@ -1,0 +1,8 @@
+Representation of "moku kala Majuntan" in sitelen ilo pona.
+Sources: moku: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moku.svg; kala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kala.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; jun: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jun.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing moku kala]]
+[[Category:Toki Pona text containing sound symbol Ma]]
+[[Category:Toki Pona text containing sound symbol Jun]]
+[[Category:Toki Pona text containing sound symbol Tan]]

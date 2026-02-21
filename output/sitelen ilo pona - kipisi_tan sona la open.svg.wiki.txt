@@ -1,0 +1,5 @@
+Representation of "kipisi:tan sona la open" in sitelen ilo pona.
+Sources: sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_la.svg; open: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_open.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kipisi:tan sona la open]]

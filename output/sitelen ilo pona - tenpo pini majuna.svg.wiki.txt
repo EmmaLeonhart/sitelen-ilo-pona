@@ -1,0 +1,5 @@
+Representation of "tenpo pini majuna" in sitelen ilo pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; pini: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pini.svg; majuna: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_majuna.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tenpo pini majuna]]

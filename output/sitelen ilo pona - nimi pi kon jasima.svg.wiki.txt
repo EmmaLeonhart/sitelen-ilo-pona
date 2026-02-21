@@ -1,0 +1,5 @@
+Representation of "nimi pi kon jasima" in sitelen ilo pona.
+Sources: nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kon.svg; jasima: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jasima.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nimi pi kon jasima]]

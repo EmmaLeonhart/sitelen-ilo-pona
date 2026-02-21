@@ -1,0 +1,5 @@
+Representation of "ko jaki telo" in sitelen ilo pona.
+Sources: ko-jaki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ko-jaki.svg; telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ko jaki telo]]

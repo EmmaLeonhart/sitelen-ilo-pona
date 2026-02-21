@@ -1,0 +1,5 @@
+Representation of "tomo pi sitelen tawa" in sitelen ilo pona.
+Sources: tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sitelen-tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen-tawa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tomo pi sitelen tawa]]

@@ -1,0 +1,5 @@
+Representation of "sijelo tomo sinpin" in sitelen ilo pona.
+Sources: sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg; tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; sinpin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sinpin.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sijelo tomo sinpin]]

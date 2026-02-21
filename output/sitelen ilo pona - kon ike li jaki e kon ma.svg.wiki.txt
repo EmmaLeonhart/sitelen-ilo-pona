@@ -1,0 +1,5 @@
+Representation of "kon ike li jaki e kon ma" in sitelen ilo pona.
+Sources: kon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kon.svg; ike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ike.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; jaki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jaki.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; kon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kon.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kon ike li jaki e kon ma]]

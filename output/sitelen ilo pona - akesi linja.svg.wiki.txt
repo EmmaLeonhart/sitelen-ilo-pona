@@ -1,0 +1,5 @@
+Representation of "akesi linja" in sitelen ilo pona.
+Sources: akesi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_akesi.svg; linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing akesi linja]]

@@ -1,0 +1,5 @@
+Representation of "pilin monsuta pi nanpa luka luka tu wan" in sitelen ilo pona.
+Sources: pilin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pilin.svg; monsuta: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_monsuta.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; luka-luka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_luka-luka.svg; tu-wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu-wan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing pilin monsuta pi nanpa luka luka tu wan]]

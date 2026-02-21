@@ -1,0 +1,7 @@
+Representation of "waso Imu" in sitelen ilo pona.
+Sources: waso: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_waso.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; mu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing waso]]
+[[Category:Toki Pona text containing sound symbol I]]
+[[Category:Toki Pona text containing sound symbol Mu]]

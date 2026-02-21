@@ -1,0 +1,5 @@
+Representation of "nanpa pi anpa len (sitelen tawa)" in sitelen ilo pona.
+Sources: nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; anpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_anpa.svg; len: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_len.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nanpa pi anpa len (sitelen tawa)]]

@@ -1,0 +1,5 @@
+Representation of "toki lon poka moli" in sitelen ilo pona.
+Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; poka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_poka.svg; moli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moli.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki lon poka moli]]

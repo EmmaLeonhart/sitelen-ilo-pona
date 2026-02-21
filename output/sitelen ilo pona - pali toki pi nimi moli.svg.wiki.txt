@@ -1,0 +1,5 @@
+Representation of "pali toki pi nimi moli" in sitelen ilo pona.
+Sources: pali: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pali.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg; moli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moli.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing pali toki pi nimi moli]]

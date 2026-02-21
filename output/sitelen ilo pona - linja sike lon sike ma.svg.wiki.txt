@@ -1,0 +1,5 @@
+Representation of "linja sike lon sike ma" in sitelen ilo pona.
+Sources: linja-sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja-sike.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing linja sike lon sike ma]]

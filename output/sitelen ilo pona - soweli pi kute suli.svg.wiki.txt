@@ -1,0 +1,5 @@
+Representation of "soweli pi kute suli" in sitelen ilo pona.
+Sources: soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kute.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing soweli pi kute suli]]

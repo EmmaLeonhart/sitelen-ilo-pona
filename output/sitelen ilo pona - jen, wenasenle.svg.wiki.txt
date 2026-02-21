@@ -1,0 +1,9 @@
+Representation of "jen Wena Senle" in sitelen ilo pona.
+Sources: we: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_we.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg; sen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sen.svg; le: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_le.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jen]]
+[[Category:Toki Pona text containing sound symbol We]]
+[[Category:Toki Pona text containing sound symbol Na]]
+[[Category:Toki Pona text containing sound symbol Sen]]
+[[Category:Toki Pona text containing sound symbol Le]]

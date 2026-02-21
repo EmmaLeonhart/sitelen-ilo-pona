@@ -1,0 +1,5 @@
+Representation of "lipu "tenpo pimeja luka luka ale wan"" in sitelen ilo pona.
+Sources: lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; pimeja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pimeja.svg; luka-luka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_luka-luka.svg; ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ale.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing lipu "tenpo pimeja luka luka ale wan"]]

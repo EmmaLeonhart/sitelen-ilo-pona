@@ -1,0 +1,5 @@
+Representation of "linja lili pi kiwen kon" in sitelen ilo pona.
+Sources: linja-lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja-lili.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kiwen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen.svg; kon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kon.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing linja lili pi kiwen kon]]

@@ -1,0 +1,5 @@
+Representation of "ilo kalama pi linja luka wan" in sitelen ilo pona.
+Sources: ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; kalama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg; luka-wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_luka-wan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ilo kalama pi linja luka wan]]

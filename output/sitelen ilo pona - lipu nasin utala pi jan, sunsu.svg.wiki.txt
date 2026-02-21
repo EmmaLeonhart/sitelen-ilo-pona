@@ -1,0 +1,7 @@
+Representation of "lipu nasin utala pi jan Sun Su" in sitelen ilo pona.
+Sources: lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; utala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_utala.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; sun: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sun.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing lipu nasin utala pi jan]]
+[[Category:Toki Pona text containing sound symbol Sun]]
+[[Category:Toki Pona text containing sound symbol Su]]

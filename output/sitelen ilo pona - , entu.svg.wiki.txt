@@ -1,0 +1,6 @@
+Representation of "Entu" in sitelen ilo pona.
+Sources: en: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xen.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sound symbol En]]
+[[Category:Toki Pona text containing sound symbol Tu]]

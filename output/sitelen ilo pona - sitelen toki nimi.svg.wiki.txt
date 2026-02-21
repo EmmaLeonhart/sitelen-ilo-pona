@@ -1,0 +1,5 @@
+Representation of "sitelen toki nimi" in sitelen ilo pona.
+Sources: sitelen-toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen-toki.svg; nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sitelen toki nimi]]

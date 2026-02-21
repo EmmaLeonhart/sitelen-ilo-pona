@@ -1,0 +1,8 @@
+Representation of "jan Kin Jonsi" in sitelen ilo pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; kin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kin.svg; jon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jon.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan]]
+[[Category:Toki Pona text containing sound symbol Kin]]
+[[Category:Toki Pona text containing sound symbol Jon]]
+[[Category:Toki Pona text containing sound symbol Si]]

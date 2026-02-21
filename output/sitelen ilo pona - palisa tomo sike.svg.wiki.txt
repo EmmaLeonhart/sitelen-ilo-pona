@@ -1,0 +1,5 @@
+Representation of "palisa tomo sike" in sitelen ilo pona.
+Sources: palisa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_palisa.svg; tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing palisa tomo sike]]

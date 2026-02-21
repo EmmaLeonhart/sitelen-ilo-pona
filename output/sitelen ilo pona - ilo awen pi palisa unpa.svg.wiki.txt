@@ -1,0 +1,5 @@
+Representation of "ilo awen pi palisa unpa" in sitelen ilo pona.
+Sources: ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; awen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_awen.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; palisa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_palisa.svg; unpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_unpa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ilo awen pi palisa unpa]]

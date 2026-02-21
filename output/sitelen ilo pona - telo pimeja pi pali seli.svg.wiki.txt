@@ -1,0 +1,5 @@
+Representation of "telo pimeja pi pali seli" in sitelen ilo pona.
+Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; pimeja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pimeja.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pali: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pali.svg; seli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seli.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing telo pimeja pi pali seli]]

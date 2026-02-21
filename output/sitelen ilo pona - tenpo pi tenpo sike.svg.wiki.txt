@@ -1,0 +1,5 @@
+Representation of "tenpo pi tenpo sike" in sitelen ilo pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tenpo pi tenpo sike]]

@@ -1,0 +1,5 @@
+Representation of "kulupu jan pi pali pi ilo suli en tenpo kama ona (lipu)" in sitelen ilo pona.
+Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pali: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pali.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_en.svg; tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; kama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kama.svg; ona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ona.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu jan pi pali pi ilo suli en tenpo kama ona (lipu)]]

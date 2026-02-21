@@ -1,0 +1,5 @@
+Representation of "sitelen anu kalama lon insa lawa" in sitelen ilo pona.
+Sources: sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen.svg; anu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_anu.svg; kalama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; insa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_insa.svg; lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sitelen anu kalama lon insa lawa]]

@@ -1,0 +1,5 @@
+Representation of "sitelen tawa "jan taso li lon tomo"" in sitelen ilo pona.
+Sources: sitelen-tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen-tawa.svg; taso: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_taso.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sitelen tawa "jan taso li lon tomo"]]

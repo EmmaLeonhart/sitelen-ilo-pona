@@ -1,0 +1,5 @@
+Representation of "nimi ali pu n a" in sitelen ilo pona.
+Sources: nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg; pu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pu.svg; n: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_n.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_a.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nimi ali pu n a]]

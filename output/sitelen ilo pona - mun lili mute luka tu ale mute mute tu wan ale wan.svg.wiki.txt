@@ -1,0 +1,5 @@
+Representation of "mun lili mute luka tu ale mute mute tu wan ale wan" in sitelen ilo pona.
+Sources: mun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mun.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg; mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mute.svg; luka-tu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_luka-tu.svg; ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ale.svg; mute-mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mute-mute.svg; tu-wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu-wan.svg; ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ale.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing mun lili mute luka tu ale mute mute tu wan ale wan]]

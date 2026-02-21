@@ -1,0 +1,5 @@
+Representation of "soweli suwi lape pi kasi suli" in sitelen ilo pona.
+Sources: soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg; suwi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suwi.svg; lape: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lape.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kasi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kasi.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing soweli suwi lape pi kasi suli]]

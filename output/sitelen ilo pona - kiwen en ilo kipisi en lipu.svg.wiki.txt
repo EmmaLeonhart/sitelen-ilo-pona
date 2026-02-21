@@ -1,0 +1,5 @@
+Representation of "kiwen en ilo kipisi en lipu" in sitelen ilo pona.
+Sources: kiwen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_en.svg; ilo-kipisi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo-kipisi.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_en.svg; lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kiwen en ilo kipisi en lipu]]

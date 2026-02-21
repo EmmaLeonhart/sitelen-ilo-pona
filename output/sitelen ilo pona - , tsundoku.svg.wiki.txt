@@ -1,0 +1,8 @@
+Representation of "Tsundoku" in sitelen ilo pona.
+Sources: sun: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sun.svg; o: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xo.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sound symbol T]]
+[[Category:Toki Pona text containing sound symbol Sun]]
+[[Category:Toki Pona text containing sound symbol O]]
+[[Category:Toki Pona text containing sound symbol Ku]]

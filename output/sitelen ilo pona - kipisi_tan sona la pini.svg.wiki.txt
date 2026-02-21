@@ -1,0 +1,5 @@
+Representation of "kipisi:tan sona la pini" in sitelen ilo pona.
+Sources: sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_la.svg; pini: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pini.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kipisi:tan sona la pini]]

@@ -1,0 +1,9 @@
+Representation of "moku pan Nasi Patan" in sitelen ilo pona.
+Sources: moku: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moku.svg; pan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pan.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing moku pan]]
+[[Category:Toki Pona text containing sound symbol Na]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Pa]]
+[[Category:Toki Pona text containing sound symbol Tan]]

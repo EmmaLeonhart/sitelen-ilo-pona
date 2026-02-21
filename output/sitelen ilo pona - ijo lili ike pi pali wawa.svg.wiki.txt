@@ -1,0 +1,5 @@
+Representation of "ijo lili ike pi pali wawa" in sitelen ilo pona.
+Sources: ijo-lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-lili.svg; ike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ike.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pali: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pali.svg; wawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wawa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ijo lili ike pi pali wawa]]

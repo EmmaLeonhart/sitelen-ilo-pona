@@ -1,0 +1,8 @@
+Representation of "nasin nanpa Lasina" in sitelen ilo pona.
+Sources: nasin-nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin-nanpa.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nasin nanpa]]
+[[Category:Toki Pona text containing sound symbol La]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Na]]

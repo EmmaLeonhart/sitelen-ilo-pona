@@ -1,0 +1,7 @@
+Representation of "nasin nanpa Sutu" in sitelen ilo pona.
+Sources: nasin-nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin-nanpa.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nasin nanpa]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol Tu]]

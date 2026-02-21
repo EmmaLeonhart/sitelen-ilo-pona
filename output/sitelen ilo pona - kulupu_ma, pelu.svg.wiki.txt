@@ -1,0 +1,7 @@
+Representation of "kulupu:ma Pelu" in sitelen ilo pona.
+Sources: pe: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pe.svg; lu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:ma]]
+[[Category:Toki Pona text containing sound symbol Pe]]
+[[Category:Toki Pona text containing sound symbol Lu]]

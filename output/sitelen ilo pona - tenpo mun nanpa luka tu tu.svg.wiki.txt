@@ -1,0 +1,5 @@
+Representation of "tenpo mun nanpa luka tu tu" in sitelen ilo pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; mun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mun.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; luka-tu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_luka-tu.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tenpo mun nanpa luka tu tu]]

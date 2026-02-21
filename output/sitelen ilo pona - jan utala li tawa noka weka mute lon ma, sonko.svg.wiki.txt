@@ -1,0 +1,7 @@
+Representation of "jan utala li tawa noka weka mute lon ma Sonko" in sitelen ilo pona.
+Sources: jan-utala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-utala.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; noka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_noka.svg; weka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_weka.svg; mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mute.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; son: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_son.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan utala li tawa noka weka mute lon ma]]
+[[Category:Toki Pona text containing sound symbol Son]]
+[[Category:Toki Pona text containing sound symbol Ko]]

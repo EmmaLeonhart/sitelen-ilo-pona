@@ -1,0 +1,5 @@
+Representation of "weka suno lon kon" in sitelen ilo pona.
+Sources: weka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_weka.svg; suno: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suno.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; kon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kon.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing weka suno lon kon]]

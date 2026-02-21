@@ -1,0 +1,5 @@
+Representation of "suno pi toki pona" in sitelen ilo pona.
+Sources: suno: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suno.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; toki-pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki-pona.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing suno pi toki pona]]

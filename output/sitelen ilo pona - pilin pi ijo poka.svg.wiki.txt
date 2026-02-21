@@ -1,0 +1,5 @@
+Representation of "pilin pi ijo poka" in sitelen ilo pona.
+Sources: pilin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pilin.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ijo-poka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-poka.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing pilin pi ijo poka]]

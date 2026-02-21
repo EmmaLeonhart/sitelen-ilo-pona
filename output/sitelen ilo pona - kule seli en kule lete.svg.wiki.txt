@@ -1,0 +1,5 @@
+Representation of "kule seli en kule lete" in sitelen ilo pona.
+Sources: kule: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kule.svg; seli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seli.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_en.svg; kule: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kule.svg; lete: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lete.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kule seli en kule lete]]

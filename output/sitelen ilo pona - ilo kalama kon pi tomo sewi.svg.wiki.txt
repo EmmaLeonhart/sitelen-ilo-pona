@@ -1,0 +1,5 @@
+Representation of "ilo kalama kon pi tomo sewi" in sitelen ilo pona.
+Sources: ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; kalama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama.svg; kon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kon.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; tomo-sewi: https://commons.wikimedia.org/wiki/File:Tomo_sewi_old.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ilo kalama kon pi tomo sewi]]

@@ -1,0 +1,5 @@
+Representation of "waso alasa pi lawa walo" in sitelen ilo pona.
+Sources: waso: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_waso.svg; alasa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_alasa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg; walo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_walo.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing waso alasa pi lawa walo]]

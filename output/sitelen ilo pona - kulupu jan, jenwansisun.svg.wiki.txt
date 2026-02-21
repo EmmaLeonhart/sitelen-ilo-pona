@@ -1,0 +1,9 @@
+Representation of "kulupu jan Jenwansisun" in sitelen ilo pona.
+Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; jen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jen.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wan.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; sun: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sun.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu jan]]
+[[Category:Toki Pona text containing sound symbol Jen]]
+[[Category:Toki Pona text containing sound symbol Wan]]
+[[Category:Toki Pona text containing sound symbol Si]]
+[[Category:Toki Pona text containing sound symbol Sun]]

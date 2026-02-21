@@ -1,0 +1,5 @@
+Representation of "jaki lili pi poki sijelo lili" in sitelen ilo pona.
+Sources: jaki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jaki.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; poki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_poki.svg; sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jaki lili pi poki sijelo lili]]

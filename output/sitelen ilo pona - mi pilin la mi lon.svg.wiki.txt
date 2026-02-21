@@ -1,0 +1,5 @@
+Representation of "mi pilin la mi lon" in sitelen ilo pona.
+Sources: mi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mi.svg; pilin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pilin.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_la.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mi.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing mi pilin la mi lon]]

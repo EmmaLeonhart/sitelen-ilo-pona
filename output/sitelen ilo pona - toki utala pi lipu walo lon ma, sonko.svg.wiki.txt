@@ -1,0 +1,7 @@
+Representation of "toki utala pi lipu walo lon ma Sonko" in sitelen ilo pona.
+Sources: toki-utala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki-utala.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; walo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_walo.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; son: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_son.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing toki utala pi lipu walo lon ma]]
+[[Category:Toki Pona text containing sound symbol Son]]
+[[Category:Toki Pona text containing sound symbol Ko]]

@@ -1,0 +1,5 @@
+Representation of "jan pona tawa jan ale" in sitelen ilo pona.
+Sources: jan-pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-pona.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; jan-ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-ale.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan pona tawa jan ale]]

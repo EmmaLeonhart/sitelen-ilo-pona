@@ -1,0 +1,5 @@
+Representation of "telo wawa pimeja" in sitelen ilo pona.
+Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; wawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wawa.svg; pimeja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pimeja.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing telo wawa pimeja]]

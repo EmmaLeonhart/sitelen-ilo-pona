@@ -1,0 +1,7 @@
+Representation of "wan Tansin" in sitelen ilo pona.
+Sources: wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tan.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sin.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing wan]]
+[[Category:Toki Pona text containing sound symbol Tan]]
+[[Category:Toki Pona text containing sound symbol Sin]]

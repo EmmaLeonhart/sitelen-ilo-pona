@@ -1,0 +1,8 @@
+Representation of "jan lili Mansukin" in sitelen ilo pona.
+Sources: jan-lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-lili.svg; man: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_man.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; kin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kin.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan lili]]
+[[Category:Toki Pona text containing sound symbol Man]]
+[[Category:Toki Pona text containing sound symbol Su]]
+[[Category:Toki Pona text containing sound symbol Kin]]

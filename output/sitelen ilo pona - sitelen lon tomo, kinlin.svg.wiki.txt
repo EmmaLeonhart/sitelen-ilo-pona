@@ -1,0 +1,7 @@
+Representation of "sitelen lon tomo Kinlin" in sitelen ilo pona.
+Sources: sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; kin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kin.svg; lin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lin.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sitelen lon tomo]]
+[[Category:Toki Pona text containing sound symbol Kin]]
+[[Category:Toki Pona text containing sound symbol Lin]]

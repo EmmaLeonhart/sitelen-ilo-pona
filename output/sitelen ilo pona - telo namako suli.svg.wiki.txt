@@ -1,0 +1,5 @@
+Representation of "telo namako suli" in sitelen ilo pona.
+Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; namako: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_namako.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing telo namako suli]]

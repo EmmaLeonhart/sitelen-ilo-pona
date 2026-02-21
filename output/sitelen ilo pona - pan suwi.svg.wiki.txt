@@ -1,0 +1,5 @@
+Representation of "pan suwi" in sitelen ilo pona.
+Sources: pan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pan.svg; suwi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suwi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing pan suwi]]

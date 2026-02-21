@@ -1,0 +1,5 @@
+Representation of "sike sijelo pi telo unpa" in sitelen ilo pona.
+Sources: sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg; sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; unpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_unpa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sike sijelo pi telo unpa]]

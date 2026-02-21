@@ -1,0 +1,5 @@
+Representation of "jan tawa ike" in sitelen ilo pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; ike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ike.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan tawa ike]]

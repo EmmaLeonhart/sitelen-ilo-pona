@@ -1,0 +1,5 @@
+Representation of "telo moku pi lipu kasi" in sitelen ilo pona.
+Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; moku: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moku.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; lipu-kasi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu-kasi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing telo moku pi lipu kasi]]

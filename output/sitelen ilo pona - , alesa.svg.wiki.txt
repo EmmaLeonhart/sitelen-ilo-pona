@@ -1,0 +1,7 @@
+Representation of "Alesa" in sitelen ilo pona.
+Sources: a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; le: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_le.svg; sa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sound symbol A]]
+[[Category:Toki Pona text containing sound symbol Le]]
+[[Category:Toki Pona text containing sound symbol Sa]]

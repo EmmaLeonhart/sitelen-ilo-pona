@@ -1,0 +1,5 @@
+Representation of "musi pi sike noka" in sitelen ilo pona.
+Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg; noka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_noka.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing musi pi sike noka]]

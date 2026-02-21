@@ -1,0 +1,5 @@
+Representation of "kalama pona pi tawa pilin pona" in sitelen ilo pona.
+Sources: kalama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama.svg; pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pona.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; pilin-pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pilin-pona.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kalama pona pi tawa pilin pona]]

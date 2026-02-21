@@ -1,0 +1,7 @@
+Representation of "Senipe" in sitelen ilo pona.
+Sources: se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ni.svg; pe: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pe.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sound symbol Se]]
+[[Category:Toki Pona text containing sound symbol Ni]]
+[[Category:Toki Pona text containing sound symbol Pe]]

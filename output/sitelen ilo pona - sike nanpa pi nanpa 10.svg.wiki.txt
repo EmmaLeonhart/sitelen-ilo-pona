@@ -1,0 +1,5 @@
+Representation of "sike nanpa pi nanpa 10" in sitelen ilo pona.
+Sources: sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sike nanpa pi nanpa 10]]
