@@ -67,7 +67,8 @@
       "Bash(gh run view:*)",
       "Bash(\"C:/Users/Immanuelle/AppData/Local/Programs/Python/Python313/python.exe\" scripts/generate_gallery.py)",
       "Bash(git fetch:*)",
-      "Bash(git merge:*)"
+      "Bash(git merge:*)",
+      "Bash(\"C:/Users/Immanuelle/AppData/Local/Programs/Python/Python313/python.exe\" scripts/batch_generate_svgs.py)"
     ]
   }
 }
