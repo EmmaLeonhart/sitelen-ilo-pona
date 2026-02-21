@@ -4,12 +4,14 @@ Generate a gallery HTML page for the Wikidata-generated sitelen kalama pona SVGs
 Produces gallery.html with a searchable grid of all output/ SVGs.
 """
 
+import json
 from pathlib import Path
 from urllib.parse import quote
 
 ROOT_DIR = Path(__file__).parent.parent
 OUTPUT_DIR = ROOT_DIR / 'output'
 OUTPUT_FILE = ROOT_DIR / 'gallery.html'
+INDEX_FILE = ROOT_DIR / 'data' / 'output_index.json'
 
 PREFIX = 'sitelen kalama pona - '
 
@@ -20,6 +22,11 @@ def display_label(raw_label):
     return raw_label
 
 def main():
+    qid_map = {}
+    if INDEX_FILE.exists():
+        with open(INDEX_FILE, encoding='utf-8') as f:
+            qid_map = json.load(f)
+
     svgs = sorted(
         f for f in OUTPUT_DIR.glob('sitelen kalama pona - *.svg')
         if not f.name.endswith('.wiki.txt')
@@ -30,12 +37,22 @@ def main():
         raw_label = svg_file.stem.replace(PREFIX, '')
         label = display_label(raw_label)
         rel_path = 'output/' + quote(svg_file.name, safe=' ,()-')
-        cards.append((label, rel_path))
+        qid = qid_map.get(svg_file.name)
+        cards.append((label, rel_path, qid))
 
-    card_html = '\n'.join(
-        f'    <div class="card"><img loading="lazy" src="{p}" alt="{l}"><span>{l}</span></div>'
-        for l, p in cards
-    )
+    def card_html_for(label, rel_path, qid):
+        link_html = ''
+        if qid:
+            link_html = f'<a class="wd" href="https://www.wikidata.org/wiki/{qid}" target="_blank" rel="noopener">{qid}</a>'
+        return (
+            f'    <div class="card">'
+            f'<img loading="lazy" src="{rel_path}" alt="{label}">'
+            f'<span>{label}</span>'
+            f'{link_html}'
+            f'</div>'
+        )
+
+    card_html = '\n'.join(card_html_for(l, p, q) for l, p, q in cards)
 
     html = f'''<!DOCTYPE html>
 <html lang="en">
@@ -55,6 +72,8 @@ def main():
     .card {{ background: white; padding: 0.75rem; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.08); text-align: center; }}
     .card img {{ width: 100%; height: 80px; object-fit: contain; margin-bottom: 0.4rem; }}
     .card span {{ font-size: 0.72rem; color: #555; display: block; word-break: break-word; }}
+    .card a.wd {{ font-size: 0.65rem; color: #0066cc; display: block; margin-top: 0.2rem; }}
+    .card a.wd:hover {{ text-decoration: underline; }}
     .hidden {{ display: none !important; }}
   </style>
 </head>

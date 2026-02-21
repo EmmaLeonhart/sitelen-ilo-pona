@@ -8,6 +8,8 @@ Usage:
     python batch_generate_svgs.py
 """
 
+import csv
+import json
 import sys
 from pathlib import Path
 
@@ -18,30 +20,40 @@ ROOT_DIR = SCRIPT_DIR.parent
 
 
 def main():
-    names_file = ROOT_DIR / 'data' / 'wikidata_toki_pona_names.txt'
-    if not names_file.exists():
-        print(f'Missing {names_file} - run process_wikidata_toki_pona.py first',
+    csv_file = ROOT_DIR / 'data' / 'wikidata_tok_labels.csv'
+    if not csv_file.exists():
+        print(f'Missing {csv_file} - run fetch_wikidata_sparql.py first',
               file=sys.stderr)
         sys.exit(1)
 
-    titles = [line.strip() for line in
-              names_file.read_text(encoding='utf-8').splitlines()
-              if line.strip()]
+    rows = []
+    with open(csv_file, encoding='utf-8', newline='') as f:
+        for row in csv.DictReader(f):
+            rows.append({'qid': row['qid'], 'label': row['label']})
 
-    print(f'Generating SVGs for {len(titles)} titles...\n')
+    print(f'Generating SVGs for {len(rows)} titles...\n')
 
     success = 0
     failed = []
+    index = {}  # filename -> qid
 
-    for i, title in enumerate(titles, 1):
-        print(f'[{i}/{len(titles)}] {title}')
+    for i, row in enumerate(rows, 1):
+        label, qid = row['label'], row['qid']
+        print(f'[{i}/{len(rows)}] {label}')
         try:
-            generate(title)
+            output_path = generate(label)
+            if output_path:
+                index[output_path.name] = qid
             success += 1
         except Exception as exc:
             print(f'  ERROR: {exc}')
-            failed.append((title, str(exc)))
+            failed.append((label, str(exc)))
         print()
+
+    index_path = ROOT_DIR / 'data' / 'output_index.json'
+    with open(index_path, 'w', encoding='utf-8') as f:
+        json.dump(index, f, ensure_ascii=False, indent=None)
+    print(f'Wrote {index_path} ({len(index)} entries)')
 
     print(f'\nDone! {success} succeeded, {len(failed)} failed.')
     if failed:
