@@ -1,5 +1,0 @@
-Representation of "soweli alasa walo pimeja" in sitelen kalama pona.
-Sources: soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg; alasa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_alasa.svg; walo-pimeja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_walo-pimeja.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing soweli alasa walo pimeja]]

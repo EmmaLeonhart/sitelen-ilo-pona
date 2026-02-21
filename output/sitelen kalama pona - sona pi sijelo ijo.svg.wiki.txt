@@ -1,5 +1,0 @@
-Representation of "sona pi sijelo ijo" in sitelen kalama pona.
-Sources: sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg; ijo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sona pi sijelo ijo]]

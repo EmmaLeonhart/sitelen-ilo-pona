@@ -1,5 +1,0 @@
-Representation of "poka open" in sitelen kalama pona.
-Sources: poka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_poka.svg; open: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_open.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing poka open]]

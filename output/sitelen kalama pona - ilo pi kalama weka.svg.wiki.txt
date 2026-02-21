@@ -1,5 +1,0 @@
-Representation of "ilo pi kalama weka" in sitelen kalama pona.
-Sources: ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kalama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama.svg; weka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_weka.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ilo pi kalama weka]]

@@ -1,5 +1,0 @@
-Representation of "mun lili mute" in sitelen kalama pona.
-Sources: mun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mun.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg; mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mute.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing mun lili mute]]

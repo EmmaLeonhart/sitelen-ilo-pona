@@ -1,5 +1,0 @@
-Representation of "nena supa leko" in sitelen kalama pona.
-Sources: nena: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nena.svg; supa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_supa.svg; leko: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_leko.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nena supa leko]]

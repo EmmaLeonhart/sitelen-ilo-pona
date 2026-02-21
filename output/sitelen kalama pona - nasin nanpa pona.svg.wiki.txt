@@ -1,5 +1,0 @@
-Representation of "nasin nanpa pona" in sitelen kalama pona.
-Sources: nasin-nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin-nanpa.svg; pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pona.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nasin nanpa pona]]

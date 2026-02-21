@@ -1,5 +1,0 @@
-Representation of "tenpo lili" in sitelen kalama pona.
-Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing tenpo lili]]

@@ -1,5 +1,0 @@
-Representation of "telo nasin" in sitelen kalama pona.
-Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing telo nasin]]

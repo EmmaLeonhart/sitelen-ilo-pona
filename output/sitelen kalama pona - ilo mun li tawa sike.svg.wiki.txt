@@ -1,5 +1,0 @@
-Representation of "ilo mun li tawa sike" in sitelen kalama pona.
-Sources: ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; mun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mun.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ilo mun li tawa sike]]

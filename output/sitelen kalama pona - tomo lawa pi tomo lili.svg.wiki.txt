@@ -1,5 +1,0 @@
-Representation of "tomo lawa pi tomo lili" in sitelen kalama pona.
-Sources: tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing tomo lawa pi tomo lili]]

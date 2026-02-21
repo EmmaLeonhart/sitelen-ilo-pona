@@ -1,5 +1,0 @@
-Representation of "ike tawa li pakala e ilo awen pi sijelo jan" in sitelen kalama pona.
-Sources: ike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ike.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; pakala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pakala.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; awen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_awen.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ike tawa li pakala e ilo awen pi sijelo jan]]

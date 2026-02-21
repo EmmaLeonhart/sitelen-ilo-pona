@@ -1,5 +1,0 @@
-Representation of "sijelo pi ken ala kipisi" in sitelen kalama pona.
-Sources: sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ken: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ken.svg; ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ala.svg; kipisi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kipisi.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sijelo pi ken ala kipisi]]

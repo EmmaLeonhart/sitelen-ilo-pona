@@ -1,5 +1,0 @@
-Representation of "tomo tawa linja" in sitelen kalama pona.
-Sources: tomo-tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo-tawa.svg; linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing tomo tawa linja]]

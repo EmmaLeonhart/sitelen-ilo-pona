@@ -1,5 +1,0 @@
-Representation of "supa pi telo suli" in sitelen kalama pona.
-Sources: supa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_supa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing supa pi telo suli]]

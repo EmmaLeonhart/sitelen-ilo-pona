@@ -1,5 +1,0 @@
-Representation of "akesi suli pi nasin jan" in sitelen kalama pona.
-Sources: akesi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_akesi.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing akesi suli pi nasin jan]]

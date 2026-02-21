@@ -1,5 +1,0 @@
-Representation of "linja telo" in sitelen kalama pona.
-Sources: linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg; telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing linja telo]]

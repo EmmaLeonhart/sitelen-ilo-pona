@@ -1,5 +1,0 @@
-Representation of "ijo lili pi wan awen nanpa 8" in sitelen kalama pona.
-Sources: ijo-lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-lili.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg; awen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_awen.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ijo lili pi wan awen nanpa 8]]

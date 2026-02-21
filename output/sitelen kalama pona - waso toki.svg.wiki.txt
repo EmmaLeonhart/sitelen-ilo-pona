@@ -1,5 +1,0 @@
-Representation of "waso toki" in sitelen kalama pona.
-Sources: waso: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_waso.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing waso toki]]

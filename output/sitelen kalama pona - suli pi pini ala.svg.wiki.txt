@@ -1,5 +1,0 @@
-Representation of "suli pi pini ala" in sitelen kalama pona.
-Sources: suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pini: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pini.svg; ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ala.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing suli pi pini ala]]

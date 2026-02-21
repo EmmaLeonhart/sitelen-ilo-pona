@@ -1,7 +1,7 @@
 """
-Batch generate sitelen kalama pona SVGs for all toki pona Wikipedia titles.
+Batch generate sitelen ilo pona SVGs for all toki pona Wikipedia titles.
 
-Reads wikidata_toki_pona_names.txt (one title per line) and runs
+Reads wikidata_tok_labels.csv (qid, label, tok_title) and runs
 generate_sitelen_kalama_pona.generate() for each one.
 
 Usage:
@@ -29,21 +29,25 @@ def main():
     rows = []
     with open(csv_file, encoding='utf-8', newline='') as f:
         for row in csv.DictReader(f):
-            rows.append({'qid': row['qid'], 'label': row['label']})
+            rows.append({
+                'qid': row['qid'],
+                'label': row['label'],
+                'tok_title': row.get('tok_title', ''),
+            })
 
     print(f'Generating SVGs for {len(rows)} titles...\n')
 
     success = 0
     failed = []
-    index = {}  # filename -> qid
+    index = {}  # filename -> {qid, tok_title}
 
     for i, row in enumerate(rows, 1):
-        label, qid = row['label'], row['qid']
+        label, qid, tok_title = row['label'], row['qid'], row['tok_title']
         print(f'[{i}/{len(rows)}] {label}')
         try:
             output_path = generate(label)
             if output_path:
-                index[output_path.name] = qid
+                index[output_path.name] = {'qid': qid, 'tok_title': tok_title}
             success += 1
         except Exception as exc:
             print(f'  ERROR: {exc}')

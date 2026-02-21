@@ -1,5 +1,0 @@
-Representation of "lupa pi weka jaki" in sitelen kalama pona.
-Sources: lupa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lupa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; weka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_weka.svg; jaki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jaki.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing lupa pi weka jaki]]

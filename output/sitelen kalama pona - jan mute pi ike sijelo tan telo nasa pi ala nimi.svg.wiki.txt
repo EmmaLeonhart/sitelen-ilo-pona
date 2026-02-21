@@ -1,5 +1,0 @@
-Representation of "jan mute pi ike sijelo tan telo nasa pi ala nimi" in sitelen kalama pona.
-Sources: jan-mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-mute.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ike.svg; sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg; telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; nasa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ala.svg; nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing jan mute pi ike sijelo tan telo nasa pi ala nimi]]

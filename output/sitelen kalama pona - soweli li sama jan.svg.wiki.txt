@@ -1,5 +1,0 @@
-Representation of "soweli li sama jan" in sitelen kalama pona.
-Sources: soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; sama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sama.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing soweli li sama jan]]

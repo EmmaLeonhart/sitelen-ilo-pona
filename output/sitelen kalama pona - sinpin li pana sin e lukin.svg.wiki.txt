@@ -1,5 +1,0 @@
-Representation of "sinpin li pana sin e lukin" in sitelen kalama pona.
-Sources: sinpin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sinpin.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; pana: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pana.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sin.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; lukin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lukin.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sinpin li pana sin e lukin]]

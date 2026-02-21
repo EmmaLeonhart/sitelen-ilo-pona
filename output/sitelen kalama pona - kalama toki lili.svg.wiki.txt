@@ -1,5 +1,0 @@
-Representation of "kalama toki lili" in sitelen kalama pona.
-Sources: kalama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing kalama toki lili]]

@@ -1,5 +1,0 @@
-Representation of "soweli pi noka pona" in sitelen kalama pona.
-Sources: soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; noka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_noka.svg; pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pona.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing soweli pi noka pona]]

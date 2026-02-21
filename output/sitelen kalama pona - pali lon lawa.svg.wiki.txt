@@ -1,5 +1,0 @@
-Representation of "pali lon lawa" in sitelen kalama pona.
-Sources: pali: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pali.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing pali lon lawa]]

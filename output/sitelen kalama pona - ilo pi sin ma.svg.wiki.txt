@@ -1,5 +1,0 @@
-Representation of "ilo pi sin ma" in sitelen kalama pona.
-Sources: ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sin.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ilo pi sin ma]]

@@ -1,5 +1,0 @@
-Representation of "ale pi lon ala" in sitelen kalama pona.
-Sources: ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ale.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ala.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ale pi lon ala]]

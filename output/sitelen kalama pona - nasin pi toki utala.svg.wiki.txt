@@ -1,5 +1,0 @@
-Representation of "nasin pi toki utala" in sitelen kalama pona.
-Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; toki-utala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki-utala.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nasin pi toki utala]]

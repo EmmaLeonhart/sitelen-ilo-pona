@@ -1,5 +1,0 @@
-Representation of "mama pi mi mute o" in sitelen kalama pona.
-Sources: mama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mama.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mi.svg; mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mute.svg; o: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_o.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing mama pi mi mute o]]

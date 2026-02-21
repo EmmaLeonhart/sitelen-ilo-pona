@@ -1,5 +1,0 @@
-Representation of "musi moku" in sitelen kalama pona.
-Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; moku: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moku.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing musi moku]]

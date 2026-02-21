@@ -1,5 +1,0 @@
-Representation of "linja suno" in sitelen kalama pona.
-Sources: linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg; suno: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suno.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing linja suno]]

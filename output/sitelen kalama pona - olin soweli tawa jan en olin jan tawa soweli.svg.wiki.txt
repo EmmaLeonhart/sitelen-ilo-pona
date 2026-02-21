@@ -1,5 +1,0 @@
-Representation of "olin soweli tawa jan en olin jan tawa soweli." in sitelen kalama pona.
-Sources: olin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_olin.svg; soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_en.svg; olin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_olin.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing olin soweli tawa jan en olin jan tawa soweli.]]

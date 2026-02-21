@@ -1,5 +1,0 @@
-Representation of "kulupu mun suli" in sitelen kalama pona.
-Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; mun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mun.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing kulupu mun suli]]

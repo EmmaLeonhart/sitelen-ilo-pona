@@ -1,5 +1,0 @@
-Representation of "lawa pi ken ala pilin e ijo wan taso" in sitelen kalama pona.
-Sources: lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ken: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ken.svg; ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ala.svg; pilin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pilin.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; ijo-wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-wan.svg; taso: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_taso.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing lawa pi ken ala pilin e ijo wan taso]]

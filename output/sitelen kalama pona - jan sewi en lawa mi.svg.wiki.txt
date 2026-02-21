@@ -1,5 +1,0 @@
-Representation of "jan sewi en lawa mi" in sitelen kalama pona.
-Sources: jan-sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan-sewi.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_en.svg; lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mi.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing jan sewi en lawa mi]]

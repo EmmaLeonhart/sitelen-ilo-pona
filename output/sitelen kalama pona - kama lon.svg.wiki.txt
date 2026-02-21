@@ -1,5 +1,0 @@
-Representation of "kama lon" in sitelen kalama pona.
-Sources: kama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kama.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing kama lon]]

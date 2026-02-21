@@ -1,5 +1,0 @@
-Representation of "telo nasa tan kili sike lili" in sitelen kalama pona.
-Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; nasa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasa.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg; kili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kili.svg; sike-lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike-lili.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing telo nasa tan kili sike lili]]

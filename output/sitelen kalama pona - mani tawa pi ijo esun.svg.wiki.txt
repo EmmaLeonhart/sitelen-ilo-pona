@@ -1,5 +1,0 @@
-Representation of "mani tawa pi ijo esun" in sitelen kalama pona.
-Sources: mani: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mani.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ijo-esun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-esun.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing mani tawa pi ijo esun]]

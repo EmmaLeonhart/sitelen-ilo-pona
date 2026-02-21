@@ -1,5 +1,0 @@
-Representation of "wan insa nasa" in sitelen kalama pona.
-Sources: wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg; insa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_insa.svg; nasa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasa.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing wan insa nasa]]

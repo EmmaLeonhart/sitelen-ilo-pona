@@ -1,5 +1,0 @@
-Representation of "musi "kasi en jan moli li utala"" in sitelen kalama pona.
-Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_en.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; moli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moli.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing musi "kasi en jan moli li utala"]]

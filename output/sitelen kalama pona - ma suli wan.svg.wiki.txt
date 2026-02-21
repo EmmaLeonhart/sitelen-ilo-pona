@@ -1,5 +1,0 @@
-Representation of "ma suli wan" in sitelen kalama pona.
-Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma suli wan]]

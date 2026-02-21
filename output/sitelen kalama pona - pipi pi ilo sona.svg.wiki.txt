@@ -1,5 +1,0 @@
-Representation of "pipi pi ilo sona" in sitelen kalama pona.
-Sources: pipi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pipi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing pipi pi ilo sona]]

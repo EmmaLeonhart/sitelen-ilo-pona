@@ -29,9 +29,9 @@ def safe_filename(text):
 
 def commons_filename(label):
     """The expected Wikimedia Commons filename for a given label."""
-    # SVG files are named 'sitelen kalama pona - {label}.svg'
+    # SVG files are named 'sitelen ilo pona - {label}.svg'
     # Commons convention: capitalise first letter, underscores for spaces
-    name = f'Sitelen kalama pona - {label}.svg'
+    name = f'Sitelen ilo pona - {label}.svg'
     return name.replace(' ', '_')
 
 
@@ -57,7 +57,7 @@ def main():
             continue
 
         # Check if an SVG was generated for this label
-        svg_name = f'sitelen kalama pona - {safe_filename(label)}.svg'
+        svg_name = f'sitelen ilo pona - {safe_filename(label)}.svg'
         svg_path = OUTPUT_DIR / svg_name
         if not svg_path.exists():
             skipped += 1

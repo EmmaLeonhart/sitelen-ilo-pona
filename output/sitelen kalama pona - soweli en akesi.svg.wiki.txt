@@ -1,5 +1,0 @@
-Representation of "soweli en akesi" in sitelen kalama pona.
-Sources: soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_en.svg; akesi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_akesi.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing soweli en akesi]]

@@ -1,5 +1,0 @@
-Representation of "sona tawa pi wan lili" in sitelen kalama pona.
-Sources: sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sona tawa pi wan lili]]

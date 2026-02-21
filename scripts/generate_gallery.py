@@ -1,5 +1,5 @@
 """
-Generate a gallery HTML page for the Wikidata-generated sitelen kalama pona SVGs.
+Generate a gallery HTML page for the Wikidata-generated sitelen ilo pona SVGs.
 
 Produces gallery.html with a searchable grid of all output/ SVGs.
 """
@@ -13,7 +13,8 @@ OUTPUT_DIR = ROOT_DIR / 'output'
 OUTPUT_FILE = ROOT_DIR / 'gallery.html'
 INDEX_FILE = ROOT_DIR / 'data' / 'output_index.json'
 
-PREFIX = 'sitelen kalama pona - '
+PREFIX = 'sitelen ilo pona - '
+
 
 def display_label(raw_label):
     """Strip the leading ', ' from bare proper nouns for display."""
@@ -21,29 +22,46 @@ def display_label(raw_label):
         return raw_label[2:]
     return raw_label
 
+
 def main():
-    qid_map = {}
+    index = {}
     if INDEX_FILE.exists():
         with open(INDEX_FILE, encoding='utf-8') as f:
-            qid_map = json.load(f)
+            index = json.load(f)
 
     svgs = sorted(
-        f for f in OUTPUT_DIR.glob('sitelen kalama pona - *.svg')
+        f for f in OUTPUT_DIR.glob('sitelen ilo pona - *.svg')
         if not f.name.endswith('.wiki.txt')
     )
 
     cards = []
     for svg_file in svgs:
-        raw_label = svg_file.stem.replace(PREFIX, '')
+        raw_label = svg_file.stem[len(PREFIX):]
         label = display_label(raw_label)
         rel_path = 'output/' + quote(svg_file.name, safe=' ,()-')
-        qid = qid_map.get(svg_file.name)
-        cards.append((label, rel_path, qid))
+        entry = index.get(svg_file.name, {})
+        # Support old format (string) and new format (dict with qid + tok_title)
+        if isinstance(entry, str):
+            qid, tok_title = entry, ''
+        else:
+            qid = entry.get('qid', '')
+            tok_title = entry.get('tok_title', '')
+        cards.append((label, rel_path, qid, tok_title))
 
-    def card_html_for(label, rel_path, qid):
-        link_html = ''
+    def card_html_for(label, rel_path, qid, tok_title):
+        links = []
+        if tok_title:
+            encoded = quote(tok_title.replace(' ', '_'))
+            links.append(
+                f'<a class="wd tok" href="https://tok.wikipedia.org/wiki/{encoded}"'
+                f' target="_blank" rel="noopener">tok.wikipedia</a>'
+            )
         if qid:
-            link_html = f'<a class="wd" href="https://www.wikidata.org/wiki/{qid}" target="_blank" rel="noopener">{qid}</a>'
+            links.append(
+                f'<a class="wd" href="https://www.wikidata.org/wiki/{qid}"'
+                f' target="_blank" rel="noopener">{qid}</a>'
+            )
+        link_html = ''.join(links)
         return (
             f'    <div class="card">'
             f'<img loading="lazy" src="{rel_path}" alt="{label}">'
@@ -52,14 +70,14 @@ def main():
             f'</div>'
         )
 
-    card_html = '\n'.join(card_html_for(l, p, q) for l, p, q in cards)
+    card_html = '\n'.join(card_html_for(l, p, q, t) for l, p, q, t in cards)
 
     html = f'''<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sitelen Kalama Pona — Wikidata SVG Gallery</title>
+  <title>Sitelen Ilo Pona — Wikidata SVG Gallery</title>
   <style>
     body {{ font-family: system-ui, sans-serif; margin: 0; background: #f8f9fa; color: #1a1a1b; }}
     header {{ padding: 1.5rem 2rem; border-bottom: 1px solid #ddd; display: flex; align-items: center; gap: 2rem; flex-wrap: wrap; }}
@@ -73,6 +91,7 @@ def main():
     .card img {{ width: 100%; height: 80px; object-fit: contain; margin-bottom: 0.4rem; }}
     .card span {{ font-size: 0.72rem; color: #555; display: block; word-break: break-word; }}
     .card a.wd {{ font-size: 0.65rem; color: #0066cc; display: block; margin-top: 0.2rem; }}
+    .card a.wd.tok {{ color: #006633; }}
     .card a.wd:hover {{ text-decoration: underline; }}
     .hidden {{ display: none !important; }}
   </style>
@@ -107,6 +126,7 @@ def main():
 
     OUTPUT_FILE.write_text(html, encoding='utf-8')
     print(f'Wrote gallery ({len(cards)} items) to {OUTPUT_FILE}')
+
 
 if __name__ == '__main__':
     main()
