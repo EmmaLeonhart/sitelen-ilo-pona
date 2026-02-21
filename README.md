@@ -1,12 +1,14 @@
-# Sitelen — Toki Pona Fonts
+# Sitelen Kalama Pona
 
-Fonts for [Toki Pona](https://tokipona.org), the constructed minimalist language.
-This repository contains two fonts:
-
-- **Sitelen Kalama Pona** — a phonetic syllable font (sound symbols)
-- **Sitelen Seli Kiwen** — a word symbol font (logographs)
+A phonetic syllable font for [Toki Pona](https://tokipona.org), the constructed minimalist language.
+Each of the 100 Toki Pona syllables has a distinct glyph.
 
 ![Sitelen Pona Sound Symbols](Sitelen%20Pona%20Sound%20Symbols.svg)
+
+This repository also contains scripts that use
+[Sitelen Seli Kiwen](https://github.com/kreativekorp/sitelen-seli-kiwen)
+(by KreativeKorp) to generate composite SVG images for Wikidata/Wikimedia Commons.
+That font is not part of this project.
 
 ---
 
@@ -35,11 +37,6 @@ The font files are in the [`fonts/`](fonts/) directory:
 @font-face {
     font-family: 'Sitelen Kalama Pona';
     src: url('sitelen-kalama-pona.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'Sitelen Seli Kiwen';
-    src: url('sitelen-seli-kiwen.woff2') format('woff2');
 }
 ```
 
@@ -92,17 +89,17 @@ Individual word glyphs are in [`sitelen_seli_kiwen_svgs/`](sitelen_seli_kiwen_sv
 ## Repository Structure
 
 ```
-fonts/                        Font files (OTF and WOFF2)
+fonts/                        Font files (OTF and WOFF2) — Sitelen Kalama Pona only
+docs/                         GitHub Pages site
 scripts/                      Build and generation scripts
   build_font.py               Rebuild sitelen-kalama-pona.otf from source glyphs
   generate_sitelen_kalama_pona.py  Generate composed SVG images
   batch_generate_svgs.py      Batch-generate SVGs for Wikipedia titles
-  extract_sitelen_seli_kiwen.py   Extract glyphs from sitelen-seli-kiwen.woff2
-  overwrite_svgs_from_font.py     Regenerate syllable SVGs from source
-  fetch_wikidata_toki_pona.py     Fetch page list from tok.wikipedia.org
-  process_wikidata_toki_pona.py   Filter titles for batch generation
-data/                         Wikipedia data (CSV/TXT)
-sitelen_seli_kiwen_svgs/      Individual word glyph SVGs (~541 files)
+  extract_sitelen_seli_kiwen.py   Extract word-glyph SVGs from Sitelen Seli Kiwen font
+  fetch_wikidata_sparql.py    Fetch Wikidata items with Toki Pona labels via SPARQL
+  generate_quickstatements.py Generate QuickStatements to add P18 image claims
+data/                         Wikidata/Wikipedia data (CSV/TXT)
+sitelen_seli_kiwen_svgs/      Pre-extracted word glyph SVGs from Sitelen Seli Kiwen
 uniform_syllables/            Syllable glyph SVGs (100 files)
 output/                       Generated composite SVGs (~6,500 files)
 ```
@@ -118,11 +115,26 @@ python scripts/build_font.py
 
 This outputs `fonts/sitelen-kalama-pona.otf` and `fonts/sitelen-kalama-pona.woff2`.
 
+To re-extract the Sitelen Seli Kiwen word glyphs into `sitelen_seli_kiwen_svgs/`, download
+the font from [kreativekorp/sitelen-seli-kiwen](https://github.com/kreativekorp/sitelen-seli-kiwen)
+and run:
+
+```bash
+pip install fonttools uharfbuzz
+python scripts/extract_sitelen_seli_kiwen.py
+```
+
 ---
 
 ## License
 
-This project is released under the [SIL Open Font License 1.1](LICENSE) (OFL-1.1).
-You are free to use, study, modify, and redistribute these fonts, including
-embedding them in documents or software, as long as the fonts are not sold
+The Sitelen Kalama Pona font is released under the
+[SIL Open Font License 1.1](LICENSE) (OFL-1.1).
+You are free to use, study, modify, and redistribute it, including
+embedding it in documents or software, as long as the font is not sold
 standalone. See [LICENSE](LICENSE) for full terms.
+
+The word-glyph SVGs in `sitelen_seli_kiwen_svgs/` are derived from
+[Sitelen Seli Kiwen](https://github.com/kreativekorp/sitelen-seli-kiwen)
+by KreativeKorp and are subject to that project's license.
+
