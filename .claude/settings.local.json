@@ -64,7 +64,9 @@
       "Bash(timeout /t:*)",
       "Bash(where:*)",
       "Bash(gh run list:*)",
-      "Bash(gh run view:*)"
+      "Bash(gh run view:*)",
+      "Bash(\"C:/Users/Immanuelle/AppData/Local/Programs/Python/Python313/python.exe\" scripts/generate_gallery.py)",
+      "Bash(git fetch:*)"
     ]
   }
 }
