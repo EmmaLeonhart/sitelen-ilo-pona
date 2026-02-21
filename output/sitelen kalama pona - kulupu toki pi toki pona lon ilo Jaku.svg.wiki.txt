@@ -1,7 +1,0 @@
-Representation of "kulupu toki pi toki pona lon ilo Jaku" in sitelen kalama pona.
-Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; toki-pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki-pona.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing kulupu toki pi toki pona lon ilo]]
-[[Category:Toki Pona text containing sound symbol Ja]]
-[[Category:Toki Pona text containing sound symbol Ku]]

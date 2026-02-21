@@ -1,9 +1,0 @@
-Representation of "jan Alan Turing" in sitelen kalama pona.
-Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; lan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lan.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tu.svg; in: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xin.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing jan]]
-[[Category:Toki Pona text containing sound symbol A]]
-[[Category:Toki Pona text containing sound symbol Lan]]
-[[Category:Toki Pona text containing sound symbol Tu]]
-[[Category:Toki Pona text containing sound symbol In]]

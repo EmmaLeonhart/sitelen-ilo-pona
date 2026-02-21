@@ -1,9 +1,0 @@
-Representation of "nanpa pi sona lon Toki Pona" in sitelen kalama pona.
-Sources: nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg; ki: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ki.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nanpa pi sona lon]]
-[[Category:Toki Pona text containing sound symbol To]]
-[[Category:Toki Pona text containing sound symbol Ki]]
-[[Category:Toki Pona text containing sound symbol Po]]
-[[Category:Toki Pona text containing sound symbol Na]]

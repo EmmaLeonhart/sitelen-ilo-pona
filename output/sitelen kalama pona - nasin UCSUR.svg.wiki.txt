@@ -1,7 +1,0 @@
-Representation of "nasin UCSUR" in sitelen kalama pona.
-Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; u: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xu.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nasin]]
-[[Category:Toki Pona text containing sound symbol U]]
-[[Category:Toki Pona text containing sound symbol Su]]

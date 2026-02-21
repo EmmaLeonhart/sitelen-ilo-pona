@@ -1,8 +1,0 @@
-Representation of "lipu sona TaNaKa" in sitelen kalama pona.
-Sources: lipu-sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu-sona.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing lipu sona]]
-[[Category:Toki Pona text containing sound symbol Ta]]
-[[Category:Toki Pona text containing sound symbol Na]]
-[[Category:Toki Pona text containing sound symbol Ka]]

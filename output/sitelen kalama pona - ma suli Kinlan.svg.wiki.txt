@@ -1,7 +1,0 @@
-Representation of "ma suli Kinlan" in sitelen kalama pona.
-Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; kin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kin.svg; lan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lan.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma suli]]
-[[Category:Toki Pona text containing sound symbol Kin]]
-[[Category:Toki Pona text containing sound symbol Lan]]

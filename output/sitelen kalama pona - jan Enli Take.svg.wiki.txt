@@ -1,9 +1,0 @@
-Representation of "jan Enli Take" in sitelen kalama pona.
-Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xen.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; ke: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ke.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing jan]]
-[[Category:Toki Pona text containing sound symbol En]]
-[[Category:Toki Pona text containing sound symbol Li]]
-[[Category:Toki Pona text containing sound symbol Ta]]
-[[Category:Toki Pona text containing sound symbol Ke]]

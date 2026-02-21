@@ -677,9 +677,9 @@ def generate(text):
     output_dir = ROOT_DIR / 'output'
     output_dir.mkdir(exist_ok=True)
     if word_tokens and sound_name:
-        filename_text = f'{" ".join(word_tokens)}, {sound_name}'
+        filename_text = f'{" ".join(word_tokens)}, {sound_name.lower()}'
     elif sound_name:
-        filename_text = f', {sound_name}'
+        filename_text = f', {sound_name.lower()}'
     else:
         filename_text = text
     output_name = f'sitelen kalama pona - {safe_filename(filename_text)}.svg'

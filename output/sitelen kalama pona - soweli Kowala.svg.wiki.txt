@@ -1,8 +1,0 @@
-Representation of "soweli Kowala" in sitelen kalama pona.
-Sources: soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing soweli]]
-[[Category:Toki Pona text containing sound symbol Ko]]
-[[Category:Toki Pona text containing sound symbol Wa]]
-[[Category:Toki Pona text containing sound symbol La]]

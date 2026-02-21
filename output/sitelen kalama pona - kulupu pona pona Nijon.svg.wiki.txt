@@ -1,7 +1,0 @@
-Representation of "kulupu pona pona Nijon" in sitelen kalama pona.
-Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pona.svg; pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pona.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ni.svg; jon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jon.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing kulupu pona pona]]
-[[Category:Toki Pona text containing sound symbol Ni]]
-[[Category:Toki Pona text containing sound symbol Jon]]

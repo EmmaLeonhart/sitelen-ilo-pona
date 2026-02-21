@@ -1,8 +1,0 @@
-Representation of "ma tomo Pisole" in sitelen kalama pona.
-Sources: ma-tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-tomo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; so: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_so.svg; le: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_le.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma tomo]]
-[[Category:Toki Pona text containing sound symbol Pi]]
-[[Category:Toki Pona text containing sound symbol So]]
-[[Category:Toki Pona text containing sound symbol Le]]

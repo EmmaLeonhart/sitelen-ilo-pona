@@ -1,9 +1,0 @@
-Representation of "mun Stephen 2-18" in sitelen kalama pona.
-Sources: mun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mun.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xen.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing mun]]
-[[Category:Toki Pona text containing sound symbol S]]
-[[Category:Toki Pona text containing sound symbol Te]]
-[[Category:Toki Pona text containing sound symbol P]]
-[[Category:Toki Pona text containing sound symbol En]]

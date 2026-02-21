@@ -1,9 +1,0 @@
-Representation of "ISO 3166:US-SC" in sitelen kalama pona.
-Sources: i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; so: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_so.svg; u: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xu.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sound symbol I]]
-[[Category:Toki Pona text containing sound symbol So]]
-[[Category:Toki Pona text containing sound symbol U]]
-[[Category:Toki Pona text containing sound symbol S]]
-[[Category:Toki Pona text containing sound symbol S]]

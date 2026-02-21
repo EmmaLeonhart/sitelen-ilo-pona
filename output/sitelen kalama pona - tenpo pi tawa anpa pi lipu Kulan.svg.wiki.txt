@@ -1,7 +1,0 @@
-Representation of "tenpo pi tawa anpa pi lipu Kulan" in sitelen kalama pona.
-Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; anpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_anpa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg; lan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lan.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing tenpo pi tawa anpa pi lipu]]
-[[Category:Toki Pona text containing sound symbol Ku]]
-[[Category:Toki Pona text containing sound symbol Lan]]

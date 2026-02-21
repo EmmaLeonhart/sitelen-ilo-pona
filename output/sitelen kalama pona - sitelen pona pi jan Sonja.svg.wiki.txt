@@ -1,7 +1,0 @@
-Representation of "sitelen pona pi jan Sonja" in sitelen kalama pona.
-Sources: sitelen-pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen-pona.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; son: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_son.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sitelen pona pi jan]]
-[[Category:Toki Pona text containing sound symbol Son]]
-[[Category:Toki Pona text containing sound symbol Ja]]

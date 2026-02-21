@@ -1,8 +1,0 @@
-Representation of "ilo tawa telo pi jan Teseju" in sitelen kalama pona.
-Sources: ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg; telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg; se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg; ju: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ju.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ilo tawa telo pi jan]]
-[[Category:Toki Pona text containing sound symbol Te]]
-[[Category:Toki Pona text containing sound symbol Se]]
-[[Category:Toki Pona text containing sound symbol Ju]]

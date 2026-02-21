@@ -1,8 +1,0 @@
-Representation of "nasin ken Sapi-Wa" in sitelen kalama pona.
-Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; ken: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ken.svg; sa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nasin ken]]
-[[Category:Toki Pona text containing sound symbol Sa]]
-[[Category:Toki Pona text containing sound symbol Pi]]
-[[Category:Toki Pona text containing sound symbol Wa]]

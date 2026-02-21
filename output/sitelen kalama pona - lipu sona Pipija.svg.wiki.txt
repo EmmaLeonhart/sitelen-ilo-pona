@@ -1,8 +1,0 @@
-Representation of "lipu sona Pipija" in sitelen kalama pona.
-Sources: lipu-sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu-sona.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing lipu sona]]
-[[Category:Toki Pona text containing sound symbol Pi]]
-[[Category:Toki Pona text containing sound symbol Pi]]
-[[Category:Toki Pona text containing sound symbol Ja]]

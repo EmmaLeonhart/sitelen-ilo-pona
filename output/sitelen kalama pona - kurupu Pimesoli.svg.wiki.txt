@@ -1,9 +1,0 @@
-Representation of "kurupu Pimesoli" in sitelen kalama pona.
-Sources: pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; me: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_me.svg; so: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_so.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing kurupu]]
-[[Category:Toki Pona text containing sound symbol Pi]]
-[[Category:Toki Pona text containing sound symbol Me]]
-[[Category:Toki Pona text containing sound symbol So]]
-[[Category:Toki Pona text containing sound symbol Li]]

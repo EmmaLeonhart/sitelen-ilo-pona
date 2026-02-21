@@ -1,5 +1,0 @@
-Representation of "kiwen mani loje" in sitelen kalama pona.
-Sources: kiwen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen.svg; mani: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mani.svg; loje: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_loje.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing kiwen mani loje]]

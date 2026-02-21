@@ -1,7 +1,0 @@
-Representation of "musi pona pi kulupu toki Jaju" in sitelen kalama pona.
-Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pona.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg; ju: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ju.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing musi pona pi kulupu toki]]
-[[Category:Toki Pona text containing sound symbol Ja]]
-[[Category:Toki Pona text containing sound symbol Ju]]

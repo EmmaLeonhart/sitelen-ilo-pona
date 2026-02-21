@@ -1,7 +1,0 @@
-Representation of "ma telo Nopa" in sitelen kalama pona.
-Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; no: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_no.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma telo]]
-[[Category:Toki Pona text containing sound symbol No]]
-[[Category:Toki Pona text containing sound symbol Pa]]

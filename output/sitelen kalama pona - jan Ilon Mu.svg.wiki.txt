@@ -1,8 +1,0 @@
-Representation of "jan Ilon Mu" in sitelen kalama pona.
-Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lon.svg; mu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mu.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing jan]]
-[[Category:Toki Pona text containing sound symbol I]]
-[[Category:Toki Pona text containing sound symbol Lon]]
-[[Category:Toki Pona text containing sound symbol Mu]]

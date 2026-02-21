@@ -1,6 +1,0 @@
-Representation of "Maja" in sitelen kalama pona.
-Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sound symbol Ma]]
-[[Category:Toki Pona text containing sound symbol Ja]]

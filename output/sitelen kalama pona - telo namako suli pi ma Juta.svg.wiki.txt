@@ -1,7 +1,0 @@
-Representation of "telo namako suli pi ma Juta" in sitelen kalama pona.
-Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; namako: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_namako.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; ju: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ju.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing telo namako suli pi ma]]
-[[Category:Toki Pona text containing sound symbol Ju]]
-[[Category:Toki Pona text containing sound symbol Ta]]

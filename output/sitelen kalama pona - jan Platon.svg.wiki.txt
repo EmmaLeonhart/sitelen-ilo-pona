@@ -1,8 +1,0 @@
-Representation of "jan Platon" in sitelen kalama pona.
-Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; ton: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ton.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing jan]]
-[[Category:Toki Pona text containing sound symbol P]]
-[[Category:Toki Pona text containing sound symbol La]]
-[[Category:Toki Pona text containing sound symbol Ton]]

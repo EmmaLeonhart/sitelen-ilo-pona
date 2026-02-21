@@ -1,9 +1,0 @@
-Representation of "ma Imalati" in sitelen kalama pona.
-Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; ti: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ti.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma]]
-[[Category:Toki Pona text containing sound symbol I]]
-[[Category:Toki Pona text containing sound symbol Ma]]
-[[Category:Toki Pona text containing sound symbol La]]
-[[Category:Toki Pona text containing sound symbol Ti]]

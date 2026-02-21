@@ -1,9 +1,0 @@
-Representation of "1917 Suli Seli" in sitelen kalama pona.
-Sources: su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing 1917]]
-[[Category:Toki Pona text containing sound symbol Su]]
-[[Category:Toki Pona text containing sound symbol Li]]
-[[Category:Toki Pona text containing sound symbol Se]]
-[[Category:Toki Pona text containing sound symbol Li]]

@@ -1,8 +1,0 @@
-Representation of "jan Majoli" in sitelen kalama pona.
-Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; jo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jo.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing jan]]
-[[Category:Toki Pona text containing sound symbol Ma]]
-[[Category:Toki Pona text containing sound symbol Jo]]
-[[Category:Toki Pona text containing sound symbol Li]]

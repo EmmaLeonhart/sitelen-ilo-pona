@@ -1,7 +1,0 @@
-Representation of "India" in sitelen kalama pona.
-Sources: in: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xin.svg; i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sound symbol In]]
-[[Category:Toki Pona text containing sound symbol I]]
-[[Category:Toki Pona text containing sound symbol A]]

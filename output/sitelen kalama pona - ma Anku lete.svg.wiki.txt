@@ -1,9 +1,0 @@
-Representation of "ma Anku lete" in sitelen kalama pona.
-Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; an: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xan.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg; le: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_le.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma]]
-[[Category:Toki Pona text containing sound symbol An]]
-[[Category:Toki Pona text containing sound symbol Ku]]
-[[Category:Toki Pona text containing sound symbol Le]]
-[[Category:Toki Pona text containing sound symbol Te]]

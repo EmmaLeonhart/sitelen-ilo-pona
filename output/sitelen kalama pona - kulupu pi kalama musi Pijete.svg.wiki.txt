@@ -1,8 +1,0 @@
-Representation of "kulupu pi kalama musi Pijete" in sitelen kalama pona.
-Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kalama-musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama-musi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; je: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_je.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing kulupu pi kalama musi]]
-[[Category:Toki Pona text containing sound symbol Pi]]
-[[Category:Toki Pona text containing sound symbol Je]]
-[[Category:Toki Pona text containing sound symbol Te]]

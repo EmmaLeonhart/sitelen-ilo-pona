@@ -1,9 +1,0 @@
-Representation of "nena Somolama" in sitelen kalama pona.
-Sources: nena: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nena.svg; so: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_so.svg; mo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mo.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nena]]
-[[Category:Toki Pona text containing sound symbol So]]
-[[Category:Toki Pona text containing sound symbol Mo]]
-[[Category:Toki Pona text containing sound symbol La]]
-[[Category:Toki Pona text containing sound symbol Ma]]

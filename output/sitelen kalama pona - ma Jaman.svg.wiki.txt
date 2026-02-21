@@ -1,7 +1,0 @@
-Representation of "ma Jaman" in sitelen kalama pona.
-Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg; man: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_man.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma]]
-[[Category:Toki Pona text containing sound symbol Ja]]
-[[Category:Toki Pona text containing sound symbol Man]]

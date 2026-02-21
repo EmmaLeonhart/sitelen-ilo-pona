@@ -1,7 +1,0 @@
-Representation of "toki Bon Wen" in sitelen kalama pona.
-Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; on: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xon.svg; wen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wen.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing toki]]
-[[Category:Toki Pona text containing sound symbol On]]
-[[Category:Toki Pona text containing sound symbol Wen]]

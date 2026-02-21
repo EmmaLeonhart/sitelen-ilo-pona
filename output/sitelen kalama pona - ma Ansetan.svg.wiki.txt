@@ -1,8 +1,0 @@
-Representation of "ma Ansetan" in sitelen kalama pona.
-Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; an: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xan.svg; se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tan.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma]]
-[[Category:Toki Pona text containing sound symbol An]]
-[[Category:Toki Pona text containing sound symbol Se]]
-[[Category:Toki Pona text containing sound symbol Tan]]

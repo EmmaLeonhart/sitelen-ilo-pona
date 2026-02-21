@@ -1,7 +1,0 @@
-Representation of "nasin sitelen Sonko" in sitelen kalama pona.
-Sources: nasin-sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin-sitelen.svg; son: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_son.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nasin sitelen]]
-[[Category:Toki Pona text containing sound symbol Son]]
-[[Category:Toki Pona text containing sound symbol Ko]]

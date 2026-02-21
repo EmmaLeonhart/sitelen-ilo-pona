@@ -1,6 +1,0 @@
-Representation of "Vaduz" in sitelen kalama pona.
-Sources: a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; u: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xu.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sound symbol A]]
-[[Category:Toki Pona text containing sound symbol U]]

@@ -1,8 +1,0 @@
-Representation of "ma lili lawa pi ma Pasiju" in sitelen kalama pona.
-Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg; lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; ju: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ju.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma lili lawa pi ma]]
-[[Category:Toki Pona text containing sound symbol Pa]]
-[[Category:Toki Pona text containing sound symbol Si]]
-[[Category:Toki Pona text containing sound symbol Ju]]

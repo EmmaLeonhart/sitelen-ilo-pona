@@ -1,8 +1,0 @@
-Representation of "mani Lenminpi" in sitelen kalama pona.
-Sources: mani: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mani.svg; len: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_len.svg; min: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_min.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing mani]]
-[[Category:Toki Pona text containing sound symbol Len]]
-[[Category:Toki Pona text containing sound symbol Min]]
-[[Category:Toki Pona text containing sound symbol Pi]]

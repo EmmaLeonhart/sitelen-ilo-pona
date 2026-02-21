@@ -1,8 +1,0 @@
-Representation of "nimi ale pi toki pona lon toki Epano" in sitelen kalama pona.
-Sources: nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg; ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ale.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; toki-pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki-pona.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xe.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; no: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_no.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nimi ale pi toki pona lon toki]]
-[[Category:Toki Pona text containing sound symbol E]]
-[[Category:Toki Pona text containing sound symbol Pa]]
-[[Category:Toki Pona text containing sound symbol No]]

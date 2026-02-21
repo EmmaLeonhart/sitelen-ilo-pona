@@ -1,8 +1,0 @@
-Representation of "ma Keneta" in sitelen kalama pona.
-Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; ke: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ke.svg; ne: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ne.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma]]
-[[Category:Toki Pona text containing sound symbol Ke]]
-[[Category:Toki Pona text containing sound symbol Ne]]
-[[Category:Toki Pona text containing sound symbol Ta]]

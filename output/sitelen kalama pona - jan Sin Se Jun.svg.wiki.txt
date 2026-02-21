@@ -1,8 +1,0 @@
-Representation of "jan Sin Se Jun" in sitelen kalama pona.
-Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sin.svg; se: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_se.svg; jun: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jun.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing jan]]
-[[Category:Toki Pona text containing sound symbol Sin]]
-[[Category:Toki Pona text containing sound symbol Se]]
-[[Category:Toki Pona text containing sound symbol Jun]]

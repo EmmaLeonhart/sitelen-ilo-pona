@@ -1,8 +1,0 @@
-Representation of "nasin Juniko" in sitelen kalama pona.
-Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; ju: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ju.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ni.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nasin]]
-[[Category:Toki Pona text containing sound symbol Ju]]
-[[Category:Toki Pona text containing sound symbol Ni]]
-[[Category:Toki Pona text containing sound symbol Ko]]

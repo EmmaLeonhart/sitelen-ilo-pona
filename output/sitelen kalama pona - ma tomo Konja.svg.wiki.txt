@@ -1,7 +1,0 @@
-Representation of "ma tomo Konja" in sitelen kalama pona.
-Sources: ma-tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-tomo.svg; kon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kon.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma tomo]]
-[[Category:Toki Pona text containing sound symbol Kon]]
-[[Category:Toki Pona text containing sound symbol Ja]]

@@ -1,8 +1,0 @@
-Representation of "ijo nasin pi wan Atomo" in sitelen kalama pona.
-Sources: ijo-nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-nasin.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg; mo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mo.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ijo nasin pi wan]]
-[[Category:Toki Pona text containing sound symbol A]]
-[[Category:Toki Pona text containing sound symbol To]]
-[[Category:Toki Pona text containing sound symbol Mo]]

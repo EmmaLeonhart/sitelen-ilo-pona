@@ -1,9 +1,0 @@
-Representation of "jan Jon Minok" in sitelen kalama pona.
-Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; jon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jon.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg; no: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_no.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing jan]]
-[[Category:Toki Pona text containing sound symbol Jon]]
-[[Category:Toki Pona text containing sound symbol Mi]]
-[[Category:Toki Pona text containing sound symbol No]]
-[[Category:Toki Pona text containing sound symbol K]]

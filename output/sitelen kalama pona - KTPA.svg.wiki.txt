@@ -1,7 +1,0 @@
-Representation of "KTPA" in sitelen kalama pona.
-Sources: pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sound symbol K]]
-[[Category:Toki Pona text containing sound symbol T]]
-[[Category:Toki Pona text containing sound symbol Pa]]

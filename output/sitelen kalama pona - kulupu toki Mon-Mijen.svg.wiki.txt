@@ -1,8 +1,0 @@
-Representation of "kulupu toki Mon-Mijen" in sitelen kalama pona.
-Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; mon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mon.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg; jen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jen.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing kulupu toki]]
-[[Category:Toki Pona text containing sound symbol Mon]]
-[[Category:Toki Pona text containing sound symbol Mi]]
-[[Category:Toki Pona text containing sound symbol Jen]]

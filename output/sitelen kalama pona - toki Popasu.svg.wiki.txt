@@ -1,8 +1,0 @@
-Representation of "toki Popasu" in sitelen kalama pona.
-Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; su: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_su.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing toki]]
-[[Category:Toki Pona text containing sound symbol Po]]
-[[Category:Toki Pona text containing sound symbol Pa]]
-[[Category:Toki Pona text containing sound symbol Su]]

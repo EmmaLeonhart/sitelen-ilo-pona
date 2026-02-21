@@ -1,8 +1,0 @@
-Representation of "nena ma Ketatan" in sitelen kalama pona.
-Sources: nena: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nena.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; ke: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ke.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tan.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nena ma]]
-[[Category:Toki Pona text containing sound symbol Ke]]
-[[Category:Toki Pona text containing sound symbol Ta]]
-[[Category:Toki Pona text containing sound symbol Tan]]

@@ -1,7 +1,0 @@
-Representation of "ilo nanpa pi jan Sate" in sitelen kalama pona.
-Sources: ilo-nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo-nanpa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; sa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sa.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ilo nanpa pi jan]]
-[[Category:Toki Pona text containing sound symbol Sa]]
-[[Category:Toki Pona text containing sound symbol Te]]

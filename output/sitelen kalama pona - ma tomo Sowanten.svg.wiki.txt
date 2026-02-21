@@ -1,8 +1,0 @@
-Representation of "ma tomo Sowanten" in sitelen kalama pona.
-Sources: ma-tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-tomo.svg; so: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_so.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wan.svg; ten: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ten.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma tomo]]
-[[Category:Toki Pona text containing sound symbol So]]
-[[Category:Toki Pona text containing sound symbol Wan]]
-[[Category:Toki Pona text containing sound symbol Ten]]

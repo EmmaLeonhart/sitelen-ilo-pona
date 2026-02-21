@@ -1,9 +1,0 @@
-Representation of "ma lili Posinponko" in sitelen kalama pona.
-Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sin.svg; pon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pon.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma lili]]
-[[Category:Toki Pona text containing sound symbol Po]]
-[[Category:Toki Pona text containing sound symbol Sin]]
-[[Category:Toki Pona text containing sound symbol Pon]]
-[[Category:Toki Pona text containing sound symbol Ko]]

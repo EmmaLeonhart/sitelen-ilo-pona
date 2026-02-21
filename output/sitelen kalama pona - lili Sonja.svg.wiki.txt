@@ -1,7 +1,0 @@
-Representation of "lili Sonja" in sitelen kalama pona.
-Sources: lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg; son: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_son.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing lili]]
-[[Category:Toki Pona text containing sound symbol Son]]
-[[Category:Toki Pona text containing sound symbol Ja]]

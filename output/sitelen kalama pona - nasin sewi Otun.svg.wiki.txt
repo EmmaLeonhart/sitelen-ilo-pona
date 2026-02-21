@@ -1,7 +1,0 @@
-Representation of "nasin sewi Otun" in sitelen kalama pona.
-Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sewi.svg; o: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xo.svg; tun: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tun.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nasin sewi]]
-[[Category:Toki Pona text containing sound symbol O]]
-[[Category:Toki Pona text containing sound symbol Tun]]

@@ -1,7 +1,0 @@
-Representation of "musi Lopa" in sitelen kalama pona.
-Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; lo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lo.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing musi]]
-[[Category:Toki Pona text containing sound symbol Lo]]
-[[Category:Toki Pona text containing sound symbol Pa]]

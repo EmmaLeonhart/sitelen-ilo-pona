@@ -1,9 +1,0 @@
-Representation of "Alisotele" in sitelen kalama pona.
-Sources: a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; so: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_so.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg; le: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_le.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sound symbol A]]
-[[Category:Toki Pona text containing sound symbol Li]]
-[[Category:Toki Pona text containing sound symbol So]]
-[[Category:Toki Pona text containing sound symbol Te]]
-[[Category:Toki Pona text containing sound symbol Le]]

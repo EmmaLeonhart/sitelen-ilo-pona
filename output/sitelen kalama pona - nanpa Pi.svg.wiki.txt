@@ -1,5 +1,0 @@
-Representation of "nanpa pi" in sitelen kalama pona.
-Sources: nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nanpa pi]]

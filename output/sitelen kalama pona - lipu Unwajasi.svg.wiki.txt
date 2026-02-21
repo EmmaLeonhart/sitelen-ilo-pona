@@ -1,9 +1,0 @@
-Representation of "lipu Unwajasi" in sitelen kalama pona.
-Sources: lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; un: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xun.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing lipu]]
-[[Category:Toki Pona text containing sound symbol Un]]
-[[Category:Toki Pona text containing sound symbol Wa]]
-[[Category:Toki Pona text containing sound symbol Ja]]
-[[Category:Toki Pona text containing sound symbol Si]]

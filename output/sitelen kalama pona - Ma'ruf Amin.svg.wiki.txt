@@ -1,8 +1,0 @@
-Representation of "Ma'ruf Amin" in sitelen kalama pona.
-Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; u: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xu.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; min: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_min.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sound symbol Ma]]
-[[Category:Toki Pona text containing sound symbol U]]
-[[Category:Toki Pona text containing sound symbol A]]
-[[Category:Toki Pona text containing sound symbol Min]]

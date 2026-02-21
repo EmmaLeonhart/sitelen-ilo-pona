@@ -1,9 +1,0 @@
-Representation of "Vincent van Gogh" in sitelen kalama pona.
-Sources: in: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xin.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xen.svg; an: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xan.svg; o: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xo.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sound symbol In]]
-[[Category:Toki Pona text containing sound symbol En]]
-[[Category:Toki Pona text containing sound symbol T]]
-[[Category:Toki Pona text containing sound symbol An]]
-[[Category:Toki Pona text containing sound symbol O]]

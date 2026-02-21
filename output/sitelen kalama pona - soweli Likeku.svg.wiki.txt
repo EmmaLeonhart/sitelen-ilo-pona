@@ -1,8 +1,0 @@
-Representation of "soweli Likeku" in sitelen kalama pona.
-Sources: soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; ke: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ke.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing soweli]]
-[[Category:Toki Pona text containing sound symbol Li]]
-[[Category:Toki Pona text containing sound symbol Ke]]
-[[Category:Toki Pona text containing sound symbol Ku]]

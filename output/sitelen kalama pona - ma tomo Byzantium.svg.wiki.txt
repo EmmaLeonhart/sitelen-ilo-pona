@@ -1,9 +1,0 @@
-Representation of "ma tomo Byzantium" in sitelen kalama pona.
-Sources: ma-tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-tomo.svg; an: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xan.svg; ti: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ti.svg; u: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xu.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma tomo]]
-[[Category:Toki Pona text containing sound symbol An]]
-[[Category:Toki Pona text containing sound symbol Ti]]
-[[Category:Toki Pona text containing sound symbol U]]
-[[Category:Toki Pona text containing sound symbol M]]

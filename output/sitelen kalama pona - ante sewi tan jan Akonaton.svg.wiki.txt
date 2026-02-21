@@ -1,9 +1,0 @@
-Representation of "ante sewi tan jan Akonaton" in sitelen kalama pona.
-Sources: ante: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ante.svg; sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sewi.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; ko: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ko.svg; na: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_na.svg; ton: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ton.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ante sewi tan jan]]
-[[Category:Toki Pona text containing sound symbol A]]
-[[Category:Toki Pona text containing sound symbol Ko]]
-[[Category:Toki Pona text containing sound symbol Na]]
-[[Category:Toki Pona text containing sound symbol Ton]]

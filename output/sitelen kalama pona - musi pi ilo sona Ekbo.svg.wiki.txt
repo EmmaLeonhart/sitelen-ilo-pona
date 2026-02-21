@@ -1,8 +1,0 @@
-Representation of "musi pi ilo sona Ekbo" in sitelen kalama pona.
-Sources: musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_musi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ilo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo.svg; sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xe.svg; o: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xo.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing musi pi ilo sona]]
-[[Category:Toki Pona text containing sound symbol E]]
-[[Category:Toki Pona text containing sound symbol K]]
-[[Category:Toki Pona text containing sound symbol O]]

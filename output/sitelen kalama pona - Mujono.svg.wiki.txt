@@ -1,7 +1,0 @@
-Representation of "Mujono" in sitelen kalama pona.
-Sources: mu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mu.svg; jo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jo.svg; no: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_no.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sound symbol Mu]]
-[[Category:Toki Pona text containing sound symbol Jo]]
-[[Category:Toki Pona text containing sound symbol No]]

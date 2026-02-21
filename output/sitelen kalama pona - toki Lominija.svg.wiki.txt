@@ -1,9 +1,0 @@
-Representation of "toki Lominija" in sitelen kalama pona.
-Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; lo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lo.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ni.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing toki]]
-[[Category:Toki Pona text containing sound symbol Lo]]
-[[Category:Toki Pona text containing sound symbol Mi]]
-[[Category:Toki Pona text containing sound symbol Ni]]
-[[Category:Toki Pona text containing sound symbol Ja]]

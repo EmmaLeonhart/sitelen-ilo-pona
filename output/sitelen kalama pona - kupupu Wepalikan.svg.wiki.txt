@@ -1,9 +1,0 @@
-Representation of "kupupu Wepalikan" in sitelen kalama pona.
-Sources: we: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_we.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; kan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_kan.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing kupupu]]
-[[Category:Toki Pona text containing sound symbol We]]
-[[Category:Toki Pona text containing sound symbol Pa]]
-[[Category:Toki Pona text containing sound symbol Li]]
-[[Category:Toki Pona text containing sound symbol Kan]]

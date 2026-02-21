@@ -1,6 +1,0 @@
-Representation of "moku Pan" in sitelen kalama pona.
-Sources: moku: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moku.svg; pan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pan.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing moku]]
-[[Category:Toki Pona text containing sound symbol Pan]]

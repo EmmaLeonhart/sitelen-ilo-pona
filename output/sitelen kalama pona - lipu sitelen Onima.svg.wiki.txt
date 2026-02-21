@@ -1,8 +1,0 @@
-Representation of "lipu sitelen Onima" in sitelen kalama pona.
-Sources: lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen.svg; o: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xo.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ni.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing lipu sitelen]]
-[[Category:Toki Pona text containing sound symbol O]]
-[[Category:Toki Pona text containing sound symbol Ni]]
-[[Category:Toki Pona text containing sound symbol Ma]]

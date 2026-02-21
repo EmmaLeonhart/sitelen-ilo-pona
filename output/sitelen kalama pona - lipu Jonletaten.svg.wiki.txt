@@ -1,9 +1,0 @@
-Representation of "lipu Jonletaten" in sitelen kalama pona.
-Sources: lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; jon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jon.svg; le: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_le.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; ten: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ten.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing lipu]]
-[[Category:Toki Pona text containing sound symbol Jon]]
-[[Category:Toki Pona text containing sound symbol Le]]
-[[Category:Toki Pona text containing sound symbol Ta]]
-[[Category:Toki Pona text containing sound symbol Ten]]

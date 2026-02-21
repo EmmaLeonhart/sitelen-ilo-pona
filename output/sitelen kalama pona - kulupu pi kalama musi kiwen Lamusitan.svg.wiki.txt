@@ -1,9 +1,0 @@
-Representation of "kulupu pi kalama musi kiwen Lamusitan" in sitelen kalama pona.
-Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kalama-musi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama-musi.svg; kiwen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; mu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mu.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tan.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing kulupu pi kalama musi kiwen]]
-[[Category:Toki Pona text containing sound symbol La]]
-[[Category:Toki Pona text containing sound symbol Mu]]
-[[Category:Toki Pona text containing sound symbol Si]]
-[[Category:Toki Pona text containing sound symbol Tan]]

@@ -1,8 +1,0 @@
-Representation of "sitelen pona pi jan Makuwe" in sitelen kalama pona.
-Sources: sitelen-pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen-pona.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg; we: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_we.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sitelen pona pi jan]]
-[[Category:Toki Pona text containing sound symbol Ma]]
-[[Category:Toki Pona text containing sound symbol Ku]]
-[[Category:Toki Pona text containing sound symbol We]]

@@ -1,8 +1,0 @@
-Representation of "loje Kapipo" in sitelen kalama pona.
-Sources: loje: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_loje.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing loje]]
-[[Category:Toki Pona text containing sound symbol Ka]]
-[[Category:Toki Pona text containing sound symbol Pi]]
-[[Category:Toki Pona text containing sound symbol Po]]

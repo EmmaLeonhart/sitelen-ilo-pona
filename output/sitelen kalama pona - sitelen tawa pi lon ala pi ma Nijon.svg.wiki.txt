@@ -1,7 +1,0 @@
-Representation of "sitelen tawa pi lon ala pi ma Nijon" in sitelen kalama pona.
-Sources: sitelen-tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen-tawa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ala.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ni.svg; jon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jon.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sitelen tawa pi lon ala pi ma]]
-[[Category:Toki Pona text containing sound symbol Ni]]
-[[Category:Toki Pona text containing sound symbol Jon]]

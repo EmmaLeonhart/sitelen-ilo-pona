@@ -1,6 +1,0 @@
-Representation of "kulupu pi sitelen lawa pi pipi Lu" in sitelen kalama pona.
-Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen.svg; lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pipi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pipi.svg; lu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lu.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing kulupu pi sitelen lawa pi pipi]]
-[[Category:Toki Pona text containing sound symbol Lu]]

@@ -1,7 +1,0 @@
-Representation of "sike telo Paka" in sitelen kalama pona.
-Sources: sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg; telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sike telo]]
-[[Category:Toki Pona text containing sound symbol Pa]]
-[[Category:Toki Pona text containing sound symbol Ka]]

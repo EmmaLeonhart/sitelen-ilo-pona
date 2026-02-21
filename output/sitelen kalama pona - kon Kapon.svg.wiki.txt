@@ -1,7 +1,0 @@
-Representation of "kon Kapon" in sitelen kalama pona.
-Sources: kon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kon.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; pon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pon.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing kon]]
-[[Category:Toki Pona text containing sound symbol Ka]]
-[[Category:Toki Pona text containing sound symbol Pon]]

@@ -1,9 +1,0 @@
-Representation of "jan Sinpo Wale" in sitelen kalama pona.
-Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sin.svg; po: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_po.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg; le: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_le.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing jan]]
-[[Category:Toki Pona text containing sound symbol Sin]]
-[[Category:Toki Pona text containing sound symbol Po]]
-[[Category:Toki Pona text containing sound symbol Wa]]
-[[Category:Toki Pona text containing sound symbol Le]]

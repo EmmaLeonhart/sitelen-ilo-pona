@@ -1,8 +1,0 @@
-Representation of "lipu sona pi nanpa ante pi wan ijo Atomo" in sitelen kalama pona.
-Sources: lipu-sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu-sona.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; ante: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ante.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg; ijo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo.svg; a: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xa.svg; to: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_to.svg; mo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mo.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing lipu sona pi nanpa ante pi wan ijo]]
-[[Category:Toki Pona text containing sound symbol A]]
-[[Category:Toki Pona text containing sound symbol To]]
-[[Category:Toki Pona text containing sound symbol Mo]]

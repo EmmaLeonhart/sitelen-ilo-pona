@@ -1,7 +1,0 @@
-Representation of "akesi Sinpu" in sitelen kalama pona.
-Sources: akesi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_akesi.svg; sin: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_sin.svg; pu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pu.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing akesi]]
-[[Category:Toki Pona text containing sound symbol Sin]]
-[[Category:Toki Pona text containing sound symbol Pu]]

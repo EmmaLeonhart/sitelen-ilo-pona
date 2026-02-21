@@ -1,9 +1,0 @@
-Representation of "toki Nejenkatu" in sitelen kalama pona.
-Sources: toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; ne: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ne.svg; jen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jen.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tu.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing toki]]
-[[Category:Toki Pona text containing sound symbol Ne]]
-[[Category:Toki Pona text containing sound symbol Jen]]
-[[Category:Toki Pona text containing sound symbol Ka]]
-[[Category:Toki Pona text containing sound symbol Tu]]

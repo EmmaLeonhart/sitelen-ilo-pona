@@ -1,8 +1,0 @@
-Representation of "tomo tawa Tatani" in sitelen kalama pona.
-Sources: tomo-tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo-tawa.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; ta: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ta.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ni.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing tomo tawa]]
-[[Category:Toki Pona text containing sound symbol Ta]]
-[[Category:Toki Pona text containing sound symbol Ta]]
-[[Category:Toki Pona text containing sound symbol Ni]]

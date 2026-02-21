@@ -1,6 +1,0 @@
-Representation of "nena ma Ton" in sitelen kalama pona.
-Sources: nena: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nena.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; ton: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ton.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nena ma]]
-[[Category:Toki Pona text containing sound symbol Ton]]

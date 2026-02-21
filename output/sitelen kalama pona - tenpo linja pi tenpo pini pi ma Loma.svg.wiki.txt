@@ -1,7 +1,0 @@
-Representation of "tenpo linja pi tenpo pini pi ma Loma" in sitelen kalama pona.
-Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; pini: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pini.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; lo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lo.svg; ma: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ma.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing tenpo linja pi tenpo pini pi ma]]
-[[Category:Toki Pona text containing sound symbol Lo]]
-[[Category:Toki Pona text containing sound symbol Ma]]

@@ -1,7 +1,0 @@
-Representation of "kulupu nena Wale" in sitelen kalama pona.
-Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; nena: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nena.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg; le: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_le.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing kulupu nena]]
-[[Category:Toki Pona text containing sound symbol Wa]]
-[[Category:Toki Pona text containing sound symbol Le]]

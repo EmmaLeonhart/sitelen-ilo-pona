@@ -1,9 +1,0 @@
-Representation of "ma tomo Kulalunpa" in sitelen kalama pona.
-Sources: ma-tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma-tomo.svg; ku: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ku.svg; la: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_la.svg; lun: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_lun.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma tomo]]
-[[Category:Toki Pona text containing sound symbol Ku]]
-[[Category:Toki Pona text containing sound symbol La]]
-[[Category:Toki Pona text containing sound symbol Lun]]
-[[Category:Toki Pona text containing sound symbol Pa]]

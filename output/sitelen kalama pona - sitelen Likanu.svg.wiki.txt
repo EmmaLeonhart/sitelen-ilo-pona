@@ -1,8 +1,0 @@
-Representation of "sitelen Likanu" in sitelen kalama pona.
-Sources: sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; nu: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_nu.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sitelen]]
-[[Category:Toki Pona text containing sound symbol Li]]
-[[Category:Toki Pona text containing sound symbol Ka]]
-[[Category:Toki Pona text containing sound symbol Nu]]

@@ -1,9 +1,0 @@
-Representation of "akesi Lesilija" in sitelen kalama pona.
-Sources: akesi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_akesi.svg; le: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_le.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_li.svg; ja: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ja.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing akesi]]
-[[Category:Toki Pona text containing sound symbol Le]]
-[[Category:Toki Pona text containing sound symbol Si]]
-[[Category:Toki Pona text containing sound symbol Li]]
-[[Category:Toki Pona text containing sound symbol Ja]]

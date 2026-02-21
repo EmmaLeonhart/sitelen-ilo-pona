@@ -1,8 +1,0 @@
-Representation of "ma Tijomi" in sitelen kalama pona.
-Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; ti: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ti.svg; jo: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jo.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma]]
-[[Category:Toki Pona text containing sound symbol Ti]]
-[[Category:Toki Pona text containing sound symbol Jo]]
-[[Category:Toki Pona text containing sound symbol Mi]]

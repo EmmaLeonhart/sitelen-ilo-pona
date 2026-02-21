@@ -1,8 +1,0 @@
-Representation of "telo suli Kawipen" in sitelen kalama pona.
-Sources: telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; ka: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ka.svg; wi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wi.svg; pen: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pen.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing telo suli]]
-[[Category:Toki Pona text containing sound symbol Ka]]
-[[Category:Toki Pona text containing sound symbol Wi]]
-[[Category:Toki Pona text containing sound symbol Pen]]

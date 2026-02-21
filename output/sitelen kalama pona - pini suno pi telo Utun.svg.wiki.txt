@@ -1,7 +1,0 @@
-Representation of "pini suno pi telo Utun" in sitelen kalama pona.
-Sources: pini: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pini.svg; suno: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suno.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; u: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xu.svg; tun: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_tun.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing pini suno pi telo]]
-[[Category:Toki Pona text containing sound symbol U]]
-[[Category:Toki Pona text containing sound symbol Tun]]

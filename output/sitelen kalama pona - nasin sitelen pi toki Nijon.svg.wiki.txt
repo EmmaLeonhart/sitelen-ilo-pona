@@ -1,7 +1,0 @@
-Representation of "nasin sitelen pi toki Nijon" in sitelen kalama pona.
-Sources: nasin-sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin-sitelen.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ni.svg; jon: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_jon.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nasin sitelen pi toki]]
-[[Category:Toki Pona text containing sound symbol Ni]]
-[[Category:Toki Pona text containing sound symbol Jon]]

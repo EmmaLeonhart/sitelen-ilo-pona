@@ -1,8 +1,0 @@
-Representation of "nasin sewi Pawaji" in sitelen kalama pona.
-Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sewi.svg; pa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pa.svg; wa: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_wa.svg; ji: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ji.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing nasin sewi]]
-[[Category:Toki Pona text containing sound symbol Pa]]
-[[Category:Toki Pona text containing sound symbol Wa]]
-[[Category:Toki Pona text containing sound symbol Ji]]

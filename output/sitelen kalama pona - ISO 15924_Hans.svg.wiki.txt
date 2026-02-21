@@ -1,8 +1,0 @@
-Representation of "ISO 15924:Hans" in sitelen kalama pona.
-Sources: i: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xi.svg; so: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_so.svg; an: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xan.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing sound symbol I]]
-[[Category:Toki Pona text containing sound symbol So]]
-[[Category:Toki Pona text containing sound symbol An]]
-[[Category:Toki Pona text containing sound symbol S]]

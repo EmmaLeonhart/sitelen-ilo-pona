@@ -1,9 +1,0 @@
-Representation of "ma telo linja Misisipi" in sitelen kalama pona.
-Sources: ma: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ma.svg; telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_telo.svg; linja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_linja.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_mi.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; si: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_si.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_pi.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing ma telo linja]]
-[[Category:Toki Pona text containing sound symbol Mi]]
-[[Category:Toki Pona text containing sound symbol Si]]
-[[Category:Toki Pona text containing sound symbol Si]]
-[[Category:Toki Pona text containing sound symbol Pi]]

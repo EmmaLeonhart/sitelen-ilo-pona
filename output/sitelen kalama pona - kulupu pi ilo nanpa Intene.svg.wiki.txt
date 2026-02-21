@@ -1,8 +1,0 @@
-Representation of "kulupu pi ilo nanpa Intene" in sitelen kalama pona.
-Sources: kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ilo-nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo-nanpa.svg; in: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_xin.svg; te: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_te.svg; ne: https://commons.wikimedia.org/wiki/File:Sitelen_kalama_pona_-_ne.svg
-
-[[Category:Sitelen kalama pona]]
-[[Category:Toki Pona text containing kulupu pi ilo nanpa]]
-[[Category:Toki Pona text containing sound symbol In]]
-[[Category:Toki Pona text containing sound symbol Te]]
-[[Category:Toki Pona text containing sound symbol Ne]]
