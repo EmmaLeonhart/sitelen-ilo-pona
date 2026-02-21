@@ -676,7 +676,13 @@ def generate(text):
 
     output_dir = ROOT_DIR / 'output'
     output_dir.mkdir(exist_ok=True)
-    output_name = f'sitelen kalama pona - {safe_filename(text)}.svg'
+    if word_tokens and sound_name:
+        filename_text = f'{" ".join(word_tokens)}, {sound_name}'
+    elif sound_name:
+        filename_text = f', {sound_name}'
+    else:
+        filename_text = text
+    output_name = f'sitelen kalama pona - {safe_filename(filename_text)}.svg'
     output_path = output_dir / output_name
     with open(str(output_path), 'w', encoding='utf-8') as f:
         f.write(svg_content)
