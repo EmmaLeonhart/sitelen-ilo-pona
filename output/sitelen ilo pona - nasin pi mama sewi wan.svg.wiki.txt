@@ -1,0 +1,5 @@
+Representation of "nasin pi mama sewi wan" in sitelen ilo pona.
+Sources: nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; mama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mama.svg; sewi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sewi.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nasin pi mama sewi wan]]

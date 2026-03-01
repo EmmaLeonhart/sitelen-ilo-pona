@@ -1,0 +1,5 @@
+Representation of "soweli li kama tan mama li kama ante lon tenpo mute" in sitelen ilo pona.
+Sources: soweli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_soweli.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; kama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kama.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg; mama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mama.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; kama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kama.svg; ante: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ante.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; mute: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mute.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing soweli li kama tan mama li kama ante lon tenpo mute]]
