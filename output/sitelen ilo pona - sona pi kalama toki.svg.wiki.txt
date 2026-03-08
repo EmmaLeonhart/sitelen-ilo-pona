@@ -1,0 +1,5 @@
+Representation of "sona pi kalama toki" in sitelen ilo pona.
+Sources: sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kalama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sona pi kalama toki]]
