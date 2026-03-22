@@ -1,0 +1,5 @@
+Representation of "kili pi palisa pimeja" in sitelen ilo pona.
+Sources: kili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kili.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; palisa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_palisa.svg; pimeja: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pimeja.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kili pi palisa pimeja]]

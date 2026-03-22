@@ -1,0 +1,5 @@
+Representation of "supa anpa tomo" in sitelen ilo pona.
+Sources: supa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_supa.svg; anpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_anpa.svg; tomo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tomo.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing supa anpa tomo]]

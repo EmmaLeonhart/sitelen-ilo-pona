@@ -1,0 +1,5 @@
+Representation of "kipisi:kule tu pi kipisi sitelen" in sitelen ilo pona.
+Sources: tu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kipisi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kipisi.svg; sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kipisi:kule tu pi kipisi sitelen]]

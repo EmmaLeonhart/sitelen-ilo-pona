@@ -1,0 +1,5 @@
+Representation of "sijelo sinpin en sijelo supa" in sitelen ilo pona.
+Sources: sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg; sinpin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sinpin.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_en.svg; sijelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sijelo.svg; supa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_supa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sijelo sinpin en sijelo supa]]

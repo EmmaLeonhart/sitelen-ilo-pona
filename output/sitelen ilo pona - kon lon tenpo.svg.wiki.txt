@@ -1,0 +1,5 @@
+Representation of "kon lon tenpo" in sitelen ilo pona.
+Sources: kon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kon.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kon lon tenpo]]

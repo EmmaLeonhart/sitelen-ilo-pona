@@ -1,0 +1,5 @@
+Representation of "ko moku jelo" in sitelen ilo pona.
+Sources: ko: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ko.svg; moku: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moku.svg; jelo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jelo.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ko moku jelo]]
