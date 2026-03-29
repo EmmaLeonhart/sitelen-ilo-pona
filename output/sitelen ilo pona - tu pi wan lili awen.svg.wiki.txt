@@ -1,0 +1,5 @@
+Representation of "tu pi wan lili awen" in sitelen ilo pona.
+Sources: tu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg; lili: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lili.svg; awen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_awen.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tu pi wan lili awen]]
