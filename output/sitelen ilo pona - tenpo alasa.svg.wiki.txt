@@ -1,0 +1,5 @@
+Representation of "tenpo alasa" in sitelen ilo pona.
+Sources: tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg; alasa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_alasa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing tenpo alasa]]
