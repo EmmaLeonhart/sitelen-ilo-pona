@@ -1,0 +1,5 @@
+Representation of "kalama namako pi kepeken sike" in sitelen ilo pona.
+Sources: kalama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kalama.svg; namako: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_namako.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; kepeken: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kepeken.svg; sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kalama namako pi kepeken sike]]
