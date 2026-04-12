@@ -1,0 +1,5 @@
+Representation of "ijo ale li lon nasin tu" in sitelen ilo pona.
+Sources: ijo-ale: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-ale.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; lon: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lon.svg; nasin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nasin.svg; tu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ijo ale li lon nasin tu]]
