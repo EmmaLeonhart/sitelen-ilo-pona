@@ -1,0 +1,5 @@
+Representation of "pana pi toki tenpo" in sitelen ilo pona.
+Sources: pana: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pana.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; toki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki.svg; tenpo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tenpo.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing pana pi toki tenpo]]

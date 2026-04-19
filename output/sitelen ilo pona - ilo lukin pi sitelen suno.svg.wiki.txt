@@ -1,0 +1,5 @@
+Representation of "ilo lukin pi sitelen suno" in sitelen ilo pona.
+Sources: ilo-lukin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ilo-lukin.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sitelen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sitelen.svg; suno: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suno.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ilo lukin pi sitelen suno]]
