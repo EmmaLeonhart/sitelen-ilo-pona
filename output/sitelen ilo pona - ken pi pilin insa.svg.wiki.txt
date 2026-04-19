@@ -1,0 +1,5 @@
+Representation of "ken pi pilin insa" in sitelen ilo pona.
+Sources: ken: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ken.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pilin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pilin.svg; insa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_insa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ken pi pilin insa]]
