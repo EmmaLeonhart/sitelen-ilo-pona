@@ -1,0 +1,5 @@
+Representation of "mun poka mi" in sitelen ilo pona.
+Sources: mun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mun.svg; poka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_poka.svg; mi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing mun poka mi]]

@@ -1,0 +1,5 @@
+Representation of "mun sike tawa" in sitelen ilo pona.
+Sources: mun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mun.svg; sike: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sike.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing mun sike tawa]]

@@ -1,0 +1,5 @@
+Representation of "sinpin pi pilin ala li sama jan jaki" in sitelen ilo pona.
+Sources: sinpin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sinpin.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pilin-ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pilin-ala.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; sama: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sama.svg; jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; jaki: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jaki.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sinpin pi pilin ala li sama jan jaki]]
