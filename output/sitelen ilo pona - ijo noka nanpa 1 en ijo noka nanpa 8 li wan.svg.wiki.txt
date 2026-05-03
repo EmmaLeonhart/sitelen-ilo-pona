@@ -1,0 +1,5 @@
+Representation of "ijo noka nanpa 1 en ijo noka nanpa 8 li wan" in sitelen ilo pona.
+Sources: ijo-noka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-noka.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; en: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_en.svg; ijo-noka: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-noka.svg; nanpa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nanpa.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ijo noka nanpa 1 en ijo noka nanpa 8 li wan]]
