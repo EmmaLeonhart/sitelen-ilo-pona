@@ -1,0 +1,5 @@
+Representation of "kulupu:toki sin tan toki pona" in sitelen ilo pona.
+Sources: sin: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sin.svg; tan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tan.svg; toki-pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_toki-pona.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:toki sin tan toki pona]]
