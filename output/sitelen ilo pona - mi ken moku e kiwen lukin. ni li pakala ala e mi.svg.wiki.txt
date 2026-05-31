@@ -1,0 +1,5 @@
+Representation of "mi ken moku e kiwen lukin. ni li pakala ala e mi." in sitelen ilo pona.
+Sources: mi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mi.svg; ken: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ken.svg; moku: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moku.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; kiwen: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kiwen.svg; ni: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ni.svg; li: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_li.svg; pakala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pakala.svg; ala: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ala.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing mi ken moku e kiwen lukin. ni li pakala ala e mi.]]
