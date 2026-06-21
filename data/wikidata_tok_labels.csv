@@ -1,7 +1,7 @@
 qid,label,tok_title
 Q1860,toki Inli,toki Inli
 Q5,jan,jan
-Q6581097,mije,mije kon
+Q6581097,mije,
 Q328,lipu Wikipesija pi toki Inli,
 Q4167836,poki lipu pi kulupu Wikimesija,
 Q523,mun,mun seli
@@ -122,7 +122,7 @@ Q39816,anpa nena,nasin anpa pi nena ma
 Q24905,nimi pali,nimi pali
 Q58255,lipu Wikipesija pi toki Tuki,
 Q258,ma Setapika,ma Setapika
-Q41,ma Elina,ma Elina
+Q41,ma Elina,ma Elena
 Q7913,toki Lomani,toki Lominija
 Q175482,lipu Wikipesija pi toki Sumi,
 Q1028,ma Malipe,ma Malipe
@@ -251,7 +251,7 @@ Q3224,ma Niju Sato Weli,ma Niju Sato Weli
 Q9067,toki Mosijo,toki Mosijo
 Q5309,kiwen sitelen,kiwen pi ilo sitelen
 Q1754,ma tomo Sokon,ma tomo Sokon
-Q61,ma tomo Sisi,ma Sisi
+Q61,ma tomo Sisi,kipisi ma Kolonpija
 Q1490,ma tomo Tokijo,ma tomo Tokijo
 Q77,ma Ulukawi,ma Uluwa
 Q241,ma Kupa,ma Kuwa
@@ -262,7 +262,7 @@ Q114,ma Kenja,ma Kenja
 Q9384,sike sijelo pi telo unpa,
 Q26,ma Notalan,ma Ele lete
 Q1009,ma Kamelun,ma Kamelun
-Q1492,ma tomo Paselona,ma tomo Paselona
+Q1492,ma tomo Paselona,ma tomo Pasalona
 Q34433,tomo sona Opo,tomo sona Opo
 Q2742472,lipu Wikipesija pi toki Tosiki,
 Q8678,ma tomo Kiju Si Sanelu,ma tomo Kiju Si Sanelu
@@ -272,10 +272,10 @@ Q14516546,Tanje,
 Q1975217,lipu Wikipesija pi toki Aja,
 Q56061,ma lili,ma kipisi
 Q117,ma Kana,ma Kana
-Q44148,mije,mije sijelo
+Q44148,mije,nasin mama pana
 Q656,ma tomo Sanpisipu,ma tomo Sanpisipu
 Q25167,toki Nosiki lipu,
-Q9129,toki Elina,
+Q9129,toki Elina,toki Elena
 Q29468,kulupu Wepalikan,kulupu Wepalikan
 Q718,musi pi jan lawa moli,musi pi jan lawa moli
 Q385468,Elisape,
@@ -399,7 +399,7 @@ Q1084472,Kitope,
 Q172,ma tomo Towano,ma Towano
 Q15,ma Apika,ma Apika
 Q866,lipu Jutu,ilo Jutu
-Q43445,meli,meli sijelo
+Q43445,meli,nasin mama awen
 Q28319,pipi kule,pipi kule
 Q6654,toki Lowasi,toki Lowasi
 Q1016,ma Lipija,ma Lipija
@@ -461,6 +461,7 @@ Q1951,ma Apeta,ma Apeta
 Q2329,sona kama,sona ijo
 Q8819,toki ilo Juniko,nasin Juniko
 Q423,ma Soson,ma Soson
+Q36510,toki Elina,toki Elina
 Q565074,lipu Wikipesija pi toki Tawi,
 Q716,ijo lili nanpa 22,ijo lili nanpa 22
 Q971,ma Konko pi ma tomo Pasawi,ma Konko pi ma tomo Pasawi
@@ -584,7 +585,7 @@ Q9418,sona pi lawa jan,sona pi lawa jan
 Q2095,moku,moku
 Q8684,ma tomo Solu,ma tomo Solu
 Q49085,jan Mewika Apika,jan Mewika Apika
-Q3630,ma tomo Sakata,ma tomo Sakata
+Q3630,ma tomo Sakata,ma Sakata
 Q33810,toki Olija,
 Q3616,ma tomo Telan,ma tomo Telan
 Q70,ma tomo Pen,ma tomo Pen
@@ -616,7 +617,7 @@ Q23444,walo,walo
 Q846,ma Kata,ma Kata
 Q1006,ma Kine,ma Kine
 Q456,ma tomo Lijon,ma tomo Lijon
-Q34404,ma tomo Niju Olin,
+Q34404,ma Nu Olan,
 Q808,jaki lili pi poki sijelo lili,jaki lili pi poki sijelo lili
 Q98,telo suli Pasipi,telo suli Pasipi
 Q23482,ma tomo Maseje,ma tomo Maseje
@@ -688,7 +689,7 @@ Q819,ma Lajo,ma Lajo
 Q294,toki Isilan,toki Isilan
 Q60158,ma Kelelo,ma Kelelo
 Q1239,telo suli Insi,telo suli Palata
-Q283,telo,telo
+Q283,telo,
 Q48493,ilo Ajowe,ilo Ajowe
 Q778,ma Pawama,ma Pawama
 Q12725,wawa linja,wawa linja
@@ -739,13 +740,14 @@ Q1342,ma tomo Pipe,ma tomo Pipe
 Q8104,sijelo kon,sijelo kon
 Q47588,ma Esuka,
 Q1612,ma Akanso,ma Akanso
-Q1420,ilo tawa,ilo tawa
+Q1420,ilo tawa,
 Q580,ma tomo Usi,
 Q845945,tomo sewi pi nasin sewi Sinto,tomo sewi pi nasin sewi Sinto
 Q57821,tomo utala,tomo utala
 Q235,ma Monako,ma Monako
 Q1005,ma Kanpija,ma Kanpija
 Q8676,utala insa pi ma Mewika,utala insa pi ma Mewika
+Q16552,ma Sansijeko,
 Q779,ma Kanesika,ma Kanesika
 Q1391,ma Mewilan,ma Mewilan
 Q61002,nimi ante,
@@ -1002,8 +1004,8 @@ Q943,jelo,jelo
 Q34311,toki Jolupa,
 Q198,tenpo utala,tenpo utala
 Q42222,sitelen Pin In,sitelen Pin In
-Q8740,utala pi ma Wije,utala pi ma Wije
 Q17151,ma tomo Tesaloniki,ma tomo Tesaloniki
+Q8740,utala pi ma Wije,utala pi ma Wije
 Q355771,kulupu utala ma pi ma Palata,
 Q56475,toki Awasa,toki Awasa
 Q6585,ma Iku,ma Iku suli
@@ -1085,7 +1087,7 @@ Q9135,ilo kon lawa,ilo kon lawa
 Q2374285,lipu Wikipesija pi toki Alapi pi ma Masu,
 Q9142,toki Alan,toki Kelike
 Q1211,ma Satakota,ma Satakota
-Q8216,sitelen Elina,sitelen Elina
+Q8216,sitelen Elina,sitelen Elena
 Q344,tenpo kama,tenpo kama
 Q1061,ma Kusala,ma kipisi Kusala
 Q3769,ma Kijan,ma Kijan
@@ -1188,7 +1190,7 @@ Q1854,ma tomo O Si Min,ma tomo O Si Min
 Q1536552,kulupu Koka pi nasin lawa,kulupu Koka pi nasin lawa
 Q2073,ma Komi,ma Komi
 Q23595,insa,
-Q23635,ma Pemuta,
+Q23635,ma Pemuta,ma Pemuta
 Q11703,kulupu ma Pisin pi ma Mewika,kulupu ma Pisin pi ma Mewika
 Q185029,musi utala pi jan wan,musi utala pi jan wan
 Q42880,ma Silo,ma Silo
@@ -1265,7 +1267,7 @@ Q15332388,anpa,anpa
 Q7560,mama meli,
 Q16635,ma Kawan,ma Kawan
 Q788,telo suli Asiku,telo suli Asika
-Q11435,telo,
+Q11435,telo,telo
 Q2769157,Apike,
 Q36253,suli palisa,
 Q42362,ma Malajan,ma Malanjan
@@ -1309,6 +1311,7 @@ Q8680,ma lawa suli Piten,ma lawa suli Piten
 Q1247,telo suli Kalipi,telo suli Kalipi
 Q2271,ma Sumata Salatan,ma Sumata Salatan
 Q5577,jan Sawato Tali,jan Sapato Tali
+Q6368,ilo lukin pi lipu ilo,ilo lukin pi lipu ilo
 Q1201,ma lili Salan,ma kipisi Salan
 Q145665,kulupu jan Mansu,
 Q172742,ilo musi Pamikon,ilo musi Pamikon
@@ -1474,8 +1477,8 @@ Q1035,jan Sa Tawin,jan Sa Tawin
 Q37141,nanpa 13,nanpa 13
 Q7792,ma Sakalin,ma Sakalin
 Q23114,jan Lu Sin,jan Lu Sin
-Q179461,lipu sewi,lipu sewi
 Q66117,ma Molelo,ma Molelo
+Q179461,lipu sewi,lipu sewi
 Q5739,ma Kasila-Lejon,ma Kasila-Lejon
 Q15174,ma tomo Sensen,ma tomo Sensen
 Q43235,ma Kontonija,ma Kontonja
@@ -1521,6 +1524,7 @@ Q36495,toki Panlan,
 Q568,ijo lili nanpa 3,ijo noka nanpa 3
 Q174691,ma tomo Sisujoka,ma tomo Sisujoka
 Q170616,ma tomo Sipa,ma tomo Sipa
+Q182172,ilo musi Kemukupu,ilo musi Kemukupu
 Q132811,telo suli Kaliponja,telo suli Kaliponja
 Q180453,jan Toli Patan,jan Toli Patan
 Q276535,kulupu utala pi ma Nijon,kulupu utala pi ma Nijon
@@ -1649,6 +1653,7 @@ Q39061,poka open pi open suno,nasin pi soweli lete
 Q104731,ma tomo Kosu pi ma Posuka suli,
 Q49297,kulupu:kulupu nanpa wan lon ma Mewika,kulupu:kulupu nanpa wan lon ma Mewika
 Q40885,ma Alakowa,ma Alakowa
+Q11256,jan Pite Kaso,
 Q39338,loje jelo,loje jelo
 Q9420,pilin insa,pilin insa
 Q18616576,kule lon lipu Wikinanpa,
@@ -1692,7 +1697,7 @@ Q531,tenpo sike pi tawa suno,tenpo sike pi tawa suno
 Q13233,suwi lete,suwi lete
 Q9158,ilo wawa pi pana toki,ilo wawa pi pana toki
 Q855270,nasin sewi Elena,nasin sewi Elena
-Q263,lipu Wikitan,lipu Wikiso
+Q263,lipu Wikitan,lipu Wikimama
 Q134750,nasin telo Sanlokan,nasin telo Sanlokan
 Q44676,toki Inli pi ma Kanata,
 Q169031,len luka,
@@ -1752,7 +1757,7 @@ Q2449503,mije tonsi,mije tonsi
 Q1758757,tenpo monsi pi kiwen mani laso,tenpo monsi pi kiwen mani laso
 Q208045,jelo kiwen,jelo mani
 Q29507,toki Atulanu,toki Atulija
-Q91,jan Epejan Linkon,jan Epajan Linkan
+Q91,jan Epejan Linkon,jan Epawan Linkan
 Q41726,kulupu Pimeson,kulupu Pimeson
 Q205895,ma wan suli,ma wan suli
 Q49622,tenpo sike nanpa 2023,tenpo sike nanpa 2023
@@ -1783,6 +1788,7 @@ Q468756,ma lon poka telo,ma lon poka telo
 Q9441,jan sewi Sitata,jan Puta
 Q8183,kalama lili,kalama toki lili
 Q93346,kulupu Seme,kulupu Seme
+Q7542,jan Pinse,
 Q2702,ma Wasimi,ma Wasimi
 Q327,ma Peson,
 Q3257809,laso loje,
@@ -2084,6 +2090,7 @@ Q11035,ilo toki,ilo toki
 Q9358,jan Pisi Nise,jan Piki Nise
 Q37610,jan Pen-Kulijon,jan Pen-Kulijon
 Q6279,jan So Paten,jan So Paten
+Q23522,ma Pakan,ma Pakan
 Q42527,namako,
 Q84048850,jan mije,
 Q34787,jan Pelike Enke,jan Pelike Enke
@@ -2170,6 +2177,7 @@ Q16231,ma lili Pawija,
 Q5684,ma tomo Papilin,ma tomo Papilin
 Q3,lon,ijo lon
 Q1405,jan Akutu,jan Akutu
+Q7715973,ilo Linu Tepijan,ilo Linu Tepijan
 Q16161,ma lili Komo,
 Q8027,jan Masin Luta Kin lili,jan Maten Lute Kin lili
 Q9235,jan Eke,jan Eke
@@ -2204,6 +2212,7 @@ Q133132,kulupu pi ma tomo Paki (tenpo pini),kulupu pi ma tomo Paki (tenpo pini)
 Q369,lipu Wikikoto,
 Q34086,jan Sasin Pipa,jan Sasin Pipa
 Q2767140,kulupu lawa pi ma Palata,
+Q381,ilo Linu Upuntu,ilo Linu Upuntu
 Q1144326,jan Juli Okanesijan,jan Juli Okanesijan
 Q10987,ko suwi pipi,ko suwi pipi
 Q207316,toki ilo Luwa,toki ilo Luwa
@@ -2227,8 +2236,8 @@ Q14759,toki luka Mewika,
 Q18677875,ma Nomansi,ma Nomansi
 Q3250324,jan lawa nanpa tu,jan lawa nanpa tu
 Q276453,monsuta,
-Q126916,jan sewi Minewa,jan sewi Minewa
 Q564,ma anpa ike,ma anpa ike
+Q126916,jan sewi Minewa,jan sewi Minewa
 Q44619,pilin monsuta,monsuta
 Q234852,supa tomo anpa,supa tomo anpa
 Q36322,jan Sen Osin,
@@ -2236,7 +2245,7 @@ Q2632,jan Winko Sa,jan Winko Sa
 Q882,jan Sali Sapin,jan Sali Sapin
 Q669623,toki mama Keman,toki mama Kemani
 Q446,sike,
-Q16272,ma lili Sasali,ma kipisi Sasali
+Q16272,ma lili Sasali pi tenpo pini,ma kipisi Sasali pi nasin Provincia
 Q8276,lipu Mawapalatan,lipu Mawapalatan
 Q33968,toki Ili,toki Ili
 Q33070,toki pi ma Pali,toki Pali pi ma Intonesija
@@ -2283,8 +2292,8 @@ Q5419,nasin telo Misuwi,nasin telo Misuwi
 Q6527,jan Sansaka Kuso,
 Q80413,ma Nowajasinla,ma Nowajasinla
 Q596044,ma tomo Modra,
-Q8605,jan Simon Poliwa,
 Q35934,toki Intelinwa,toki Intelinwa
+Q8605,jan Simon Poliwa,
 Q56463,kulupu toki Sami,kulupu toki Sami
 Q112863331,musi Manka,
 Q96417649,musi Amanka,musi Amanka
@@ -2314,8 +2323,8 @@ Q17505024,kulupu tan pana pi jan tawa sewi pi kulupu lawa,
 Q373160,laso sewi,laso sewi
 Q608,unpa,
 Q64884,kulupu pi sike noka pi ma Owen,kulupu pi sike noka pi ma Owen
-Q156253,kipisi ma Kolunpija lon ma Wasinton,kipisi ma Kolunpija lon ma Wasinton
 Q40254,nanpa 16,nanpa 16
+Q156253,kipisi ma Kolunpija lon ma Wasinton,kipisi ma Kolunpija lon ma Wasinton
 Q43675,jan Pilipo,
 Q11466,suli seli,suli seli
 Q37806,ma tomo Wila,
@@ -2335,7 +2344,7 @@ Q1779,jan Luwi Anson,jan Luwi Anson
 Q16282,ma lili Sonlijo,
 Q9941,sitelen O,sitelen O
 Q455602,jan sewi suli Amatelasu,jan sewi suli Amatelasu
-Q133105,noka,
+Q133105,noka,noka
 Q39231,nena Pusi,nena Pusi
 Q7615342,musi Sipin Junipa,musi Sipin Junipa
 Q14452,ma Lapanuwi,ma Lapanuwi
@@ -2389,6 +2398,7 @@ Q217164,supa anpa tomo,supa anpa tomo
 Q863404,anpa ma,anpa ma
 Q191924,kiwen kon nasa,kiwen kon nasa
 Q17147,sike mama,sike mama
+Q6107,jan Tupa Saku,
 Q196489,ma tomo Telitama,
 Q178903,jan Alesanta Amiton,
 Q40939,jan Asikilo,jan Asikilo
@@ -2437,9 +2447,9 @@ Q104358,jan Pili Olite,
 Q276944,jan sewi Okuninusi,
 Q17738,sitelen Anuko,sitelen Anuko
 Q4102091,kulupu pi ma telo Wawaju,kulupu Wawaju pi ma lili
-Q16240,ma lili Pelusa,
-Q118382,nasin pi jo jan lon ma Mewika,nasin pi jo jan lon ma Mewika
 Q616620,toki Epanja pi ma Mesiko,
+Q118382,nasin pi jo jan lon ma Mewika,nasin pi jo jan lon ma Mewika
+Q16240,ma lili Pelusa,
 Q600614,ma Okinawa,ma Okinawa
 Q8743,jan Toma Esison,
 Q5284,jan Pile Ke,jan Pile Ke
@@ -2504,8 +2514,8 @@ Q5765,kulupu Paleja pi ma lili,kulupu Paleja pi ma lili
 Q223044,akesi pi monsi kiwen,akesi pi monsi kiwen
 Q12175,toki Man,
 Q44190,kulupu Lesijowe,kulupu Wesijowe
-Q11817,jan Antu Sason,jan Antu Sason
 Q12143,ma tenpo,ma tenpo
+Q11817,jan Antu Sason,jan Antu Sason
 Q15767,ma tomo Amawi,
 Q327221,nena ma Pena,nena ma Pena
 Q25282,ma tomo Ta Nan,ma tomo Ta Nan
@@ -2538,16 +2548,16 @@ Q8753,jan Enliko Pemi,
 Q82,ilo li lon e sitelen tan ilo,ilo li lon e sitelen tan ilo
 Q15099,ma lili Asi,
 Q205,pini ala,pini ala
-Q5098,kipisi Popinsi,kipisi Popinsi
 Q12542,kulupu Mesika,kulupu Mesika
-Q52999,ma tomo Numake,
+Q5098,kipisi Popinsi,kipisi Popinsi
 Q15096,ma lili Weseli,
+Q52999,ma tomo Numake,
 Q16197,ma lili Lese,
 Q172937,sijelo tomo sinpin,sijelo tomo sinpin
-Q60960,linja monsi,linja monsi
-Q11806,jan San Atan,jan Son Atan
-Q39246,jan Wisa Pamen,
 Q7246,soweli pi palisa lawa wan,soweli pi palisa lawa wan
+Q11806,jan San Atan,jan Son Atan
+Q60960,linja monsi,linja monsi
+Q39246,jan Wisa Pamen,
 Q43353,jan Awitopane,jan Awitopane
 Q37085,jan Salomon,
 Q913582,ma lili Italija lon ma suli Loma,
@@ -2560,8 +2570,8 @@ Q3688,ma tomo Nakeso,ma tomo Nakeso
 Q202311,ma lili Ekitu pi ma Loma,
 Q38834,ma tomo Nukuwalopa,ma tomo Nukuwalopa
 Q16220,ma lili Nukolo,
-Q662,sitelen tawa Nijan Senesi Ewankelijan,sitelen tawa Nijan Senesi Ewankelijan
 Q479505,tenpo kiwen sinpin monsi,tenpo kiwen sinpin monsi
+Q662,sitelen tawa Nijan Senesi Ewankelijan,sitelen tawa Nijan Senesi Ewankelijan
 Q16153,ma lili Kaseta,
 Q130978,ma palisa Jukatan,ma palisa Jukatan
 Q16181,ma lili Posinone,
@@ -2573,8 +2583,8 @@ Q7251,jan Alan Tuwin,jan Alan Tuwin
 Q317802,walo mani,walo mani
 Q36755,ma Sina,ma Sina
 Q130788,sona pi nasin tenpo,sona pi nasin tenpo
-Q33302,toki luka Kanse,
 Q13989,ma Onsu,ma Onsu
+Q33302,toki luka Kanse,
 Q28464970,kulupu pi lipu Wesi,
 Q11464,ilo pi sin ma,ilo pi sin ma
 Q180589,jan Powi Sonsen,jan Powi Sonsen
@@ -2611,8 +2621,8 @@ Q13645,ma tomo Tenpijo Pasanja,ma tomo Tenpijo Pasanja
 Q656421,nena ma Eken,nena ma Eken
 Q877674,pilin,
 Q606340,ma Man,ma Man
-Q9036,jan Nikola Tesa,jan Nikola Tesa
 Q125384,ma Luson,ma Luson
+Q9036,jan Nikola Tesa,jan Nikola Tesa
 Q642006,ma tomo Kulajosi,ma tomo Kulajosi
 Q21200,kulupu toki Keman,kulupu toki Kemani
 Q189178,tenpo pi kulupu lawa Nala,tenpo pi kulupu lawa Nala
@@ -2626,13 +2636,13 @@ Q386567,ma tomo Esa,
 Q13987,ma Kijusiju,ma Kijusiju
 Q3783,nasin telo Amasona,nasin telo Amasona
 Q316390,ma lili Anteka,
-Q46841,nasin telo Lena,nasin telo Lena
 Q29325697,jan pi tomo ala,jan pi tomo ala
+Q46841,nasin telo Lena,nasin telo Lena
 Q16186,ma lili Inpelija,
 Q15094,ma lili Pijela,
 Q4627,toki Amala,
-Q43197,linja telo,linja telo
 Q720,jan Sinki Kan,jan Temusin
+Q43197,linja telo,linja telo
 Q409,jan Po Mali,jan Po Mali
 Q50811,ma kulupu Pijo,
 Q10915,soweli pi palisa insa monsi,soweli pi palisa insa monsi
@@ -2660,17 +2670,17 @@ Q155629,musi pi nasin Sesami,musi pi nasin Sesami
 Q206577,toki mama,toki mama
 Q81365,sike nanpa pi nanpa 10,sike nanpa pi sitelen 10
 Q201038,ma Loma Lenun,ma Loma Lenun
-Q7857,poki jaki,poki jaki
 Q9956,sitelen S,sitelen S
+Q7857,poki jaki,poki jaki
 Q129104,jaki Antasi,jaki Antasi
 Q61306,ma tomo Wanakuwato,ma tomo Wanakuwato
 Q9705,sitelen B,sitelen B
 Q988867,kulupu Elijo E Le Solije Tese,kulupu Elijo E Le Solije Tese
 Q169132,ma Pansapi,ma Punsapi
 Q26803,sitelen Tami,sitelen Tami
-Q16203,ma lili Maselata,
 Q83093,kili lili lawa,
 Q391167,ma tomo Osijeli,
+Q16203,ma lili Maselata,
 Q132659,sitelen Keme,
 Q107,kon lon,kon lon
 Q15087,toki Pankopowensa,
@@ -2695,8 +2705,8 @@ Q38799,kulupu Ama,kulupu Ama
 Q11352,nena palisa,nena palisa
 Q17439649,kulupu SCP,kulupu SCP
 Q5626544,kulupu:User zh,kulupu:User zh
-Q7463501,tenpo kiwen sinpin sinpin,tenpo kiwen sinpin sinpin
 Q51673,jan Maku Antonisu,
+Q7463501,tenpo kiwen sinpin sinpin,tenpo kiwen sinpin sinpin
 Q16228,ma lili Pama,
 Q82382,ma Lankenpuku,
 Q2562640,"sitelen tawa ""jan Insijana Son""",
@@ -2710,6 +2720,7 @@ Q386626,ma tomo Pikawin,
 Q2328409,lipu Wikipesija pi toki Linpu,
 Q121916,ilo sitelen,ilo sitelen
 Q33509,toki Kaka,
+Q4893533,jan Peta Lawen,
 Q317521,jan Elon Ma,jan Ilan Ma
 Q35757,toki Latan,toki Latan
 Q9739,sitelen G,sitelen G
@@ -2742,16 +2753,16 @@ Q102445,ma tomo Kowowa,ma tomo Kowowa
 Q9933,sitelen M,sitelen M
 Q16275,ma lili Sijena,
 Q16201,ma lili Losi,
-Q940,ilo nasa,
 Q7003332,kulupu:User no,kulupu:User no
+Q940,ilo nasa,
 Q4438,ma tomo Kelinton,
 Q11369,ijo lili kama,wan lili tomo
 Q131841,kili pi pilin insa,kili pi pilin insa
 Q27293,ma Asija pi pini suno,ma Asija pi pini suno
 Q10285,tomo Kolosejo,tomo Kolosejo
 Q79876,jan sewi Ese,jan sewi Ese
-Q1431,kulupu KDE,kulupu KDE
 Q6447726,kulupu:User ko,kulupu:User ko
+Q1431,kulupu KDE,kulupu KDE
 Q35722,toki Kusita,toki Kuta
 Q1972,mun pi mun Satunu,mun pi mun Satunu
 Q5861,linja lili pi kiwen kon,linja lili pi kiwen kon
@@ -2775,14 +2786,15 @@ Q9372,jan Sima Sijan,
 Q34049,kulupu toki Semi,kulupu toki Semi
 Q8006,jan Kulosawa Akila,jan Kulosawa Akila
 Q27969,toki Ajenu,toki Ajenu
-Q41421,jan Mako Sotan,jan Mako Sotan
 Q16115,ma lili Aleso,
+Q41421,jan Mako Sotan,jan Mako Sotan
 Q812880,leko tomo pona,leko tomo pona
 Q8258,"lipu ""tenpo pimeja luka luka ale wan""","lipu ""tenpo pimeja luka luka ale wan"""
 Q8401,pali pi uta wile,
 Q130798,jan Kensi Lama,jan Kensi Lama
 Q9973,sitelen Y,sitelen Y
 Q8739,jan Akimete,
+Q11022,palisa wan pi tawa sike,palisa wan pi tawa sike
 Q752241,musi Alaje,
 Q113491730,ma tomo Lijujan,
 Q1349417,selo pi ma mi,
@@ -2806,14 +2818,14 @@ Q6718,ijo lili pi taso ala,wan insa nasa
 Q8492,telo suwi,telo suwi
 Q11390939,tomo sewi Kasiman,
 Q7813,toki pi ken jan pi ma ale,lipu toki pi ken jan pi ma ale
-Q214601,jan Tewi Tenan,jan Tewi Tenan
 Q25177,kulupu Lamusitan,kulupu Lamusitan
+Q214601,jan Tewi Tenan,jan Tewi Tenan
 Q9963,sitelen V,sitelen V
 Q217059,nasin sewi Sekepenwatonikasenjewa,nasin sewi Sekepenwatonikasenjewa
 Q9773,sitelen J,sitelen J
 Q9751,sitelen Z,sitelen Z
-Q5610209,kulupu:User uk,kulupu:User uk
 Q204170,suno ala,pimeja
+Q5610209,kulupu:User uk,kulupu:User uk
 Q7260,ma lawa suli,ma lawa suli
 Q170457,ma tomo Asin,ma tomo Asin
 Q39803,jan Malijo Waka Losa,
@@ -2881,8 +2893,8 @@ Q15260613,sike mama waso,
 Q16244,ma lili Pisa,
 Q167,nanpa sike,nanpa sike
 Q2186,jan Lomulu,jan Lomulu
-Q179251,telo linja Molawa,nasin telo Molawa
 Q128257,kala pi noka lawa,kala pi noka lawa
+Q179251,telo linja Molawa,nasin telo Molawa
 Q14974,jan Olosime nanpa wan,
 Q645,nasin telo Newa,nasin telo Newa
 Q468777,lon,lon
@@ -2910,8 +2922,8 @@ Q3099714,jan Sasin Tuto,jan Sasin Tuto
 Q191448,musi Sansi,musi Sansi
 Q6394014,kulupu:User cs,kulupu:User cs
 Q488798,nasin pi lawa kasi,nasin pi lawa kasi
-Q79734,ma meso pi jan Tokin,ma meso pi jan Tokin
 Q11651,tawa pi wawa linja,tawa pi wawa linja
+Q79734,ma meso pi jan Tokin,ma meso pi jan Tokin
 Q34011,toki Samowa,toki Samowa
 Q9387,jan Ma Wepe,
 Q907398,ma Musasi pi ma Nijon,
@@ -2924,11 +2936,11 @@ Q16180,ma lili Poli Sesena,
 Q60227,pali ike tawa sewi,
 Q901323,soweli Kupitu,
 Q166097,ijo #2 li ijo #1 e ijo #3,
-Q620452,ma telo Tonatapu,ma lili Tonatapu
 Q167635,jan mama Tala,jan mama Tala
+Q620452,ma telo Tonatapu,ma lili Tonatapu
 Q16168,ma lili Pelala,
-Q675,jan Ante-Maki Anpe,
 Q16114,ma lili Ankona,
+Q675,jan Ante-Maki Anpe,
 Q221074,jan Pa Pensa,
 Q194646,jan Luwi Pulu,jan Luwi Pulu
 Q10853588,jan Kamala Ewi,jan Kamala Ewi
@@ -2948,8 +2960,8 @@ Q20991246,ma lili Katanja,
 Q1311064,tomo esun pi ko lete,
 Q3706669,ilo nasa,ilo nasa
 Q193168,tenpo ni,tenpo ni
-Q312743,jan Newi Sataka,jan Newi Sataka
 Q27449,ma Elopa seli,ma Elopa seli
+Q312743,jan Newi Sataka,jan Newi Sataka
 Q1758354,nasin pi sona tenpo,nasin pi sona tenpo
 Q2418896,wan ale,
 Q37400,ma tomo Nepito,ma tomo Nepito
@@ -2963,8 +2975,8 @@ Q12154,jan Tutankamun,jan Tutankamun
 Q180778,laso,laso
 Q4989282,kulupu:lipu pi linja sitelen pakala,kulupu:lipu pi linja sitelen pakala
 Q39259,jan Lese Taje Etokan,jan Lese Etokan
-Q34090,kulupu toki Tuki,kulupu toki Tuki
 Q171724,jan Tanije,
+Q34090,kulupu toki Tuki,kulupu toki Tuki
 Q207746,sitelen tawa Pen 10,sitelen tawa Pen 10
 Q41117,jan Kin Isan,jan Kin Isan
 Q84122,jan sewi Olo,jan sewi Olo
@@ -2982,6 +2994,7 @@ Q65059474,musi Juwensan,musi Juwensan
 Q279744,musi Alaje,musi Alaje
 Q34990,lipu Tola,lipu Tola
 Q520,nena Olinpu Mon,nena Olinpu Mon
+Q134108,nena Mulapi,
 Q33295,toki Pisi,
 Q15290,pona,pona
 Q13343,toki Mosan,
@@ -3005,8 +3018,8 @@ Q249941,ma tomo Akila,
 Q1169875,soko sewi,soko sewi
 Q264554,sike lili kon li lon telo moku lete,sike lili kon li lon telo moku lete
 Q30007,toki Ekematula,toki Ekematula
-Q12203,sitelen nanpa pi leko walo pimeja,sitelen nanpa pi leko walo pimeja
 Q132325,nasin misikeke Ajuweta,nasin misikeke Ajuweta
+Q12203,sitelen nanpa pi leko walo pimeja,sitelen nanpa pi leko walo pimeja
 Q13133,jan Mise Opama,jan Mise Opama
 Q24289654,jan Pepa en soweli Kawa,sitelen pi jan Pepa pi soweli Kawa
 Q6332629,kulupu:User id,kulupu:User id
@@ -3014,9 +3027,9 @@ Q124873,ma Mintano,ma Mintano
 Q751907,tomo Kejankijo,
 Q34251,toki Tulu,toki Tulu
 Q37221,palisa pi meso sike,palisa pi meso sike
-Q3924474,ma lili lon ma Italija lon tenpo pini,
 Q16205,ma lili Masa Kalala,
 Q131156,ma Utopija,ma Utopija
+Q3924474,ma lili lon ma Italija lon tenpo pini,
 Q682306,jan sewi meli Isanami,
 Q4730,mani Peso pi ma Mesiko,mani Peso pi ma Mesiko
 Q131230,nena Mana Keja,
@@ -3038,8 +3051,8 @@ Q9968,sitelen X,sitelen X
 Q6445580,kulupu:User it,kulupu:User it
 Q6587145,kulupu:User ru,kulupu:User ru
 Q36280,toki Mase,toki Mase
-Q101935,kulupu jan Ukeno,kulupu jan Ukeno
 Q206717,kulupu mun,kulupu mun
+Q101935,kulupu jan Ukeno,kulupu jan Ukeno
 Q71910,musi Tetasu,musi Tetasu
 Q335214,toki lon poka moli,toki lon poka moli
 Q834328,kulupu Kana,kulupu Kana
@@ -3064,8 +3077,8 @@ Q3904,ma tomo Enpapane,ma tomo Enpapane
 Q34233,toki Usinakusi,toki Usinakusi
 Q26706,tenpo kulupu Ijoko,kama kulupu Ijoko
 Q14384,akesi Siselato,akesi Siselato
-Q9286083,jan Anipa,jan Anipa
 Q425057,ma tomo Miton,
+Q9286083,jan Anipa,jan Anipa
 Q11389,jan sewi Pama,jan sewi Pama
 Q10862449,ante,ante
 Q11567,nanpa pi nasin tu,nanpa pi nasin tu
@@ -3117,6 +3130,7 @@ Q692989,musi Opa,musi Lopa
 Q497,lupa monsi,lupa monsi
 Q650555,kulupu Kino pi kalama musi,kulupu Kino pi kalama musi
 Q45068,jan lawa Kale Kusa,jan lawa Kale Kusa
+Q5288,toki ilo Siku,toki ilo Siku
 Q19,pali ike,
 Q32047,ma Ililija,ma Ililija
 Q18093576,jan moli,
@@ -3157,8 +3171,8 @@ Q8398,unpa monsi,
 Q1374,nena ma suli Sewin,nena ma suli Sewin
 Q126462,jan Toma Pin,jan Toma Pen
 Q173253,pilin,pilin
-Q170581,jan Nansi Pelosi,jan Nansi Pelosi
 Q15110,ma tomo suli lon ma Italija,
+Q170581,jan Nansi Pelosi,jan Nansi Pelosi
 Q35768,toki luka Katala,
 Q1046722,kulupu Wapeli,kulupu Wapeli
 Q9141,tomo Ta Maja,tomo Tamala
@@ -3168,18 +3182,18 @@ Q34094,toki Tona,toki Tona
 Q190992,jan Ipelija,jan Ipelija
 Q59268408,jan soweli Mekan,jan soweli Mekan
 Q130924,sitelen musi suli Kalewala,sitelen musi suli Kalewala
-Q38918,nasin nanpa Lasina,nasin nanpa Lasina
 Q873072,nena lili pi pilin pona unpa,
 Q192522,ma tomo Sataloju,ma tomo Sataloju
+Q38918,nasin nanpa Lasina,nasin nanpa Lasina
 Q167918,mama mama,
 Q1970348,pona nasa,pona nasa
 Q172872,mani Lila pi ma Tuki,mani Lila pi ma Tuki
 Q1410828,kulupu:ma Tosi,kulupu:ma Tosi
 Q48469,ilo mun Wajesa nanpa wan,ilo mun Wajesa nanpa wan
-Q263655,ilo Nukewan,ilo Nukewan
 Q45584,nasin Wisinu,nasin Wisinu
-Q8778,jan Kaleno,
+Q263655,ilo Nukewan,ilo Nukewan
 Q181339,nasin kulupu pi lawa mije,nasin kulupu pi lawa mije
+Q8778,jan Kaleno,
 Q56485,toki Wemesoli,toki Wemesoli
 Q150352,toki pi ma ante,
 Q16165,ma lili Kotone,
@@ -3195,20 +3209,20 @@ Q13307,toki Najowelo,toki Najowelo
 Q289891,jan ike,
 Q678522,mani anpa,mani anpa
 Q297097,jan Jakonson,jan Jakonson
-Q181383,jan Mawasi Muwama,jan Makasi Mokama
 Q365144,jan Kesin Sene,
+Q181383,jan Mawasi Muwama,jan Makasi Mokama
 Q5202,ma tomo Amasan,ma tomo Amasan
-Q147114,kijetesantakalu,soweli Posijanite
 Q30216,nasin lawa ma la tenpo pini li suli,
+Q147114,kijetesantakalu,soweli Posijanite
 Q756861,jan Susana,
-Q37682,jan Seson,jan Seson
 Q470519,pan Mosi,pan Mosi
-Q165939,jasima,jasima
+Q37682,jan Seson,jan Seson
 Q8932,kulupu ma mani Elopa,
+Q165939,jasima,jasima
 Q32979,toki Sata,toki Sata
 Q185576,ilo Asilinu,ilo Asilinu
-Q386563,jan sewi Ojamatumi,
 Q625163,kulupu jan Api,kulupu jan Api
+Q386563,jan sewi Ojamatumi,
 Q25293,kulupu toki Kelita,kulupu toki Kelita
 Q43642,waso Kiwi,waso Kiwi
 Q35850,toki Ositenta,toki Intelinwe
@@ -3238,13 +3252,13 @@ Q311189,jan Nukasi,jan Nukasi
 Q16167,ma lili Pemo,
 Q173491,kulupu jan Tami,kulupu jan Tami
 Q82334,ma Pili,
-Q200188,jan sewi Simu,
 Q80389,ma Kuli,ma Kuli
+Q200188,jan sewi Simu,
 Q104705419,jan li utala e tomo lawa pi ma Mewika lon tenpo sike 2021,jan li utala e tomo lawa pi ma Mewika lon tenpo sike 2021
 Q1781862,jan sewi meli Konopanasakuja,
 Q294782,ma tomo Tokali,
-Q13695,ma tomo Mesiko-Tenosilan,ma tomo Mesiko-Tenosilan
 Q9715,telo walo unpa,telo walo unpa
+Q13695,ma tomo Mesiko-Tenosilan,ma tomo Mesiko-Tenosilan
 Q1489259,ma wawa,ma wawa
 Q170485,jan sewi Pawasi,jan sewi Pawasi
 Q3465,ijo Suna,kon Sin
@@ -3268,8 +3282,8 @@ Q312556,jan Se Peso,jan Se Peso
 Q7192,jan Sinsiwan,jan Sinsiwan
 Q9159,nasin pi mama sewi wan,nasin pi mama sewi wan
 Q18030922,ijo QSOX1,
-Q1670336,jelo selo,jelo selo
 Q332485,jan Siwija Pina,
+Q1670336,jelo selo,jelo selo
 Q1011190,ma tomo Tapin,ma tomo Tapin
 Q23393,toki sewi pi mama mi,toki sewi pi mama mi
 Q1410960,kulupu:ma Mewika,kulupu:ma Mewika
@@ -3296,12 +3310,12 @@ Q108102018,toki pi sitelen Lasina ala kepeken sitelen Lasina,
 Q58132,jan Nikola Matulo,jan Nikola Matulo
 Q4095812,kulupu:misikeke,kulupu:misikeke
 Q173643,kalama musi Api Lo,kalama musi Api Lo
-Q33311,kulupu toki Tawita,kulupu toki Tawita
 Q219368,jan Susi Bata,
+Q33311,kulupu toki Tawita,kulupu toki Tawita
 Q238752,ma lili Paputa,
+Q151599,sitelen tawa Metopoli,sitelen tawa Metopoli
 Q217096,jan lawa Nalusito,jan lawa Nalusito
 Q154242,ala,
-Q151599,sitelen tawa Metopoli,sitelen tawa Metopoli
 Q157256,jan Jan Silesen,jan Jan Silesen
 Q47043,leko Lupiko,leko Lupiko
 Q470775,nimi pi toki sin ni li tan toki ante,
@@ -3312,20 +3326,20 @@ Q575399,ma tomo Mewijon,ma tomo Mewijon
 Q23538,linja sike lon sike ma,linja sike lon sike ma
 Q178741,telo namako suli,telo namako suli pi ma Juta
 Q132564,ma tomo Mikene,ma tomo Mikene
-Q185252,weka pi kiwen wawa,weka pi kiwen wawa
 Q163329,ma Kanan,ma Kanan
+Q185252,weka pi kiwen wawa,weka pi kiwen wawa
 Q155723,kulupu ma utala pi telo Alansi lete li utala tan sewi e ma Jukolawija,kulupu ma utala pi telo Alansi lete li utala tan sewi e ma Jukolawija
 Q10816,ilo unpa,ilo unpa
 Q99717,tenpo 64,utala pi tenpo suno nanpa 4 pi tenpo mun nanpa 6
 Q2026385,jan Apensen en jan Mu,jan Apensen en jan Mu
 Q12501,sinpin Sansen,sinpin suli pi ma Sonko
 Q58373,jan sewi Amon,jan sewi Amon
-Q604609,ma tomo Lilin,ma tomo Lilijan
+Q26752,sitelen Kanan,sitelen Kanan
 Q35939,toki Patuwa pi ma Sameka,
 Q33617,toki Ilimotu,toki Ilimotu
-Q26752,sitelen Kanan,sitelen Kanan
 Q34253,jan Linu Tuwa,jan Linu Towa
 Q5964,kulupu:lipu ni o weka,kulupu:lipu ni o weka
+Q604609,ma tomo Lilin,ma tomo Lilijan
 Q3361412,kulupu Pali Pu pi sike noka,kulupu Pali Pu pi sike noka
 Q689987,ma tomo Tasakala Sikotenka,ma tomo Tasakala Sikotenka
 Q459553,ma tomo Setuma,ma tomo Setuma
@@ -3349,8 +3363,8 @@ Q261637,jan sewi Kasiman,jan sewi Kasiman
 Q133327,kon lon tenpo,kon lon tenpo
 Q1640658,jan sewi Kakutusi,
 Q33202,toki Pawi,toki Pawi
-Q6567,akesi Kosila,monsuta Kosila
 Q2382369,suwi,suwi
+Q6567,akesi Kosila,monsuta Kosila
 Q1252904,jan sewi Le,jan sewi Le
 Q47674,jan Ameliko Wepusi,jan Ameliko Wepusi
 Q17195970,kipisi:lipu Wikinanpa,kipisi:lipu Wikinanpa
@@ -3372,13 +3386,13 @@ Q13694,ma Tapa,ma Tapa
 Q460367,tomo sewi Totawi,tomo sewi Totawi
 Q7631958,ma kipisi pi ma suli,ma kipisi pi ma suli
 Q550596,ilo Pokalo,ilo Pokalo
-Q10936701,jan sewi Omononusi,
 Q8009611,jan sewi Kotosilonusi,
 Q122653,nasin nanpa,nasin nanpa
+Q10936701,jan sewi Omononusi,
 Q39702,ma Maketonija,ma Maketonija
-Q977345,lawa linluwi,lawa linluwi
 Q4048908,kulupu:kulupu len,kulupu:kulupu len
 Q7157802,kulupu:soweli,kulupu:soweli
+Q977345,lawa linluwi,lawa linluwi
 Q16148,ma lili Pinsisi,
 Q28129886,nimi toki pi ijo wan,nimi toki pi ijo wan
 Q483815,sitelen tawa Seku,sitelen tawa Seku
@@ -3397,16 +3411,16 @@ Q6332595,kulupu:User fr,kulupu:User fr
 Q332697,musi Telawija,musi Telawija
 Q7423311,toki ni la nimi li kama ala wan,
 Q33077,toki Komo,
-Q1457258,kulupu:sona lon,kulupu:sona lon
 Q6395874,kulupu:User de,kulupu:User de
+Q1457258,kulupu:sona lon,kulupu:sona lon
 Q1056017,jan sewi Niniki,
 Q44819,jan Suwato,jan Suwato
 Q595871,kulupu pi mun seli,kulupu pi mun seli
 Q171187,selo,
 Q193152,ma Molawa suli,
 Q4092,ma Kape,ma Kape
-Q6965093,kulupu:nasin telo,kulupu:nasin telo
 Q146803,toki Elepen,toki Elepen
+Q6965093,kulupu:nasin telo,kulupu:nasin telo
 Q101462,nasin sewi Watapawi,nasin sewi Watapawi
 Q5887,pilin wawa unpa,pini unpa
 Q48428,waso alasa,waso alasa
@@ -3415,8 +3429,8 @@ Q9038,jan Kuwalimi,
 Q33050,toki Wesu,toki Wesu
 Q5070208,soweli poki,soweli poki
 Q134396,ma tomo Kutowe,ma tomo Kutowe
-Q1969730,kulupu ma Senken,kulupu ma Senken
 Q131165,nasin sewi pi jan Mani,nasin sewi pi jan Mani
+Q1969730,kulupu ma Senken,kulupu ma Senken
 Q153545,jan Ape pi ma Wasutena,
 Q16293,ma lili Sijete,
 Q172827,len Sali,len Sali
@@ -3433,15 +3447,15 @@ Q749276,ma Jamasilo pi ma Nijon,
 Q841509,jan olin,
 Q82320,К,
 Q9294,jan Ipin Katun,
-Q10935105,jan sewi Ojamakui,
 Q194057,nena Takoma,nena Takoma
-Q33857,kulupu toki Sonko,kulupu toki Sonko
+Q10935105,jan sewi Ojamakui,
 Q262959,leko tomo,leko tomo
+Q33857,kulupu toki Sonko,kulupu toki Sonko
 Q9397,jan Susi,
 Q864170,ma Suluka pi ma Nijon,
-Q192055,moli suli pi ma tomo Nansin,moli suli pi ma tomo Nansin
 Q129793,ilo Potoso,ilo Potoso
 Q182276,jan Penito Wale,jan Penito Wale
+Q192055,moli suli pi ma tomo Nansin,moli suli pi ma tomo Nansin
 Q63198389,kulupu pi ilo Siko,
 Q174943,jan Pelisaliju,jan Pelisaliju
 Q46613,ma Tosi pi poka lete,ma Tosi pi poka lete
@@ -3451,8 +3465,8 @@ Q372949,soweli pi noka tu,soweli pi noka tu
 Q592177,sinpin,
 Q1047523,ma Kalima pi ma Nijon,
 Q192285,kala Mola Mola,kala Mola Mola
-Q28451532,musi Selete,musi Sele
 Q6592099,kulupu:User tr,kulupu:User tr
+Q28451532,musi Selete,musi Sele
 Q74026205,tawa anpa,tawa anpa
 Q1055394,ma Kasusa pi ma Nijon,
 Q487125,jan Wito Sowi,jan Wito Sowi
@@ -3464,10 +3478,10 @@ Q133343,jan sewi Awijalu,jan sewi Awijalu
 Q56437,toki Sintalin,toki Sintalin
 Q211371,ma Posuka suli,ma Posuka suli
 Q5766,musi Wiwiwiwiwiwi,
-Q2250012,sitelen,
 Q514506,ma Owali pi ma Nijon,
-Q7734,jan Jojusawa,
 Q847664,lipu lawa nanpa wan pi ma Epanja,lipu lawa nanpa wan pi ma Epanja
+Q7734,jan Jojusawa,
+Q2250012,sitelen,
 Q160003,ijo pi sinpin tu tu pi palisa luka wan pi nena tu tu,ijo pi sinpin tu tu pi palisa luka wan pi nena tu tu
 Q12908,jan So Solo,
 Q1983866,kulupu:nasin sewi pi jan Jesu,kulupu:nasin sewi pi jan Jesu
@@ -3475,29 +3489,29 @@ Q182647,ma Kolasun,ma Kolasun
 Q1502690,jan sewi Takemikasusi,
 Q1775361,toki Kowito,toki Kowito
 Q248207,jan Wi Sen,jan Wi Sen
-Q28859215,ijo pali pi lipu Wikitata,
 Q907495,ma Jamato pi ma Nijon,
 Q1047144,ma Esisen pi ma Nijon,
+Q28859215,ijo pali pi lipu Wikitata,
 Q325987,jan Sesi Siwe,jan Sesi Siwe
 Q1457756,kulupu:nasin jan,kulupu:nasin jan
-Q4617,jan Kopin Pu,jan Kopen Pulu
 Q1455739,kulupu:ma Netelan,kulupu:ma Netelan
+Q4617,jan Kopin Pu,jan Kopen Pulu
 Q1053699,ma Simotuke pi ma Nijon,
 Q877906,sitelen Tana,sitelen Tana
 Q40164,palisa pi ante tawa,palisa pi ante tawa
 Q226221,ma telo Lito Si Wenesija,
 Q1457595,kulupu:tenpo pini,kulupu:tenpo pini
 Q26160410,ma lili Kataniseta,
-Q185063,tenpo pi ma utala lon ma Sonko,tenpo pi ma utala lon ma Sonko
 Q189366,jan Son Pon,jan Son Pon
+Q185063,tenpo pi ma utala lon ma Sonko,tenpo pi ma utala lon ma Sonko
 Q1346342,kulupu toki Anli,kulupu toki Anli
 Q64448878,lipu pi tenpo kama ken,lipu pi tenpo kama ken
 Q2983724,jan sewi suli Tojoke,jan sewi suli Tojoke
 Q16250,ma lili Pato,
 Q215448,ilo kon lawa Awiku,ilo kon lawa Awiku
-Q44329,jan Pasa Alasa,jan Pasa Alasa
-Q44329,jan Pasa Alasa,jan Pasa Alasa
 Q5626735,kipisi:poki sona,kipisi:poki sona
+Q285590,ma tomo Wilasimisu,ma tomo Wilasimisu
+Q44329,jan Pasa Alasa,jan Pasa Alasa
 Q12557050,sijelo tomo pi sinpin nena sama luka tu wan,sijelo tomo pi sinpin nena sama luka tu wan
 Q2094829,ma lili Sukowa,ma kipisi Sukowa
 Q1009713,ma tomo Sesija,
@@ -3517,8 +3531,8 @@ Q193253,ma lili Molota,ma lili Molota
 Q14332,akesi Silanosalu,akesi Silanosalu
 Q5897849,kulupu:tan sona ala,kulupu:tan sona ala
 Q854899,nasin telo Sisola,nasin telo Sisola
-Q33205,toki Pataka,toki Pataka
 Q1456631,kulupu:soweli pi nena mama,kulupu:soweli pi nena mama
+Q33205,toki Pataka,toki Pataka
 Q5461174,kulupu:tenpo mun,kulupu:tenpo mun
 Q5967009,laso nasa,laso nasa
 Q93344,ante nanpa kiki,pali nanpa pi pini poka
@@ -3539,16 +3553,16 @@ Q184030,lipu Oseja,
 Q50101,nasin ISO 8601,nasin ISO 8601
 Q1411579,kulupu:ma Tuki,kulupu:ma Tuki
 Q277794,akesi poki pi noka loje,akesi poki pi noka loje
-Q1286698,musi QI,musi QI
 Q131795,jan sewi Sete,jan sewi Sete
+Q1286698,musi QI,musi QI
 Q1204737,ma tomo Futu,
 Q13210,toki luka Losi,
 Q194064,jan Jekeseke,
 Q237409,toki Selan,
 Q80949,tenpo suno musi pi tenpo mun nanpa tu tu,tenpo suno musi pi tenpo mun nanpa tu tu
 Q16972633,ilo Koto pi pali musi,ilo Koto pi pali musi
-Q21039924,musi Antateje,musi Antateje
 Q7218278,kulupu:ma Okejanija,kulupu:ma Okejanija
+Q21039924,musi Antateje,musi Antateje
 Q16207,ma lili Mesijo Kanpitano,
 Q13423853,jan Pusipa,jan Pusipa
 Q486188,jan Nasi Asin Mukama Umajun,jan Nasi Asin Mukama Umajun
@@ -3573,8 +3587,8 @@ Q1056535,ma Kita pi ma Nijon,
 Q33363,toki Ilula,toki Ilula
 Q161893,ma tomo Sukowa,ma tomo Sukowa
 Q858076,ma Kaje pi ma Nijon,
-Q131200,waso Ta,waso Ta
 Q876032,ma Tewa pi ma Nijon,
+Q131200,waso Ta,waso Ta
 Q624083,ijo Asula,ijo Asula
 Q131140,toki ilo Kopolo,toki ilo Kopolo
 Q40463886,nasin ilo ActivityPub,
@@ -3596,8 +3610,8 @@ Q33559,toki Isola,toki Isola
 Q462555,jan sewi Amenosipomimi,
 Q91030617,musi Pokemon Aka en musi Pokemon Mitoli,musi Pokemon Aka en musi Pokemon Mitoli
 Q40591,lipu wile tan nasin pi pali kulupu,lipu wile tan nasin pi pali kulupu
-Q1053732,ma Sakami pi ma Nijon,
 Q15118,ma lili Asota,
+Q1053732,ma Sakami pi ma Nijon,
 Q63134381,ma lawa Kolasun,ma lawa Kolasun
 Q601,mun Ameja,mun Ameja
 Q1055353,ma Kitasi pi ma Nijon,
@@ -3607,8 +3621,8 @@ Q188976,nasin kulupu ante,nasin kulupu ante
 Q1048864,ma Totomi pi ma Nijon,
 Q20732421,kulupu:User zh-Hans-CN,kulupu:User zh-Hans-CN
 Q16223,ma lili Ojata,
-Q4049595,kulupu:kulupu pi ilo sona,kulupu:kulupu pi ilo sona
 Q131564,soweli Upe Seta,soweli Upe Seta
+Q4049595,kulupu:kulupu pi ilo sona,kulupu:kulupu pi ilo sona
 Q16211162,jan Melani Masine,jan Melani Masine
 Q159462,nasin moku,nasin moku
 Q1114013,jan sewi Sumijosisansin,
@@ -3629,11 +3643,12 @@ Q1060949,jan Muwidin Jasin,
 Q4266974,kulupu:jan pi sona sona,kulupu:jan pi sona sona
 Q33456,pali pi sewi nanpa,pali pi sewi nanpa
 Q130881,tenpo musi suno pi nasin sewi Jejuta,tenpo musi suno pi nasin sewi Jejuta
-Q179976,ijo lon ijo sama,ijo lon ijo sama
+Q170378,ilo Linu Kentu,ilo Linu Kentu
 Q33161,toki Su,
+Q179976,ijo lon ijo sama,ijo lon ijo sama
 Q82385,jan Kamilo-Si-Pijeto,
-Q6697530,kulupu:jan,kulupu:jan
 Q1456850,kulupu:waso,kulupu:waso
+Q6697530,kulupu:jan,kulupu:jan
 Q849242,kulupu mama lawa,kulupu mama lawa
 Q2280323,jan sewi Ukemosi,
 Q58045522,musi Tetalun,musi Tetalun
@@ -3660,8 +3675,8 @@ Q34055,toki Tuwalu,
 Q5610307,kulupu:ma Amelika seli,kulupu:ma Amelika seli
 Q665541,jan Oseja,
 Q6398678,kulupu:en-N,kulupu:en-N
-Q482494,musi Sutansu Keto,musi Sutansu Keto
 Q150688,jan Popilijo Sija,jan Popilijo Sija
+Q482494,musi Sutansu Keto,musi Sutansu Keto
 Q33394,toki Kolaka,toki Kolaka
 Q5460837,kulupu:nanpa,kulupu:nanpa
 Q219523,ilo LiveJournal,ilo LiveJournal
@@ -3679,21 +3694,21 @@ Q676203,ma tomo Masu Pisu,ma tomo Masu Pisu
 Q1455625,kulupu:ma Intonesija,kulupu:ma Intonesija
 Q213027,jan Enoko,
 Q34029,toki Wapa,
-Q2904131,jan Sepi Esin,jan Sepawi Esin
+Q2904131,jan Sepi Esin,jan Sepi Esin
 Q505469,jan sewi meli Kusinata,
 Q1411008,kulupu:ma Lusi,kulupu:ma Lusi
 Q236596,jan Kisina Wasesi,jan Kisina Wasesi
 Q33483,toki Kota,toki Kota
 Q1051853,musi Tokusu Monokatali,musi Tokusu Monokatali
 Q2122,unpa uta,unpa uta
-Q334155,jan Sasi Kan,jan Sasi Kan
 Q5610083,kulupu:ma Asija,kulupu:ma Asija
+Q334155,jan Sasi Kan,jan Sasi Kan
 Q914807,pali:lipu open pali,pali:lipu open pali
 Q503256,ma Satanu,ma Satanu
 Q6606401,kulupu:jan pi kalama musi,kulupu:jan pi kalama musi
 Q1455420,kulupu:ma Esalasi,kulupu:ma Esalasi
-Q57405,jan Susilo Panpan Jutojono,jan Susilo Panpan Jutojono
 Q5852633,lipu Ewankelijon,lipu Ewankelijon
+Q57405,jan Susilo Panpan Jutojono,jan Susilo Panpan Jutojono
 Q2578218,telo poka ma,telo poka ma
 Q864148,ma Punko pi ma Nijon,
 Q7127504,kipisi wile pi ma sijelo Pali,kipisi wile pi ma sijelo Pali
@@ -3719,8 +3734,8 @@ Q82377,jan Pita-Otopisi,
 Q14668,nena ma Losa,nena ma Losa
 Q18325885,mun Aloko,mun Aloko
 Q571757,ma tomo Antelija,
-Q70599404,"musi ""tenpo pimeja luka lon tomo moku pi soweli Pesi""","musi ""tenpo pimeja luka lon tomo moku pi soweli Pesi"""
 Q1154766,lipu Wikipesija pi toki Ito,
+Q70599404,"musi ""tenpo pimeja luka lon tomo moku pi soweli Pesi""","musi ""tenpo pimeja luka lon tomo moku pi soweli Pesi"""
 Q1195697,ilo pi tawa tenpo,ilo pi tawa tenpo
 Q171809,ma lili pi ma Inli,ma kipisi pi ma Inli
 Q860928,ma Isu pi ma Nijon,
@@ -3731,19 +3746,19 @@ Q32483,sitelen lili,
 Q1048669,ma Lasijun,
 Q687168,tomo sewi suli Ise,tomo sewi suli Ise
 Q7217301,kulupu:ma Amelika lete,kulupu:ma Amelika lete
-Q9094,jan Kose Mukika,
 Q211436,ma Pisaja,ma Pisaja
 Q160614,jan Santepu,jan Santepu
 Q56035565,kulupu jan Wikimesija,
+Q9094,jan Kose Mukika,
 Q1480152,toki Kanse pi ma Suwasi,
 Q283906,ma tomo Emasa,
-Q49835,meli olin,
 Q131510,kalama Manta,kalama Manta
+Q49835,meli olin,meli olin
 Q8249,kulupu:ma Kanse,kulupu:ma Kanse
 Q15312,nena ma Junpa,nena ma Junpa
 Q13704,ma Kalaka,ma Kalaka
-Q829810,ma tomo Kalatanjaso,ma tomo Kalatanjaso
 Q283844,ma tomo Tesimomanu,
+Q829810,ma tomo Kalatanjaso,ma tomo Kalatanjaso
 Q97107245,pali toki pi nimi moli,pali toki pi nimi moli
 Q178819,lipu Jona,
 Q9045,jan Sanaka,
@@ -3751,40 +3766,40 @@ Q130736,nena Sijomi,nena Sijomi
 Q120976,mute pi nanpa ale,mute pi nanpa ale
 Q1458390,kulupu:toki tawa kulupu,kulupu:toki tawa kulupu
 Q5461062,kulupu:lipu Pipija,kulupu:lipu Pipija
+Q62513663,noka,
 Q385799,kulupu Apikan,
-Q62513663,noka,noka
 Q33531,toki Kotawa (kulupu toki Tawita),toki Kotawa (kulupu toki Tawita)
 Q178066,wile unpa,wile unpa
 Q1456095,kulupu:ma Anku,kulupu:ma Anku
 Q55636,jan Mike Itako,jan Mike Itako
-Q26160408,ma lili Ena,
 Q954511,ma Tanpa pi ma Nijon,
+Q26160408,ma lili Ena,
 Q7062016,kulupu:jan pi ma Oselija,kulupu:jan pi ma Oselija
 Q169019,sona pi ijo awen,
 Q728455,nasin pi sewi ale,nasin pi sewi ale
 Q46344,wan pi lili ale,wan pi lili ale
-Q4655215,kulupu:Babel - Users by language,kulupu:Babel - Users by language
 Q35475,toki Kapije,
+Q4655215,kulupu:Babel - Users by language,kulupu:Babel - Users by language
 Q118819,sewi kalama,sewi kalama
 Q192439,kulupu pi nanpa lon ken pana,kulupu pi nanpa lon ken pana
 Q1053688,ma Pisen pi ma Nijon,
 Q1790832,ma tomo Kala Kansa,ma tomo Kala Kansa
 Q30325419,ilo Petewa,
 Q27164472,mama mama mama mama meli,
-Q349263,jan lawa Somu,jan lawa Somu
 Q1411322,kulupu:ma Oselija,kulupu:ma Oselija
+Q349263,jan lawa Somu,jan lawa Somu
 Q907457,ma Awa pi ma Nijon,
-Q479645,jan Opasija,
 Q284501,ma tomo Kuwatusu,
+Q479645,jan Opasija,
 Q159709,jan lawa Pikame,jan lawa Pikame
+Q44914,musi Sutoku,musi Sutoku
 Q10949054,jan sewi Nikipajapi,
 Q463319,jan Osi Lo,
-Q44914,musi Sutoku,musi Sutoku
 Q2738209,jan Peli Pamonte,jan Pewi Pamonte
 Q11987,jan Asi Satopijan,
 Q83942,sitelen Sawi,sitelen Sawi
-Q1981722,jan Nakun,
 Q34333,toki Nenkatu,toki Nejenkatu
+Q1981722,jan Nakun,
 Q111124,nasin nanpa leko,nasin nanpa leko
 Q4587662,kulupu:ma Elopa,kulupu:ma Elopa
 Q219205,kulupu jan Mon,kulupu jan Mon
@@ -3792,8 +3807,8 @@ Q702220,toki Tasi,toki Tasi
 Q105618699,musi Omoli,musi Omoli
 Q667475,ma Satuma pi ma Nijon,
 Q22654,ma Nujo,ma Nujo
-Q7287351,kulupu:ma tomo pi ma Pesije,kulupu:ma tomo pi ma Pesije
 Q3913,nasin nanpa tu,sike nanpa pi sitelen 2
+Q7287351,kulupu:ma tomo pi ma Pesije,kulupu:ma tomo pi ma Pesije
 Q379,jan Pansisije Lanika,
 Q264075,ma tomo Sije,
 Q5529697,kipisi:lili ike,kipisi:lili ike
@@ -3804,8 +3819,8 @@ Q1047150,ma Kawasi pi ma Nijon,
 Q133808,jan Akusin Itupite,jan Akusin Itupite
 Q8572132,lipu Wikipesija pi toki Somalija,
 Q1456430,kulupu:ma Ukawina,kulupu:ma Ukawina
-Q691052,ma tomo Minapa,ma tomo Minapa
 Q12495,tomo Pa Kulipa,tomo Pukalipa
+Q691052,ma tomo Minapa,ma tomo Minapa
 Q188520,ijo lawa ale,ijo lawa ale
 Q8251,lipu nasin utala pi jan Sun Su,lipu nasin utala pi jan Sun Su
 Q188546,kulupu nimi pi sitelen ale,kulupu nimi pi sitelen ale
@@ -3816,7 +3831,7 @@ Q4387444,kulupu:lipu pi pona mute,kulupu:lipu pi pona mute
 Q10940685,jan sewi Amenopopi,
 Q309256,musi Mikaliwi,musi Mikaliwi
 Q6398355,kulupu:en-3,kulupu:en-3
-Q622404,mije olin,
+Q622404,mije olin,mije olin
 Q13706,ma Silan,ma Silan
 Q56497,toki Alapi pi ma Sate,
 Q153141,jan Kaman Son,jan Kaman Son
@@ -3834,8 +3849,8 @@ Q3403,nena ma Tupo,nena ma Tupo
 Q46585,len pi ma Netelan,len pi ma Netelan
 Q210371,ma telo Kankalu,ma lili Kankalu
 Q69990794,jan tonsi,
-Q31616,ma Man,
 Q483424,ma tomo Kelinpeli pi open suno,
+Q31616,ma Man,
 Q1411173,kulupu:ma Epanja,kulupu:ma Epanja
 Q6334220,kulupu:ru-N,kulupu:ru-N
 Q2329261,jan sewi meli Tojotama,
@@ -3850,17 +3865,17 @@ Q122508,wile awen,wile awen
 Q1411621,kulupu:ma Setapika,kulupu:ma Setapika
 Q42180,jan Isale Kamakawijojole,jan Isale Kamakawijojole
 Q7026461,kulupu:jan pi kalama musi pi ma Sensa,kulupu:jan pi kalama musi pi ma Sensa
-Q19366461,kulupu King Gizzard And The Lizard Wizard,kulupu King Gizzard And The Lizard Wizard
-Q990977,ma tomo Okape,ma tomo Okape
 Q7215330,kulupu:ilo toki,kulupu:ilo toki
+Q990977,ma tomo Okape,ma tomo Okape
+Q19366461,kulupu King Gizzard And The Lizard Wizard,kulupu King Gizzard And The Lizard Wizard
 Q210953,nasin tenpo suno,
 Q6816704,kulupu:utala suli nanpa tu,kulupu:utala suli nanpa tu
 Q849412,jan sewi Amenotajikalo,
-Q62623,wan pi ma Kama,wan pi ma Kama
 Q7483675,kulupu:tomo sona,kulupu:tomo sona
+Q62623,wan pi ma Kama,wan pi ma Kama
 Q156136,kalama musi pi kulupu utala wile,kalama musi pi kulupu utala wile
-Q7212463,kulupu:ilo pi kalama musi,kulupu:ilo pi kalama musi
 Q6084858,jan Isumali Sapi Jako,
+Q7212463,kulupu:ilo pi kalama musi,kulupu:ilo pi kalama musi
 Q582846,ma Isumo pi ma Nijon,
 Q50948,lipu Ekeni Onekin,lipu Ekeni Onekin
 Q595520,jan sewi tukujomi,
@@ -3880,12 +3895,12 @@ Q21286810,kipisi:ma ante la namako,kipisi:ma ante la namako
 Q478504,jan sewi Kuninotokotasi,
 Q15281614,ilo musi Epa,ilo musi Epa
 Q3119983,jan Kijon Saku,jan Kijon Saku
+Q156290,jan Mesusale,
 Q5626683,kulupu:en-2,kulupu:en-2
 Q169986,nena Makalu,nena Makalu
-Q156290,jan Mesusale,
 Q31928,Fuck,
-Q1613144,jan Ake,
 Q7879362,tomo sona Lekisa,tomo sona Lesa
+Q1613144,jan Ake,
 Q612098,kulupu pi ma telo Apawi,kulupu Apawi pi ma lili
 Q18161827,jan Sopi,jan Sopi
 Q189145,jan Antonjo Lope Santajana,jan Antonjo Lope Santajana
@@ -3910,20 +3925,20 @@ Q719665,jan sewi suli Inali,jan sewi suli Inali
 Q713009,jan Tewi Kipi,
 Q3919890,kulupu:jan pi ma Italija,kulupu:jan pi ma Italija
 Q328709,moku Tenpula,moku Tenpula
-Q1987589,kulupu pi tenpo sama Z,kulupu pi tenpo sama Z
 Q6400064,kulupu:es-1,kulupu:es-1
+Q1987589,kulupu pi tenpo sama Z,kulupu pi tenpo sama Z
 Q33330,toki Lonpo,
 Q179818,jan sewi Kesakowa,jan sewi Kesakowa
-Q49326,ma Masapawi,ma Masapawi
 Q165440,nena Tawalakili,nena Tawalakili
 Q363371,jan Jeko Leto,jan Jeko Leto
 Q4966679,kulupu:lipu Wikipesija,kulupu:lipu Wikipesija
+Q49326,ma Masapawi,ma Masapawi
 Q3275901,jan sewi Kamimusupi,
 Q6541572,kulupu:tomo sewi pi nasin sewi Jesu,kulupu:tomo sewi pi nasin sewi Jesu
 Q340770,ma tomo Loli Poto San Palo,
-Q170526,sike kipisi kasi,ma kasi pi ma Masi anpa
 Q1411064,kulupu:ma Kanata,kulupu:ma Kanata
 Q6400684,kulupu:es-N,kulupu:es-N
+Q170526,sike kipisi kasi,ma kasi pi ma Masi anpa
 Q26160405,ma lili Lakusa,
 Q1047514,ma Pitu pi ma Nijon,
 Q1047128,ma Ika pi ma Nijon,
@@ -3933,9 +3948,9 @@ Q4367478,kulupu:ma Tansi,kulupu:ma Tansi
 Q308697,jan monsuta Kolin,jan monsuta Kolin
 Q6148868,kipisi:nimi pi kon mute,kipisi:nimi pi kon mute
 Q2441216,mun tawa,mun tawa
-Q43056,kulupu ma Akije,kulupu ma Akije
 Q273125,nasin Kiju,nasin Kiju
 Q6337045,kulupu:musi,kulupu:musi
+Q43056,kulupu ma Akije,kulupu ma Akije
 Q29409,jan sewi Mu,jan sewi Mu
 Q83497,nena ma Wamo,nena ma Wamo
 Q388189,ma tomo Seneke,
@@ -3943,18 +3958,18 @@ Q473725,nasin sitelen Tenwa,nasin sitelen Tenwa
 Q79967,pakala suli li lon ma Nosiki lon tenpo sike nanpa 2011,pakala suli li lon ma Nosiki lon tenpo sike nanpa 2011
 Q1983910,kulupu:nasin sewi Sanatana,kulupu:nasin sewi Sanatana
 Q34019,toki luka Tawan,
-Q101,moku Lopatotemakoselakokalejokanijolesantosimiposimatosipijokarapomelitokatakekimenokikepikosipopatoperiteralekitonpotokepalijokinkopelejolakowijosilajopapetakanpotelikon,
 Q5626440,kulupu:en-4,kulupu:en-4
+Q101,moku Lopatotemakoselakokalejokanijolesantosimiposimatosipijokarapomelitokatakekimenokikepikosipopatoperiteralekitonpotokepalijokinkopelejolakowijosilajopapetakanpotelikon,
 Q33420,toki luka Malasija,
 Q62962,ilo lape soweli,ilo lape soweli
 Q178114,palisa kiwen suli Wasinton,palisa kiwen suli Wasinton
 Q10801,palisa unpa,
 Q56504,toki Min,toki Min
 Q9987,sitelen Ä,sitelen Ä
-Q14345,jan No Mujon,jan No Mujon
 Q1411712,kulupu:ma Ilan,kulupu:ma Ilan
 Q191949,lipu pi ma pona sin,lipu pi ma pona sin
 Q76167,jan Atulaman Wawi,jan Atulaman Wawi
+Q14345,jan No Mujon,jan No Mujon
 Q1856023,kulupu Lokanpesino!,kulupu Lokanpesino!
 Q169040,jan sewi Nipeho,jan sewi Nipawawi
 Q21790,soweli pi lupa monsi wan,soweli pi lupa monsi wan
@@ -3965,33 +3980,34 @@ Q1047117,ma Isumi pi ma Nijon,
 Q10881556,jan sewi Isotakelu,
 Q400019,kulupu jan Makapi,
 Q7237917,kulupu:tomo tawa,kulupu:tomo tawa
+Q298252,jan Jon Wen Kesi,
 Q5644488,kulupu:ma tomo pi ma Tuki,kulupu:ma tomo pi ma Tuki
 Q11279,kulupu:ma Pasiju,kulupu:ma Pasiju
 Q62744,wawa In en wawa Jan,wawa Jen Jan
 Q4368475,kulupu:ma Sensa,kulupu:ma Sensa
 Q574577,tomo toki,
-Q4808345,jan Asa Antuki,jan Asa Antuki
 Q18240,kasi pi moku soweli,kasi pi moku soweli
 Q1411497,kulupu:ma Isale,kulupu:ma Isale
-Q5610348,kulupu:uk-N,kulupu:uk-N
+Q4808345,jan Asa Antuki,jan Asa Antuki
 Q4366768,kulupu:ma Pesije,kulupu:ma Pesije
 Q1983209,kulupu:musi utala Olinpi,kulupu:musi utala Olinpi
+Q5610348,kulupu:uk-N,kulupu:uk-N
 Q28932195,len luka,
 Q216083,telo suli Tonsin,telo suli Tonsin
 Q1706,ma tomo Tapako,ma tomo Tapako
 Q7548,mun Temo,mun Temo
 Q466462,san o,
 Q1456601,kulupu:ma Loma pi tenpo pini,kulupu:ma Loma pi tenpo pini
-Q602721,sitelen tawa Sukokala,sitelen tawa Sukokala
 Q48297,linja pi nasin pi pana wawa,linja pi nasin pi pana wawa
+Q602721,sitelen tawa Sukokala,sitelen tawa Sukokala
 Q3181928,lipu Wikipesija pi toki Ekematula,
 Q1946253,ma tomo Seninka,ma tomo Seninka
 Q5838566,kulupu:kulupu jan Jejuta,kulupu:kulupu jan Jejuta
 Q1513207,ma tomo Inanka,ma tomo Inanka
-Q20707611,sitelen anu kalama ala lon insa lawa,sitelen anu kalama ala lon insa lawa
 Q6816935,kulupu:utala suli nanpa wan,kulupu:utala suli nanpa wan
-Q4367403,kulupu:ma Seki,kulupu:ma Seki
+Q20707611,sitelen anu kalama ala lon insa lawa,sitelen anu kalama ala lon insa lawa
 Q1410903,kulupu:ma Italija,kulupu:ma Italija
+Q4367403,kulupu:ma Seki,kulupu:ma Seki
 Q6428609,kulupu:pt-1,kulupu:pt-1
 Q11634943,jan sewi Kamo Wakekasusi,
 Q7085006,kulupu:ma Mijama,kulupu:ma Mijama
@@ -4010,8 +4026,8 @@ Q713965,tawa musi pi ma Pali,tawa musi pi ma Pali
 Q3678579,sewi Jawe,
 Q5462387,kipisi:Komon,kipisi:Komon
 Q10948069,meli jan sewi tu wan pi Munakata,
-Q1053037,ma Suwo pi ma Nijon,
 Q1185862,sitelen Kokusi,
+Q1053037,ma Suwo pi ma Nijon,
 Q40527,ma tomo Milatolo Tenle,
 Q179492,lipu Oni,lipu Oni
 Q4368249,kulupu:ma Isilan,kulupu:ma Isilan
@@ -4024,10 +4040,11 @@ Q33547,nanpa toki ISO,nanpa toki ISO
 Q1455849,kulupu:ma Pakisan,kulupu:ma Pakisan
 Q33910,nena Ululu,nena Ululu
 Q7287743,kulupu:ma tomo pi ma Oselija,kulupu:ma tomo pi ma Oselija
-Q83680,jan Si Sa Suli,jan Si Sa Suli
 Q9756541,kulupu:poki,kulupu:poki
+Q83680,jan Si Sa Suli,jan Si Sa Suli
 Q6501021,kulupu:ma Inli,kulupu:ma Inli
 Q213850,jan Amo,
+Q1455718,nimi Nike,nimi Nike
 Q16465,pali:lipu pi pona mute,pali:lipu pi pona mute
 Q11059539,jan sewi Putotama,
 Q457158,jan Peteliko Majo Salaposa,
@@ -4042,9 +4059,9 @@ Q1053727,ma Tasima pi ma Nijon,
 Q27870279,musi Palasin,musi Palasin
 Q35930,ma Konko,
 Q1053709,ma Iwami pi ma Nijon,
-Q124425,len pi kiwen walo,len pi kiwen walo
 Q12905217,jan pi nasin olin tu,jan pi nasin olin tu
 Q179760,lipu Apaku,
+Q124425,len pi kiwen walo,len pi kiwen walo
 Q1053044,ma Awa pi ma Nijon,
 Q6752401,kulupu:tenpo sike nanpa 1626 la jan li moli,kulupu:tenpo sike nanpa 1626 la jan li moli
 Q1411384,kulupu:ma Mesiko,kulupu:ma Mesiko
@@ -4072,10 +4089,10 @@ Q131643,lipu Jowele,
 Q1349284,jan Sepi Wali,
 Q981002,ma Osumi pi ma Nijon,
 Q906899,ma Etu pi ma Nijon,
-Q6163803,kipisi:wile kipisi,kipisi:wile kipisi
-Q722395,jan Kantali So Makatana,jan Kansi So Matana
 Q51213808,nasin Keju Anon,nasin Keju Anon
 Q7031184,kulupu:jan pi ma Seki,kulupu:jan pi ma Seki
+Q722395,jan Kantali So Makatana,jan Kansi So Matana
+Q6163803,kipisi:wile kipisi,kipisi:wile kipisi
 Q6003426,kulupu:sitelen lili pi nasin sitelen Lasina,kulupu:sitelen lili pi nasin sitelen Lasina
 Q83244,soweli pi kon jaki utala,soweli pi kon jaki utala
 Q5626403,kulupu:ma tomo Paki,kulupu:ma tomo Paki
@@ -4089,8 +4106,8 @@ Q1458484,kulupu:toki,kulupu:toki
 Q194433,kama tawa sewi,kama tawa sewi
 Q166794,soweli Manuli,soweli Manuli
 Q3322950,tenpo suno wan sewi,
-Q524124,lawa nimi pi toki Tosi,lawa nimi pi toki Tosi
 Q165717,mani Peni,mani Peni
+Q524124,lawa nimi pi toki Tosi,lawa nimi pi toki Tosi
 Q5828462,kulupu:suli wan,kulupu:suli wan
 Q482065,tomo sewi suli Atuta,
 Q168702,nena Lose,nena Lose
@@ -4102,8 +4119,8 @@ Q10731395,jan sewi Kosuseli,
 Q11619891,jan sewi meli Kikuli,
 Q4966070,kulupu:nasin tenpo,kulupu:nasin tenpo
 Q6610935,kipisi:toki,kipisi:toki
-Q2165958,jan Sula Tanapa,jan Sula Tanapa
 Q6428235,kulupu:pl-N,kulupu:pl-N
+Q2165958,jan Sula Tanapa,jan Sula Tanapa
 Q6332774,kulupu:User th,kulupu:User th
 Q6993800,kulupu:jan pi ma Sajusi,kulupu:jan pi ma Sajusi
 Q9285919,jan sewi Kanijasu,
@@ -4113,72 +4130,73 @@ Q22964057,toki luka Pakisan,
 Q170089,nena So Oju,nena So Oju
 Q102,Pneumonoultramicroscopicsilicovolcanoconiosis,nimi Pneumonoultramicroscopicsilicovolcanoconiosis
 Q1225991,kalama musi lawa pi ma Losi,kalama musi lawa pi ma Losi
-Q6488956,kulupu:jan pi ma Posuka,kulupu:jan pi ma Posuka
-Q316443,jan Mehmet Akif Ersoy,jan Meme Aki Eso
-Q1456388,kulupu:ma Tawi,kulupu:ma Tawi
 Q187063,ma lili Lanawi,ma lili Lanawi
+Q6488956,kulupu:jan pi ma Posuka,kulupu:jan pi ma Posuka
 Q18231,kulupu Alcoholics Anonymous,kulupu Alcoholics Anonymous
+Q1456388,kulupu:ma Tawi,kulupu:ma Tawi
+Q316443,jan Mehmet Akif Ersoy,jan Meme Aki Eso
 Q10932870,jan sewi Takilipime,
 Q1753428,jan sewi Tensin,jan sewi Tensin
-Q6994944,kulupu:jan pi ma Kanata,kulupu:jan pi ma Kanata
 Q7043334,kulupu:jan tawa,kulupu:jan tawa
+Q6994944,kulupu:jan pi ma Kanata,kulupu:jan pi ma Kanata
 Q11326733,jan sewi tu Kajakitu,
 Q27164537,mama mama mama mama mama meli,
 Q296317,jan Tunku Atu Laman,jan Tunku Atu Laman
 Q317078,ma pi lawa Piko,ma pi lawa Piko
 Q3557657,jan pi pilin ike lon kulupu,jan pi pilin ike lon kulupu
 Q14436762,jan Make Siwen,jan Make Siwen
-Q936036,ma Mimasaka pi ma Nijon,
 Q907469,ma Kaka pi ma Nijon,
-Q106631,kiwen en ilo kipisi en lipu,kiwen en ilo kipisi en lipu
+Q936036,ma Mimasaka pi ma Nijon,
+Q106631,kiwen en ilo kipisi en lipu,kiwen en lipu en ilo kipisi
 Q4368335,kulupu:ma Lesepu,kulupu:ma Lesepu
 Q4630399,utala musi lete pi ma ale pi tenpo sike 2026,utala musi lete pi ma ale pi tenpo sike 2026
 Q7130936,mije en meli en tonsi la ale,
-Q1046985,kasi pi tenpo lete o,kasi pi tenpo lete o
 Q6159053,kulupu:sitelen suno,kulupu:sitelen suno
 Q375619,toki luka Italija,
+Q1046985,kasi pi tenpo lete o,kasi pi tenpo lete o
 Q10940411,jan sewi Konowakali,
 Q5767200,jan Malaki,
 Q604259,jan Sekelija,
 Q1025598,jan Nejemaja,
 Q864159,ma Sikuko pi ma Nijon,
 Q3028663,jan sewi Tosikami,
-Q840601,ma Ujakulu,ma Ujakulu
 Q5819664,kulupu:ma Pilisin,kulupu:ma Pilisin
 Q2945667,kulupu:ma suli,kulupu:ma suli
 Q6396356,kulupu:de-2,kulupu:de-2
+Q840601,ma Ujakulu,ma Ujakulu
 Q1266626,kulupu jan Pali,kulupu jan Pali
 Q1198564,kulupu E@I,kulupu E@I
 Q1747853,nasin nanpa poki,nasin nanpa poki
+Q63819987,kulupu mun Atemi,kulupu pi tawa mun Atemi
 Q182260,jan San Kamo,jan San Kamo
 Q21010653,lipu Wikipesija ale,lipu Wikipesija ale
-Q63819987,kulupu mun Atemi,kulupu pi tawa mun Atemi
 Q1781613,toki luka Nosiki,
-Q5751017,kipisi:IPA,kipisi:IPA
 Q6994006,kulupu:jan pi ma Sensa,kulupu:jan pi ma Sensa
 Q1455963,kulupu:ma Potuke,kulupu:ma Potuke
+Q5751017,kipisi:IPA,kipisi:IPA
 Q67605965,lipu Wikispore,
 Q1796078,jan sewi Sasi,jan sewi Sasi
 Q2345564,jan San Ni,
 Q732089,toki Epe,toki Epe
 Q17490239,musi Supalatun,musi Supalatun
 Q310395,nanpa -1,nanpa -1
+Q267636,jan Tan Seli,
 Q6399191,kulupu:eo-1,kulupu:eo-1
 Q18288,jan Kajusa,
 Q1761359,jan Sepenija,
 Q148971,toki Mesusowijanki,toki Mesusowijanki
-Q17460,lipu Ansakopesija,lipu Ansalopesija
+Q17460,lipu Ansakopesija,lipu Ansakopesija
 Q216843,"sitelen tawa ""soweli Aki en pipi""","sitelen tawa ""soweli Aki en pipi"""
 Q27527,ma Apika-Elopa,ma Apika Elasija
 Q685225,sitelen tawa Pinku,sitelen tawa Pinku
 Q7145843,kulupu:ilo kon lawa,kulupu:ilo kon lawa
 Q6334143,kulupu:it-N,kulupu:it-N
-Q862765,lipu lawa pi ken jan lon ma Mewika,lipu lawa pi ken jan lon ma Mewika
-Q5621523,kipisi:poki sona utala,kipisi:poki sona utala
 Q185802,nasin Palunkon,nasin Palunkon
-Q11581011,tomo sewi suli Naku,tomo sewi suli Naku
-Q7098184,kulupu:ma Sesesele,kulupu:ma Sesesele
+Q5621523,kipisi:poki sona utala,kipisi:poki sona utala
+Q862765,lipu lawa pi ken jan lon ma Mewika,lipu lawa pi ken jan lon ma Mewika
 Q6990046,kulupu:jan pi tawa mun,kulupu:jan pi tawa mun
+Q7098184,kulupu:ma Sesesele,kulupu:ma Sesesele
+Q11581011,tomo sewi suli Naku,tomo sewi suli Naku
 Q101418,ma tomo Lopanpa,ma tomo Lopanpa
 Q1513976,ma tomo Kuwi,ma tomo Kuwi
 Q211258,ijo Tewa,ijo Tewa
@@ -4187,8 +4205,8 @@ Q5646628,kulupu:jan lawa pi kulupu Katolika,kulupu:jan lawa pi kulupu Katolika
 Q7214659,kulupu:ma tomo pi ma Suwasi,kulupu:ma tomo pi ma Suwasi
 Q2111591,lipu Wikipesija pi toki Selan,
 Q3306265,toki luka Palata,
-Q7059785,kulupu:ma Soson,kulupu:ma Soson
 Q7212694,kulupu:kulupu mama toki,kulupu:kulupu mama toki
+Q7059785,kulupu:ma Soson,kulupu:ma Soson
 Q82311,jan Sin-Winsin,
 Q36819,toki Sowijo,toki Sowijo
 Q47531644,ma tomo Akala Te Enale pi tomo sona suli,
@@ -4196,13 +4214,13 @@ Q219675,lipu sewi Kulan la toki pi soweli mani,lipu sewi Kulan la toki pi soweli
 Q6994462,kulupu:jan pi ma Palata,kulupu:jan pi ma Palata
 Q1024624,ma suli pi ma tomo Towano,
 Q1049113,ma Pinko pi ma Nijon,
-Q7214143,kulupu:len,kulupu:len
 Q3919884,kulupu:jan pi ma Tansi,kulupu:jan pi ma Tansi
 Q6490926,kulupu:tenpo sike nanpa 1906 la jan li kama lon,kulupu:tenpo sike nanpa 1906 la jan li kama lon
-Q8563393,lipu Wikipesija pi toki Awasa,
 Q298364,jan Sepi Tama,jan Sepawi Tama
-Q334732,jan On Sijosen,jan On Sijosen
+Q8563393,lipu Wikipesija pi toki Awasa,
+Q7214143,kulupu:len,kulupu:len
 Q5614597,kulupu:fr-1,kulupu:fr-1
+Q334732,jan On Sijosen,jan On Sijosen
 Q5626667,kulupu:zh-N,kulupu:zh-N
 Q1417850,ijo #2 li ijo #3 e ijo #1,
 Q1917064,ma tomo Patu Kasa,ma tomo Patu Kasa
@@ -4216,13 +4234,13 @@ Q8563635,lipu Wikipesija pi toki Ipo,
 Q10932592,jan sewi meli Takitu,
 Q3063098,kama sona pi toki Epelanto lon tenpo seli,
 Q218148,jan Sosija pi pana moli,jan Sosija pi pana moli
-Q1411745,kulupu:ma Nusilan,kulupu:ma Nusilan
 Q4368526,kulupu:ma Lowenki,kulupu:ma Lowenki
-Q5626526,kulupu:User en,kulupu:User en
+Q1411745,kulupu:ma Nusilan,kulupu:ma Nusilan
 Q178543,ma palisa pi ma Kaliponja anpa,ma palisa pi ma Kaliponja anpa
+Q5626526,kulupu:User en,kulupu:User en
 Q170569,jan sewi Aton,jan sewi Aton
-Q131689,sike musi,
 Q1455371,kulupu:ma Sasali,kulupu:ma Sasali
+Q131689,sike musi,
 Q12892367,seme,
 Q1073925,jan sewi mije Sinatu,
 Q6937556,kulupu:tenpo sike nanpa 1967 la jan li moli,kulupu:tenpo sike nanpa 1967 la jan li moli
@@ -4240,8 +4258,8 @@ Q869427,kulupu Kantali So en Pisi pi kalama musi,kulupu Kantali So en Pisi pi ka
 Q6995781,kulupu:jan pi ma Sumi,kulupu:jan pi ma Sumi
 Q7130966,kulupu:ma Sipe,kulupu:ma Sipe
 Q746990,ijo Paman,ijo Paman
-Q76354,jan Muwama Jusu Kala,jan Jusu Kala
 Q35938,toki Lasino Sine Pesijone,toki Lasino Sine Pesijone
+Q76354,jan Muwama Jusu Kala,jan Jusu Kala
 Q7137948,kulupu:lipu nimi,kulupu:lipu nimi
 Q6332910,kulupu:fr-3,kulupu:fr-3
 Q7681423,nasin nanpa Tami,nasin nanpa Tami
@@ -4262,59 +4280,61 @@ Q503282,ma Masi,ma Masi
 Q1973063,ma tomo Pali Punta,ma tomo Pali Punta
 Q705983,mani Ma lipu,mani Ma lipu
 Q7213820,kulupu:ma Amelika insa,kulupu:ma Amelika insa
-Q682531,jan Enoso,
 Q7404282,suwi Wikipe,pali:suwi Wikipe
+Q682531,jan Enoso,
 Q60691066,ilo Pleroma,
 Q1157763,jan sewi Tasa,jan sewi Tasa
 Q1054861,ma Tusima pi ma Nijon,
-Q24834490,musi Utala Pi Jan Meli,musi Utala Pi Jan Meli
 Q7142706,kulupu:toki Tosi,kulupu:toki Tosi
 Q52714420,jan San Tenpi,
+Q24834490,musi Utala Pi Jan Meli,musi Utala Pi Jan Meli
 Q1062587,nasin sitelen lipu lon ma Apika pi poka weka suno,nasin sitelen lipu lon ma Apika pi poka weka suno
-Q8653726,kulupu:ma Sonwaminko,kulupu:ma Sonwaminko
 Q7214311,kulupu:kulupu pi nena ma,kulupu:kulupu pi nena ma
+Q8653726,kulupu:ma Sonwaminko,kulupu:ma Sonwaminko
 Q36239,toki luka Nusilan,
 Q7214652,kulupu:ma tomo pi ma Malasija,kulupu:ma tomo pi ma Malasija
-Q4980869,jan Laka Tamaja,
 Q1411674,kulupu:ma Masu,kulupu:ma Masu
+Q4980869,jan Laka Tamaja,
 Q1321432,lipu Tepitaka,lipu Tepitaka
+Q7031845,kulupu:jan pi ma Tuki,kulupu:jan pi ma Tuki
 Q8591663,kulupu:ilo Linu,kulupu:ilo Linu
 Q8506604,kulupu:len lawa,kulupu:len lawa
-Q7031845,kulupu:jan pi ma Tuki,kulupu:jan pi ma Tuki
-Q25393089,sona tan kulupu jan,
 Q724562,ma tomo lili Oteken,ma tomo lili Oteken
+Q25393089,sona tan kulupu jan,
 Q6992654,kulupu:jan pi ma Elena,kulupu:jan pi ma Elena
+Q354768,jan Ilosi Jamalusi,
 Q5900735,kipisi:Purge,kipisi:Purge
 Q126194,musi Manwipa,musi Manwipa
-Q219412,jan sewi Wisilopoli,jan sewi Wisilopoli
 Q843684,sike nanpa,sike nanpa
+Q219412,jan sewi Wisilopoli,jan sewi Wisilopoli
 Q7142937,kulupu:toki pi ma Palata,kulupu:toki pi ma Palata
 Q7034313,kulupu:kulupu toki Palata Elopa,kulupu:kulupu toki Palata Elopa
-Q3303681,waso telo,waso telo
 Q36597284,kulupu utala Wane,kulupu utala Wane
+Q3303681,waso telo,waso telo
 Q234025,ilo liactos,ilo kon lawa Wijakuto
-Q12854,mama Sonja,mama Sonja pi toki pona
+Q7038507,kulupu:ma tomo Nujo,kulupu:ma tomo Nujo
 Q1411463,kulupu:ma Sajusi,kulupu:ma Sajusi
 Q7130836,kulupu:ma Pelu,kulupu:ma Pelu
-Q7038507,kulupu:ma tomo Nujo,kulupu:ma tomo Nujo
-Q791,nena ma Tamatawakatanikanakowawajotamatejatulipukakapikimanakolonukupokawenuwakitanataju,nena ma Tamatawakatanikanakowawajotamatejatulipukakapikimanakolonukupokawenuwakitanataju
 Q829271,ma tomo Apeja,ma tomo Apeja
+Q791,nena ma Tamatawakatanikanakowawajotamatejatulipukakapikimanakolonukupokawenuwakitanataju,nena ma Tamatawakatanikanakowawajotamatejatulipukakapikimanakolonukupokawenuwakitanataju
+Q12854,mama Sonja,anрa sewi
 Q233369,ma tomo Ankaloja,ma tomo Ankaloja
-Q78847256,jan alasa,
-Q6383110,kipisi:lipu suli kulupu,kipisi:lipu suli kulupu
 Q7216043,kulupu:toki pi kulupu toki Loma,kulupu:toki pi kulupu toki Loma
 Q714935,jan Makokan,jan Makokan
-Q42429948,jan Natali Win,
+Q78847256,jan alasa,
+Q6383110,kipisi:lipu suli kulupu,kipisi:lipu suli kulupu
 Q27329,ma Asija lete,ma Asija lete
 Q271565,sitelen Lasena,sitelen Lasena
+Q42429948,jan Natali Win,
 Q6528262,kulupu:pipi,kulupu:pipi
-Q989463,ijo #3 li ijo #2 e ijo #1,
+Q963727,jan Ma Tanelesi,
 Q29855173,jan Ipu,
+Q989463,ijo #3 li ijo #2 e ijo #1,
 Q506610,jan sewi Asisukitakapikone,
 Q307441,musi Osu,musi Osu
-Q88870,sike ma,sike musi ma
-Q7030723,kulupu:jan pi ma Isale,kulupu:jan pi ma Isale
+Q88870,sike ma,ma sike
 Q7217403,kulupu:len ma,kulupu:len ma
+Q7030723,kulupu:jan pi ma Isale,kulupu:jan pi ma Isale
 Q199006,kulupu pi nanpa lon ken kama,kulupu pi nanpa lon ken kama
 Q7214518,kulupu:unpa,kulupu:unpa
 Q1199751,toki Malaju Kalantan-Patani,toki Malaju Kalantan-Patani
@@ -4328,22 +4348,22 @@ Q494002,ilo pi jan musi,ilo pi jan musi
 Q8986911,kulupu:utala,kulupu:utala
 Q2107268,jan Papowa Supijanto Sojowasikusumo,jan Papowa Supijanto
 Q6400255,kulupu:es-2,kulupu:es-2
-Q15117,nena ma Tomu,nena ma Tomu
-Q7128862,kulupu:tenpo seme la jan li kama lon,kulupu:tenpo seme la jan li kama lon
 Q34033,toki Sesi,
 Q717038,jan Son Masajosi,jan Son Masajosi
+Q15117,nena ma Tomu,nena ma Tomu
+Q7128862,kulupu:tenpo seme la jan li kama lon,kulupu:tenpo seme la jan li kama lon
 Q6808842,kulupu:ma Kaliponja,kulupu:ma Kaliponja
 Q6587196,kulupu:ru-4,kulupu:ru-4
 Q51557538,utala esun pi ma Mewika en ma Sonko,utala esun pi ma Mewika en ma Sonko
-Q3915472,toki luka Potuke,
 Q47228,lipu Kamasuta,lipu Kamasuta
+Q3915472,toki luka Potuke,
 Q8536695,kulupu:lipu pona,kulupu:lipu pona
 Q11634939,jan sewi Kamo Taketunomi,
 Q789016,nimi ijo,
 Q10940674,jan sewi mije Amenowaka,
 Q829955,ma tomo Sitone,ma tomo Sitone
-Q178338,lipu Ake,
 Q1127320,ma Italija meso,
+Q178338,lipu Ake,
 Q19893485,mani Menelo,
 Q6646496,kulupu:tenpo sike nanpa 1870 la jan li kama lon,kulupu:tenpo sike nanpa 1870 la jan li kama lon
 Q6992597,kulupu:jan lawa pi ma Loma pi tenpo pini,kulupu:jan lawa pi ma Loma pi tenpo pini
@@ -4357,9 +4377,9 @@ Q21190155,ma lili pi nasin Consorzio lon ma Italija,
 Q7213740,kulupu:ma Kuma,kulupu:ma Kuma
 Q37029,toki Tokalijan,toki Tokalijan
 Q232755,kili pi akesi seli,kili pi akesi seli
+Q5743744,kulupu:ma tomo lawa,kulupu:ma tomo lawa
 Q6687970,kulupu:jan pi ma Masu,kulupu:jan pi ma Masu
 Q704022,jan Kusapo Peto,jan Kusapo Peto
-Q5743744,kulupu:ma tomo lawa,kulupu:ma tomo lawa
 Q25729,awen pi awen sona,awen pi awen sona
 Q21549619,jan Leposin Wikensan,
 Q1814078,kulupu toki Po,kulupu toki Po
@@ -4368,16 +4388,16 @@ Q10921330,jan sewi Wakumusupi,
 Q16112843,kulupu toki Tawita lon poka seli,kulupu toki Tawita lon poka seli
 Q600659,ilo kon lawa sike,ilo kon lawa sike
 Q15126,nena ma Konpin suli,nena ma Konpin suli
-Q7031250,kulupu:jan pi ma Mesiko,kulupu:jan pi ma Mesiko
 Q7060103,kulupu:ma Kanpusi,kulupu:ma Kanpusi
+Q7031250,kulupu:jan pi ma Mesiko,kulupu:jan pi ma Mesiko
 Q5648972,kulupu:jan sewi,kulupu:jan sewi
 Q7288058,kulupu:ma tomo pi ma Tawi,kulupu:ma tomo pi ma Tawi
 Q81627,jan Sasali,jan Sasali
 Q11136680,kon pi pali ala,kon pi pali ala
 Q7214679,kulupu:ma tomo pi ma Kanata,kulupu:ma tomo pi ma Kanata
-Q179755,lipu Nakun,
-Q264516,jan Atu Lasa Usin,jan Atu Lasa
 Q10672,kulupu:ma Penesuwela,kulupu:ma Penesuwela
+Q264516,jan Atu Lasa Usin,jan Atu Lasa
+Q179755,lipu Nakun,
 Q316939,toki Nawi,toki Nawi
 Q7215263,kulupu:lipu sewi Kulan,kulupu:lipu sewi Kulan
 Q15729116,ma insa Pali,ma insa Pali
@@ -4385,25 +4405,27 @@ Q5412021,kipisi:col-end,kipisi:col-end
 Q1455325,kulupu:ma Akan,kulupu:ma Akan
 Q11588867,jan sewi Kamuoisipime,
 Q8682052,kulupu:ma tomo Loma,kulupu:ma tomo Loma
-Q6439839,kulupu:ma tomo pi ma Isale,kulupu:ma tomo pi ma Isale
 Q8490990,kulupu:toki pi kulupu toki Kemani,kulupu:toki pi kulupu toki Kemani
+Q6439839,kulupu:ma tomo pi ma Isale,kulupu:ma tomo pi ma Isale
 Q175926,kulupu mama Sasun,kulupu mama Sasun
 Q867086,toki Ekaja,
 Q727738,kulupu pi tomo sin lon ma ale,kulupu pi tomo sin lon ma ale
 Q174753,lipu Opasija,
 Q188563,lipu Sepenija,
+Q247264,jan Ja One,
 Q7923975,kulupu:toki Inli,kulupu:toki Inli
 Q82332,"kulupu musi ""ma anpa""",
 Q1053703,ma Koki pi ma Nijon,
-Q6934519,kulupu:tenpo sike nanpa 1859 la jan li moli,kulupu:tenpo sike nanpa 1859 la jan li moli
 Q6645724,kulupu:tenpo sike nanpa 1809 la jan li kama lon,kulupu:tenpo sike nanpa 1809 la jan li kama lon
 Q7008726,kulupu:ma Aja,kulupu:ma Aja
+Q6934519,kulupu:tenpo sike nanpa 1859 la jan li moli,kulupu:tenpo sike nanpa 1859 la jan li moli
 Q60673696,jan sewi Konowakali,
 Q330785,ma Isan,ma Isan
 Q6363888,kulupu toki Kanata,kulupu toki Kanata
 Q4425,nena ma Aka,nena ma Aka
 Q1458209,kulupu:kulupu ma Elopa,kulupu:kulupu ma Elopa
 Q7214553,kulupu:tomo pi tenpo pini,kulupu:tomo pi tenpo pini
+Q2959191,jan Sale Kemola,
 Q181341,kulupu Kopijupakenpowa,kulupu Kopijupakenpowa
 Q7186089,kulupu:ma Kolonpija,kulupu:ma Kolonpija
 Q184128,sitelen Omu,sitelen Omu
@@ -4411,38 +4433,38 @@ Q7216425,kulupu:ilo musi,kulupu:ilo musi
 Q5832798,kulupu:ma kipisi pi ma Nijon,kulupu:ma kipisi pi ma Nijon
 Q19841877,ilo Wisu Sutejo Ko,
 Q6994151,kulupu:jan pi ma Alensina,kulupu:jan pi ma Alensina
-Q640769,moku Sosi,moku Sosi
 Q11152535,jan sewi Omotalu en Ajakasikone,
+Q640769,moku Sosi,moku Sosi
 Q18786156,tomo sona suli Ino,tomo sona suli Ino
 Q1207680,kulupu esun Sasi,
 Q26746,toki Inli pona,
 Q7015952,kulupu:nasin misikeke,kulupu:nasin misikeke
 Q92620,jan Pane Sasu,jan Pane Sasu
 Q756797,jan sewi Tekalipoka,jan sewi Tekalipoka
-Q7142278,kulupu:tawa mun,kulupu:tawa mun
 Q9935594,kulupu:kulupu esun,kulupu:kulupu esun
+Q7142278,kulupu:tawa mun,kulupu:tawa mun
+Q6152753,kulupu:jan pi ma Sulija,kulupu:jan pi ma Sulija
 Q6992917,kulupu:jan pi ma Anku,kulupu:jan pi ma Anku
 Q234197,ma Si Wisaja,ma Si Wisaja
-Q6152753,kulupu:jan pi ma Sulija,kulupu:jan pi ma Sulija
-Q599907,jan Palu,
 Q14403,akesi Welosilato,akesi Welosilato
 Q2741191,jan Suse Eten Ekin,jan Suse Eten Ekin
 Q9232453,kulupu:lipu sewi,kulupu:lipu sewi
 Q231600,jan Milela Peni,
+Q599907,jan Palu,
 Q6030066,sitelen pi pini ala,
-Q580463,soweli Pita,
-Q357585,jan Maku Antonisu Kesiku,
 Q935818,lipu Pomi,
-Q941253,kulupu Samoji pi kulupu jan,kulupu Samoji pi kulupu jan
+Q580463,soweli Pita,
 Q694799,jan Emilijo Lusu,jan Emiliju Lusu
+Q941253,kulupu Samoji pi kulupu jan,kulupu Samoji pi kulupu jan
+Q357585,jan Maku Antonisu Kesiku,
 Q2844112,jan Jakopo,
 Q1067028,jan sewi Kiluko,
 Q344452,kalama musi lawa pi ma Tuki,kalama musi lawa pi ma Tuki
 Q180439,sitelen An,sitelen An
-Q1456520,kulupu:ma Wije,kulupu:ma Wije
-Q272588,jan Atula Ama Patawi,jan Atula Patawi
 Q6539712,kulupu:sijelo jan,kulupu:sijelo jan
+Q272588,jan Atula Ama Patawi,jan Atula Patawi
 Q7130516,kulupu:ma Utun,kulupu:ma Utun
+Q1456520,kulupu:ma Wije,kulupu:ma Wije
 Q5903802,misikeke tonsi,misikeke tonsi
 Q104901351,jan Siwi,
 Q6634626,ma tomo Pali suli,ma tomo Pali suli
@@ -4450,81 +4472,81 @@ Q16164,sitelen Đ,sitelen Đ
 Q1063844,ma Sato pi ma Nijon,
 Q11129547,jan sewi Mikumali,
 Q2914733,toki Tosulaki,
-Q211939,kalama musi Olansin,kalama musi Olansin
-Q1961514,jan Wisela,
-Q6492442,kulupu:ma tomo pi ma Anku,kulupu:ma tomo pi ma Anku
-Q4201239,ma tomo Inopoli,ma tomo Inopoli
 Q4613,mani Pana,mani Pana
+Q1961514,jan Wisela,
 Q7460028,kulupu:ma Katala,kulupu:ma Katala
+Q6492442,kulupu:ma tomo pi ma Anku,kulupu:ma tomo pi ma Anku
+Q211939,kalama musi Olansin,kalama musi Olansin
 Q82349,jan Tan-Wele,
+Q4201239,ma tomo Inopoli,ma tomo Inopoli
 Q1047671,ma Noto pi ma Nijon,
 Q36764,toki Soleso,toki Soleso
-Q41347,sitelen lawa pi lipu Wikipesija,sitelen lawa pi lipu Wikipesija
-Q6645561,kulupu:tenpo sike nanpa 1800 la jan li kama lon,kulupu:tenpo sike nanpa 1800 la jan li kama lon
 Q586088,jan sewi Omowikane,
+Q6645561,kulupu:tenpo sike nanpa 1800 la jan li kama lon,kulupu:tenpo sike nanpa 1800 la jan li kama lon
+Q41347,sitelen lawa pi lipu Wikipesija,sitelen lawa pi lipu Wikipesija
 Q53362603,jan pi toki Elepen,
 Q16110967,kulupu toki Tawita lon poka lete,kulupu toki Tawita lon poka lete
 Q1053713,ma Wakasa pi ma Nijon,
-Q6591440,kulupu:User tl,kulupu:User tl
 Q7110720,kulupu:ma Kinli,kulupu:ma Kinli
-Q2382687,jan Osu pi wawa nasa,
+Q6591440,kulupu:User tl,kulupu:User tl
 Q131303,"ilo ""toki, ma ale o!""","ilo ""toki, ma ale o!"""
+Q2382687,jan Osu pi wawa nasa,
 Q2584375,jan Alesanto Pali,jan Alesanto Pali
-Q35601,toki luka Nijon,
 Q484140,s palisa,sitelen S palisa
-Q6419496,kulupu:jan pi ma Ilan,kulupu:jan pi ma Ilan
+Q35601,toki luka Nijon,
 Q207937,lipu toki Nikeja,lipu toki Nikeja
+Q6419496,kulupu:jan pi ma Ilan,kulupu:jan pi ma Ilan
 Q1332769,jan Nikola Sinkalesi,
 Q2663948,jan Masuno Taki,
-Q8590087,kulupu:suno,kulupu:suno
 Q7023666,kulupu:ma palisa lon poka telo,kulupu:ma palisa lon poka telo
-Q463859,wile pi unpa noka,wile pi unpa noka
+Q8590087,kulupu:suno,kulupu:suno
 Q134883,tomo Sijen,tomo Sijen
-Q54812588,jan Jani Sina,jan Jani Sina
 Q6210301,kulupu:ma tomo pi ma Sensa,kulupu:ma tomo pi ma Sensa
+Q463859,wile pi unpa noka,wile pi unpa noka
+Q54812588,jan Jani Sina,jan Jani Sina
 Q239743,ma lili Nija,ma lili Nija
 Q719706,jan Sa Sepija,
 Q7287334,kulupu:ma tomo pi ma Wije,kulupu:ma tomo pi ma Wije
-Q953491,musi pi tomo telo utala,musi pi tomo telo utala
 Q4387856,jan sewi mije Kanajama,
-Q217844,oke,oke
-Q7213843,kulupu:ma Onkon,kulupu:ma Onkon
+Q953491,musi pi tomo telo utala,musi pi tomo telo utala
 Q12490739,kulupu lawa Eseteme,kulupu lawa Eseteme
+Q7213843,kulupu:ma Onkon,kulupu:ma Onkon
+Q217844,oke,oke
 Q427621,ma Anto,ma Anto
 Q10864079,jan sewi Kitokotonusi,
 Q6986488,kulupu:ma Santapiken,kulupu:ma Santapiken
+Q122965,jan Eli Pon Teniken,jan Eli Pon Teniken
+Q11088805,jan sewi Kasuka,
 Q7216051,kulupu:kulupu pi ma lili,kulupu:kulupu pi ma lili
-Q11088805,jan sewi Kasuka,
-Q11088805,jan sewi Kasuka,
 Q52395487,jan Kapije Mile,jan Kapije Mile
 Q7214247,kulupu:akesi poki,kulupu:akesi poki
 Q2151315,ma tomo Liteli,ma tomo Liteli
 Q6699774,kulupu:lipu ilo pi kulupu Wikimesija,kulupu:lipu ilo pi kulupu Wikimesija
 Q502525,ko nena,ko nena
-Q12302824,kasi Okoma,kasi Okoma
 Q24865597,jan sewi meli Omijanome,
+Q12302824,kasi Okoma,kasi Okoma
 Q22070227,jan sewi meli Kimekami,
 Q24248226,jan Lusanalan Ojunetene,
 Q7004650,kulupu:zh-1,kulupu:zh-1
 Q6334193,kulupu:no-N,kulupu:no-N
 Q146575,tenpo pi telo lili,tenpo pi telo lili
 Q2477724,ma tomo Makina,ma tomo Makina
-Q9252414,kulupu:ru-0,kulupu:ru-0
 Q5912379,kulupu:jan pi ma Malasija,kulupu:jan pi ma Malasija
+Q9252414,kulupu:ru-0,kulupu:ru-0
 Q373650,ma Salo,ma Salo
 Q152263,kulupu pi tenpo lili,kulupu pi tenpo lili
 Q35846,toki Ikuli,toki Ikuli
 Q7096588,kulupu:jan pi ma Kolonpija,kulupu:jan pi ma Kolonpija
-Q42751,ma tomo Paliki,
 Q8978273,kulupu:ma kipisi pi ma Italija,kulupu:ma kipisi pi ma Italija
+Q42751,ma tomo Paliki,
 Q170070,nena Manasu,nena Manasu
 Q6734171,kulupu:nasin lawa pi ma Mewika,kulupu:nasin lawa pi ma Mewika
 Q966327,moku Alisa,moku Alisa
 Q8558960,lipu Wikipesija lon toki Inli majuna,
 Q35754,toki luka pi ma ale,
 Q464204,jan Sopija Jano,jan Sopija Jano
-Q5766677,kipisi:kon ante,kipisi:kon ante
 Q8729043,kulupu:kulupu toki Semi,kulupu:kulupu toki Semi
+Q5766677,kipisi:kon ante,kipisi:kon ante
 Q337,telo Sapanakankama,telo Sapanakankama
 Q6960905,kulupu:tenpo seme la jan li kama moli,kulupu:tenpo seme la jan li kama moli
 Q7142712,kulupu:toki pi ma Apika,kulupu:toki pi ma Apika
@@ -4533,13 +4555,14 @@ Q909655,ilo Kakamine Lin en ilo Kakamine Len,ilo Kakamine Lin en ilo Kakamine Le
 Q9853092,kulupu:jan pi sitelen tawa,kulupu:jan pi sitelen tawa
 Q7157652,kulupu:nasin loje,kulupu:nasin loje
 Q489279,jan Kin Jonsi,jan Kin Jonsi
-Q1751437,kulupu musi Pose Kosan Wesin,kulupu musi Pose Kosan Wesin
 Q6097107,kulupu:toki moli,kulupu:toki moli
+Q1751437,kulupu musi Pose Kosan Wesin,kulupu musi Pose Kosan Wesin
 Q7130777,kulupu:ma Antola,kulupu:ma Antola
 Q60856,lipu Wikipesija pi toki Wiku,
-Q7137308,kulupu:tenpo sike 2020,kulupu:tenpo sike 2020
 Q6400524,kulupu:es-4,kulupu:es-4
+Q7137308,kulupu:tenpo sike 2020,kulupu:tenpo sike 2020
 Q204403,ma Tajome,ma Tajome
+Q2550078,jan Jeson Tewi Pen,
 Q6334071,kulupu:ko-N,kulupu:ko-N
 Q200513,kulupu Sepa,
 Q35679,toki Konta,toki Konta
@@ -4552,13 +4575,13 @@ Q5636063,kipisi:kule pi kipisi sitelen,kipisi:kule pi kipisi sitelen
 Q2321052,kama kulupu suli pi toki Epelanto lon tenpo sike 1905,
 Q11661912,kili,kili
 Q1053722,ma Sima pi ma Nijon,
-Q7237538,kulupu:toki Sonko,kulupu:toki Sonko
 Q11110848,jan sewi meli Takupatasisi,
 Q193068,ijo ale li lon nasin tu,
+Q7237538,kulupu:toki Sonko,kulupu:toki Sonko
 Q2716491,jan sewi Koteli,
-Q11195683,jan DECO*27,
-Q7087719,kulupu:jan pi ma Isilan,kulupu:jan pi ma Isilan
 Q7087645,kulupu:jan pi ma Penesuwela,kulupu:jan pi ma Penesuwela
+Q7087719,kulupu:jan pi ma Isilan,kulupu:jan pi ma Isilan
+Q11195683,jan DECO*27,
 Q192533,jan Ma Kani,jan Ma Kani
 Q7184371,kulupu:ma Najowelo,kulupu:ma Najowelo
 Q9078347,kulupu:ma tomo pi ma Lusi,kulupu:ma tomo pi ma Lusi
@@ -4568,18 +4591,19 @@ Q2605298,toki luka Tansi,
 Q102650998,uwu,sitelen Umu
 Q4991540,ma Serengeti,
 Q7214675,kulupu:ma tomo pi ma Setapika,kulupu:ma tomo pi ma Setapika
-Q1138529,toki Kosa,toki Losa
-Q4467,kulupu:jan pi ma Sesesele,kulupu:jan pi ma Sesesele
 Q660059,luka kala,
 Q28422,toki Ponpe,
+Q1138529,toki Kosa,toki Losa
+Q4467,kulupu:jan pi ma Sesesele,kulupu:jan pi ma Sesesele
 Q950875,Ometepe,ma Ometepe
 Q757329,nasin unpa pi pana luka,nasin unpa pi pana luka
 Q1426400,nasin sewi Omalo,nasin sewi Omalo
 Q5625128,kipisi:toki poka,kipisi:toki poka
 Q700448,tomo sewi Kamikamo,
-Q1455541,kulupu:ma Kupa,kulupu:ma Kupa
 Q6482775,kulupu:selo pi sona selo,kulupu:selo pi sona selo
 Q6689089,kulupu:jan pi ma Akan,kulupu:jan pi ma Akan
+Q1455541,kulupu:ma Kupa,kulupu:ma Kupa
+Q55356854,jan Alisa Lu,
 Q215613,kulupu pi kulupu pi jo ala e ken toki,kulupu pi ma ni pi jan ni: ona li ken ala toki e ona sama
 Q2914480,sitelen tawa Mumin pi tenpo sike 1990,sitelen tawa Mumin pi tenpo sike 1990
 Q43604020,kijetesantakalu jaki,
@@ -4588,48 +4612,48 @@ Q6403127,kulupu:fr-0,kulupu:fr-0
 Q9723853,kulupu:kulupu jan Alapi,kulupu:kulupu jan Alapi
 Q862078,kulupu nena Kasepun,kulupu nena Kasepun
 Q652798,sitelen Ɑ,sitelen Ɑ
-Q5461410,kipisi:Wikiso,kipisi:Wikiso
-Q228579,jan Samansa Samisi,jan Samansa Samisi
 Q17430942,ilo Lsj,ilo Elese
+Q228579,jan Samansa Samisi,jan Samansa Samisi
+Q5461410,kipisi:Wikiso,kipisi:Wikiso
 Q60310502,jan Antonisu en jan Kejopata,
 Q7444868,nasin pi len toki,nasin pi len toki
 Q3801534,leko,leko
 Q3073428,toki luka Anku,
-Q42417393,mije li selo meli,
-Q15379728,Module:wile kipisi,Module:wile kipisi
-Q5612638,kipisi:ma Mewika,kipisi:ma Mewika
 Q16190030,musi Sijomeli Te,musi Sijamesi Ta
 Q8646886,kulupu:ma tomo pi ma Ukawina,kulupu:ma tomo pi ma Ukawina
+Q42417393,mije li selo meli,
+Q5612638,kipisi:ma Mewika,kipisi:ma Mewika
+Q15379728,Module:wile kipisi,Module:wile kipisi
 Q48745416,jan sewi Omisunu,
 Q46596139,lipu pi soweli suli walo pimeja,
-Q4158548,kulupu pi tawa sewi,
 Q6419260,kulupu:kulupu Awawi pi ma lili,kulupu:kulupu Awawi pi ma lili
 Q7129499,kulupu:jan pi lipu Pipija,kulupu:jan pi lipu Pipija
 Q7214719,kulupu:tomo pi jan ike,kulupu:tomo pi jan ike
+Q4158548,kulupu pi tawa sewi,
 Q11387080,jan sewi Jamatonokunitama,
 Q628526,sinpin pi suwi lete,sinpin pi suwi lete
 Q24871792,jan PinocchioP,
 Q8422023,kulupu:toki Epelanto,kulupu:toki Epelanto
 Q1200954,kulupu pi ma telo Nijuwa,kulupu Nijuwa pi ma lili
 Q95605854,mu,mu
-Q6483324,kulupu:jan pi ma Kupa,kulupu:jan pi ma Kupa
 Q7013216,kulupu:ijo pali,kulupu:ijo pali
 Q9309915,kulupu:es-0,kulupu:es-0
+Q6483324,kulupu:jan pi ma Kupa,kulupu:jan pi ma Kupa
 Q12612463,jan Li Semon,jan Li Semon
 Q946318,kulupu Epelantujo,kulupu Epelantujo
-Q467805,jan Mewi Sepija,
-Q464185,jan Tale Mawinsi,jan Tale Mawinsi
 Q268130,toki Pentole,toki Pentole
+Q464185,jan Tale Mawinsi,jan Tale Mawinsi
+Q467805,jan Mewi Sepija,
 Q962651,ma Katula,
 Q9691,sitelen ẞ,sitelen ẞ
 Q11572681,jan sewi meli Tamakusi,
 Q5646576,kulupu:ante toki,kulupu:ante toki
 Q6018449,kulupu:ma Tunisi,kulupu:ma Tunisi
-Q821788,jan awen loje,jan awen loje
 Q9432996,kulupu:jan pi ilo Jutu,kulupu:jan pi ilo Jutu
+Q5902486,kipisi:sona li ala la,kipisi:sona li ala la
 Q146107,nasin sewi Jaten,nasin sewi Jaten
 Q7152674,kulupu:kulupu Wikimesija,kulupu:kulupu Wikimesija
-Q5902486,kipisi:sona li ala la,kipisi:sona li ala la
+Q821788,jan awen loje,jan awen loje
 Q1603141,len lawa pi ma Satanu,len lawa pi ma Satanu
 Q28935729,jan Sesi Wan,jan Sesi Wan
 Q3915822,toki Malana,
@@ -4641,32 +4665,34 @@ Q7022842,kulupu:moli,kulupu:moli
 Q612220,toki Katula,toki Katula
 Q10940228,jan sewi Amatsupikone,
 Q423528,ma telo Ewa,ma lili Ewa
-Q3575465,jan Sija Lapani,
 Q9459896,kulupu:sitelen lili,kulupu:sitelen lili
 Q1456051,kulupu:ma Sinkapo,kulupu:ma Sinkapo
 Q515229,ma tomo Nelumu,ma tomo Nelumu
+Q3575465,jan Sija Lapani,
 Q9077970,kulupu:jan pi ma Ukawina,kulupu:jan pi ma Ukawina
 Q6925554,kipisi:tan sona,kipisi:tan sona
 Q7215038,kulupu:toki pi kulupu toki Tuki,kulupu:toki pi kulupu toki Tuki
-Q7029110,kulupu:kulupu jan nanpa wan,kulupu:kulupu jan nanpa wan
 Q9850671,kulupu:tomo pi nasin sewi,kulupu:tomo pi nasin sewi
+Q7029110,kulupu:kulupu jan nanpa wan,kulupu:kulupu jan nanpa wan
 Q110918037,tomo pi ilo Siko,
-Q2267970,soweli Mi Piki,soweli Mi Piki
 Q3100814,toki luka Epanja,
 Q5411974,kipisi:col,kipisi:col
-Q1063829,ma Oki pi ma Nijon,
-Q9150392,jan sewi Jasakatome,
+Q2267970,soweli Mi Piki,soweli Mi Piki
 Q77288647,jan pi toki Olapi,
+Q9150392,jan sewi Jasakatome,
+Q1063829,ma Oki pi ma Nijon,
 Q108489,ma telo Pelase,
+Q741772,jan Eman Wilen Tante,
 Q30480,nena ma Pateseken,nena ma Pateseken
-Q19765,pali:lipu pona,pali:lipu pona
 Q6156696,kulupu:moli jan,kulupu:moli jan
 Q4173083,wan esun pi ma Elasija,wan esun pi ma Elasija
-Q374277,kulupu jan Junu,kulupu jan Junu
+Q19765,pali:lipu pona,pali:lipu pona
 Q653180,tomo sewi suli Pusisanponkusenken,
+Q374277,kulupu jan Junu,kulupu jan Junu
 Q7214637,kulupu:ma tomo pi ma Nosiki,kulupu:ma tomo pi ma Nosiki
 Q2353425,ma Talosa,
 Q7087797,kulupu:jan pi ma Soson,kulupu:jan pi ma Soson
+Q1406833,jan Wate Emanwe Jon,
 Q34042,toki Tota,toki Tota
 Q39247,telo Musi,telo Musi
 Q2575928,ma tomo Selakela,ma tomo Selakela
@@ -4676,33 +4702,33 @@ Q41496390,jan pi toki Sinan,
 Q67204062,akesi Sukele,
 Q3913001,mun lili mute luka tu ale mute mute tu wan ale wan,mun lili mute luka tu ale mute mute tu wan ale wan
 Q656451,tomo sewi suli Kijosi,
-Q5621973,toki Kuku Jalanki,toki Kuku Jalanki
 Q6646872,kulupu:tenpo sike nanpa 1893 la jan li kama lon,kulupu:tenpo sike nanpa 1893 la jan li kama lon
-Q6549789,kulupu:ma lili pi ma Suwasi,kulupu:ma lili pi ma Suwasi
+Q5621973,toki Kuku Jalanki,toki Kuku Jalanki
 Q9699900,kulupu:de-1,kulupu:de-1
+Q6549789,kulupu:ma lili pi ma Suwasi,kulupu:ma lili pi ma Suwasi
 Q59248250,jan Anta Sapa,
 Q309333,jan Musa,
 Q303678,sitelen tawa pi jan Tawe en soweli kalama lili: lon pi ma lon telo,sitelen tawa pi jan Tawe en soweli kalama lili: lon pi ma lon telo
 Q4262867,jan Pisi Alijano,jan Pisi Alijano
 Q3116390,jan Li Wasuman,jan Li Wasuman
 Q529391,jan Usin On,jan Usen On
-Q1456188,kulupu:ma Sutan,kulupu:ma Sutan
-Q8829414,kulupu:toki Tami,kulupu:toki Tami
 Q5614159,kipisi:ma Italija,kipisi:ma Italija
+Q8829414,kulupu:toki Tami,kulupu:toki Tami
+Q1456188,kulupu:ma Sutan,kulupu:ma Sutan
 Q751417,jan Pipata,jan Pipata
-Q3992582,jan Tomaso Sanolesi,
 Q109501952,jan pi wile unpa ala,jan pi wile unpa ala
 Q6741261,kulupu:ma tomo pi ma Mijama,kulupu:ma tomo pi ma Mijama
 Q6996817,kulupu:jan esun,kulupu:jan esun
-Q7143614,kulupu:nena ma pi ma Suwasi,kulupu:nena ma pi ma Suwasi
 Q6893359,kulupu:ma Mulitanja,kulupu:ma Mulitanja
+Q3992582,jan Tomaso Sanolesi,
+Q7143614,kulupu:nena ma pi ma Suwasi,kulupu:nena ma pi ma Suwasi
 Q24840677,ijo pi sinpin luka tu wan pi palisa luka luka tu pi nena luka wan,
 Q481990,pipi Akopila,
 Q463949,jan Kin Sonsu,jan Kin Sonsu
 Q6585347,kulupu:mun Masi,kulupu:mun Masi
 Q1516195,ma tomo Kalama lon ma Wasinton,ma tomo Kalama lon ma Wasinton
-Q66707394,kulupu pi ken nanpa,kulupu pi ken nanpa
 Q18867,akesi poki pi noka jelo,akesi poki pi noka jelo
+Q66707394,kulupu pi ken nanpa,kulupu pi ken nanpa
 Q4052517,kama kulupu suli pi toki Epelanto lon tenpo sike 1912,
 Q11065428,jan sewi Takepilatoli,
 Q7061714,kulupu:jan pi ma Setapika,kulupu:jan pi ma Setapika
@@ -4714,31 +4740,32 @@ Q35348,toki Kanpitanu,
 Q6333877,kulupu:pl-2,kulupu:pl-2
 Q67185169,jan Sinte,
 Q134944,kala Tali,kala Tali
-Q24056548,jan Mapa,jan Mapa
 Q2593519,ma tomo Tapa (ma Malasija),ma tomo Tapa (ma Malasija)
+Q24056548,jan Mapa,jan Mapa
+Q899048,jan sama Menente,
 Q5550859,ma tomo Keli,ma tomo Keli
-Q6332466,kulupu:User tok,kulupu:User tok
 Q4708295,ma tomo Alanta,
+Q6332466,kulupu:User tok,kulupu:User tok
 Q193662,ma tomo Sewelopaka,ma tomo Sewelopaka
 Q48814715,ilo Insanjuwisi,ilo Insanjuwisi
 Q4850828,kulupu jan Pali mama,kulupu jan Pali mama
 Q104587954,lipu Wikiwilo,
+Q30121972,jan Sali Ka,jan Sali Ka
 Q76714,jan Oto Tome,jan Oto Tome
 Q5771800,jan Kasija Senpan,jan Kasija Senpan
-Q30121972,jan Sali Ka,jan Sali Ka
 Q11174872,jan sewi Siotusi,
 Q180996,nena Po Pi,nena Po Pi
-Q234248,lipu sewi Kulan la toki jan,lipu sewi Kulan la toki jan
 Q167910,mun sike tawa,mun sike tawa
+Q234248,lipu sewi Kulan la toki jan,lipu sewi Kulan la toki jan
 Q3915194,toki luka Posuka,
 Q8072097,toki luka Sinpapuwe,
-Q380528,kule lon ijo lili Kuwa lon ijo lili Kuwan,kule wawa kule (wan lili insa)
 Q3092598,jan Sila,
-Q10350561,kipisi:Lua,kipisi:Lua
 Q66715738,jan Apike Son,jan Apike Son
+Q10350561,kipisi:Lua,kipisi:Lua
+Q380528,kule lon ijo lili Kuwa lon ijo lili Kuwan,kule wawa kule (wan lili insa)
 Q1050837,sona tan tomo pi jan Teseju,sona tan tomo pi jan Teseju
-Q2359181,ma tomo Muwa,ma tomo Muwa
 Q3915477,toki luka Intonesija,
+Q2359181,ma tomo Muwa,ma tomo Muwa
 Q60994492,kon Amatukami,
 Q7029721,kulupu:jan pi ma Sameka,kulupu:jan pi ma Sameka
 Q1081042,nasin sewi Kemetesin,nasin sewi Kemetesin
@@ -4752,33 +4779,34 @@ Q12497177,jan Malupu Amin,jan Malupamin
 Q7213518,kulupu:sitelen Ansi,kulupu:sitelen Ansi
 Q8938644,kulupu:ma kipisi pi ma Sonko,kulupu:ma kipisi pi ma Sonko
 Q327195,jan Eta Wan Wa,jan Eta Wan Wa
-Q690548,nimi pi sama ala pi tan sama,nimi ante pi tan sama
+Q6186746,jan Jesi Pinkan,
 Q97393767,lipu Wikipesija pi toki Alapi pi ma Malipe,
-Q49847,jan We Wilijan Sansan,
-Q527936,jan Kajekosu Sapusi Sowapi,jan Kajekosu Sapusi Sowapi
+Q690548,nimi pi sama ala pi tan sama,nimi ante pi tan sama
 Q6995294,kulupu:jan pi ma Tawan,kulupu:jan pi ma Tawan
-Q7215652,kulupu:akesi Sinosalija,kulupu:akesi Sinosalija
 Q7319353,kulupu:moku pi ma Nijon,kulupu:moku pi ma Nijon
+Q49847,jan We Wilijan Sansan,
 Q836854,ma Sonko li lawa e ken kepeken pi lipu ilo,lawa ken pi lipu ilo tan ma Sonko
+Q527936,jan Kajekosu Sapusi Sowapi,jan Kajekosu Sapusi Sowapi
+Q7215652,kulupu:akesi Sinosalija,kulupu:akesi Sinosalija
 Q60772733,musi Supa Anima Loja,musi Supa Anima Loja
-Q2292767,meli wawa pona Kinta,
 Q2201099,toki luka Netelan,
+Q2292767,meli wawa pona Kinta,
 Q558970,jan sewi Sipe-Tote,jan sewi Sipe-Tote
 Q6993433,kulupu:jan pi ma Monko,kulupu:jan pi ma Monko
-Q3537158,ma tomo Tanson Malin,ma tomo Tanson Malin
 Q5889743,kipisi:columns,kipisi:columns
+Q3537158,ma tomo Tanson Malin,ma tomo Tanson Malin
 Q7130767,kulupu:ma Solomon,kulupu:ma Solomon
 Q7409815,kulupu:toki pi ma Pasiju,kulupu:toki pi ma Pasiju
 Q5886237,kipisi:poki toki,kipisi:poki toki
-Q6499080,jan Lawa Keli,jan Lawa Keli
-Q105713,mun Sisu,mun Sisu
+Q3920058,kulupu:kulupu pi kule olin,kulupu:kulupu pi kule olin
 Q7142932,kulupu:toki pi ma Italija,kulupu:toki pi ma Italija
 Q10322106,toki luka Ukawina,
-Q3920058,kulupu:kulupu pi kule olin,kulupu:kulupu pi kule olin
+Q105713,mun Sisu,mun Sisu
+Q6499080,jan Lawa Keli,jan Lawa Keli
 Q108617400,lipu pu,lipu pu
-Q107312349,kulupu:ma Tawan,kulupu:ma Tawan
-Q6261868,kulupu:ma tomo pi ma Italija,kulupu:ma tomo pi ma Italija
 Q335109,nasin nanpa Maja,nasin nanpa Maja
+Q6261868,kulupu:ma tomo pi ma Italija,kulupu:ma tomo pi ma Italija
+Q107312349,kulupu:ma Tawan,kulupu:ma Tawan
 Q49043,sitelen Þ,sitelen Þ
 Q60995523,kulupu jan sewi Kunitukami,
 Q16039150,jan sewi Asokasuntali,jan sewi Asokasuntali
@@ -4787,15 +4815,15 @@ Q6157074,kulupu:ma tomo pi ma Lominija,kulupu:ma tomo pi ma Lominija
 Q8251375,kulupu:nasin sewi pi ma Loma pi tenpo pini,kulupu:nasin sewi pi ma Loma pi tenpo pini
 Q163395,ma Make,
 Q1053717,ma Awasi pi ma Nijon,
-Q651483,ilo uta,ilo uta
 Q105636,mun Kepelo,mun Kepelo
-Q395521,toki Telelin,toki Telelin
+Q651483,ilo uta,ilo uta
 Q10940849,jan sewi Amenokakujama,
+Q395521,toki Telelin,toki Telelin
 Q966941,ma telo Nijuwapojo,ma lili Nijuwapojo
 Q185720,telo Musukunta,telo Musukunta
+Q18342893,jan Kipan Lakapumin Laka,jan Kipan Lakapumin Laka
 Q2448312,kulupu pi nasin loje lon ma Malaja,kulupu pi nasin loje lon ma Malaja
 Q842390,ma Tuwi Tona,ma Tuwi Tona
-Q18342893,jan Kipan Lakapumin Laka,jan Kipan Lakapumin Laka
 Q7487056,kulupu:kulupu jan An,kulupu:kulupu jan An
 Q7144129,kulupu:jaki,kulupu:jaki
 Q229107,nena Kanlinpose,nena Kanlinpose
@@ -4806,27 +4834,27 @@ Q5822466,kulupu:kulupu toki Sonko Po,kulupu:kulupu toki Sonko Po
 Q3112631,lipu Wikipesija pi toki Tona,
 Q229674,jan Kisa Mikali,jan Kisa Mikali
 Q58066,ilo AIM,ilo AIM
-Q10514059,jan sewi Zakonken,
 Q828079,kala ma,kala ma
-Q192341,mi jo e wile,mi jo e wile
+Q10514059,jan sewi Zakonken,
 Q5624688,kipisi:wile pali,kipisi:wile pali
-Q57597,jan Posa Lukisa Sinson-Mila,jan Posa Lukisa Sinson-Mila
-Q60709223,jan Awi Puwi,
+Q192341,mi jo e wile,mi jo e wile
 Q7033777,kulupu:mun Jupite,kulupu:mun Jupite
+Q60709223,jan Awi Puwi,
 Q82376,jan Pilipo-Kasoni,
 Q10297002,jan Malalali,
-Q4365116,kulupu:mama pi sitelen tawa,kulupu:mama pi sitelen tawa
-Q8670893,kulupu:ilo jan,kulupu:ilo jan
+Q57597,jan Posa Lukisa Sinson-Mila,jan Posa Lukisa Sinson-Mila
 Q6681068,kipisi:tan sona la open,kipisi:tan sona la open
+Q8670893,kulupu:ilo jan,kulupu:ilo jan
+Q4365116,kulupu:mama pi sitelen tawa,kulupu:mama pi sitelen tawa
 Q1216721,"sitelen tawa ""poki weka""",
 Q715632,tomo sewi suli Usa,tomo sewi suli Usa
 Q7132788,kulupu:uta,kulupu:uta
 Q296721,musi Jali Kulese,musi Jali Kulese
 Q215938,jan Apeto Kota,
 Q36668,toki luka Esalasi,
-Q33765,toki luka Nikalawa,
-Q200742,kalama musi pi ma Mesiko,
 Q7311958,kulupu:ma Sukosi,kulupu:ma Sukosi
+Q200742,kalama musi pi ma Mesiko,
+Q33765,toki luka Nikalawa,
 Q51885456,toki ilo Sika,toki ilo Sika
 Q6266259,kulupu:toki luka,kulupu:toki luka
 Q429421,sitelen Ɖ,sitelen Ɖ
@@ -4853,37 +4881,40 @@ Q8562502,lipu Wikipesija pi toki Pisi,
 Q7074713,kulupu:ma Sameka,kulupu:ma Sameka
 Q8951800,kulupu:toki pi kulupu toki Kelita,kulupu:toki pi kulupu toki Kelita
 Q10749920,jan sewi Kukunosi,
+Q6080112,jan sewi suli Isikolitome,
+Q609817,toki sitelen Pisinpo,
+Q4198474,ma tomo Isuwalowa,
 Q10306630,jan pona tawa jan ale,jan pona tawa jan ale
 Q91088537,jan sewi Amenosikumone,
-Q4198474,ma tomo Isuwalowa,
-Q609817,toki sitelen Pisinpo,
-Q6080112,jan sewi suli Isikolitome,
 Q1021436,kulupu jan Lapita,kulupu jan Lapita
 Q17746,mun Pantola,mun Pantola
-Q5614931,kulupu:ma tomo pi ma Pilisin,kulupu:ma tomo pi ma Pilisin
 Q6418549,kulupu:ma kipisi pi ma Mesiko,kulupu:ma kipisi pi ma Mesiko
-Q12349932,jan Mimoku,jan Mimoku
+Q5614931,kulupu:ma tomo pi ma Pilisin,kulupu:ma tomo pi ma Pilisin
 Q7295160,kulupu:nena ma pi ma Esalasi,kulupu:nena ma pi ma Esalasi
+Q49432956,pipi Pijakesijela,
+Q12349932,jan Mimoku,jan Mimoku
 Q3261482,jan sewi meli Oketu,
 Q7143646,kulupu:nena ma pi ma Kanse,kulupu:nena ma pi ma Kanse
 Q6808364,kulupu:ma Misikan,kulupu:ma Misikan
 Q6769920,kulupu:ma Sasinja,kulupu:ma Sasinja
 Q746861,ma Papeta,ma Papeta
 Q181078,sitelen lape lon,sitelen lape lon
-Q4052531,kama kulupu suli pi toki Epelanto lon tenpo sike 1910,
 Q762919,ijo Kapipo,jan Kapipo
+Q4052531,kama kulupu suli pi toki Epelanto lon tenpo sike 1910,
 Q2116909,kulupu Into,
 Q945748,toki Inota,toki Inota
-Q47170010,jan Wiwijan,
 Q1002246,ma telo Powa,ma lili Powa
+Q47170010,jan Wiwijan,
 Q1180311,kulupu Pe Sutatu,kulupu Pe Sutatu
 Q6993761,kulupu:jan pi ma Pasiju,kulupu:jan pi ma Pasiju
+Q259091,jan Tu Tan,
 Q88998721,mama mama mama mama mama mama,
-Q28970868,lipu Wikipesija pi toki pona,
 Q54142,kulupu:ma lili pi ma Posuka,kulupu:ma lili pi ma Posuka
-Q6382478,kulupu:soweli pini,kulupu:soweli pini
 Q5909262,kulupu:tonsi,kulupu:tonsi
 Q7034358,kulupu:toki pi kulupu toki Kata,kulupu:toki pi kulupu toki Kata
+Q6382478,kulupu:soweli pini,kulupu:soweli pini
+Q240116,ilo Linu Papi,ilo Linu Papi
+Q28970868,lipu Wikipesija pi toki pona,
 Q82312,tomo sewi Kantelalija,
 Q7287174,kulupu:ma tomo pi ma Lesepu,kulupu:ma tomo pi ma Lesepu
 Q6992946,kulupu:jan pi ma Lajo,kulupu:jan pi ma Lajo
@@ -4902,8 +4933,8 @@ Q7217200,kulupu:toki pi kulupu toki Osonesija,kulupu:toki pi kulupu toki Osonesi
 Q14357839,Module:sona kipisi,Module:sona kipisi
 Q3630438,lipu Pali,lipu Pali
 Q6310418,kulupu:kulupu lipu pi toki Epanja,kulupu:kulupu lipu pi toki Epanja
-Q10892534,jan sewi Jakusanoikasusi,
 Q280608,jan Ton Ponpasi,jan Ton Ponpasi
+Q10892534,jan sewi Jakusanoikasusi,
 Q7031247,kulupu:jan pi ma Pelu,kulupu:jan pi ma Pelu
 Q2731177,ijo Konso,ijo Konso
 Q11442793,kon Amatukami en Kunitukami,
@@ -4911,60 +4942,66 @@ Q114946753,tenpo alasa,
 Q713100,jan sewi Amenopipoko,
 Q5826993,kipisi:sina sona ala sona?,kipisi:sina sona ala sona?
 Q242099,utala 918,utala 918
-Q6307162,kulupu:jan pi pana moli,kulupu:jan pi pana moli
 Q9042228,kulupu:toki pi kulupu toki Nise-Konko,kulupu:toki pi kulupu toki Nise-Konko
 Q7069239,kulupu:ma Wanuwatu,kulupu:ma Wanuwatu
+Q6307162,kulupu:jan pi pana moli,kulupu:jan pi pana moli
 Q16914835,Module:String2,Module:String2
 Q74835210,nimi #2 li ante e nimi #1,
 Q10939616,jan sewi Amenosipi,
+Q4046338,ilo Pelumun,ilo Pelumun
 Q12356226,kama kulupu suli pi toki Epelanto lon tenpo sike 2015,
 Q299092,nimi Pali,nimi Pali
 Q34870,Lusepu,Lusepu
 Q958363,jelo pan,jelo pan
 Q387348,sitelen tawa pi jan Tawe en soweli kalama lili,sitelen tawa pi jan Tawe en soweli kalama lili
-Q5147714,ilo Kasane Teto,ilo Kasane Teto
 Q7137306,kulupu:tenpo sike 2024,kulupu:tenpo sike 2024
+Q52156583,jan Sise Ken Tinke,
+Q99658928,soweli Makawa,
+Q5147714,ilo Kasane Teto,ilo Kasane Teto
 Q15729661,kama kulupu suli pi toki Epelanto lon tenpo sike 1937,
 Q1123960,ma Kansi,ma Kansi
 Q510666,moku pan Nasi Kolen,moku pan Nasi Kolen
 Q7030594,kulupu:jan pi ma Aja,kulupu:jan pi ma Aja
 Q6115544,kulupu:mun Satunu,kulupu:mun Satunu
-Q5410454,kipisi:linja sewi,kipisi:linja sewi
 Q1052938,ma Iki pi ma Nijon,
-Q95724881,jan Kipi Ma,
+Q5410454,kipisi:linja sewi,kipisi:linja sewi
 Q7214963,kulupu:ma Asija pi pini suno,kulupu:ma Asija pi pini suno
+Q95724881,jan Kipi Ma,
 Q8013220,kulupu:ma tomo pi ma Esalasi,kulupu:ma tomo pi ma Esalasi
-Q2670845,kijetesantakalu,
 Q36115,toki Monsa,
-Q7987062,kulupu:jan lawa pi ma Soson,kulupu:jan lawa pi ma Soson
 Q6482558,kulupu:moli jan lon ma Sonko,kulupu:moli jan lon ma Sonko
+Q7987062,kulupu:jan lawa pi ma Soson,kulupu:jan lawa pi ma Soson
+Q2670845,kijetesantakalu,kijetesantakalu
 Q20117554,jan Tewi Pasuki,jan Tewi Pasuki
 Q11304722,jan sewi mije Sata,
 Q12568,nasin Makina lon sewi telo,nasin Makina lon sewi telo
 Q27205786,kulupu:ma tomo pi ma Sasinja,kulupu:ma tomo pi ma Sasinja
 Q3565084,toki luka Elina,
-Q17458,lipu Nupesija,lipu Nupesija
 Q487364,lipu Anaten,lipu Anaten
-Q6097697,kulupu:utala lete,kulupu:utala lete
+Q17458,lipu Nupesija,lipu Nupesija
 Q6480858,kulupu:toki pi kulupu toki Papa Nijunkan,kulupu:toki pi kulupu toki Papa Nijunkan
+Q6097697,kulupu:utala lete,kulupu:utala lete
 Q3594052,tomo sewi Osukanon,
 Q666678,jan Tanije Ewewe,
 Q97269314,jan Wisen Kotalako,jan Wisen Kotalako
 Q6884936,kulupu:ma Kinejekatolija,kulupu:ma Kinejekatolija
 Q1425332,jan lili pi ma kasi,jan lili pi ma kasi
 Q8894096,kulupu:tenpo seli,kulupu:tenpo seli
+Q24852305,jan Kisi Oloso,
 Q153630,toki Jeki,toki Jeki
-Q1483957,jan sewi pusin,
-Q25591435,jan pi ma End,
 Q2986204,lipu Atakata,lipu Atakata
 Q1206847,sitelen pi ilo telo tan jan Mase Tusan,sitelen pi ilo telo tan jan Mase Tusan
-Q9899472,kulupu:pali,kulupu:pali
 Q5612555,kipisi:tan sona la pini,kipisi:tan sona la pini
+Q9899472,kulupu:pali,kulupu:pali
 Q7184619,kulupu:ma Tona,kulupu:ma Tona
-Q571001,lipu Wikipesija pi toki Topisin,
+Q555531,jan Pasi Lo Pe,
+Q555531,jan Pasi Lo Pe,
+Q25591435,jan pi ma End,
+Q1483957,jan sewi pusin,
 Q17193127,jan sewi mije Isetu,
-Q709975,jan Kan Panso,jan Kan Panso
+Q456052,jan Pusasilo Jamalusi,
 Q535120,jan Pani Pali Petaja,jan Pani Pali Petaja
+Q709975,jan Kan Panso,jan Kan Panso
 Q16539,nena ma Sikakon,nena ma Sikakon
 Q8191705,jan sewi meli Iwanaka,
 Q8191878,jan sewi meli Kaja,
@@ -5000,46 +5037,46 @@ Q6927809,toki luka Mosanpi,
 Q6378698,jan sewi meli Mipotu,
 Q2529002,pali tan lawa pi jan ale e ma Sonko,pali tan lawa pi jan ale e ma Sonko
 Q2400750,kulupu Linguasphere,kulupu Linguasphere
-Q1350535,lipu Suwesuwekusa,lipu Suwesuwekusa
-Q11443101,jan Apasisi,
 Q3507995,toki Ajule Ajula,toki Ajule Ajula
+Q11443101,jan Apasisi,
+Q1350535,lipu Suwesuwekusa,lipu Suwesuwekusa
 Q4041183,kama kulupu suli pi toki Epelanto lon tenpo sike 1913,
 Q12356224,kama kulupu suli pi toki Epelanto lon tenpo sike 2013,
-Q96405837,kulupu Sleep Token,kulupu Sleep Token
-Q18542980,jan Sa Sintun,
-Q219561,mije lon meli(sitelen unpa),
 Q6318376,jan Susin Ma,
 Q6985610,kulupu:ma Sasutan,kulupu:ma Sasutan
-Q12352287,jan Moku,
 Q8994728,kulupu:sitelen lili pi nasin sitelen Kililisa,kulupu:sitelen lili pi nasin sitelen Kililisa
 Q8758342,kulupu:jan pi nasin loje,kulupu:jan pi nasin loje
-Q6987580,kulupu:ma kipisi pi ma Utun,kulupu:ma kipisi pi ma Utun
 Q9710534,kulupu:ma tomo pi ma Mewika,kulupu:ma tomo pi ma Mewika
+Q219561,mije lon meli(sitelen unpa),
+Q18542980,jan Sa Sintun,
+Q6987580,kulupu:ma kipisi pi ma Utun,kulupu:ma kipisi pi ma Utun
+Q12352287,jan Moku,
+Q96405837,kulupu Sleep Token,kulupu Sleep Token
 Q95836197,soweli Tuwentuwen,
 Q12356220,kama kulupu suli pi toki Epelanto lon tenpo sike 2009,
 Q103641676,jan Fu Yu,
-Q9090923,jan sewi Upisini en Supisini,
 Q105816257,jan,nimi:jan
 Q11896903,kulupu jan pi pali pi ilo suli en tenpo kama ona (lipu),kulupu jan pi pali pi ilo suli en tenpo kama ona (lipu)
+Q9090923,jan sewi Upisini en Supisini,
 Q7381490,kipisi:o mute,kipisi:o mute
-Q3686966,kama kulupu suli pi toki Epelanto lon tenpo sike 1906,
 Q669102,nasin tenpo pi pali nanpa,
+Q3686966,kama kulupu suli pi toki Epelanto lon tenpo sike 1906,
 Q321697,tomo suli pi nasin Suse,tomo suli pi nasin Suse
 Q385141,tomo sewi suli Kejan,
-Q11105428,jan Lin Sike,
 Q400889,utala,utala
+Q11105428,jan Lin Sike,
 Q6994221,kulupu:jan pi ma Sasali,kulupu:jan pi ma Sasali
 Q60242913,kama kulupu Ijoko lon tenpo sike 2020,
-Q7511448,toki luka Sijelalijon,
-Q7661875,kipisi:ilo musi pi kulupu Nintento,kipisi:ilo musi pi kulupu Nintento
 Q495456,lipu Tatowepa,lipu Tatowepa
+Q7511448,toki luka Sijelalijon,
+Q4115424,kama nanpa wan pi lipu Kulan,kama nanpa wan pi lipu Kulan
+Q7661875,kipisi:ilo musi pi kulupu Nintento,kipisi:ilo musi pi kulupu Nintento
 Q6803111,"sitelen ""mi lon ma soweli""","sitelen ""mi lon ma soweli"""
 Q7214750,nasin noka pi pali nanpa,nasin noka pi pali nanpa
 Q670215,nena ma Wapu,nena ma Wapu
 Q705542,tomo sewi Omiwa,tomo sewi Omiwa
-Q4115424,kama nanpa wan pi lipu Kulan,kama nanpa wan pi lipu Kulan
-Q13417052,kipisi:kipisi nanpa supa,kipisi:kipisi nanpa supa
 Q1105238,pana e pilin ike tawa palisa unpa,pana e pilin ike tawa palisa unpa
+Q13417052,kipisi:kipisi nanpa supa,kipisi:kipisi nanpa supa
 Q15973080,kama kulupu Ijoko lon tenpo sike 2015,
 Q12356175,kama kulupu suli pi toki Epelanto lon tenpo sike 1925,
 Q15729665,kama kulupu suli pi toki Epelanto lon tenpo sike 1931,
@@ -5051,54 +5088,56 @@ Q3915508,toki luka Pelu,
 Q19247635,5621,
 Q7217207,kulupu:toki pi kulupu toki Apika Asija,kulupu:toki pi kulupu toki Apika Asija
 Q2114825,jan Mako Pali,jan Mako Pali
-Q12349081,kama kulupu Ijoko lon tenpo sike 2004,
 Q568377,toki Sensina,toki Sensina
+Q12349081,kama kulupu Ijoko lon tenpo sike 2004,
 Q12715020,toki luka Malakasi,
 Q7975414,kipisi:poki sona kule,kipisi:poki sona kule
 Q12356193,kama kulupu suli pi toki Epelanto lon tenpo sike 1963,
-Q6771157,kulupu:ma kipisi pi ma Losi,kulupu:ma kipisi pi ma Losi
 Q3044525,telo Walawala,telo Walawala
-Q8422010,kulupu:jan pi toki Epelanto,kulupu:jan pi toki Epelanto
 Q697641,lipu musi Anaputa,
+Q6771157,kulupu:ma kipisi pi ma Losi,kulupu:ma kipisi pi ma Losi
+Q8422010,kulupu:jan pi toki Epelanto,kulupu:jan pi toki Epelanto
 Q104787726,kama kulupu Ijoko lon tenpo sike 2022,
-Q97184246,jan sewi Amenowikutama,
 Q15305,nena ma Limisa,nena ma Limisa
+Q97184246,jan sewi Amenowikutama,
 Q7541557,toki luka Lowenki,
-Q6051649,kipisi:ma Pakisan,kipisi:ma Pakisan
 Q57297779,jan Kajetano Kapanije Mata,
+Q6051649,kipisi:ma Pakisan,kipisi:ma Pakisan
 Q97958990,tonsi olin,
 Q12356211,kama kulupu suli pi toki Epelanto lon tenpo sike 1999,
-Q5174901,toki luka Kosalika,
-Q7901470,toki luka Ulukawi,
 Q3438325,toki luka Pokasi,
+Q5174901,toki luka Kosalika,
 Q1810566,tomo lape Pali,tomo lape Pali
-Q7512563,toki luka Sinkapula,
+Q7901470,toki luka Ulukawi,
 Q22013259,lipu Wikipesija pi toki Sinan,
 Q3686967,kama kulupu suli pi toki Epelanto lon tenpo sike 1907,
 Q82352,"musi ""ilo kalama""",
 Q10016750,jan sewi Amenomapitotu,
+Q7512563,toki luka Sinkapula,
 Q33237,kulupu Odo Tenpi Owensi,kulupu Odo Tenpi Owensi
-Q7217198,kulupu:kulupu toki Tawita,kulupu:kulupu toki Tawita
 Q7289641,kulupu:ma lili pi ma Tona,kulupu:ma lili pi ma Tona
-Q7703783,Module:UnitTests,Module:UnitTests
+Q7217198,kulupu:kulupu toki Tawita,kulupu:kulupu toki Tawita
 Q179677,nasin Sapi-Wa,nasin Sapi-Wa
+Q7703783,Module:UnitTests,Module:UnitTests
 Q394541,sitelen Ɓ,sitelen Ɓ
-Q48744862,jan sewi Amenopujukinu,
-Q82850,jan lawa pi ma Inli,jan lawa pi ma Inli
 Q3322093,toki luka Setapika,
 Q3686968,kama kulupu suli pi toki Epelanto lon tenpo sike 1908,
+Q82850,jan lawa pi ma Inli,jan lawa pi ma Inli
+Q48744862,jan sewi Amenopujukinu,
 Q11298796,jan sewi Kumanokusupi,
-Q15256299,kipisi:Ruby,kipisi:Ruby
-Q5859177,kulupu:ma tomo pi ma Nokan Wepalen,kulupu:ma tomo pi ma Nokan Wepalen
-Q6158392,kipisi:nanpa DOI,kipisi:nanpa DOI
-Q8961664,kulupu:toki pi kulupu toki Tupi,kulupu:toki pi kulupu toki Tupi
 Q7142974,kulupu:toki pi ma Mesiko,kulupu:toki pi ma Mesiko
+Q8961664,kulupu:toki pi kulupu toki Tupi,kulupu:toki pi kulupu toki Tupi
+Q6158392,kipisi:nanpa DOI,kipisi:nanpa DOI
+Q5859177,kulupu:ma tomo pi ma Nokan Wepalen,kulupu:ma tomo pi ma Nokan Wepalen
+Q15256299,kipisi:Ruby,kipisi:Ruby
+Q854258,jan Le Tolo,
 Q12356186,kama kulupu suli pi toki Epelanto lon tenpo sike 1951,
 Q12356200,kama kulupu suli pi toki Epelanto lon tenpo sike 1978,
 Q3196221,toki luka Esi,
-Q120429,jasima (kon ante),jasima (kon ante)
 Q7145338,kulupu:ilo Jutu,kulupu:ilo Jutu
+Q120429,jasima (kon ante),jasima (kon ante)
 Q55110641,jan Wena,
+Q2603666,jan Osin Se Jon,
 Q6488022,toki luka Lajo,
 Q40888048,kulupu Gun Violence Archive,
 Q8659379,kipisi:kalama,kipisi:kalama
@@ -5109,12 +5148,11 @@ Q17038844,toki luka Enkon,
 Q12356218,kama kulupu suli pi toki Epelanto lon tenpo sike 2010,
 Q17042984,kama kulupu suli pi toki Epelanto lon tenpo sike 1987,
 Q6127433,toki luka Sameka,
-Q1097227,tu en tu li luka,tu en tu li luka
+Q16674,nena ma Supo,nena ma Supo
 Q1382016,kulupu Pantanko pi kalama musi,kulupu Pantanko pi kalama musi
 Q4709168,toki luka Sipe,
+Q1097227,tu en tu li luka,tu en tu li luka
 Q7680667,ma tomo lili Taman pi tomo sona suli,
-Q16674,nena ma Supo,nena ma Supo
-Q12952667,toki Kuteja,toki Kuteja
 Q104548,jan Kankunijeso,jan Kankunijeso
 Q691533,palisa suno,
 Q35289,toki luka Kana,
@@ -5122,17 +5160,19 @@ Q6744816,toki luka Mata,
 Q112883457,jan pi toki pona,
 Q5911482,kipisi:ma Sajusi,kipisi:ma Sajusi
 Q11168190,pali:VisualEditor,pali:ilo WisuwaEsita
+Q168495,jan Pokela Ewapi,
 Q7142956,kulupu:toki pi ma Mewika,kulupu:toki pi ma Mewika
+Q12952667,toki Kuteja,toki Kuteja
 Q12356219,kama kulupu suli pi toki Epelanto lon tenpo sike 2007,
 Q4533452,sitelen ஏ,sitelen ஏ
 Q93437308,Module:NUMBEROF,Module:NUMBEROF
-Q215940,jan sewi Kopi,jan sewi Kopi
-Q7214671,kulupu:ma tomo pi ma Tansanija,kulupu:ma tomo pi ma Tansanija
-Q8234322,kulupu:telo nasa,kulupu:telo nasa
 Q6994361,kulupu:jan pi ma Ukanta,kulupu:jan pi ma Ukanta
+Q215940,jan sewi Kopi,jan sewi Kopi
 Q8777060,kulupu:ma tomo pi ma Sonko,kulupu:ma tomo pi ma Sonko
 Q87766827,kulupu:jaki Kolona pi tenpo sike 2019,kulupu:jaki Kolona pi tenpo sike 2019
+Q7214671,kulupu:ma tomo pi ma Tansanija,kulupu:ma tomo pi ma Tansanija
 Q30397,nena ma Noten,nena ma Noten
+Q8234322,kulupu:telo nasa,kulupu:telo nasa
 Q33742793,kama kulupu suli pi toki Epelanto lon tenpo sike 2019,
 Q5192046,toki luka Kupa,
 Q3270544,jan sewi Omonoimi,
@@ -5146,38 +5186,38 @@ Q6808627,kulupu:ma Owekan,kulupu:ma Owekan
 Q366373,jan Li Onsi,jan Li Onsi
 Q75530225,jan Nicholas Strelley,
 Q12356217,kama kulupu suli pi toki Epelanto lon tenpo sike 2008,
-Q2177430,tenpo pini pi ma Pisi,tenpo pini pi ma Pisi
 Q4850824,kipisi wile pi ma tomo Pali lili,kipisi wile pi ma tomo Pali lili
-Q7294641,jan Wa Pawaka,
+Q2177430,tenpo pini pi ma Pisi,tenpo pini pi ma Pisi
 Q1344143,tenpo pini pi ma Tansanija,tenpo pini pi ma Tansanija
 Q2909283,toki Pola,toki Pola
+Q7294641,jan Wa Pawaka,
 Q16729001,jan Makipije,
 Q1254775,jan Talolupa Mijunowi,jan Takolu Misunowisi
 Q17484614,kama kulupu suli pi toki Epelanto lon tenpo sike 2016,
 Q64213715,tawa ma Kumano lon tebpo sike nanpa 2019,
 Q82306,toki sewi ike la utala lawa pi jan Asija-Nolin,
 Q5772665,ma suli seli,ma suli seli
+Q153427,ma lili Pola,
+Q6091500,ona,
 Q58372003,sitelen pona,sitelen pona
 Q5407771,kipisi:toki ilo,kipisi:toki ilo
-Q153427,ma lili Pola,
-Q7146775,kulupu:ma kipisi pi ma Oselija,kulupu:ma kipisi pi ma Oselija
 Q10553143,kipisi:hlist,kipisi:hlist
-Q6091500,ona,
+Q7146775,kulupu:ma kipisi pi ma Oselija,kulupu:ma kipisi pi ma Oselija
 Q15973062,kama kulupu Ijoko lon tenpo sike 2010,
 Q12356181,kama kulupu suli pi toki Epelanto lon tenpo sike 1933,
 Q10940767,jan sewi Amanomisine,
 Q7033021,toki luka Naselija,
+Q10939047,jan sewi Amenotokotasi,
 Q526046,luka pi mu musi,luka pi mu musi
+Q23007299,kulupu Wintekatan,kulupu Wintekatan
 Q28034971,jan Sowan Mantani,jan Sowan Mantani
 Q28822930,jan Tuwan Pali,jan Tuwan Pali
-Q10939047,jan sewi Amenotokotasi,
-Q23007299,kulupu Wintekatan,kulupu Wintekatan
 Q4817854,ko pan Ata,ko pan Ata
 Q7127502,kipisi wile pi ma tomo Pali suli,kipisi wile pi ma tomo Pali suli
-Q78522641,pali suli,
-Q19263139,8768,
-Q16221516,jan David J. Peterson,jan David J. Peterson
 Q696077,lipu Jonlotaten,lipu Jonlotaten
+Q16221516,jan David J. Peterson,jan Tawi Je Piteson
+Q19263139,8768,
+Q78522641,pali suli,
 Q542463,"kulupu nimi ""jan sewi en lawa mi""","kulupu nimi ""jan sewi en lawa mi"""
 Q3501903,toki luka Isijopija,
 Q4841432,ma tomo Pakan Tatu,ma tomo Pakan Tatu
@@ -5188,13 +5228,13 @@ Q2097128,jan Pi Kasen,jan Pi Kasen
 Q4592157,nasin ilo:tomo toki,nasin ilo:tomo toki
 Q2945759,kulupu:tawa ma,kulupu:tawa ma
 Q6763243,jan Malijeta Pali,jan Malijeta Pali
-Q3303418,jan Mete,
-Q6421488,kulupu:ma kipisi pi ma Malasija,kulupu:ma kipisi pi ma Malasija
-Q8848888,kulupu:musi Mape,kulupu:musi Mape
 Q1140110,James while John had had had had had had had had had had had a better effect on the teacher,linja pi toki Inli “James while John had had had had had had had had had had had a better effect on the teacher”
+Q3303418,jan Mete,
+Q8848888,kulupu:musi Mape,kulupu:musi Mape
+Q6421488,kulupu:ma kipisi pi ma Malasija,kulupu:ma kipisi pi ma Malasija
 Q12356223,kama kulupu suli pi toki Epelanto lon tenpo sike 2011,
-Q3924541,ma lili Katalo,
 Q3322073,toki luka Alensina,
+Q3924541,ma lili Katalo,
 Q3322112,toki luka Sile,
 Q12872953,jan Anseliki Pali,jan Anseliki Pali
 Q6587101,kulupu:tomo sewi pi nasin sewi Sinto,kulupu:tomo sewi pi nasin sewi Sinto
@@ -5203,24 +5243,24 @@ Q15973037,kama kulupu Ijoko lon tenpo sike 1986,
 Q15973045,kama kulupu Ijoko lon tenpo sike 1991,
 Q6822540,kipisi:telo suli,kipisi:telo suli
 Q110120205,jan sewi Amenomikutalu,
-Q106997185,ma lili Sasali,
 Q3146708,kama kulupu Ijoko lon tenpo sike 2005,
+Q106997185,ma lili Sasali,ma kipisi Sasali
 Q15973039,kama kulupu Ijoko lon tenpo sike 1988,
 Q12356207,kama kulupu suli pi toki Epelanto lon tenpo sike 1983,
 Q12356191,kama kulupu suli pi toki Epelanto lon tenpo sike 1959,
 Q23486479,soweli Kaposu,
 Q36885,toki luka Tuki,
 Q3507506,toki luka Lowasi,
-Q12587400,jan Kin Minso,jan Kin Minso
 Q12349077,kama kulupu Ijoko lon tenpo sike 1995,
+Q12587400,jan Kin Minso,jan Kin Minso
 Q5290820,toki luka Tominika,
 Q12349058,kama kulupu Ijoko lon tenpo sike 1973,
 Q12356214,kama kulupu suli pi toki Epelanto lon tenpo sike 2002,
 Q20523999,toki luka Lowensina,
-Q917695,kulupu jan Sensine,kulupu jan Sensine
-Q8566343,kulupu:toki pi kulupu Jejusi,kulupu:toki pi kulupu Jejusi
 Q8876988,kulupu:toki pi kulupu toki Asi,kulupu:toki pi kulupu toki Asi
 Q10728910,Module:pakala,Module:pakala
+Q8566343,kulupu:toki pi kulupu Jejusi,kulupu:toki pi kulupu Jejusi
+Q917695,kulupu jan Sensine,kulupu jan Sensine
 Q12349052,kama kulupu Ijoko lon tenpo sike 1965,
 Q3436654,toki luka Isilan,
 Q73767,waso lipu,waso lipu
@@ -5228,32 +5268,32 @@ Q7014828,kulupu:nasin sewi Masu,kulupu:nasin sewi Masu
 Q82356,kala Winta,
 Q12356215,kama kulupu suli pi toki Epelanto lon tenpo sike 2003,
 Q3915466,toki luka Lanka,
-Q186916,tenpo pini pi ma Loma la nasin tenpo,tenpo pini pi ma Loma la nasin tenpo
-Q2172949,jan Kuto Eso,
 Q7029828,kulupu:jan pi ma Tona,kulupu:jan pi ma Tona
+Q2172949,jan Kuto Eso,
+Q186916,tenpo pini pi ma Loma la nasin tenpo,tenpo pini pi ma Loma la nasin tenpo
 Q23736,ilo Palison,ilo Palison
-Q714658,jan Li Sesu,jan Li Sesu
 Q56876453,jan Pensa,
+Q714658,jan Li Sesu,jan Li Sesu
 Q66323219,jan Kesen Makala,jan Kesen Makala
 Q15973075,kama kulupu Ijoko lon tenpo sike 2013,
 Q15621953,kama kulupu Ijoko lon tenpo sike 2014,
 Q12356206,kama kulupu suli pi toki Epelanto lon tenpo sike 1982,
 Q5348443,toki luka Masu,
-Q6391412,kulupu:User bm,kulupu:User bm
 Q1945341,jan monsuta pi ma tomo Pilense,jan monsuta pi ma tomo Pilense
+Q6391412,kulupu:User bm,kulupu:User bm
 Q18564118,kama kulupu Ijoko lon tenpo sike 2016,
 Q12356216,kama kulupu suli pi toki Epelanto lon tenpo sike 2005,
 Q12349061,kama kulupu Ijoko lon tenpo sike 1975,
 Q645795,jan Emanijujo Kotan,jan Emanijujo Kotan
-Q90150156,kama kulupu suli pi toki Epelanto lon tenpo sike 2022,
 Q11073597,jan sewi Otonosi en Otonope,
-Q749371,sitelen Te,sitelen Te
 Q8700766,kulupu:kulupu jan Sami,kulupu:kulupu jan Sami
+Q749371,sitelen Te,sitelen Te
+Q90150156,kama kulupu suli pi toki Epelanto lon tenpo sike 2022,
 Q12349045,kama kulupu Ijoko lon tenpo sike 1952,
 Q15973069,kama kulupu Ijoko lon tenpo sike 2011,
 Q4386110,sike kiwen pi mani Peni 50 pi ma Juke,sike kiwen pi mani Peni 50 pi ma Juke
-Q1107778,ma telo Wija,ma lili Wija
 Q3737973,jan Papisijo Katanija,
+Q1107778,ma telo Wija,ma lili Wija
 Q7467564,kulupu:ta-0,kulupu:ta-0
 Q12349072,kama kulupu Ijoko lon tenpo sike 1992,
 Q203041,ma Pojola,ma Pojola
@@ -5266,8 +5306,8 @@ Q12349082,kama kulupu Ijoko lon tenpo sike 2007,
 Q12356222,kama kulupu suli pi toki Epelanto lon tenpo sike 2012,
 Q12349071,kama kulupu Ijoko lon tenpo sike 1987,
 Q35783,toki Litepa,toki Litepa
-Q25714577,Module:WikidataIB,Module:WikidataIB
 Q3162245,toki Kuluka,toki Kuluka
+Q25714577,Module:WikidataIB,Module:WikidataIB
 Q87340386,kama kulupu Ijoko lon tenpo sike 2021,
 Q7877677,toki luka Ukanta,
 Q17043218,kama kulupu suli pi toki Epelanto lon tenpo sike 2004,
@@ -5294,45 +5334,45 @@ Q12356221,kama kulupu suli pi toki Epelanto lon tenpo sike 2006,
 Q86734749,jan sewi Kusijatama,
 Q116026336,jan sewi meli Kajakitu,
 Q7454636,ma tomo Seli Mansun,ma tomo Seli Mansun
-Q3239254,ma tomo Pesi,
 Q8488891,kulupu:toki Katelo,kulupu:toki Katelo
 Q4262825,esun Intoma,esun Intoma
+Q3239254,ma tomo Pesi,
 Q15973033,kama kulupu Ijoko lon tenpo sike 1984,
 Q18335820,linja pi len lili sike,linja pi len lili sike
 Q12356225,kama kulupu suli pi toki Epelanto lon tenpo sike 2014,
 Q12356213,kama kulupu suli pi toki Epelanto lon tenpo sike 2001,
-Q7709156,toki luka Tawi,
 Q6921402,kipisi:ma Ilaka,kipisi:ma Ilaka
 Q6907952,kulupu:telo suli Kalipi,kulupu:telo suli Kalipi
+Q7709156,toki luka Tawi,
 Q12349073,kama kulupu Ijoko lon tenpo sike 1993,
 Q19724453,kama kulupu suli pi toki Epelanto lon tenpo sike 2017,
 Q108039939,jan sewi suli Kusimasi,
 Q221385,nanpa pi sona lon toki lon Elopa,nanpa pi sona lon toki lon ma Elopa
 Q2531930,sitelen tawa Ulutolaman Teka,sitelen tawa Ulutolaman Teka
-Q14665,utala pi waso Imu,utala pi waso Imu
-Q224086,ma lili Kajolawe,ma lili Kajolawe
-Q835645,jan Leke,jan Leke
 Q9096136,kulupu:toki pi lipu sewi Kulan,kulupu:toki pi lipu sewi Kulan
 Q8442179,kulupu:sinpin lawa,kulupu:sinpin lawa
 Q534191,toki pi ma Epanja,toki pi ma Epanja
+Q835645,jan Leke,jan Leke
+Q14665,utala pi waso Imu,utala pi waso Imu
+Q224086,ma lili Kajolawe,ma lili Kajolawe
 Q47393489,kama kulupu Ijoko lon tenpo sike 2019,
 Q55522907,jan sewi Jasimasinumi,
 Q55639812,kulupu toki Konsi,kulupu toki Konsi
-Q6740789,kulupu:ma kipisi pi ma Wasintan,kulupu:ma kipisi pi ma Wasintan
 Q15117218,Module:Category handler,Module:Category handler
+Q6740789,kulupu:ma kipisi pi ma Wasintan,kulupu:ma kipisi pi ma Wasintan
 Q12349051,kama kulupu Ijoko lon tenpo sike 1966,
 Q12349068,kama kulupu Ijoko lon tenpo sike 1979,
 Q108885142,kalama sin,
 Q15972976,kama kulupu Ijoko lon tenpo sike 1951,
-Q108617357,lipu ku,lipu ku
 Q17043018,kama kulupu suli pi toki Epelanto lon tenpo sike 1991,
 Q15729644,kama kulupu suli pi toki Epelanto lon tenpo sike 1927,
+Q108617357,lipu ku,lipu ku
 Q11581794,jan sewi Napinokami,
 Q5906889,kipisi:',kipisi:'
+Q109093862,jan Seton,
+Q4120852,jan Wisa Sen Wikinson,jan Wisa Sen Wikinson
 Q6993516,kulupu:jan pi ma Wasikano,kulupu:jan pi ma Wasikano
 Q116041659,jan Niwasama,jan Niwasama
-Q4120852,jan Wisa Sen Wikinson,jan Wisa Sen Wikinson
-Q109093862,jan Seton,
 Q109901865,jan Juli,
 Q12356202,kama kulupu suli pi toki Epelanto lon tenpo sike 1976,
 Q17042958,kama kulupu suli pi toki Epelanto lon tenpo sike 1973,
@@ -5349,17 +5389,17 @@ Q2314240,toki Intekosa,
 Q12349062,kama kulupu Ijoko lon tenpo sike 1974,
 Q12356192,kama kulupu suli pi toki Epelanto lon tenpo sike 1961,
 Q15729865,kama kulupu suli pi toki Epelanto lon tenpo sike 1962,
+Q4334793,sitelen ஒ,sitelen ஒ
+Q4468769,sitelen ஊ,sitelen ஊ
 Q12349059,kama kulupu Ijoko lon tenpo sike 1972,
 Q12349049,kama kulupu Ijoko lon tenpo sike 1956,
 Q38276815,jan sewi meli Sasikuniwaka,
 Q24890758,kulupu Crowdstrike,kulupu Crowdstrike
-Q4334793,sitelen ஒ,sitelen ஒ
-Q4468769,sitelen ஊ,sitelen ஊ
-Q4414390,jan Li Sijan,jan Li Sijan
-Q6911560,kulupu:kulupu Piten pi ma lili,kulupu:kulupu Piten pi ma lili
 Q1342448,lipu Enkisiki,
+Q4414390,jan Li Sijan,jan Li Sijan
 Q12349076,kama kulupu Ijoko lon tenpo sike 1994,
 Q521688,"lipu ""tomo pi lipu kasi""","lipu ""tomo pi lipu kasi"""
+Q6911560,kulupu:kulupu Piten pi ma lili,kulupu:kulupu Piten pi ma lili
 Q15983937,toki luka Kine,
 Q15973025,kama kulupu Ijoko lon tenpo sike 1970,
 Q12349047,kama kulupu Ijoko lon tenpo sike 1948,
@@ -5372,8 +5412,8 @@ Q15729862,kama kulupu suli pi toki Epelanto lon tenpo sike 1957,
 Q15729864,kama kulupu suli pi toki Epelanto lon tenpo sike 1960,
 Q12349054,kama kulupu Ijoko lon tenpo sike 1962,
 Q3138713,toki Iju,toki Iju
-Q3264315,toki Lokoso,toki Lokoso
 Q7853191,toki luka Tunisi,
+Q3264315,toki Lokoso,toki Lokoso
 Q48759713,jan sewi Kuninotosimi,
 Q213105,sitelen Pijan en pan Pijan,pan linja Pijan
 Q7215427,kulupu:selo pi palisa mute,kulupu:selo pi palisa mute
@@ -5384,34 +5424,34 @@ Q2749231,ISO 9984,ISO 9984
 Q12953478,toki luka Motowa,
 Q84865505,jan sewi Upisini,
 Q24899653,jan sewi Amenotomi,
-Q6913107,toki luka Malipe,
 Q108929620,uta monsuta,
 Q3274052,nasa Takete-Maluma,nasa Takete-Maluma
 Q659644,toki Sanpasa,
 Q7237519,kulupu:toki sin lon ma meso pi jan Tokin,kulupu:toki sin lon ma meso pi jan Tokin
-Q8251773,kulupu:toki pi kulupu toki Antaman,kulupu:toki pi kulupu toki Antaman
 Q12349074,kama kulupu Ijoko lon tenpo sike 1998,
+Q8251773,kulupu:toki pi kulupu toki Antaman,kulupu:toki pi kulupu toki Antaman
+Q6913107,toki luka Malipe,
 Q12349050,kama kulupu Ijoko lon tenpo sike 1958,
 Q12349046,kama kulupu Ijoko lon tenpo sike 1950,
 Q12349060,kama kulupu Ijoko lon tenpo sike 1978,
-Q15972984,kama kulupu Ijoko lon tenpo sike 1953,
-Q6961792,toki luka Namipija,
-Q849155,pana sona lon ma Soson,pana sona lon ma Soson
 Q55522639,jan sewi meli Tolinalumi,
 Q84864895,jan sewi Omotalu,
 Q5966692,jan sewi suli Kuninosatusi,
 Q690158,"toki ""Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo""","linja pi toki Inli ""Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo"""
+Q15972984,kama kulupu Ijoko lon tenpo sike 1953,
+Q849155,pana sona lon ma Soson,pana sona lon ma Soson
+Q6961792,toki luka Namipija,
 Q7284347,kulupu:ilo musi pi kulupu Nintento,kulupu:ilo musi pi kulupu Nintento
 Q7130638,kulupu:ma Nikalawa,kulupu:ma Nikalawa
 Q25475126,kama kulupu Ijoko lon tenpo sike 2017,
-Q84868574,jan sewi Otonope,
+Q4469170,ma tomo Ulini,ma tomo Ulini
 Q15729659,kama kulupu suli pi toki Epelanto lon tenpo sike 1938,
 Q12356176,kama kulupu suli pi toki Epelanto lon tenpo sike 1926,
 Q12356177,kama kulupu suli pi toki Epelanto lon tenpo sike 1923,
-Q4469170,ma tomo Ulini,ma tomo Ulini
+Q84868574,jan sewi Otonope,
 Q391699,ma telo Sipan,ma telo Sipan
-Q1260331,ma telo Sensine lete,ma pi kulupu Sensine
 Q22708720,jan Tewi A. Tewi,jan Tewi A. Tewi
+Q1260331,ma telo Sensine lete,ma pi kulupu Sensine
 Q7406492,toki luka Esawato,
 Q1178505,toki Sanko,toki Sanko
 Q115567508,soweli pi ko nasa,soweli pi ko nasa
@@ -5420,47 +5460,50 @@ Q12356188,kama kulupu suli pi toki Epelanto lon tenpo sike 1947,
 Q26207022,kama kulupu suli pi toki Epelanto lon tenpo sike 2018,
 Q4475602,sitelen உ,sitelen உ
 Q12244504,ma lili ale pi nasin Provincia lon ma Italija,
-Q6090776,pali:tomo pi toki ante,pali:tomo pi toki ante
 Q17347224,Module:Category handler/shared,Module:Category handler/shared
+Q6090776,pali:tomo pi toki ante,pali:tomo pi toki ante
 Q3915511,toki luka Mesiko,
 Q12349048,kama kulupu Ijoko lon tenpo sike 1954,
 Q15973018,kama kulupu Ijoko lon tenpo sike 1968,
 Q15972996,kama kulupu Ijoko lon tenpo sike 1957,
-Q1134926,lipu Wasijemensi,lipu Wasijemensi
+Q5201809,toki luka Seki,
+Q33742042,kama kulupu suli pi toki Epelanto lon tenpo sike 2020,
 Q15973042,kama kulupu Ijoko lon tenpo sike 1989,
 Q12349053,kama kulupu Ijoko lon tenpo sike 1963,
 Q15973043,kama kulupu Ijoko lon tenpo sike 1990,
-Q1376869,kulupu pi pana mani pi ma Elopa,
-Q5201809,toki luka Seki,
-Q33742042,kama kulupu suli pi toki Epelanto lon tenpo sike 2020,
+Q1134926,lipu Wasijemensi,lipu Wasijemensi
 Q7144833,kulupu:sitelen tawa pi kalama musi,kulupu:sitelen tawa pi kalama musi
 Q12349078,kama kulupu Ijoko lon tenpo sike 1996,
+Q107341816,jan Nasija Ekasu,
+Q1376869,kulupu pi pana mani pi ma Elopa,
+Q6740693,toki Mala Malasa,
+Q12490576,kulupu esun Pali Posi,kulupu esun Pali Posi
 Q2187749,lipu pi ma lawa,lipu pi ma lawa
+Q114878222,jan Asalija,
 Q15972992,kama kulupu Ijoko lon tenpo sike 1955,
 Q12349065,kama kulupu Ijoko lon tenpo sike 1981,
 Q17042973,kama kulupu suli pi toki Epelanto lon tenpo sike 1979,
 Q17043043,kama kulupu suli pi toki Epelanto lon tenpo sike 1997,
 Q15729691,kama kulupu suli pi toki Epelanto lon tenpo sike 1952,
-Q97671005,musi Kimi Ga Shine,musi Kimi Ga Shine
 Q15949077,linluwi lon ma Kanpusi lon ma Tawi,
 Q3322064,toki luka Penesuwela,
-Q12490576,kulupu esun Pali Posi,kulupu esun Pali Posi
-Q6740693,toki Mala Malasa,
+Q97671005,musi Kimi Ga Shine,musi Kimi Ga Shine
+Q1309255,ma telo Lipuka,ma lili Lipuka
 Q7852806,kalama musi Tuna Tuna Tun,kalama musi Tuna Tuna Tun
 Q209017,tomo nanpa 1 lon nasin Wall,tomo nanpa 1 lon nasin Wall
-Q1309255,ma telo Lipuka,ma lili Lipuka
-Q114878222,jan Asalija,
-Q58372017,sitelen sitelen,sitelen sitelen
 Q9665,kule Pali pi soweli Peli Katu,kule Pali pi soweli Peli Katu
-Q6587227,kulupu:User rue,kulupu:User rue
 Q2713618,toki Ajuwi,toki Ajuwi
+Q58372017,sitelen sitelen,sitelen sitelen
+Q1159072,jan Tan Kane,
+Q6587227,kulupu:User rue,kulupu:User rue
 Q12356179,kama kulupu suli pi toki Epelanto lon tenpo sike 1932,
 Q15729866,kama kulupu suli pi toki Epelanto lon tenpo sike 1965,
 Q12349042,kama kulupu Ijoko lon tenpo sike 1939,
-Q106059562,soweli Maja,
 Q846329,nanpa 142857,nanpa 142857
 Q20966915,Module:wawa kule/kule,Module:wawa kule/kule
 Q725591,nena Pasasisi,nena Pasasisi
+Q90041365,jan Lajan Wesin,
+Q106059562,soweli Maja,
 Q12349043,kama kulupu Ijoko lon tenpo sike 1947,
 Q17043006,kama kulupu suli pi toki Epelanto lon tenpo sike 1989,
 Q15729681,kama kulupu suli pi toki Epelanto lon tenpo sike 1954,
@@ -5470,30 +5513,32 @@ Q17042938,kama kulupu suli pi toki Epelanto lon tenpo sike 1969,
 Q12356203,kama kulupu suli pi toki Epelanto lon tenpo sike 1984,
 Q4053365,kama kulupu suli pi toki Epelanto lon tenpo sike 1914,
 Q11574224,jan sewi Mikapajapino,
-Q1839277,soweli Ponsi,soweli Ponsi
-Q1502978,ma tomo lili Tuse,ma tomo lili Tuse
 Q777974,toki Lokutolo,
-Q2886781,toki luka Katemala,
-Q8639313,kulupu:monsuta,kulupu:monsuta
+Q1502978,ma tomo lili Tuse,ma tomo lili Tuse
 Q3595610,ma Tonpe,
 Q1177254,jan Tewi Ota,jan Tewi Ota
+Q8639313,kulupu:monsuta,kulupu:monsuta
+Q2886781,toki luka Katemala,
+Q203927,jan Pate Petnan,
+Q1839277,soweli Ponsi,soweli Ponsi
+Q1358851,ma Sansun,ma Sansun
 Q12356210,kama kulupu suli pi toki Epelanto lon tenpo sike 1992,
 Q12356197,kama kulupu suli pi toki Epelanto lon tenpo sike 1971,
-Q1358851,ma Sansun,ma Sansun
-Q585048,nena ma Lapa,nena ma Lapa
-Q7362575,toki luka Lomani,
 Q65266248,jan sewi Pupanomosikunusunu,
-Q11142832,jan sewi meli Nunakawa,
+Q7362575,toki luka Lomani,
+Q585048,nena ma Lapa,nena ma Lapa
 Q10233595,kulupu:en-GB-N,kulupu:en-GB-N
 Q6333691,kulupu:tok-2,kulupu:tok-2
+Q11142832,jan sewi meli Nunakawa,
+Q27950295,jan Jakelin Mepi,
 Q12349083,kama kulupu Ijoko lon tenpo sike 2008,
 Q17043031,kama kulupu suli pi toki Epelanto lon tenpo sike 1993,
 Q17043051,kama kulupu suli pi toki Epelanto lon tenpo sike 1998,
 Q12356201,kama kulupu suli pi toki Epelanto lon tenpo sike 1977,
 Q15729682,kama kulupu suli pi toki Epelanto lon tenpo sike 1953,
 Q12356171,kama kulupu suli pi toki Epelanto lon tenpo sike 1921,
-Q7133779,lipu Anupitaka,lipu Anupitaka
 Q11064932,lipu pi tomo sewi lon Enkisiki,
+Q7133779,lipu Anupitaka,lipu Anupitaka
 Q1961602,lipu pi kalama musi Kino,lipu pi kalama musi Kino
 Q6483597,kulupu:tenpo lete,kulupu:tenpo lete
 Q6625462,meli Kikijete,
@@ -5507,12 +5552,12 @@ Q4200475,sitelen இ,sitelen இ
 Q3273355,nasin misikeke Sita,nasin misikeke Sita
 Q56347882,jan sewi meli Tamalu,
 Q15973048,kama kulupu Ijoko lon tenpo sike 2000,
-Q11144612,jan sewi Nakisawame,
 Q6392859,toki luka Kenja,
+Q11144612,jan sewi Nakisawame,
 Q1331510,jan Eke Ka,jan Eke Ka
 Q6211163,kulupu:ma kipisi pi ma Inli,kulupu:ma kipisi pi ma Inli
-Q6158655,kulupu:kulupu pi nasin loje,kulupu:kulupu pi nasin loje
 Q8825523,kulupu:User jbo,kulupu:User jbo
+Q6158655,kulupu:kulupu pi nasin loje,kulupu:kulupu pi nasin loje
 Q9352644,jan Simon Oloja,jan Simon Oloja
 Q4571496,jan utala li lanpan e lawa pi ma Pasiju lon tenpo sike nanpa 1964,jan utala li anpa e lawa pi ma Pasiju lon tenpo sike nanpa 1964
 Q15973010,kama kulupu Ijoko lon tenpo sike 1960,
@@ -5546,8 +5591,8 @@ Q4053305,kama kulupu suli pi toki Epelanto lon tenpo sike 1920,
 Q12356189,kama kulupu suli pi toki Epelanto lon tenpo sike 1949,
 Q12356204,kama kulupu suli pi toki Epelanto lon tenpo sike 1981,
 Q6645325,kulupu:ma lili pi ma Malasija,kulupu:ma lili pi ma Malasija
-Q6332842,kulupu:tok-3,kulupu:tok-3
 Q8502653,kulupu:tomo sewi pi nasin sewi Siki,kulupu:tomo sewi pi nasin sewi Siki
+Q6332842,kulupu:tok-3,kulupu:tok-3
 Q15973051,kama kulupu Ijoko lon tenpo sike 2002,
 Q3446604,toki luka Aja,
 Q15972972,kama kulupu Ijoko lon tenpo sike 1949,
@@ -5559,11 +5604,11 @@ Q25044405,toki luka Papuwanijukini,
 Q949529,"kulupu nimi ""jan pi wile ike li pilin ike""","kulupu nimi ""jan pi wile ike li pilin ike"""
 Q84868546,jan sewi Otonosi,
 Q8065713,toki luka Sanpija,
-Q11146526,jan sewi Moleja,
 Q384707,toki Apiwili,toki Apiwili
+Q11146526,jan sewi Moleja,
 Q18029366,Module:wawa kule,Module:wawa kule
-Q109628790,jan Ani Wawata,
 Q12349080,kama kulupu Ijoko lon tenpo sike 2001,
+Q109628790,jan Ani Wawata,
 Q12356199,kama kulupu suli pi toki Epelanto lon tenpo sike 1975,
 Q12356209,kama kulupu suli pi toki Epelanto lon tenpo sike 1995,
 Q17044617,kama kulupu suli pi toki Epelanto lon tenpo sike 1966,
@@ -5573,28 +5618,28 @@ Q573260,sitelen pi palisa mama mun,sitelen pi palisa mama mun
 Q84865529,jan sewi Supisini,
 Q106107009,jan sewi Amanami,
 Q2748229,toki luka Kolonpija,
-Q104771220,kalama musi ma ale pi pini tenpo,kalama musi ma ale pi pini tenpo
 Q1520405,ma telo Kajo,ma lili Kajo
-Q5723443,jan Enwi Anta,
-Q28094405,jan Pi Wasu,jan Pi Wasu
+Q104771220,kalama musi ma ale pi pini tenpo,kalama musi ma ale pi pini tenpo
 Q17043013,kama kulupu suli pi toki Epelanto lon tenpo sike 1990,
+Q28094405,jan Pi Wasu,jan Pi Wasu
+Q5723443,jan Enwi Anta,
 Q15973028,kama kulupu Ijoko lon tenpo sike 1971,
 Q64626530,kama kulupu suli pi toki Epelanto lon tenpo sike 2021,
-Q851355,toki Muntolinko,
 Q4330631,sitelen ஓ,sitelen ஓ
-Q1232525,jan Tuwi Tona,jan Tuwi Tona
 Q106614244,ilo Sulon,ilo Sulon
+Q1232525,jan Tuwi Tona,jan Tuwi Tona
 Q15729861,kama kulupu suli pi toki Epelanto lon tenpo sike 1956,
 Q689962,ilo utala Pola,ilo utala Pola
 Q16926560,soweli Juwenjuwen,
-Q606917,toki Nejo,toki Nejo
-Q19967869,Module:Section link,Module:Section link
 Q6548770,kipisi:ma Tona,kipisi:ma Tona
 Q6045135,nasin ilo:poki Table,nasin ilo:poki Table
-Q11681283,jan Palelijo,jan Palelijo
+Q19967869,Module:Section link,Module:Section link
+Q606917,toki Nejo,toki Nejo
 Q8920103,kulupu:ma Kolasun,kulupu:ma Kolasun
+Q11681283,jan Palelijo,jan Palelijo
 Q100235738,tenpo ijo,tenpo ijo
 Q12349079,kama kulupu Ijoko lon tenpo sike 1999,
+Q851355,toki Muntolinko,
 Q111279844,nasin nanpa sitelen Jusisa,nasin nanpa sitelen Jusisa
 Q112245728,toki pona luka,toki pona luka
 Q107133815,kala len laso,kala len laso
@@ -5614,12 +5659,12 @@ Q689134,telo Liwela,
 Q109730554,lipu Oto Tome,lipu Oto Tome
 Q1650556,toki Lo,toki Lo
 Q13613273,Module:Namespace detect,Module:Namespace detect
-Q48745675,jan sewi meli Konopanasilu,
-Q11318771,jan sewi Tunukuwi en Ikukuwi,
 Q2208940,toki Osan,toki Osan
-Q11616915,tomo sewi suli Kikosan,
+Q11318771,jan sewi Tunukuwi en Ikukuwi,
+Q48745675,jan sewi meli Konopanasilu,
 Q1075000,tenpo pini pi ma Tona,tenpo pini pi ma Tona
 Q6920089,nena ma Selete,
+Q11616915,tomo sewi suli Kikosan,
 Q98962795,akesi pi ma End,
 Q8432502,kulupu:toki Ekematula,kulupu:toki Ekematula
 Q423449,sitelen Ȝ,sitelen Ȝ
@@ -5634,13 +5679,13 @@ Q3699867,ma Satonja,
 Q11287276,jan sewi Iwasaku en Nesaku,
 Q10946168,jan sewi Umasijsikapipikosi,
 Q109554669,jan sewi Tenasusi,
-Q5107677,jan Kitopa Pali,jan Kitopa Pali
 Q3551357,toki luka Pilipina,
 Q7842495,toki luka Sinita,
 Q3915496,toki luka Ontula,
 Q11770725,Martin Tychsen,
 Q1155768,ma Molosija,ma Molosija
 Q6266561,kulupu:toki pi kulupu toki Mon-Mijen,kulupu:toki pi kulupu toki Mon-Mijen
+Q5107677,jan Kitopa Pali,jan Kitopa Pali
 Q5928108,jan Sokonsi,jan Sokonsi
 Q641768,toki Elopanto,toki Elopanto
 Q55433882,jan Mewesi Witeka,
@@ -5658,8 +5703,9 @@ Q8831193,kulupu:tok-N,kulupu:tok-N
 Q5884378,kipisi:ma Kana,kipisi:ma Kana
 Q7828713,telo Tuse,telo Tuse
 Q8205483,kulupu:toki Elina,kulupu:toki Elina
-Q16947045,tawa mun Atemi nanpa tu,tawa mun Atemi nanpa tu
 Q77835517,jan Esin li moli ala e ona sama,
+Q2747589,jan Jen Su,
+Q16947045,tawa mun Atemi nanpa tu,tawa mun Atemi nanpa tu
 Q3915492,toki luka Nepalu,
 Q39841,kulupu Studio 54 pi pana weka pi kalama musi,kulupu Studio 54 pi pana weka pi kalama musi
 Q86736058,jan sewi suli Utusipikanasaku,
@@ -5670,31 +5716,33 @@ Q65269923,jan sewi Kinatelinukatapisijowikosini,
 Q65266238,jan sewi punosuno,
 Q3915480,toki luka Lijatuwa,
 Q11775688,toki luka Lipija,
-Q24733825,Module:wd,Module:wd
 Q9146802,kulupu:toki pi kulupu toki kulupu Tupi-Kalani,kulupu:toki pi kulupu toki kulupu Tupi-Kalani
+Q24733825,Module:wd,Module:wd
 Q47165553,jan Lopin,
-Q64015607,ma End,
 Q56279881,"sitelen tawa ""ma tomo Tunpa""","sitelen tawa ""ma tomo Tunpa"""
+Q41702392,Module:i18n,Module:i18n
 Q9231028,kulupu:toki Intelinwe,kulupu:toki Intelinwe
 Q20819963,Module:Fallbacklist,Module:Fallbacklist
-Q24088544,jan Ma Opa,jan Ma Opa
+Q64015607,ma End,
 Q43130092,jan Elin,
-Q41702392,Module:i18n,Module:i18n
+Q24088544,jan Ma Opa,jan Ma Lopa
 Q6793754,toki luka Mowisi,
-Q108617358,lipu ku,
 Q3819315,"sitelen tawa ""utala pi telo linja Peta""",
+Q108617358,lipu ku,
 Q65272471,jan sewi Pukapusinomisujalepana,
 Q6994546,kulupu:jan pi ma Kinejekatolija,kulupu:jan pi ma Kinejekatolija
 Q6333407,kulupu:tl-1,kulupu:tl-1
+Q23707652,jan Mako Otema,
 Q3436769,toki luka Ekato,
 Q1144842,ma telo Nijuwatoputapu,ma lili Nijuwatoputapu
 Q110796235,jan sewi suli Mispokutuomi,
 Q13275856,jan sewi Apasima,
 Q7134698,toki luka Palakawi,
-Q751065,toki Pilasin,toki Pilasin
 Q6179674,kulupu:jaki lili,kulupu:jaki lili
-Q27863072,Module:ante mute,Module:ante mute
+Q5662887,jan Elo won Panu,
 Q7213888,kulupu:telo suli pi ma Amelika lete,kulupu:telo suli pi ma Amelika lete
+Q27863072,Module:ante mute,Module:ante mute
+Q751065,toki Pilasin,toki Pilasin
 Q12349040,kama kulupu Ijoko lon tenpo sike 1938,
 Q322543,kalama musi pi linja utala sama,kalama musi pi linja utala sama
 Q48749523,jan sewi suli Isupajao,
@@ -5703,15 +5751,16 @@ Q24896153,sitelen tawa pi utala nasa,sitelen tawa pi utala nasa
 Q192325,mi pilin la mi lon,mi pilin la mi lon
 Q15977879,Module:Namespace detect/config,Module:Namespace detect/config
 Q1621295,ma telo Iju,ma lili Iju
-Q8783012,kulupu:ma tomo pi ma lili Inan,kulupu:ma tomo pi ma lili Inan
 Q111947460,ilo Bereal,ilo Bereal
 Q115564437,ilo ChatGPT,ilo Sasipisi
+Q8783012,kulupu:ma tomo pi ma lili Inan,kulupu:ma tomo pi ma lili Inan
 Q10900487,jan Liju Pun,
 Q110812745,kama kulupu Ijoko lon tenpo sike 2023,
 Q516145,nena ma Lala,
+Q108861010,lipu open,
 Q86728909,jan sewi suli Mimatupikowiloto,
 Q1414448,ma telo Topuwa,ma lili Topuwa
-Q108861010,lipu open,
+Q42838871,jan Sosin Pepa,
 Q213593,tomo pi ma tomo A Noje,tomo pi ma tomo A Noje
 Q1868135,ma Lokutolo,
 Q11299063,jan sewi Kulamitupa,
@@ -5719,20 +5768,20 @@ Q3504160,toki luka Sajusi,
 Q3915499,toki luka Monko,
 Q11647233,tomo sewi Kanamulawakekatusi,
 Q4850940,ijo musi pi ma Pali,ijo musi pi ma Pali
+Q624287,waso suli Susijokamelu pi ma Alapi,waso suli Susijokamelu pi ma Alapi
 Q1815560,pan kili poki pi ma Italija,pan kili poki pi ma Italija
 Q78437531,mun Sipunsun 2-18,mun Sipunsun 2-18
-Q624287,waso suli Susijokamelu pi ma Alapi,waso suli Susijokamelu pi ma Alapi
-Q6994635,kulupu:jan pi ma Santapiken,kulupu:jan pi ma Santapiken
 Q115468992,toki utala pi lipu walo lon ma Sonko,toki utala pi lipu walo lon ma Sonko
+Q6994635,kulupu:jan pi ma Santapiken,kulupu:jan pi ma Santapiken
 Q266714,nasin Inso,nasin Inso
 Q30935372,jan sewi suli Kamujatatepime,
 Q3194655,ma tomo Kiliwani,
 Q109554668,jan sewi Asinasusi,
 Q48731483,sitelen tawa pi kulupu jan meli lili pi ma nasin tomo Alupi,
-Q17121668,Module:poki poka,Module:poki poka
 Q6481217,kipisi:lipu musi,kipisi:lipu musi
-Q12344956,jan An Usen,jan An Usen
 Q710826,tomo sewi suli Kokato,
+Q17121668,Module:poki poka,Module:poki poka
+Q12344956,jan An Usen,jan An Usen
 Q55533659,jan sewi Amenotutoesine,
 Q12269934,kipisi:ma kipisi pi ma Tona,kipisi:ma kipisi pi ma Tona
 Q110994863,tomo sewi Katoli en tomo sewi Inali,
@@ -5769,16 +5818,16 @@ Q108470470,toki Mini,toki Mini
 Q1069891,nanpa pi sewi pini ala,nanpa pi sewi pini ala
 Q114496074,suno pi jan 80 ale ale ale ale,suno pi jan 80 ale ale ale ale
 Q87502977,sitelen ஔ,sitelen ஔ
+Q10933447,jan sewi Okotosijonokami,
 Q11455406,jan sewi Katakulokusin,
 Q65249081,jan sewi suli Jasinomi,
-Q10933447,jan sewi Okotosijonokami,
-Q2467451,jan Niki Pali,jan Niki Pali
 Q106996869,ma lili Kalula Note Satenja,
 Q6723145,toki luka Maketonija,
+Q2467451,jan Niki Pali,jan Niki Pali
 Q5616441,toki luka Kinepisa,
 Q47522462,toki luka Malawi,
-Q897779,tenpo sike nanpa 1917 la seli suli lon ma tomo Tesaloniki,seli suli pi ma tomo Tesaloniki lon tenpo sike nanpa 1917
 Q8582703,kulupu:mama pi toki sin,kulupu:mama pi toki sin
+Q897779,tenpo sike nanpa 1917 la seli suli lon ma tomo Tesaloniki,seli suli pi ma tomo Tesaloniki lon tenpo sike nanpa 1917
 Q4333474,jan Oku pi ma Molawa,
 Q56350355,jan sewi meli Aisu,
 Q1042239,jan Po Te,
@@ -5790,9 +5839,9 @@ Q15977876,Module:Namespace detect/data,Module:Namespace detect/data
 Q106997093,ma lili Susi Ikesijente,
 Q11185239,12345,
 Q112299937,Hamster & Gretel,
+Q3109629,ma esun pi jan monsuta Kolin,ma esun pi jan monsuta Kolin
 Q21878163,nena Ketatan,nena Ketatan
 Q40083273,sitelen tawa Manka,"sitelen tawa ""sitelen tawa wan pi musi Manka"""
-Q3109629,ma esun pi jan monsuta Kolin,ma esun pi jan monsuta Kolin
 Q66614817,ilo Palasijon,ilo Palasijon
 Q9623855,kulupu:nasin pi kulupu utala,kulupu:nasin pi kulupu utala
 Q12020445,lipu Hovno hoří,
@@ -5803,9 +5852,13 @@ Q11817700,jan Pijo Kise,jan Pijo Kise
 Q6073345,kipisi:ma Konko pi ma tomo Pasawi,kipisi:ma Konko pi ma tomo Pasawi
 Q8253559,kulupu:nasin soweli,kulupu:nasin soweli
 Q18510208,ma tomo Poto San Palo,
+Q23304510,jan Simon Kije,
+Q59557429,jan Luka Pinelo Paten,
+Q83206818,jan Sunsaku Tamija,
 Q30030580,ma tomo Seneke,
 Q6071507,kipisi:ma Utun,kipisi:ma Utun
 Q1116587,ma telo Ano,ma lili Ano
+Q5048600,jan Kesi Waseman,
 Q111024181,tomo sewi Temantensinsa en tomo sewi Inalitaisinsa,
 Q11120574,jan sewi mije Sinetu,
 Q283712,ma telo Tapawi,ma lili Tapawi
@@ -5819,26 +5872,26 @@ Q7479504,kipisi:NUMBEROF,kipisi:NUMBEROF
 Q108870328,lipu kule,lipu kule
 Q110064530,jan sewi Amenomikemosi,
 Q56347860,jan sewi Jatuwakatasukune,
-Q60052550,ma tomo Akila pi tomo lawa,
 Q9700797,kulupu:jan pi toki Intelinwe,kulupu:jan pi toki Intelinwe
+Q60052550,ma tomo Akila pi tomo lawa,
+Q3242219,kulupu Pali Nan,kulupu Pali Nan
 Q70537095,jan sewi suli Kikokamiwake,
-Q11653519,jan sewi Nakasilapanono,
 Q116026335,jan sewi mije Kajakitu,
 Q4740636,jan sewi Amatumikaposi,
-Q3242219,kulupu Pali Nan,kulupu Pali Nan
-Q10000001,jan Tasijana Kolosisikowa,
+Q11653519,jan sewi Nakasilapanono,
 Q96974990,kulupu:ma kipisi pi ma Pasiju,kulupu:ma kipisi pi ma Pasiju
+Q10000001,jan Tasijana Kolosisikowa,
 Q105071451,jan Tani Konsale,jan Tani Konsale
 Q14616289,lipu open:ma Tona,lipu open:ma Tona
 Q25041935,toki luka Luwanta,
-Q109561813,ilo Piwili,
-Q114593218,lipu monsuta,lipu monsuta
-Q63456924,kulupu:ijo,kulupu:ijo
 Q6121252,kulupu:ma tomo pi ma Pilipina,kulupu:ma tomo pi ma Pilipina
+Q63456924,kulupu:ijo,kulupu:ijo
+Q114593218,lipu monsuta,lipu monsuta
+Q109561813,ilo Piwili,
 Q599323,len pi ma Ensi,len pi ma Ensi
 Q65260779,jan sewi Molitasi,
-Q8678677,kulupu:jan pi ma Loma pi tenpo pini,kulupu:jan pi ma Loma pi tenpo pini
 Q17347230,Module:Category handler/blacklist,Module:Category handler/blacklist
+Q8678677,kulupu:jan pi ma Loma pi tenpo pini,kulupu:jan pi ma Loma pi tenpo pini
 Q114601761,lipu pu pi toki Epelanto,
 Q7259245,jan sewi Kanon,
 Q2376772,soweli pan pi ma Jewe,
@@ -5849,31 +5902,32 @@ Q1540742,ma tomo Kaso,ma tomo Kaso
 Q65270244,jan sewi meli Kikawa,
 Q3080480,kulupu Pimeson pi ma Italija,kulupu Pimeson pi ma Italija
 Q91611452,jan Sijo,
+Q8574125,kulupu:ma kipisi Kin,kulupu:ma kipisi Kin
+Q438941,jan Son Pawa Mino,jan Son Pawa Mino
 Q3137449,jan sewi Suisin,
 Q106241395,jan sewi suli Amanosakitama,
 Q60995918,jan sewi suli Katakulape,
 Q753095,lipu Lackadaisy,
 Q115376545,jan Atan Sesi,
 Q14233975,ma Sisi pi jan ala,ma Sisi pi jan ala
-Q438941,jan Son Pawa Mino,jan Son Pawa Mino
-Q8574125,kulupu:ma kipisi Kin,kulupu:ma kipisi Kin
 Q5200493,toki luka Kiposi,
-Q14955,telo Kopola,
 Q2736959,toki Ulopi,toki Ulopi
-Q104154042,ijo pini poka,
+Q14955,telo Kopola,
 Q106241380,jan sewi suli pulutama,
-Q1098028,unpa pi palisa unpa tu,unpa pi palisa unpa tu
 Q185401,kule Pali pi soweli Pantela Siki Sontawika,kule Pali pi soweli Pantela Siki Sontawika
 Q6181769,kulupu:ma pi nasin loje,kulupu:ma pi nasin loje
 Q78194383,lipu Puka,ilo pi sewi laso
+Q104154042,ijo pini poka,
+Q1098028,unpa pi palisa unpa tu,unpa pi palisa unpa tu
+Q454737,jan Su Enlison,
 Q11412139,tomo sewi Ukijotuka,
 Q20906713,kipisi:kule pona,kipisi:kule pona
 Q11620954,tomo sewi Katulakinimasuponowikatusi,
-Q1227715,Colorless green ideas sleep furiously,Colorless green ideas sleep furiously
 Q7045516,kulupu:kulupu Nintento,kulupu:kulupu Nintento
-Q112368210,jan sewi suli Kusu,
+Q1227715,Colorless green ideas sleep furiously,Colorless green ideas sleep furiously
 Q112367505,jan sewi mije Amenopisasa,
 Q48753263,jan sewi suli Itupajapime,
+Q112368210,jan sewi suli Kusu,
 Q7617919,kalama namako pi kepeken sike,
 Q29879601,Module:wd/i18n,Module:wd/i18n
 Q20986641,pali:UuU,pali:UuU
@@ -5889,15 +5943,17 @@ Q632862,ma tomo Pali lili,ma tomo Pali lili
 Q107664269,ilo kon Plasma,ilo kon Plasma
 Q3149948,"sitelen tawa ""ma Pali""","sitelen tawa ""ma Pali"""
 Q14402358,kipisi:kulupu Juniko pi sitelen Pali,kipisi:kulupu Juniko pi sitelen Pali
+Q25830930,jan Tamin Sotuli,
 Q11499487,tomo sewi Awekuni,
 Q100135481,toki Wakilu,toki Wakilu
 Q4199006,sitelen க்,sitelen க்
 Q11416641,tomo sewi Atuma,
 Q18705989,jan Sotan Pali,jan Sotan Pali
 Q2288041,kulupu pi musi pi sike noka pi ma kipisi Seki,kulupu pi musi pi sike noka pi ma kipisi Seki
-Q6208772,kipisi:cladogram,kipisi:cladogram
 Q85878978,jan sewi meli Onote,
+Q93632180,jan Layan Mano,
 Q65204620,jan Pali Lawatalija,jan Pali Lawatalija
+Q6208772,kipisi:cladogram,kipisi:cladogram
 Q4202353,sitelen ஞ்,sitelen ஞ்
 Q6448985,toki luka Kuwasi,
 Q104533567,tomo sewi Itotupasiman,
@@ -5905,17 +5961,18 @@ Q11660192,tomo sewi Ikatusi,
 Q4768608,jan An Maki Pali,jan An Maki Pali
 Q20078705,kulupu:wan pi ijo lili,kulupu:wan pi ijo lili
 Q3346314,nasin nanpa Pipi,nasin nanpa Pipi
+Q111678216,jan Lon Kepesu,
 Q47004684,toki luka Lunpan,
 Q1248099,toki Lipulali,
 Q6443765,sitelen ச்,sitelen ச்
 Q1191063,toki Anli,toki Anli
-Q9610964,tomo sewi suli Mijosin,
 Q11392489,musi Lopaken,
+Q109768057,tomo sewi Tutuleko,
+Q9610964,tomo sewi suli Mijosin,
 Q17042633,toki luka Samowa,
 Q4262669,kulupu Ensiwi pi ma Intonesija,
-Q109768057,tomo sewi Tutuleko,
-Q11657965,tomo sewi Apeno,
 Q97206855,tomo sewi Otu,
+Q11657965,tomo sewi Apeno,
 Q11657364,tomo sewi Apusina,
 Q105658454,jan Josan,
 Q10939945,jan sewi Amasukume,
@@ -5923,9 +5980,9 @@ Q4387158,jan sewi suli Tojokumono,
 Q105814106,"sitelen tawa ""moli sewi""","sitelen tawa ""moli sewi"""
 Q108868474,tu kuntu,
 Q11620953,tomo sewi Katulakisitolinimasuwamenopakatusinomikoto,
-Q65278999,tomo sewi Katukasi,
-Q112299075,tomo moku pi ma tomo Pinli,tomo moku pi ma tomo Pinli
 Q10366775,jan Sasa Pali,jan Sasa Pali
+Q112299075,tomo moku pi ma tomo Pinli,tomo moku pi ma tomo Pinli
+Q65278999,tomo sewi Katukasi,
 Q20911588,kulupu:nasin,kulupu:nasin
 Q3332037,toki Mansi,
 Q20479553,lipu Tokipona.info,lipu Tokipona.info
@@ -5937,51 +5994,55 @@ Q11274357,toki ilo Natesiko,toki ilo Natesiko
 Q107410087,tomo sewi Itusan,
 Q11395867,tomo sewi Itumotasijasakamipunsi,
 Q11658004,tomo sewi Awe,
-Q110656874,jan Masa Pulo,
 Q10093819,kulupu:jan pi toki pona,kulupu:jan pi toki pona
-Q6389238,kulupu:lipu 1984,kulupu:lipu 1984
+Q10093819,kulupu:jan pi toki pona,kulupu:jan pi toki pona
 Q8506419,kulupu:toki Awawi,kulupu:toki Awawi
 Q97315692,jan Nise Pon,
+Q14835066,jan Elisa Lan,
+Q110656874,jan Masa Pulo,
 Q62070381,jan Esi Eke,
-Q24907643,ilo Pukase,
 Q1492566,moku Kajopinto,moku Kajopinto
 Q1591364,ma tomo Asuwa,ma tomo Asuwa
-Q11657446,tomo sewi Asi,
+Q24907643,ilo Pukase,
 Q4915327,tomo sona Pajotenkolosi,tomo sona Pajotenolosi
+Q11657446,tomo sewi Asi,
 Q11646483,tomo sewi Kotopila en tomo sewi Otoli,
 Q6274104,kipisi:toki sin,kipisi:toki sin
+Q111945496,kulupu Kemensipu,kulupu Kemensipu
 Q4732589,kulupu ma Alije,kulupu ma Alije
 Q16849919,toki luka Ilakija,
-Q13220013,kipisi:kule tu pi kipisi sitelen,kipisi:kule tu pi kipisi sitelen
-Q76569933,ShangKuan Liang-chih,
+Q115102751,tawa lon kon Precision Air nanpa 494,tawa lon kon Precision Air nanpa 494
+Q4026244,kipisi:lipu open la seme li sin lon ma,kipisi:lipu open la seme li sin lon ma
 Q97311704,tomo sewi Ikatusi,
 Q6753621,kulupu pi nasin Ma lon ma Sonko,kulupu pi nasin Ma lon ma Sonko
-Q4026244,kipisi:lipu open la seme li sin lon ma,kipisi:lipu open la seme li sin lon ma
-Q115102751,tawa lon kon Precision Air nanpa 494,tawa lon kon Precision Air nanpa 494
+Q13220013,kipisi:kule tu pi kipisi sitelen,kipisi:kule tu pi kipisi sitelen
+Q76569933,ShangKuan Liang-chih,
 Q3270233,pipi ike pi wawa nasa,pipi ike pi wawa nasa
-Q101413777,sitelen Palemona,sitelen Palemona
+Q97351122,jan Silan Le Konte,
+Q4064687,sitelen அ,sitelen அ
 Q48745417,jan sewi suli Sasikuni,
 Q11071209,jan sewi suli Misakusi,
-Q4064687,sitelen அ,sitelen அ
-Q66311273,toki Kopasa,toki Kopasa
-Q97351122,jan Silan Le Konte,
 Q11603782,tomo sewi Sinotu,
+Q66311273,toki Kopasa,toki Kopasa
+Q104154041,ijo kama poka,
+Q101413777,sitelen Palemona,sitelen Palemona
 Q4201158,sitelen ண்,sitelen ண்
 Q851734,moku kala Majuntan,moku kala Majuntan
 Q46728509,"sitelen tawa ""tenpo kama pi jan Jesu lon nena ma pi telo loje""",
-Q104154041,ijo kama poka,
+Q108055510,toki Lanpeta,toki Lanpeta
 Q17027255,toki luka Mijama,
 Q423523,sitelen Okina,
-Q104658967,Lapani,
 Q10885126,jan sewi Isunome,
 Q11586788,tomo sewi Isitu,
+Q104658967,Lapani,
 Q11073596,jan sewi suli Okamusumi,
-Q65249018,jan sewi Jasimamusi,
 Q114602871,mun monsuta,
+Q65249018,jan sewi Jasimamusi,
 Q3061338,pilin ante suli pi lipu Pipija,pilin ante suli pi lipu Pipija
-Q1656722,ma tomo Kasijanaka,ma tomo Kasijanaka
 Q102386392,jan Ma Alesanta Mikosi,
+Q1656722,ma tomo Kasijanaka,ma tomo Kasijanaka
 Q16077384,jan Ulan Tuja,jan Ulan Tuja
+Q5311489,telo loje waso en pan linja kepeken kili lon telo namako,telo loje waso en pan linja kepeken kili lon telo namako
 Q11557964,jan Amata Ilosuke,
 Q4205339,sitelen த்,sitelen த்
 Q11422739,tomo sewi Kunisatusi,
@@ -5989,40 +6050,42 @@ Q11671805,tomo sewi Takatupime,
 Q11369462,tomo sewi Kutupasimanku,
 Q18457651,tomo sewi Watatumi,
 Q47303831,pali:ma mi lon ilo Siko,pali:ma mi lon ilo Siko
+Q7447285,ma sona Powilan,
 Q11422896,tomo sewi Sono en tomo sewi Kala,
 Q11442907,tomo sewi Amatelasumikamitakakula en tomo sewi Iwato,
-Q7447285,ma sona Powilan,
 Q16979197,toki luka Eliteja,
 Q149285,Strč prst skrz krk,Strč prst skrz krk
-Q3442207,jan Kosali Sipuwa,jan Kosali Sipuwa
 Q2558274,ma tomo Wesapu,ma tomo Wesapu
+Q3442207,jan Kosali Sipuwa,jan Kosali Sipuwa
 Q954942,ma Kanpitanu,
 Q11607230,tomo sewi Apasili,
-Q6442220,jan Kuwi Li,
-Q11432381,tomo sewi Ojosami,
-Q11554359,tomo sewi Apulapi,
 Q115376546,jan Pen To,
 Q707700,toki musi pi kalama kon pi ma tomo Jelewan,toki musi pi kalama kon pi ma tomo Jelewan
-Q8180226,kulupu:ilo pi kalama uta,kulupu:ilo pi kalama uta
+Q11554359,tomo sewi Apulapi,
 Q113575784,ma Keke,ma Keke
-Q6007739,jan Ota Jukijo,jan Ota Jukijo
+Q11432381,tomo sewi Ojosami,
+Q8180226,kulupu:ilo pi kalama uta,kulupu:ilo pi kalama uta
 Q12348088,toki Pasiki,toki Pasiki
-Q4205338,sitelen ட்,sitelen ட்
+Q6442220,jan Kuwi Li,
+Q6007739,jan Ota Jukijo,jan Ota Jukijo
 Q47006909,kama sin nanpa tu: kulupu lawa pi tawa sewi,
+Q4205338,sitelen ட்,sitelen ட்
+Q6609653,kipisi:'s,kipisi:'s
 Q11657249,tomo sewi Apejosi,
 Q17190840,tomo sewi Awetopasipime,
-Q6609653,kipisi:'s,kipisi:'s
 Q669767,nena ma Osinin,nena ma Osinin
 Q9442304,kulupu:zh-Hant-1,kulupu:zh-Hant-1
+Q107568236,jan Sapina Losata Kape,
 Q15225742,ma tomo Muta Malija,
 Q8052120,toki luka Jamanija,
 Q16965737,toki luka Kata,
 Q63138882,kule seli en kule lete,kule seli en kule lete
+Q85884328,tomo sewi Apo,
 Q11596731,tomo sewi Inatume,
 Q15730822,toki luka Somalija,
-Q85884328,tomo sewi Apo,
 Q11391067,tomo sewi Sakamoto en tomo sewi Kasimanku,
 Q16808304,kulupu:kulupu jan Wa lon ma Intonesija,kulupu:kulupu jan Wa lon ma Intonesija
+Q50874329,jan Ten Wesu,
 Q90406228,ilo Kamata,ilo Kamata
 Q108669617,lipu pu pi toki Kanse,
 Q19882346,toki luka Tuku,
@@ -6040,17 +6103,19 @@ Q4201923,sitelen ந்,sitelen ந்
 Q11528832,tomo sewi Kitukitasija,
 Q21655264,tomo sewi Ikatusi,
 Q19819893,kulupu:tok-0,kulupu:tok-0
-Q2880829,kule Pali pi soweli Eku Pelu Kapalu,kule Pali pi soweli Eku Pelu Kapalu
 Q6870474,kipisi:Tree chart/start,kipisi:Tree chart/start
+Q2880829,kule Pali pi soweli Eku Pelu Kapalu,kule Pali pi soweli Eku Pelu Kapalu
+Q823945,jan Tewi Maja,
 Q4999053,toki luka Pukinapaso,
 Q109879107,lipu pu pi toki Tosi,
-Q55698568,toki luka Asepajan,
-Q5398039,sitelen Ekaja,
 Q60795488,kasi Wepisi Pali,kasi Wepisi Pali
+Q5398039,sitelen Ekaja,
+Q55698568,toki luka Asepajan,
 Q673993,nena ma Tapen,nena ma Tapen
-Q28321364,Module:Clade,Module:Clade
 Q1245849,jan Ajo Etu,jan Ajo Etu
 Q8348305,utala pi ma Kakajan,utala pi ma Kakajan
+Q78939839,jan Payan Son,
+Q28321364,Module:Clade,Module:Clade
 Q16948280,toki luka Uman,
 Q10640396,pali:mi pona ala e sijelo sina,pali:mi pona ala e sijelo sina
 Q17216052,jan sewi tunukalasito,
@@ -6066,109 +6131,115 @@ Q16964248,toki luka Katelo,
 Q16534792,lipu CAGE,
 Q11452520,tomo sewi Takalatuka,
 Q17228423,tomo sewi Kosaki en tomo sewi Komoli en tomo sewi Alasaka,
-Q12345653,monsuta,
-Q11435100,tomo sewi Osima en tomo sewi Okitusima,
 Q85152141,Module:GetParameters,Module:GetParameters
 Q6072529,kipisi:ma Komo,kipisi:ma Komo
+Q12345653,monsuta,
 Q11379248,tomo sewi Iwasitu,
+Q11435100,tomo sewi Osima en tomo sewi Okitusima,
 Q4366501,sitelen lape sama,sitelen lape sama
 Q3429428,sitelen ஃ,sitelen ஃ
 Q4200564,sitelen ங்,sitelen ங்
 Q25051798,toki luka Kijana,
 Q11398694,tomo sewi Kapasansaenatumi,
-Q11487097,tomo sewi Jutulupa,
-Q11554857,tomo sewi Itutonoku,
-Q16919429,toki Pali pi ma Naselija,toki Pali pi ma Naselija
 Q11657712,tomo sewi Asipajo,
+Q11554857,tomo sewi Itutonoku,
+Q11487097,tomo sewi Jutulupa,
+Q16919429,toki Pali pi ma Naselija,toki Pali pi ma Naselija
 Q8737310,kulupu:kon Kami,kulupu:kon Kami
+Q56249439,jan Ewin Li,
 Q107492316,tomo Usu Santuwalijun pi ilo tawa,
 Q116872806,jan Matelike,
 Q111404120,tomo M Boutique Station 18,
 Q119250095,ilo pana PA-15 pi sike lili tan ma pali pi ilo utala pi ma lili Pameto,
 Q136593778,tomo pi mun lili laso,tomo pi mun lili laso
-Q137374236,mu,nimi:mu
-Q137374250,oko,nimi:oko
-Q137374380,lanpan,nimi:lanpan
-Q137374205,jo,nimi:jo
-Q137763911,tonpite,
-Q137763913,topo,
-Q137771458,toki sin,
-Q137763925,vivi,
-Q137763631,wan luka,
-Q137763634,wawa tenpo,
-Q137763934,wawajete,
-Q137763929,waje,
-Q137763600,tenpo pona,
-Q137763387,ijo walo,
-Q137763380,ijo tonsi,
-Q137763477,kon lete,
-Q137763471,ko lili,
-Q137763830,opasan,
-Q137763833,paka,
-Q137763848,pipo,
-Q137763351,ijo poki,
-Q137763443,kasi pimeja,
-Q137763733,kijosin,
-Q137763734,kiki,
-Q137763253,ijo akesi,
-Q137763276,ijo kasi,
-Q137763676,ipan,
-Q137763400,ilo oko,
-Q137763405,jan ale,
-Q137763419,jan pakala,
-Q137763548,mije pona,
-Q137763804,nata,
-Q137763815,nutan,
-Q135502884,tawa ma lon ma palisa Kansaka lon tenpo sike nanpa mute ale mute luka,
-Q125259703,ilo poki seli pi kasi,
-Q137727480,te,
+Q137295388,ma Pala,ma Pala
 Q137727485,tun,
+Q137727480,te,
 Q137727447,mun,
-Q137760207,namako,namako
-Q11577868,tomo sewi Enkisiki ale lon ma Kaje,
-Q11399659,tomo sewi Enkisiki ale lon ma Kaka,
-Q11582137,tomo sewi Enkisiki ale lon ma Sakami,
-Q11602803,tomo sewi Enkisiki ale lon ma Sikuko,
-Q11387322,tomo sewi Enkisiki ale lon ma Pisen,
-Q134598533,tomo sewi Kasiman en tomo sewi Kasuka,
-Q134602933,tomo sewi Takemikatusi,
-Q121635363,kulupu Wikimenija pi tenpo sike nanpa 2024,
-Q25675533,toki Nukolo,
-Q137763946,wowujiti,
+Q137127045,jan Ewelin Tusi,jan Ewelin Tusi
 Q135506349,jan sewi meli Tamajala,
 Q135578905,jan sewi Kikosasikatawake,
 Q123511648,jan sewi Sukane,
 Q10940368,jan sewi Amatumala,
-Q24887893,jan sewi Simata,
-Q137295388,ma Pala,ma Pala
-Q135476802,jan I Sisi,
 Q135271288,jan sewi Amanokantama,
-Q137127045,jan Ewelin Tusi,jan Ewelin Tusi
-Q11387367,tomo sewi Enkisiki ale lon ma Pinko,
-Q11658590,tomo sewi Enkisiki ale lon ma Mutu,
+Q24887893,jan sewi Simata,
+Q125259703,ilo poki seli pi kasi,
+Q134598533,tomo sewi Kasiman en tomo sewi Kasuka,
+Q11387322,tomo sewi Enkisiki ale lon ma Pisen,
+Q11577868,tomo sewi Enkisiki ale lon ma Kaje,
+Q11399659,tomo sewi Enkisiki ale lon ma Kaka,
+Q11582137,tomo sewi Enkisiki ale lon ma Sakami,
+Q11602803,tomo sewi Enkisiki ale lon ma Sikuko,
+Q134602933,tomo sewi Takemikatusi,
+Q135502884,tawa ma lon ma palisa Kansaka lon tenpo sike nanpa mute ale mute luka,
+Q137374236,mu,nimi:mu
+Q137374250,oko,nimi:oko
+Q137374205,jo,nimi:jo
+Q137374380,lanpan,nimi:lanpan
+Q25675533,toki Nukolo,
+Q137763804,nata,
+Q137763733,kijosin,
+Q137763734,kiki,
+Q137763911,tonpite,
+Q137763934,wawajete,
+Q137763913,topo,
+Q137763925,vivi,
+Q137763631,wan luka,
+Q137763634,wawa tenpo,
+Q137763929,waje,
+Q137763253,ijo akesi,
+Q137763276,ijo kasi,
+Q137763833,paka,
+Q137763815,nutan,
+Q137763830,opasan,
+Q137763676,ipan,
+Q137763400,ilo oko,
+Q137763387,ijo walo,
+Q137763405,jan ale,
+Q137763548,mije pona,
+Q137763848,pipo,
+Q137763380,ijo tonsi,
+Q137763351,ijo poki,
+Q137763477,kon lete,
+Q137763471,ko lili,
+Q137763600,tenpo pona,
+Q137771458,toki sin,
+Q137763946,wowujiti,
+Q137763443,kasi pimeja,
+Q137763419,jan pakala,
+Q135476802,jan I Sisi,
 Q12199147,kulupu jan Palawi,kulupu jan Palawi
-Q135193530,tomo sewi Osima en tomo sewi Okitusima,
-Q135195036,tomo sewi Apito,
-Q137105869,kijetesantakalu o!,
 Q124374615,lipu Linku,ijo Linku
 Q137151565,kipisi:nimi lon toki pona,kipisi:nimi lon toki pona
-Q133829539,kulupu pali pi sitelen pona,kulupu pali pi sitelen pona
 Q131546626,Managua (City),
+Q135195036,tomo sewi Apito,
+Q11658590,tomo sewi Enkisiki ale lon ma Mutu,
+Q11387367,tomo sewi Enkisiki ale lon ma Pinko,
+Q135193530,tomo sewi Osima en tomo sewi Okitusima,
+Q137105869,kijetesantakalu o!,
+Q133829539,kulupu pali pi sitelen pona,kulupu pali pi sitelen pona
 Q134917286,tomo sewi Enkisiki,
-Q104936924,jan Lowa Sa,
-Q56811913,jan Salo Penton Pi,jan Salo Penton Pi
 Q9623369,kulupu:tomo sewi Enkisiki lon ma Aki,kulupu:tomo sewi Enkisiki lon ma Aki
-Q134900605,ma Isale en ma Ilan li utala,utala tenpo suno luka luka tu
+Q56811913,jan Salo Penton Pi,jan Salo Penton Pi
+Q104936924,jan Lowa Sa,
 Q19364916,jan Kontansino Pali,jan Kontansino Pali
 Q97371416,ko suwi,
+Q112943890,jan Juli Ose,
+Q137760207,namako,namako
+Q137442028,jan Lajan Matono,
+Q137884258,jan Winton Ten,
+Q134900605,ma Isale en ma Ilan li utala,utala tenpo suno luka luka tu
+Q130269835,jan Lesisija Sata,
+Q138497247,jan Pe Lewa,
+Q121635363,kulupu Wikimenija pi tenpo sike nanpa 2024,
 Q16142472,nasin lawa li lon ma Juke li lon ma Juwese,
 Q130383768,toki Kiseli,
 Q135512040,jan Sulija Aman,
 Q5100814,kulupu jan Wa lon ma Tona,kulupu jan Wa lon ma Tona
 Q15917093,sitelen lon tomo Kinlin,sitelen lon tomo Kinlin
-Q11657447,tomo sewi Asi,
 Q4850937,tomo musi Palini,tomo musi Palini
 Q134925540,tomo sewi Kotumi,
+Q11657447,tomo sewi Asi,
 Q135330236,jan sewi Kipilakinosonopanamatomi,
 Q11646927,jan sewi Kanajako,
 Q836369,nimi Patatuna,nimi Patatuna
@@ -6224,21 +6295,21 @@ Q137727491,win,
 Q137727469,san,
 Q137727402,i,
 Q109535860,sike akesi suwi,sike akesi suwi
-Q96149145,Module:NUMBEROF/rank,Module:NUMBEROF/rank
-Q111695220,nasin,
-Q125356869,kulupu:sitelen pona,kulupu:sitelen pona
-Q118959146,kulupu:ma pi ma Epanja,kulupu:ma pi ma Epanja
 Q135543713,38457,
+Q111695220,nasin,
+Q118959146,kulupu:ma pi ma Epanja,kulupu:ma pi ma Epanja
+Q125356869,kulupu:sitelen pona,kulupu:sitelen pona
 Q6333285,kulupu:hu-1,kulupu:hu-1
 Q6333907,kulupu:th-2,kulupu:th-2
+Q96149145,Module:NUMBEROF/rank,Module:NUMBEROF/rank
 Q6334466,kulupu:uk-5,kulupu:uk-5
 Q130710937,kulupu Kensisisawinte,
+Q27979056,jan Kepije Loke,
+Q136229974,jan An Aso,
 Q133869040,jaki lawa pi ma Italija,jaki lawa pi ma Italija
 Q25281066,telo Kepata Elotejo,
 Q116981511,kama kulupu suli pi toki Epelanto lon tenpo sike 2024,
-Q137183894,akesi,akesi
 Q137145319,tomo tawa Kote Sante,tomo tawa Kote Sante
-Q48700333,kulupu Mikapesi,kulupu Mikapesi
 Q137564684,kala Asi,kala Asi
 Q135434117,tomo sewi Ojamatumi,
 Q135433785,tomo sewi Ojamatumi,
@@ -6309,102 +6380,110 @@ Q135952052,jan Ilo Pali,jan Ilo Pali
 Q121763432,jan Paka,
 Q22404372,telo Masi,telo Masi
 Q22404353,telo Mase,telo Mase
-Q131794827,nasin Enpeke,nasin Enpeke
+Q133854503,soweli lili tomo pi ma Mesiko,
+Q55318326,jan Jenewi Nole,
+Q140198869,jan Osawi pi ma Osawi,
+Q116956505,jan Julija Wikeman,
 Q60996386,jan sewi Amenopipalosinatomi,
-Q115288326,lipu Anna's Archive,
 Q113210381,pali pi lon ala tan jan Sema,pali pi lon ala tan jan Sema
+Q131794827,nasin Enpeke,nasin Enpeke
+Q137183894,akesi,akesi
+Q7502293,jan Sosi Kalake,
+Q1707782,jan Jose Pate Taje,
+Q48700333,kulupu Mikapesi,kulupu Mikapesi
+Q115288326,lipu Anna's Archive,
 Q117829870,kama kulupu Ijoko lon tenpo sike 2024,
 Q7434973,ma tomo Seli Ikanta,
 Q125531947,leko nimi,
-Q137212657,su pi soweli palisa,su pi soweli palisa
 Q137187162,sitelen telo,sitelen telo
-Q137727471,sen,
-Q137727426,kun,
-Q137727455,non,
-Q137727444,mo,
-Q137727441,men,
-Q137727404,in,
-Q137727413,jo,
-Q137727467,pun,
-Q136399349,jan Kipin,
-Q137374223,kute,nimi:kute
-Q137374229,mije,nimi:mije
-Q135012208,anpa,nimi:anpa
-Q137374204,jelo,nimi:jelo
-Q137374247,nimi,nimi:nimi
-Q137374254,pakala,nimi:pakala
-Q137721144,tomo sewi Iduna,
-Q134957446,tomo sewi Tukijomi en tomo sewi Kasiman,
-Q137763653,ani,
+Q137212657,su pi soweli palisa,su pi soweli palisa
+Q137763739,kitu,
+Q137763884,siwan,
+Q137763313,ijo mije,
 Q137763344,ijo pana,
+Q137763349,ijo pipi,
+Q137763336,ijo olin,
+Q137763303,ijo lukin,
+Q137763304,ijo lupa,
+Q137763747,kosan,
+Q137763534,mama mije,
+Q137763782,masenta,
+Q137763520,luka wan tu,
+Q137771419,lupa meli,
+Q137763919,unikijetesantakalu,
+Q137763499,len pimeja,
+Q137763683,itomi,
+Q137763672,iki,
+Q137763674,ilapa,
+Q137763399,ilo moli,
+Q137763401,ilo open,
+Q137763948,yupekosi,
+Q137763653,ani,
+Q137763654,ansu,
+Q137763510,loje jelo,
+Q137771456,tenpo ni,
+Q137763597,telo lili,
+Q137763390,ijo waso,
 Q137763375,ijo tawa,
 Q137763367,ijo Stella,
 Q137763371,ijo suwi,
-Q137763336,ijo olin,
-Q137763349,ijo pipi,
-Q137763695,ju,
-Q137763452,kili suwi,
-Q137763654,ansu,
-Q137763313,ijo mije,
-Q137763303,ijo lukin,
-Q137763304,ijo lupa,
-Q137763683,itomi,
-Q137763390,ijo waso,
-Q137763674,ilapa,
-Q137763399,ilo moli,
-Q137763672,iki,
-Q137763401,ilo open,
-Q137763437,kasi ko,
-Q137763705,kalu,
-Q137763715,ke,
-Q137763725,kese,
-Q137763724,kepi,
-Q137763739,kitu,
-Q137763747,kosan,
-Q137763499,len pimeja,
-Q137763510,loje jelo,
-Q137763520,luka wan tu,
-Q137771419,lupa meli,
-Q137763534,mama mije,
-Q137763782,masenta,
-Q137763793,mimuki,
 Q137763808,niko,
 Q137771433,nimi sin,
 Q137771432,nena mama,
 Q137763802,nano,
+Q137763437,kasi ko,
+Q137763715,ke,
+Q137763724,kepi,
+Q137763725,kese,
 Q137763813,nu,
+Q137763452,kili suwi,
+Q137763793,mimuki,
+Q137763705,kalu,
+Q137763695,ju,
 Q137763835,palensi,
-Q137771456,tenpo ni,
-Q137763573,pona mute,
 Q137763845,peto,
+Q137763573,pona mute,
 Q137763838,panke,
-Q137763597,telo lili,
-Q137763919,unikijetesantakalu,
-Q137763884,siwan,
-Q137763948,yupekosi,
 Q137374368,apeja,
 Q137771425,meli tonsi,tonsi meli
-Q136764753,jan sewi Amanomikemunusi,
-Q135578876,jan sewi Mase,
-Q135504622,jan sewi suli Awasima,
-Q135505760,jan sewi suli Ijonusi,
-Q135505758,jan sewi meli Ijosu,
 Q11490919,tomo sewi Enkisiki ale lon ma Sima,
 Q11386164,tomo sewi Enkisiki ale lon ma Sinano,
 Q11381626,tomo sewi Enkisiki ale lon ma Tasima,
 Q11387310,tomo sewi Enkisiki ale lon ma Pitu,
 Q11420254,tomo sewi Enkisiki ale lon ma Inapa,
-Q114555450,tomo sewi Nisijalakaminali,
 Q135434253,tomo sewi Molinatuma,
+Q114555450,tomo sewi Nisijalakaminali,
+Q137721144,tomo sewi Iduna,
+Q134957446,tomo sewi Tukijomi en tomo sewi Kasiman,
+Q136399349,jan Kipin,
+Q137727444,mo,
+Q137727441,men,
+Q137727404,in,
+Q137727471,sen,
+Q137727426,kun,
+Q137727413,jo,
+Q137727467,pun,
+Q137727455,non,
+Q137374254,pakala,nimi:pakala
+Q137374204,jelo,nimi:jelo
+Q137374223,kute,nimi:kute
+Q137374229,mije,nimi:mije
+Q137374247,nimi,nimi:nimi
+Q135012208,anpa,nimi:anpa
+Q135505758,jan sewi meli Ijosu,
+Q135504622,jan sewi suli Awasima,
+Q135505760,jan sewi suli Ijonusi,
+Q136764753,jan sewi Amanomikemunusi,
+Q135578876,jan sewi Mase,
 Q135009132,tomo sewi pi mani pana tawa tenpo musi sewi mun en tenpo musi sewi Niname,
 Q123110605,"toki a, jan Jonatan!",
 Q11433427,tomo sewi Enkisiki ale lon ma Jamato,
-Q127401579,wan Tansin,
 Q12935276,suli,
-Q137145315,kijetesantakalu,nimi:kijetesantakalu
+Q127401579,wan Tansin,
 Q21211442,jan Sape Panosijan,jan Sape Panosijan
-Q15718485,ilo Tuwita,ilo Tuwita
 Q132128194,jan JanKaKo,jan JanKaKo
+Q137145315,kijetesantakalu,nimi:kijetesantakalu
+Q15718485,ilo Tuwita,ilo Tuwita
 Q30140110,linja telo Sinulu,
 Q133888568,jan Umijotalu,
 Q137127057,toki Lopawasina,toki Lopawasina
@@ -6477,7 +6556,6 @@ Q48759455,jan sewi Upotosi,
 Q137374263,pilin,nimi:pilin
 Q85352042,kulupu Pankiko,kulupu Pankiko
 Q11602776,tomo sewi Enkisiki ale lon ma Sikusen,
-Q11361380,tomo sewi Enkisiki ale lon ma Simotuke,
 Q11638477,tomo sewi Enkisiki ale lon ma Omi,
 Q116783688,tomo sewi Ipetukanali,
 Q134956860,tomo sewi Ojamatumi,
@@ -6493,10 +6571,12 @@ Q137374454,majuna,nimi:majuna
 Q137763846,pika,
 Q137163970,toki U,
 Q123511663,jan sewi Kipisatumi,
-Q18029574,jan pi kulupu pali sama,
-Q137163970,toki U,
+Q11377800,jan sewi Silo Sentai,
 Q124254648,Module:sitelen nanpa pan,Module:sitelen nanpa pan
 Q8506842,kulupu:jan lawa pi ma Mesiko,kulupu:jan lawa pi ma Mesiko
+Q138495776,jan JoKa,
+Q18029574,jan pi kulupu pali sama,
+Q11361380,tomo sewi Enkisiki ale lon ma Simotuke,
 Q125259873,ilo suno lupa,
 Q116203681,sitelen pilin pi toki ma,
 Q135330068,jan sewi meli Sakitama,
@@ -6509,7 +6589,6 @@ Q22128742,jan sewi Tanikuku,
 Q137374315,lon,nimi:lon
 Q134846348,jan sewi meli Kulosimawisonomiki,
 Q11430665,tomo sewi Take,tomo sewi Take
-Q134234016,tenpo sike #2025 la wawa suno li weka tan ma Elopa,wawa linja pi ma Elopa li weka lon tenpo sike nanpa 2025
 Q11451199,tomo sewi Enkisiki ale lon ma Aki,tomo sewi Enkisiki ale lon ma Aki
 Q117315857,tenpo nanpa mute mute mute mute pi ma ale pi sitelen tawa lon ma Wenesija,
 Q134890861,sitelen tawa Tankumen,sitelen tawa Tankumen
@@ -6571,6 +6650,7 @@ Q122766331,jan Nowenpa Keli,
 Q136654082,Module:Lua lexer,Module:Lua lexer
 Q25800739,kipisi:toki nimi,kipisi:toki nimi
 Q129176848,sijelo tonsi la nimi,
+Q134234016,tenpo sike #2025 la wawa suno li weka tan ma Elopa,wawa linja pi ma Elopa li weka lon tenpo sike nanpa 2025
 Q125259865,sama seli,
 Q137374459,pake,
 Q11450339,tomo sewi Ape,
@@ -6645,108 +6725,111 @@ Q137763262,ijo awen,
 Q137771460,tomo moku,
 Q137763898,tawake,
 Q137763625,walo jelo,
-Q18152620,jan Jani Makawi Pali,jan Jani Makawi Pali
-Q137374383,meso,nimi:meso
-Q11381490,tomo sewi Enkisiki ale lon ma Koki,
-Q135039913,tomo sewi Asino,
 Q119929586,tomo sewi Ape,
 Q124482325,tomo sewi Kotumi,
 Q18354939,Tsundoku,Tsundoku
-Q124692383,tenpo nanpa mute mute mute mute wan pi ma ale pi sitelen tawa lon ma Wenesija,
+Q18152620,jan Jani Makawi Pali,jan Jani Makawi Pali
+Q137374383,meso,nimi:meso
+Q11381490,tomo sewi Enkisiki ale lon ma Koki,
 Q1789871,ma lili Lejuwa,
-Q137040693,lipu Wikipesija pi toki pona,
-Q105816235,jan Misali,jan Misali
+Q124692383,tenpo nanpa mute mute mute mute wan pi ma ale pi sitelen tawa lon ma Wenesija,
 Q17381206,jan Wano Junu,jan Wano Junu
-Q116187610,toki sin tan toki pona,toki sin tan toki pona
-Q121199798,jan Oka Sin,jan Oka Sin
 Q135038847,tomo sewi Tatutapiko en tomo sewi Tatutapimeno,
-Q536184,jan Pewi Meton,jan Pewi Meton
-Q130282693,jan Peli Wesa,
 Q110242813,soweli Sami,
+Q105816235,jan Misali,jan Misali
+Q121199798,jan Oka Sin,jan Oka Sin
+Q116187610,toki sin tan toki pona,toki sin tan toki pona
+Q130282693,jan Peli Wesa,
+Q536184,jan Pewi Meton,jan Pewi Meton
+Q4540344,moku pi ma tomo Anpu pi mani Tala 100,moku pi ma tomo Anpu pi mani Tala 100
+Q135039913,tomo sewi Asino,
+Q137040693,lipu Wikipesija pi toki pona,
 Q11500837,weka ale,
 Q135491832,moli kepeken ilo pana pi sike lili lon ma tomo Nujo lon tenpo sike nanpa mute ale mute luka,
 Q115073776,telo linja Sena,telo linja Sena
 Q137127509,jan Alesante Tatarnikow,jan Alesante Tatarnikow (DiezelSun)
 Q116872803,mama nena,
 Q125259862,sama ko,
-Q125530158,ma pona pi toki pona,ma pona pi toki pona
-Q2209741,kulupu jan Jenwansisun,kulupu jan Jenwansisun
-Q988466,jan telo,jan telo
-Q7857330,jan Tuwi Atakalawa,jan Tuwi Atakalawa
-Q2891554,utala pi toki Iwisi,utala pi toki Iwisi
 Q116730596,jan Pajanwasa li moli e jan Anawasa,
+Q2891554,utala pi toki Iwisi,utala pi toki Iwisi
+Q125530158,ma pona pi toki pona,ma pona pi toki pona
+Q988466,jan telo,jan telo
+Q2209741,kulupu jan Jenwansisun,kulupu jan Jenwansisun
+Q7857330,jan Tuwi Atakalawa,jan Tuwi Atakalawa
 Q137101458,nasin nanpa pona,nasin nanpa pona
+Q136434449,toki Saleja,toki Saleja
+Q11657433,tomo sewi Asitumi,
+Q11372582,tomo sewi Kosa en tomo sewi Suwa,
+Q7454630,ma tomo Seli Ikanta,ma tomo Seli Ikanta
+Q15808784,ma Elapika,
+Q28682714,tomo sewi Atasi,
+Q138447905,toki Pulu,toki Pulu
 Q135493035,jan sewi meli Kusanoi,
-Q134845057,jan sewi suli Takejuki,
-Q138414208,ma Akan en ma Pakisan li utala,ma Akan en ma Pakisan li utala
-Q126456323,musi Kitsune Tails,
-Q115706234,pali:mi toki pona anu seme?,pali:mi toki pona anu seme?
-Q115780261,toki Wijosa,toki Wijosa
-Q137763663,asuto,
-Q137763664,atu,
-Q137763264,ijo esun,
-Q137763753,lan,
-Q137763386,ijo vivi,
-Q137771375,ilo kipisi,
-Q137771380,ilo toki,
-Q137763760,likujo,
 Q137771406,lipu tenpo,
 Q137763763,linuwi,
-Q137763331,ijo ni,
-Q137763324,ijo namako,
-Q137763343,ijo pan,
-Q137763710,kankuli,
-Q137763697,jules,
-Q137763285,ijo kipisi,
-Q137763424,jan sin,
-Q137763425,jan suli,
-Q137763415,jan monsuta,
+Q137763760,likujo,
+Q137768896,soto,
+Q137771462,tomo tawa,
+Q137763910,tona,
+Q137763620,tonsi unpa,
+Q137763753,lan,
+Q137722416,powe,nimi:powe
+Q137763941,wi,
 Q137763476,ko walo,
 Q137763748,kosikosa,
 Q137763538,meli mije,
 Q137763776,maki,
-Q137768896,soto,
-Q137763620,tonsi unpa,
 Q137763878,sipije,
-Q137722416,powe,nimi:powe
 Q137763856,puwa,
 Q137763861,samu,
-Q137771462,tomo tawa,
-Q137763910,tona,
-Q137763941,wi,
-Q134595838,tomo sewi Kisalatuwisumotasa,
-Q135578889,jan sewi suli Takepikoneno,
-Q7683716,jan sewi pan palisa lili,
-Q133097744,jan sewi Takusutamano,
-Q1704940,jan sewi Amenonawemasu,
-Q137760205,linja,linja
-Q124843967,linja pona,linja pona
-Q137669856,nimi ali pu n a,nimi ali pu n a
-Q137727465,pon,
-Q137727481,ten,
-Q137727468,sa,
-Q137374252,ona,nimi:ona
+Q137763386,ijo vivi,
+Q137771375,ilo kipisi,
+Q137771380,ilo toki,
+Q137763424,jan sin,
+Q137763425,jan suli,
+Q137763415,jan monsuta,
+Q137763663,asuto,
+Q137763664,atu,
+Q137763264,ijo esun,
+Q137763710,kankuli,
+Q137763697,jules,
+Q137763343,ijo pan,
+Q137763324,ijo namako,
+Q137763331,ijo ni,
+Q137763285,ijo kipisi,
 Q137374275,selo,nimi:selo
-Q137374550,wile,nimi:wile
 Q92186194,kala,nimi:kala
+Q137374550,wile,nimi:wile
 Q137374309,lete,nimi:lete
 Q137374308,len,nimi:len
+Q137374252,ona,nimi:ona
 Q137763666,eki,
-Q15808784,ma Elapika,
-Q138447905,toki Pulu,toki Pulu
-Q28682714,tomo sewi Atasi,
-Q136434449,toki Saleja,toki Saleja
-Q11372582,tomo sewi Kosa en tomo sewi Suwa,
-Q11657433,tomo sewi Asitumi,
-Q7454630,ma tomo Seli Ikanta,ma tomo Seli Ikanta
+Q134595838,tomo sewi Kisalatuwisumotasa,
+Q7683716,jan sewi pan palisa lili,
+Q135578889,jan sewi suli Takepikoneno,
+Q1704940,jan sewi Amenonawemasu,
+Q133097744,jan sewi Takusutamano,
+Q137669856,nimi ali pu n a,nimi ali pu n a
+Q137727481,ten,
+Q137727468,sa,
+Q137727465,pon,
+Q124843967,linja pona,linja pona
+Q137760205,linja,linja
 Q135194069,tomo sewi Asinokumija,
-Q131457599,lipu pu pi toki Pasi,
-Q131411648,jan Luwisi Mansijone,
-Q137374423,toki,nimi:toki
+Q134845057,jan sewi suli Takejuki,
+Q126456323,musi Kitsune Tails,
+Q115780261,toki Wijosa,toki Wijosa
+Q115706234,pali:mi toki pona anu seme?,pali:mi toki pona anu seme?
 Q9702578,kulupu:ilo,kulupu:ilo
+Q131457599,lipu pu pi toki Pasi,
+Q137374423,toki,nimi:toki
+Q131411648,jan Luwisi Mansijone,
 Q120599816,sitelen tawa pi pipi Lu en kulupu Pali,sitelen tawa pi pipi Lu en kulupu Pali
-Q131380778,lawa pi kulupu utala lon ma Anku lon tenpo sike 2024,lawa pi kulupu utala lon ma Anku lon tenpo sike nanpa 2024
 Q8615158,pana pona:kalama lili IPA pi toki Awawi,pali:kalama IPA pi toki Awawi
+Q131380778,lawa pi kulupu utala lon ma Anku lon tenpo sike 2024,lawa pi kulupu utala lon ma Anku lon tenpo sike nanpa 2024
+Q136645840,waso Siwa,
+Q138049471,soweli Pon,
+Q138414208,ma Akan en ma Pakisan li utala,ma Akan en ma Pakisan li utala
 Q137188749,lipu open:toki pona,lipu open:toki pona
 Q137763384,ijo uta,
 Q137763755,lansan,
@@ -6805,242 +6888,248 @@ Q11380928,tomo sewi Ituta,
 Q135099002,tomo sewi Asije,
 Q122397475,toki Sitasama,toki Sitasama
 Q11659043,tomo sewi Enkisiki ale lon ma Oki,
-Q124357469,musi Balatro,musi Palato
 Q135327097,jan sewi Kikosasi,
 Q15214526,kulupu:ma tomo pi ma Tuson,kulupu:ma tomo pi ma Tuson
 Q33270492,kulupu:sitelen lili pi sitelen Tami,kulupu:sitelen lili pi sitelen Tami
 Q1204628,telo pan Malo,telo pan Malo
 Q8415886,kulupu:jan pi toki sin,kulupu:jan pi toki sin
 Q137763604,toki pona ligatures,
-Q111333139,jan En Pajo,jan En Pajo
-Q11458212,tomo sewi Enkisiki ale lon ma Tusima,
-Q137355603,Module:Sitelen,Module:Sitelen
 Q131937861,sitelen tawa Nesa nanpa tu,sitelen tawa Nesa nanpa tu
+Q115493301,jan Popo Lokapele,
+Q137355603,Module:Sitelen,Module:Sitelen
+Q133462813,jan Jasin Muni,
+Q124357469,musi Balatro,musi Palato
+Q11458212,tomo sewi Enkisiki ale lon ma Tusima,
+Q111333139,jan En Pajo,jan En Pajo
 Q112007397,tomo Te Pawiju,
 Q30658362,nena ma Kelo,
 Q12355434,toki Suma,
-Q126075362,toki Sisin,toki Sisin
 Q137188219,kijetesumikyoku,kalama musi Kijetesumikijoku
+Q126075362,toki Sisin,toki Sisin
 Q4200854,nimi pi kulupu mama pi kulupu jan Wa lon ma Intonesija,nimi pi kulupu mama pi kulupu jan Wa lon ma Intonesija
-Q137760735,sitelen ma,sitelen ma
-Q137727431,li,
-Q137727450,ne,
-Q134711136,ma Kanpusi en ma Tawi li utala lon tenpo sike nanpa 2025,ma Kanpusi en ma Tawi li utala lon tenpo sike nanpa 2025
 Q137374531,su,nimi:su
+Q125511414,telo monsuta,
+Q136731213,jan sewi meli Kajasasula,
+Q135578848,jan sewi suli Sipuminosukune,
+Q135113177,jan sewi Amasukunitama,
+Q135328851,jan sewi Kajamikenotakekasajanosunumi,
+Q98082969,jan sewi meli Jametu,
+Q402052,jan sewi nanpa tu wan pi open,
 Q11612019,tomo sewi Enkisiki ale lon ma Noto,
 Q11368560,tomo sewi Enkisiki ale lon ma Tanpa,
 Q4921482,poka telo Pa Powin,
-Q125511414,telo monsuta,
-Q137763619,tonsi sin,
-Q137763608,tomo monsuta,
-Q137763603,toki ike,
-Q137771463,tomo utala,
-Q137374211,kepeken,nimi:kepeken
 Q134886624,tomo sewi Katoli en tomo sewi Kasiman,
+Q137374211,kepeken,nimi:kepeken
+Q134711136,ma Kanpusi en ma Tawi li utala lon tenpo sike nanpa 2025,ma Kanpusi en ma Tawi li utala lon tenpo sike nanpa 2025
+Q137760735,sitelen ma,sitelen ma
+Q137727450,ne,
+Q137727431,li,
+Q137374185,alasa,nimi:alasa
+Q137374209,kasi,nimi:kasi
+Q137374241,namako,nimi:namako
+Q137374543,tu,nimi:tu
+Q137374279,sijelo,nimi:sijelo
+Q137374532,suli,nimi:suli
 Q137763361,ijo sin,
 Q137763354,ijo sama,
-Q137771386,jan sama,
-Q137763700,jusijesuwa,
-Q137763711,kapa,
 Q137763466,ko jelo,
 Q137763475,ko seli,
 Q137763740,koko,
-Q137763518,luka luka luka wan tu,
+Q137763680,iseki,
+Q137763603,toki ike,
 Q137763316,ijo moli,
 Q137763284,ijo kin,
 Q137763302,ijo luka,
-Q137763680,iseki,
-Q137763445,kijetesantakalu soweli,
 Q137763503,linja lili,
-Q137763803,nasulin,
-Q137763578,sitelen ike,
+Q137763260,ijo anu,
 Q137763820,okepuma,
 Q137374259,pana,nimi:pana
-Q137763873,sikomo,
+Q137771386,jan sama,
+Q137763700,jusijesuwa,
+Q137763711,kapa,
+Q137763803,nasulin,
+Q137763252,akesi kon,
+Q137763445,kijetesantakalu soweli,
+Q137763518,luka luka luka wan tu,
 Q137763900,teken,
 Q137763596,telo lete,
 Q137771455,supa monsi,
 Q137763921,unu,
-Q135113177,jan sewi Amasukunitama,
-Q135328851,jan sewi Kajamikenotakekasajanosunumi,
-Q136731213,jan sewi meli Kajasasula,
-Q98082969,jan sewi meli Jametu,
-Q135578848,jan sewi suli Sipuminosukune,
-Q402052,jan sewi nanpa tu wan pi open,
-Q137374543,tu,nimi:tu
-Q137374185,alasa,nimi:alasa
-Q137374209,kasi,nimi:kasi
-Q137374241,namako,nimi:namako
-Q137374532,suli,nimi:suli
-Q137374279,sijelo,nimi:sijelo
-Q137763638,toki pona rare words,
-Q137763252,akesi kon,
-Q137763260,ijo anu,
-Q11246131,tomo sewi suli Pujo,
+Q137763608,tomo monsuta,
+Q137763619,tonsi sin,
+Q137771463,tomo utala,
+Q137763578,sitelen ike,
+Q137763873,sikomo,
 Q1062960,toki Kijasinki,toki Kijasinki
-Q11651340,tomo sewi Apumitakituki,
+Q11246131,tomo sewi suli Pujo,
 Q11541857,tomo sewi Enokitu,
-Q1065363,toki Epelanto nanpa tu,
+Q11651340,tomo sewi Apumitakituki,
 Q11451521,tomo sewi Atatala,
-Q131385766,jan Pijan Tonson,
-Q132183448,Module:Entrypoint,Module:Entrypoint
+Q1065363,toki Epelanto nanpa tu,
 Q132830940,Module:Docbunto,Module:Docbunto
+Q132183448,Module:Entrypoint,Module:Entrypoint
+Q135336533,jan Kewin Kukan,
 Q130085565,jan Nawajonotepo,
+Q131385766,jan Pijan Tonson,
 Q1755974,jan sewi Asuminowisola,
+Q134693528,jan Sesi Wo,
+Q137763638,toki pona rare words,
 Q602536,ilo tenpo Kasijo F-91W,ilo tenpo Kasijo F-91W
 Q12697322,tomo sewi Lasa Nalin Sa pi nasin sewi Isilan,
 Q112007394,tomo 1969 Business,
 Q112007431,tomo Station Eight,
 Q124499616,nasin nanpa,
 Q135511874,jan Sen Tamula,
-Q133823098,jan Kita,
+Q3229773,toki Nosa,toki Nosa
+Q128866640,tomo sewi Owinetuka,
+Q135193313,tomo sewi Atasi,
+Q11465292,tomo sewi Enkisiki ale lon ma Owali,
 Q2076907,moku Jupesi,moku Jupesi
-Q137760739,kulupu pi toki pona pi ma Anku,kulupu pi toki pona pi ma Anku
-Q116220634,lipu Wikisitelen pi toki pona,
-Q137727460,pe,
-Q137727409,ja,
-Q137727462,pi,
-Q137727411,je,
-Q137727484,tu,
+Q133823098,jan Kita,
+Q135433745,tomo sewi Utukumalu,
+Q22120106,tomo sewi Kinatulu,
 Q135155849,tomo sewi Inali en tomo sewi Susin,
-Q135578871,jan sewi Kukamiminomikasa,
+Q135461607,tomo sewi Aduma,
+Q135506351,jan sewi meli Usitu,
+Q135506344,jan sewi meli Usi,
+Q133260613,jan sewi meli Atakajanusitakiki,
+Q135578867,jan sewi meli Mitu,
 Q86728350,jan sewi suli Jasukayotoko,
+Q135578871,jan sewi Kukamiminomikasa,
 Q133505245,jan sewi Amenopinomitama,
 Q135195558,jan sewi Kijosu,
 Q135506347,jan sewi Kuninusi,
 Q135579611,jan sewi meli Tomikija,
-Q135506344,jan sewi meli Usi,
-Q135506351,jan sewi meli Usitu,
-Q133260613,jan sewi meli Atakajanusitakiki,
-Q135578867,jan sewi meli Mitu,
-Q135461607,tomo sewi Aduma,
-Q135433745,tomo sewi Utukumalu,
-Q22120106,tomo sewi Kinatulu,
-Q137763796,mono,
-Q137763844,pensa,
+Q116220634,lipu Wikisitelen pi toki pona,
+Q137727462,pi,
+Q137727484,tu,
+Q137727460,pe,
+Q137727409,ja,
+Q137727411,je,
+Q137374213,kili,nimi:kili
+Q137374291,waso,nimi:waso
+Q137760739,kulupu pi toki pona pi ma Anku,kulupu pi toki pona pi ma Anku
+Q137763698,jume,
+Q137763741,kolisin,
+Q137763348,ijo pini,
+Q137763366,ijo soweli,
+Q137763259,ijo ante,
+Q137763269,ijo jan,
+Q137763485,kule uta,
+Q137763714,kapilu,
+Q137763435,kama pona,
+Q137763441,kasi lili,
+Q137763720,kemu,
+Q137763448,kili lili,
+Q137763665,awase,
+Q137763659,api,
+Q137771378,ilo nanpa,
 Q137763570,poki tona,
-Q137771435,pilin ike,
-Q137763560,pilin pakala,
 Q137763565,pimeja laso,
-Q137763841,pasila,
+Q137763938,wekama,
 Q137771465,tu tu,
 Q137771466,tu wan,
 Q137763626,walo laso,
-Q137763896,taki,
-Q137763888,soni,
-Q137763890,stella,
-Q137763601,toki ala,
-Q137763448,kili lili,
-Q137763550,mije sama,
-Q137763938,wekama,
-Q137763885,slape,
-Q137763494,len laso,
 Q137763487,laso kasi,
-Q137763741,kolisin,
-Q137763485,kule uta,
-Q137763720,kemu,
-Q137763797,motan,
+Q137763494,len laso,
+Q137763764,lipamanka,
+Q137763888,soni,
+Q137763550,mije sama,
 Q137771407,lipu toki,
 Q137763769,lokoso,
-Q137763764,lipamanka,
-Q137763665,awase,
-Q137763259,ijo ante,
-Q137763659,api,
-Q137763269,ijo jan,
-Q137763348,ijo pini,
-Q137763366,ijo soweli,
-Q137771378,ilo nanpa,
-Q137763714,kapilu,
-Q137763441,kasi lili,
-Q137763435,kama pona,
-Q137763698,jume,
-Q137374213,kili,nimi:kili
-Q137374291,waso,nimi:waso
-Q128866640,tomo sewi Owinetuka,
-Q3229773,toki Nosa,toki Nosa
-Q11465292,tomo sewi Enkisiki ale lon ma Owali,
+Q137763896,taki,
+Q137763601,toki ala,
+Q137763796,mono,
+Q137763797,motan,
+Q137763885,slape,
+Q137763890,stella,
+Q137763844,pensa,
+Q137771435,pilin ike,
+Q137763560,pilin pakala,
+Q137763841,pasila,
 Q125562425,"kalama musi ""mama pona Kin Sonun""","kalama musi ""mama pona Kin Sonun"""
-Q135193313,tomo sewi Atasi,
 Q135194236,tomo sewi Sumetaliponomikoto en tomo sewi Suwa,
-Q16887380,kulupu,kulupu
 Q139913169,kulupu:ilo pi toki pona,kulupu:ilo pi toki pona
-Q39221816,Module:If preview,Module:If preview
+Q16887380,kulupu,kulupu
 Q7486321,kipisi:JD,kipisi:JD
 Q9963090,kulupu:tok-5,kulupu:tok-5
+Q39221816,Module:If preview,Module:If preview
 Q116203680,sitelen pilin,
 Q133832264,jan Itan,
 Q129169826,jan Kekan San,jan Kekan San
+Q3458479,sitelen lape sona,sitelen lape sona
+Q137220201,kulupu:toki pi kulupu toki Apika Asija,
 Q125259914,kasi pimeja,
-Q137727405,o,
 Q137727445,mon,
 Q137727421,ki,
 Q137727410,jan,
-Q137727475,son,
 Q137727425,ku,
+Q137727475,son,
+Q137727405,o,
 Q137727416,jun,
-Q137220201,kulupu:toki pi kulupu toki Apika Asija,
-Q3458479,sitelen lape sona,sitelen lape sona
+Q86734190,jan sewi Ipukitonusi,
+Q55523289,jan sewi Totujamisakitala,
+Q135328861,jan sewi Milonami,
+Q10928456,jan sewi Nawi,
 Q135505756,jan sewi mije Ijosu,
 Q109594446,jan sewi mije Kotama,
 Q1072517,akesi seli Su,akesi seli Su
-Q86734190,jan sewi Ipukitonusi,
-Q135328861,jan sewi Milonami,
-Q10928456,jan sewi Nawi,
-Q55523289,jan sewi Totujamisakitala,
-Q97195862,tomo sewi Onatuka,
-Q134955895,tomo sewi Atuma,
-Q135260227,tomo sewi Sintotakijowitumo,
-Q135433895,tomo sewi Ojamatumi,
-Q11505106,tomo sewi Enkisiki ale lon ma Kijuka,
-Q11632546,tomo sewi Enkisiki ale lon ma Sanuki,
-Q11498723,tomo sewi Enkisiki ale lon ma Kalima,
-Q137763805,natu,
-Q137763295,ijo len,
+Q117997886,jan Se Kape,
+Q137374533,suno,nimi:suno
+Q137374199,ilo,nimi:ilo
+Q137104206,kokosila,nimi:kokosila
 Q137763292,ijo kute,
-Q137763308,ijo mani,
+Q137763805,natu,
 Q137763333,ijo nimi,
 Q137763365,ijo sona,
-Q137763323,ijo mute,
-Q137763374,ijo taso,
+Q137763295,ijo len,
 Q137374200,insa,nimi:insa
 Q137763675,inta,
-Q137763687,jami,
-Q137763730,kije,
-Q137763788,melinjakulekule,
+Q137763850,polinpin,
+Q137763864,satun,
 Q137763525,lupa lili,
 Q137771420,lupa monsi,
-Q135328861,jan sewi Milonami,
-Q10928456,jan sewi Nawi,
-Q117997886,jan Se Kape,
-Q134917288,tomo sewi suli Enkisiki,
+Q137763839,panpan,
+Q137771436,pilin pona,
+Q137771438,poki lili,
+Q137763944,wikipesija,
+Q137763687,jami,
+Q137763810,nito,
+Q137763916,tuwa,
+Q137763323,ijo mute,
+Q137763614,tonsi ike,
+Q137763730,kije,
+Q137763788,melinjakulekule,
+Q137763886,snoweli,
+Q137763894,ta,
+Q137763308,ijo mani,
+Q137763374,ijo taso,
 Q137883484,a suli,
 Q11498723,tomo sewi Enkisiki ale lon ma Kalima,
 Q11505106,tomo sewi Enkisiki ale lon ma Kijuka,
 Q11632546,tomo sewi Enkisiki ale lon ma Sanuki,
-Q135260227,tomo sewi Sintotakijowitumo,
-Q135433895,tomo sewi Ojamatumi,
 Q97195862,tomo sewi Onatuka,
 Q134955895,tomo sewi Atuma,
+Q135260227,tomo sewi Sintotakijowitumo,
+Q135433895,tomo sewi Ojamatumi,
 Q133571571,tomo sewi Apesinso,
-Q1072517,akesi seli Su,akesi seli Su
-Q135505756,jan sewi mije Ijosu,
-Q109594446,jan sewi mije Kotama,
-Q86734190,jan sewi Ipukitonusi,
-Q55523289,jan sewi Totujamisakitala,
 Q7867554,tomo tawa telo Pali,tomo tawa telo Pali
+Q10585097,tenpo pi suno suli meso lon ma Sensa,tenpo pi suno suli meso lon ma Sensa
 Q137374217,ko,nimi:ko
 Q137763693,jew,
 Q4850829,kulupu esun Pali,kulupu esun Pali
-Q10585097,tenpo pi suno suli meso lon ma Sensa,tenpo pi suno suli meso lon ma Sensa
 Q20204151,lupa,lupa
 Q11387216,tomo sewi Takeminakata en tomo sewi Minomikotopikokamiwake,
 Q125361644,jan Isale La,
 Q136654073,Module:Docbunto/references,Module:Docbunto/references
+Q135321712,jan Jon Anu,
+Q139525888,jan Tala Onpe,
+Q136769248,kala Positasela,
+Q134917288,tomo sewi suli Enkisiki,
 Q9391,jan Luwi Wikensan,
 Q124130688,nanpa Pulimu,nanpa Pulimu
 Q137101578,lipu sewi pi toki pona,lipu sewi pi toki pona
 Q137127054,palisa utala,palisa utala
-Q120268901,jan Takan Su,
 Q125280478,kiwen ike,
 Q137763936,we,
 Q11361283,tomo sewi Enkisiki ale lon ma Simosa,
@@ -7096,38 +7185,37 @@ Q137763539,meli pona,
 Q137763543,meli wawa,
 Q137760199,esun,esun
 Q130288176,soweli Mu Ten,soweli Mu Ten
-Q16748570,pipi Anelosimu Pali,pipi Anelosimu Pali
-Q11368516,tomo sewi Enkisiki ale lon ma Tanko,
-Q11611527,tomo sewi Enkisiki ale lon ma Kisen,
-Q11379707,tomo sewi Ime en tomo sewi Kasimanku,
 Q139382446,jan Awan Konen,
 Q137771396,kule kasi,
 Q7269475,ko,ko
 Q17220848,tomo sewi Kala,
 Q137374187,ali,nimi:ali
-Q131984388,tenpo nanpa mute mute mute mute tu pi ma ale pi sitelen tawa lon ma Wenesija,
 Q22719204,sinpin pi pilin ala li sama jan jaki,sinpin pi pilin ala li sama jan jaki
 Q130354159,kama kulupu Ijoko lon tenpo sike 2025,
+Q16748570,pipi Anelosimu Pali,pipi Anelosimu Pali
+Q11368516,tomo sewi Enkisiki ale lon ma Tanko,
+Q11611527,tomo sewi Enkisiki ale lon ma Kisen,
+Q11379707,tomo sewi Ime en tomo sewi Kasimanku,
+Q11395853,tomo sewi Enkisiki ale lon ma Isumo,
+Q135525854,pipi Akopila Ata,
+Q11391709,tomo sewi Kasinten,
+Q6332734,kulupu:User pt-BR,kulupu:User pt-BR
+Q31081639,kulupu:zh-Hans-CN-2,kulupu:zh-Hans-CN-2
 Q6908712,telo Mosi,telo Mosi
 Q29471598,sitelen Parahumans,sitelen Parahumans
 Q135224352,ilo:Lipu_wan_tan_nasa,ilo:Lipu wan tan nasa
-Q121368207,sitelen pi poki jaki Kipisi,sitelen pi poki jaki Kipisi
-Q11391709,tomo sewi Kasinten,
-Q11395853,tomo sewi Enkisiki ale lon ma Isumo,
-Q135070027,tomo sewi Asikowisopu,
-Q135525854,pipi Akopila Ata,
-Q6332734,kulupu:User pt-BR,kulupu:User pt-BR
-Q11639721,tomo sewi Kajatani,tomo sewi Kajatani
-Q31081639,kulupu:zh-Hans-CN-2,kulupu:zh-Hans-CN-2
 Q107406476,kulupu Mise,kulupu Mise
+Q135070027,tomo sewi Asikowisopu,
+Q11639721,tomo sewi Kajatani,tomo sewi Kajatani
+Q131984388,tenpo nanpa mute mute mute mute tu pi ma ale pi sitelen tawa lon ma Wenesija,
+Q120268901,jan Takan Su,
+Q135960758,jan Ali Aka,
+Q139381008,jan Selina Pepa,
+Q137376140,jan Maja Wato,
+Q138034707,jan Nikola Kalo Lawijole,
+Q121368207,sitelen pi poki jaki Kipisi,sitelen pi poki jaki Kipisi
+Q6390137,jan Kene Ko,
 Q15920621,ma sona meso nanpa wan lon ma tomo Lilin,
-Q135976834,tomo pi awen jan pi ma Wesipi,
-Q125280194,suno,
-Q116187421,luka pona,luka pona
-Q137727435,lu,
-Q137727430,len,
-Q137727478,ta,
-Q137727429,le,
 Q124422915,lipu su,lipu su
 Q137384703,sitelen pona,sitelen pona (kon ante)
 Q130633680,kulupu nanpa Tesima,kulupu nanpa Tesima
@@ -7137,123 +7225,134 @@ Q137374264,pimeja,nimi:pimeja
 Q137374257,palisa,nimi:palisa
 Q137374283,sinpin,nimi:sinpin
 Q137374549,wawa,nimi:wawa
+Q116187421,luka pona,luka pona
+Q125280194,suno,
+Q137727478,ta,
+Q137727435,lu,
+Q137727430,len,
+Q137727429,le,
 Q137771394,ko jaki,
-Q137763507,lipu nanpa,
-Q137763768,lokon,
-Q137771413,luka luka wan,
-Q137771414,luka tu,
-Q137763495,len lili,
-Q137763544,mije ike,
-Q137763785,me,
-Q137771423,ma pona,
-Q137771424,ma tomo,
-Q137771421,ma ale,
-Q137374262,pi,nimi:pi
-Q137763569,poki seli,
-Q137763562,pilin sama,
-Q137763396,ike lukin,
-Q137763369,ijo suno,
-Q137763339,ijo pakala,
-Q137763254,ijo ala,
-Q137763267,ijo insa,
-Q137763258,ijo anpa,
-Q137763402,jan ala,
 Q137763742,kolo,
-Q137763555,nena lili,
 Q137763609,tomo nasin,
-Q137763818,ojuta,
-Q137763826,oni,
+Q137763267,ijo insa,
+Q137763402,jan ala,
+Q137763785,me,
+Q137763544,mije ike,
 Q137763577,sike lili,
-Q137763326,ijo nanpa,
+Q137763339,ijo pakala,
+Q137763369,ijo suno,
 Q137763328,ijo nasin,
-Q137763315,ijo moku,
-Q137374377,kipisi,nimi:kipisi
-Q137763726,keTami,
-Q125259880,mun nasa,
 Q137763912,tonyu,
 Q137763915,towan,
-Q137763627,walo loje,
 Q137763918,umesu,
 Q137763928,wa,
-Q137374463,san,
-Q137374462,po,
-Q11668489,tomo sewi Enkisiki ale lon ma Suluka,
-Q11654882,tomo sewi Enkisiki ale lon ma Nakato,
-Q134926905,tomo sewi Wasitu,
-Q135506346,jan sewi meli Tamula,
+Q137763627,walo loje,
+Q137763254,ijo ala,
+Q137763258,ijo anpa,
+Q137763507,lipu nanpa,
+Q137763495,len lili,
+Q137763818,ojuta,
+Q137763826,oni,
+Q137374262,pi,nimi:pi
+Q137763562,pilin sama,
+Q137763396,ike lukin,
+Q137374377,kipisi,nimi:kipisi
+Q137763315,ijo moku,
+Q137763326,ijo nanpa,
+Q137763569,poki seli,
+Q137763555,nena lili,
+Q137763726,keTami,
+Q137771423,ma pona,
+Q137771424,ma tomo,
+Q137771413,luka luka wan,
+Q137771414,luka tu,
+Q137763768,lokon,
+Q137771421,ma ale,
+Q135976834,tomo pi awen jan pi ma Wesipi,
+Q125259880,mun nasa,
 Q137374274,seli,nimi:seli
-Q135463938,tomo sewi Ikadusi,
+Q11654882,tomo sewi Enkisiki ale lon ma Nakato,
+Q11668489,tomo sewi Enkisiki ale lon ma Suluka,
+Q134926905,tomo sewi Wasitu,
 Q134957909,tomo sewi Ikatusi,
 Q135009157,tomo sewi pi mani pana tawa tenpo musi sewi mun en tenpo musi sewi Niname en tenpo musi sewi Ajaname,
+Q135463938,tomo sewi Ikadusi,
+Q137374462,po,
+Q137374463,san,
+Q135506346,jan sewi meli Tamula,
 Q7396551,kala Sakapanpapi,kala Sakapanpapi
+Q121502794,jan Topiku Wosuman,
 Q137355587,kipisi:sitelen,kipisi:sitelen
 Q131819891,musi suli,
-Q121502794,jan Topiku Wosuman,
 Q6189726,kulupu:ma Asija lete,kulupu:ma Asija lete
 Q6333031,kulupu:th-3,kulupu:th-3
-Q133897010,musi Openpon,musi Openpon
 Q139077206,jan Sipen Makola,
+Q2310501,jan Ale Wan Lantekem,
+Q137798955,jan Ton Mason,
+Q133897010,musi Openpon,musi Openpon
 Q129112643,jan Osilo,
 Q131564089,jan Sosuwa Wata,
 Q136927900,soweli Brachylagus idahoensis,soweli Brachylagus idahoensis
 Q125528309,suno pi toki pona,suno pi toki pona
 Q129172320,ilo Opa Pin,ilo Opa Pin
-Q125727708,soweli pona tan ma Ponopekase,soweli pona tan ma Ponopekase
 Q137261308,len noka,len noka
 Q124661570,jan lawa Oliki,
-Q137727407,u,
-Q137727452,ni,
-Q137727490,wi,
-Q137727442,mi,
+Q137374219,kon,nimi:kon
 Q137374313,lipu,nimi:lipu
 Q137374317,lukin,nimi:lukin
 Q137374318,lupa,nimi:lupa
-Q137374219,kon,nimi:kon
-Q137763642,aka,
 Q137771387,jan sewi,
-Q137374208,kama,nimi:kama
-Q137763709,kani,
-Q137763670,fairfax,
-Q137771422,ma ali,
 Q137763422,jan pona,
-Q137763681,isipin,
-Q137763414,jan kulupu,
-Q137763334,ijo noka,
-Q137763332,ijo ni li seme,
-Q137763794,misa,
-Q137763458,kiwen lili,
-Q137763462,kiwen pona,
 Q137771459,toki sona,
-Q137763266,ijo ilo,
-Q137771371,ijo lili,
-Q137763496,len loje,
-Q137763863,sapelipope,
-Q137763567,poki kon,
-Q137763649,amanka,
-Q137763644,ako,
-Q137771392,kili palisa,
-Q137763447,kili laso,
-Q137763892,sulaso,
+Q137763642,aka,
 Q137763552,mije wawa,
 Q137763784,matula,
 Q137763535,mama tonsi,
 Q137763545,mije lili,
-Q5602770,"lipu ""jan Lama laso""","lipu ""jan Lama laso"""
-Q2357439,ilo YM2149,ilo YM2149
-Q134926763,tomo sewi Ojamatumi,
-Q11490396,tomo sewi Tokuwinali en tomo sewi Kotopila,
-Q11457944,tomo sewi Telatupasimansija,
-Q11380552,tomo sewi Enkisiki ale lon ma Isu,
-Q123404756,musi Liso Kanpani,musi Liso Kanpani
-Q135578874,jan sewi Niwatume,
-Q135503341,jan sewi suli Anawa,
+Q137763649,amanka,
+Q137763644,ako,
+Q137763458,kiwen lili,
+Q137763462,kiwen pona,
+Q137763447,kili laso,
+Q137771392,kili palisa,
+Q137763681,isipin,
+Q137763414,jan kulupu,
+Q137763794,misa,
+Q137763266,ijo ilo,
+Q137763670,fairfax,
+Q137763496,len loje,
+Q137763863,sapelipope,
+Q137763567,poki kon,
+Q137771371,ijo lili,
+Q137763332,ijo ni li seme,
+Q137763334,ijo noka,
+Q137763709,kani,
+Q137763892,sulaso,
+Q137374208,kama,nimi:kama
+Q137771422,ma ali,
+Q137727407,u,
+Q137727490,wi,
+Q137727452,ni,
+Q137727442,mi,
+Q134597552,tomo sewi Oseki,
 Q11636413,tomo sewi Enkisiki ale lon ma Esisen,
 Q11604948,tomo sewi Enkisiki ale lon ma Ki,
-Q134597552,tomo sewi Oseki,
+Q135578874,jan sewi Niwatume,
+Q135503341,jan sewi suli Anawa,
+Q11457944,tomo sewi Telatupasimansija,
+Q123404756,musi Liso Kanpani,musi Liso Kanpani
+Q5602770,"lipu ""jan Lama laso""","lipu ""jan Lama laso"""
+Q11490396,tomo sewi Tokuwinali en tomo sewi Kotopila,
+Q11380552,tomo sewi Enkisiki ale lon ma Isu,
+Q134926763,tomo sewi Ojamatumi,
+Q2357439,ilo YM2149,ilo YM2149
 Q134088903,ma Palata en ma Pakisan li utala lon tenpo sike nanpa 2025,ma Palata en ma Pakisan li utala lon tenpo sike nanpa 2025
-Q117828429,nimi Κλεοπάτρα,
 Q8825565,kulupu:jbo-1,kulupu:jbo-1
 Q18694018,Module:sona li ala la,Module:sona li ala la
+Q117828429,nimi Κλεοπάτρα,
+Q137886383,soweli Welonika,
+Q139666530,jan Kise Kosi,
+Q125727708,soweli pona tan ma Ponopekase,soweli pona tan ma Ponopekase
 Q119748015,ma Nijon li pana e misikeke seme tan ala e ''ike Nijon''?,
 Q117349980,lawa li poki e jan Ulisi-Se-Kanta,
 Q137441001,lupa meli,lupa meli
@@ -7264,238 +7363,242 @@ Q137727432,lin,
 Q137727476,su,
 Q137760208,nena,nena
 Q137760211,sike,sike
-Q137104235,sitelen,nimi:sitelen
-Q136807956,jan sewi Sikijamanusi,
 Q134350458,jan sewi Takamen,
+Q136807956,jan sewi Sikijamanusi,
 Q133796594,jan sewi Amenosukino,
-Q119318528,soweli Sinija,
-Q137374997,nimi pi toki pona,
-Q19368633,nimi pu,nimi pu
-Q112075129,jaki,jaki
-Q137374451,ku,nimi:ku
-Q137374289,tawa,nimi:tawa
-Q137374268,poka,nimi:poka
-Q137374278,sewi,nimi:sewi
-Q137374304,lape,nimi:lape
-Q137374238,musi,nimi:musi
-Q137763363,ijo sinpin,
-Q137763352,ijo pona,
-Q137763453,kili walo,
-Q137771404,lipu sewi,
-Q137763418,jan olin,
-Q137763454,kiwen ike,
-Q137771393,kiwen kasi,
-Q137763556,nena meli,
-Q137763701,kaken,
-Q137763433,kala lili,
-Q137768892,melome,
-Q137763899,te,
-Q137763855,pulaso,
-Q137763707,kan,
-Q137763436,kasi jelo,
-Q137763586,sona utala,
-Q137763591,supa pali,
-Q137768897,sutopatikuna,
-Q137763579,sitelen monsuta,
+Q135433502,tomo sewi Tojokejamatumi,
 Q137763289,ijo kule,
-Q137763513,luka luka luka tu,
-Q137763517,luka luka luka wan,
-Q137763527,lupa tomo,
-Q137763532,mama mama,
-Q137763877,sipi,
-Q137763891,suke,
-Q137763867,siiilapa,
-Q137763866,seki,
+Q137763453,kili walo,
 Q137763926,votgil,
 Q137763927,vriska,
+Q137763418,jan olin,
+Q137768892,melome,
+Q137763363,ijo sinpin,
+Q137763352,ijo pona,
+Q137763591,supa pali,
+Q137768897,sutopatikuna,
+Q137763899,te,
+Q137763527,lupa tomo,
+Q137763532,mama mama,
+Q137763586,sona utala,
+Q137763877,sipi,
+Q137763867,siiilapa,
+Q137763891,suke,
+Q137763579,sitelen monsuta,
+Q137763866,seki,
+Q137771393,kiwen kasi,
+Q137763454,kiwen ike,
+Q137763513,luka luka luka tu,
+Q137763517,luka luka luka wan,
+Q137771404,lipu sewi,
+Q137763855,pulaso,
+Q137763701,kaken,
+Q137763433,kala lili,
+Q137763436,kasi jelo,
+Q137763707,kan,
+Q137763556,nena meli,
+Q137374278,sewi,nimi:sewi
+Q137374289,tawa,nimi:tawa
+Q137374451,ku,nimi:ku
+Q137374304,lape,nimi:lape
+Q137374238,musi,nimi:musi
+Q137374268,poka,nimi:poka
+Q112075129,jaki,jaki
+Q135464613,jan sewi Odu,
+Q11395784,tomo sewi Enkisiki ale lon ma Tewa,
 Q11417778,tomo sewi Enkisiki ale lon ma Isumi,
 Q11356190,tomo sewi Enkisiki ale lon ma Mikawa,
 Q11609223,tomo sewi Enkisiki ale lon ma Mino,
-Q11395784,tomo sewi Enkisiki ale lon ma Tewa,
-Q135464613,jan sewi Odu,
-Q135433502,tomo sewi Tojokejamatumi,
-Q64015809,musi Manka la lipu pini,musi Manka la lipu pini
-Q125030260,jan Ma Pisa,jan Ma Pisa
+Q119318528,soweli Sinija,
+Q19368633,nimi pu,nimi pu
 Q137189659,"a, pilin mi o",
+Q64015809,musi Manka la lipu pini,musi Manka la lipu pini
 Q13300983,kulupu:bm-N,kulupu:bm-N
 Q7432483,ma sona Powilan,
-Q133574091,tawa ma lon ma Mijama lon tenpo sike nanpa 2025,tawa ma lon ma Mijama lon tenpo sike nanpa 2025
 Q11920728,poka open,poka open
+Q65762482,kulupu:User zh-Hans-SG,kulupu:User zh-Hans-SG
+Q133574091,tawa ma lon ma Mijama lon tenpo sike nanpa 2025,tawa ma lon ma Mijama lon tenpo sike nanpa 2025
 Q137940863,Module:Unindent,Module:Unindent
 Q80877297,jan Ama Ali Kawin,
-Q65762482,kulupu:User zh-Hans-SG,kulupu:User zh-Hans-SG
-Q139821980,tenpo sike nanpa 2026 la jan pakala tan jaki sijelo Epola lon ma Apika,tenpo sike nanpa 2026 la jan pakala tan jaki sijelo Epola lon ma Apika
-Q6333770,kulupu:eo-2,kulupu:eo-2
 Q9800899,meli pi olin meli,meli pi olin meli
+Q6333770,kulupu:eo-2,kulupu:eo-2
+Q138292936,jan Mala Kome,
+Q117389176,jan Nasija Sonwi,
+Q139821980,tenpo sike nanpa 2026 la jan pakala tan jaki sijelo Epola lon ma Apika,tenpo sike nanpa 2026 la jan pakala tan jaki sijelo Epola lon ma Apika
+Q137104235,sitelen,nimi:sitelen
+Q137374997,nimi pi toki pona,
+Q125030260,jan Ma Pisa,jan Ma Pisa
 Q124498716,sitelen pona pi toki sike,sitelen pona pi toki sike
 Q137176724,jan Pije,jan Pije
-Q86725467,jan sewi Kamunayopi,
-Q135493216,jan sewi Kamopa,
-Q133822045,tawa pini tan pilin ante lon ma Mewika lon tenpo sike nanpa 2025,tawa pini tan pilin ante lon ma Mewika lon tenpo sike nanpa 2025
-Q16257564,kili pi palisa pimeja,kili pi palisa pimeja
+Q116187618,toki Kokanu,toki Kokanu
+Q133832201,jan Alonola,jan Alonola
+Q137220312,ilo nanpa,ilo nanpa pi jan Sate
 Q125259924,oko pi ale,
 Q125299066,jan sin,
 Q5390555,ma tomo Linu,
-Q137220312,ilo nanpa,ilo nanpa pi jan Sate
-Q116187618,toki Kokanu,toki Kokanu
-Q133832201,jan Alonola,jan Alonola
-Q137727463,pin,
-Q137727415,ju,
-Q137727464,po,
-Q137727433,lo,
-Q137727434,lon,
-Q137727472,si,
-Q137374538,telo,nimi:telo
-Q137374197,ijo,nimi:ijo
-Q137374210,ken,nimi:ken
-Q137374225,mani,nimi:mani
 Q137760736,supa monsi,supa monsi
-Q137763686,jalepu,
-Q137763423,jan seme,
-Q137771403,lipu nimi,
-Q137771405,lipu sona,
-Q137763501,len sin,
-Q137763588,supa lawa,
-Q137763589,supa lupa,
-Q137763904,tensi,
-Q137763398,ilo lape,
+Q137727434,lon,
+Q137763268,ijo jaki,
 Q137763526,lupa nena,
 Q137763528,ma ike,
-Q137763605,toki utala,
-Q137763645,aku,
-Q137763933,wasoweli,
-Q137763268,ijo jaki,
-Q137763428,jan unpa,
-Q137763688,jans,
-Q137763358,ijo sewi,
-Q137763340,ijo pake,
-Q137763482,kule sewi,
-Q137763661,asu,
 Q137374190,anu,nimi:anu
 Q137374194,en,nimi:en
 Q137763667,eni,
+Q137763661,asu,
 Q137763722,kepa,
 Q137763713,kapesi,
+Q137763340,ijo pake,
+Q137763358,ijo sewi,
+Q137763482,kule sewi,
+Q137763645,aku,
+Q137763686,jalepu,
+Q137763398,ilo lape,
+Q137763688,jans,
+Q137763423,jan seme,
+Q137763428,jan unpa,
+Q137771403,lipu nimi,
+Q137771405,lipu sona,
+Q137763501,len sin,
+Q137763933,wasoweli,
+Q137763816,nuwa,
 Q137763811,nlsn,
 Q137763812,nowi,
 Q137763814,nusun,
-Q137763816,nuwa,
+Q137763904,tensi,
+Q137763588,supa lawa,
+Q137763589,supa lupa,
+Q137763605,toki utala,
+Q137374538,telo,nimi:telo
+Q137374210,ken,nimi:ken
+Q137374225,mani,nimi:mani
+Q137374197,ijo,nimi:ijo
+Q137727433,lo,
+Q137727464,po,
+Q137727463,pin,
+Q137727472,si,
+Q137727415,ju,
+Q125280886,jan tawa ike,
+Q137763279,ijo kepeken,
 Q137374460,pata,
-Q130278721,tomo sewi Kubijamakanon,
+Q86725467,jan sewi Kamunayopi,
+Q135493216,jan sewi Kamopa,
 Q11657514,tomo sewi Enkisiki ale lon ma Awa,
 Q11636502,tomo sewi Enkisiki ale lon ma Esiko,
 Q11481683,tomo sewi Enkisiki ale lon ma Kitasi,
-Q137763279,ijo kepeken,
-Q125280886,jan tawa ike,
-Q137763786,meso,
+Q130278721,tomo sewi Kubijamakanon,
+Q133822045,tawa pini tan pilin ante lon ma Mewika lon tenpo sike nanpa 2025,tawa pini tan pilin ante lon ma Mewika lon tenpo sike nanpa 2025
+Q16257564,kili pi palisa pimeja,kili pi palisa pimeja
 Q115113219,tomo sewi Kituki,
 Q129255921,tomo sewi Otupasimanku,
-Q135198053,tomo sewi Ojunopala en tomo sewi Ama,
+Q132581333,jan Pije Nikola Male,
 Q135040568,tomo sewi Asipesopeno,
-Q135039659,tomo sewi Asiko,
+Q137763786,meso,
+Q135198053,tomo sewi Ojunopala en tomo sewi Ama,
 Q137374305,laso,nimi:laso
 Q135019513,jan sewi Amaniwatowakanokami,
 Q123127825,kipisi Kota,kipisi Kota
 Q10372207,ma Antasika,
 Q132581333,jan Pije Nikola Male,
 Q137374239,mute,nimi:mute
-Q137760202,kijetesantakalu,kijetesantakalu
 Q6333751,kulupu:zh-Hans-2,kulupu:zh-Hans-2
 Q6332896,kulupu:sk-3,kulupu:sk-3
 Q13194720,kulupu pi kule olin unpa tonsi,kulupu pi kule olin unpa tonsi
 Q42417569,pan suwi pi telo Panta,pan suwi pi telo Panta
+Q126453806,jan Eko Nimako,
+Q137760202,kijetesantakalu,
 Q30635686,nena ma Melawan,
 Q119228903,kijetesantakalu,
 Q135512019,jan Alan Esijen,
-Q7826754,nena ma Topenkaki,nena ma Topenkaki
+Q137441827,jan Ke,jan Ke
 Q13071567,tomo insa pi jan ike lon ma tomo Mantale,tomo insa pi jan ike lon ma tomo Mantale
+Q7826754,nena ma Topenkaki,nena ma Topenkaki
 Q124422986,jan Osu pi wawa nasa,
 Q125259902,sama pi ilo tenpo,
-Q137441827,jan Ke,jan Ke
-Q137727406,on,
-Q137727420,ken,
-Q137727470,se,
 Q137727489,wen,
 Q137727419,ke,
 Q137727458,pa,
 Q137727422,kin,
-Q55532732,jan sewi Nijemotunoko,
-Q109598469,jan sewi meli Tama,
-Q129169795,ilo Muni,ilo Muni
-Q137374183,akesi,nimi:akesi
-Q11378973,tomo sewi Enkisiki ale lon ma Ise,
-Q11622280,tomo sewi Enkisiki ale lon ma Satuma,
-Q139026030,kijetesantakalu Konla,
-Q11559808,tomo sewi Enkisiki ale lon ma Awasi,
-Q137374193,e,nimi:e
-Q137374249,o,nimi:o
+Q137727420,ken,
+Q137727470,se,
+Q137727406,on,
 Q137374224,mama,nimi:mama
 Q137374319,ma,nimi:ma
-Q137374233,moli,nimi:moli
+Q135010765,sina,nimi:sina
 Q137374392,soko,nimi:soko
+Q137374233,moli,nimi:moli
 Q137374246,ni,nimi:ni
 Q137104254,noka,nimi:noka
 Q137374242,nanpa,nimi:nanpa
-Q135010765,sina,nimi:sina
-Q137763612,tomo telo,
+Q137374193,e,nimi:e
+Q137374249,o,nimi:o
+Q133251743,jan Mamu Kali,
+Q124130633,nanpa pi anpa len (sitelen tawa),nanpa pi anpa len (sitelen tawa)
+Q122958648,nimi.li,
+Q5976544,mi ken moku e kiwen lukin. ni li pakala ala e mi.,mi ken moku e kiwen lukin. ni li pakala ala e mi.
+Q1073,insa lawa,insa lawa
+Q11559808,tomo sewi Enkisiki ale lon ma Awasi,
+Q55532732,jan sewi Nijemotunoko,
+Q109598469,jan sewi meli Tama,
+Q137374461,peta,
+Q17212793,tomo sewi Enkisiki ale lon ma Pusen,
+Q11636380,tomo sewi Enkisiki ale lon ma Etu,
+Q11546334,tomo sewi Enkisiki ale lon ma Musasi,
+Q11423010,tomo sewi Enkisiki ale lon ma Tosa,
+Q129169795,ilo Muni,ilo Muni
+Q137763901,temi,
+Q137763592,tawa pona,
 Q137763632,wan tu,
 Q137763931,waken,
 Q137763623,tu luka,
-Q137763592,tawa pona,
-Q137771461,tomo sona,
-Q137763368,ijo suli,
-Q137763350,ijo poka,
-Q137763353,ijo pu,
-Q137771384,jan nasa,
-Q137771388,jan sona,
-Q137763431,kala ike,
-Q137763699,juniko,
-Q137763689,jasun,
-Q137771391,kama sona,
-Q137763440,kasi laso,
-Q137374214,kin,nimi:kin
-Q137763746,konwe,
-Q137763464,kiwen suno,
-Q137763478,kule kili,
-Q137763470,ko laso,
-Q137768889,kutopoma,
-Q137763761,linku,
-Q137763505,lipu kasi,
-Q137763766,lo,
-Q137763771,lu,
-Q137763530,ma ni,
-Q137763536,meli ike,
-Q137763546,mije meli,
-Q137763542,meli unpa,
-Q137763288,ijo kon,
-Q137771369,ijo lawa,
-Q137771428,nasin nanpa,
-Q137771431,nena kute,
-Q137771434,palisa lili,
-Q137374253,open,nimi:open
 Q137763874,silani,
 Q137763860,samin,
 Q137763887,sokeli,
 Q137763581,sona ike,
 Q137763580,sona ala,
-Q137763901,temi,
-Q137374461,peta,
+Q137771461,tomo sona,
+Q137763612,tomo telo,
+Q137771391,kama sona,
+Q137763431,kala ike,
+Q137763440,kasi laso,
+Q137763699,juniko,
+Q137763464,kiwen suno,
+Q137763470,ko laso,
+Q137763766,lo,
+Q137763771,lu,
+Q137763288,ijo kon,
+Q137771369,ijo lawa,
+Q137763368,ijo suli,
+Q137763350,ijo poka,
+Q137763353,ijo pu,
+Q137771388,jan sona,
+Q137771384,jan nasa,
+Q137763689,jasun,
+Q137374214,kin,nimi:kin
+Q137768889,kutopoma,
+Q137763478,kule kili,
+Q137763746,konwe,
+Q137763761,linku,
+Q137763505,lipu kasi,
+Q137763536,meli ike,
+Q137763546,mije meli,
+Q137763530,ma ni,
+Q137763542,meli unpa,
 Q137604579,jan Tan San,
-Q17212793,tomo sewi Enkisiki ale lon ma Pusen,
-Q11636380,tomo sewi Enkisiki ale lon ma Etu,
-Q11546334,tomo sewi Enkisiki ale lon ma Musasi,
-Q11423010,tomo sewi Enkisiki ale lon ma Tosa,
-Q134734343,pilin ante tan ma tomo Losansele lon tenpo mun nanpa luka wan pi tenpo sike nanpa mute ale mute luka,pilin ante tan ma tomo Losansele lon tenpo mun nanpa luka wan pi tenpo sike nanpa mute ale mute luka
-Q5976544,mi ken moku e kiwen lukin. ni li pakala ala e mi.,mi ken moku e kiwen lukin. ni li pakala ala e mi.
-Q122958648,nimi.li,
-Q124130633,nanpa pi anpa len (sitelen tawa),nanpa pi anpa len (sitelen tawa)
-Q133251743,jan Mamu Kali,
+Q137771428,nasin nanpa,
+Q137771431,nena kute,
+Q137374253,open,nimi:open
+Q137771434,palisa lili,
+Q137374183,akesi,nimi:akesi
+Q11622280,tomo sewi Enkisiki ale lon ma Satuma,
+Q11378973,tomo sewi Enkisiki ale lon ma Ise,
+Q139026030,kijetesantakalu Konla,
 Q60618000,Module:WikidataIB/nolinks,Module:WikidataIB/nolinks
-Q139894535,kulupu:zh-Hans-SG-2,kulupu:zh-Hans-SG-2
 Q139898609,kulupu:toki sin tan toki pona,kulupu:toki sin tan toki pona
+Q139894535,kulupu:zh-Hans-SG-2,kulupu:zh-Hans-SG-2
+Q134734343,pilin ante tan ma tomo Losansele lon tenpo mun nanpa luka wan pi tenpo sike nanpa mute ale mute luka,pilin ante tan ma tomo Losansele lon tenpo mun nanpa luka wan pi tenpo sike nanpa mute ale mute luka
 Q140087692,toki kulupu pi wile pona,
-Q1073,insa lawa,insa lawa
 Q193188,pali len kepeken palisa tu,pali len kepeken palisa tu
+Q4201384,nasin Pantula,nasin Pantula
 Q3868806,tomo Muwananjamala,
 Q124545662,ma pi kulupu tu,
 Q137113978,palisa mije,palisa mije
@@ -7519,7 +7622,6 @@ Q137374401,tenpo,nimi:tenpo
 Q137374542,tonsi,nimi:tonsi
 Q137374244,nasin,nimi:nasin
 Q137374545,uta,nimi:uta
-Q137374198,ike,nimi:ike
 Q135578900,jan sewi Tejokipoi,
 Q135330329,jan sewi Totumatone,
 Q134846383,jan sewi mije Owasa,
@@ -7574,26 +7676,30 @@ Q11608745,tomo sewi Enkisiki ale lon ma Mimasaka,
 Q11674049,tomo sewi Otu,
 Q135433673,tomo sewi Ojamatumi,
 Q134926948,tomo sewi Atuma,
-Q135040969,tomo sewi Asisukino,
-Q3571342,tomo sewi Jatu,
-Q135186735,kasi sewi suwi Tejota,
 Q11553385,tomo sewi Enkisiki ale lon ma Kawasi,
-Q124498693,toki sike,toki Siki
-Q117259778,kulupu:jan sewi suli tu wan pi nasin sewi Sanatana,kulupu:jan sewi suli tu wan pi nasin sewi Sanatana
+Q3571342,tomo sewi Jatu,
+Q135040969,tomo sewi Asisukino,
 Q136473002,Li Sanpeji,
-Q139912922,kulupu:lipu monsuta,kulupu:lipu monsuta
-Q137374270,pona,nimi:pona
+Q117259778,kulupu:jan sewi suli tu wan pi nasin sewi Sanatana,kulupu:jan sewi suli tu wan pi nasin sewi Sanatana
+Q124498693,toki sike,toki Siki
 Q136654066,Module:Docbunto/i18n,Module:Docbunto/i18n
-Q29835836,jan Pejasi Sosa,
-Q130603111,kulupu Asian News International li utala e kulupu Wikimesija,
-Q34493178,kulupu:ma kipisi pi ma Mewika,kulupu:ma kipisi pi ma Mewika
-Q131318965,ijo Pentani,
-Q96149141,Module:NUMBEROF/other,Module:NUMBEROF/other
-Q7135229,kulupu:jan lawa,kulupu:jan lawa
-Q46351005,jan Ju Koni,
 Q131547081,musi pi wile sona pi meli sewi,
+Q96149141,Module:NUMBEROF/other,Module:NUMBEROF/other
+Q34493178,kulupu:ma kipisi pi ma Mewika,kulupu:ma kipisi pi ma Mewika
+Q139912922,kulupu:lipu monsuta,kulupu:lipu monsuta
+Q134984716,musi Kalito,
+Q130904282,jan Isapela Mila,
+Q137640336,jan Wali Kipon,
+Q131318965,kulupu Pentani,
+Q46351005,jan Ju Koni,
+Q7135229,kulupu:jan lawa,kulupu:jan lawa
+Q130603111,kulupu Asian News International li utala e kulupu Wikimesija,
+Q137374270,pona,nimi:pona
+Q29835836,jan Pejasi Sosa,
+Q137374198,ike,nimi:ike
+Q135186735,kasi sewi suwi Tejota,
+Q126451201,jan Kene La,
 Q3988040,jan lili li jo e palisa seli lili (sitelen tawa),jan lili li jo e palisa seli lili (sitelen tawa)
-Q137122691,mije,mije
 Q137760201,ken,ken
 Q137374196,esun,nimi:esun
 Q137374548,wan,nimi:wan
@@ -7629,7 +7735,6 @@ Q137763265,ijo ike,
 Q137763298,ijo linja,
 Q137763310,ijo meli,
 Q137763554,mute mute,
-Q99764531,jan Atan Selinki,
 Q116187571,jan Olipija,
 Q120495620,tenpo 1967 la jan mute li moli lon telo Ili tan sewi,
 Q97225997,kon pini mi,
@@ -7651,31 +7756,60 @@ Q12348386,toki Kosa (toki sin),toki Kosa (toki sin)
 Q17220832,tomo sewi Ono en tomo sewi Japiko,
 Q19740031,ma Sasinja,
 Q139589799,kulupu linja,kulupu linja
-Q124359047,Silas Santos Silva,
 Q6967592,kipisi:JULIANDAY.JULIAN,kipisi:JULIANDAY.JULIAN
 Q65713886,kulupu:kule lawa,kulupu:kule lawa
 Q6852916,kulupu:ma tomo pi ma Mulitanja,kulupu:ma tomo pi ma Mulitanja
 Q40857248,jan Kamelija,jan Kamelija
 Q112110646,jan Tantaku,
 Q268378,pali,pali wawa
+Q99764531,jan Atan Selinki,
+Q124359047,Silas Santos Silva,
+Q138657799,jan Meli Telisa Sinson,
+Q2742133,nasin Malijopolo,nasin Malijopolo
+Q134724148,jan Tejowa Si,
+Q137122691,mije,
+Q132831156,jan Sewenson Sawa,
 Q135511959,jan Sitalu Ilan,
+Q116244616,toki Kijukiju,toki Kijukiju
 Q125259869,telo pi jan suli,
-Q137727439,man,
-Q137727457,nun,
-Q137727437,ma,
 Q137727466,pu,
 Q137727488,we,
-Q116244616,toki Kijukiju,toki Kijukiju
+Q137727457,nun,
+Q137727439,man,
+Q137727437,ma,
 Q137374384,misikeke,nimi:misikeke
 Q137374234,monsi,nimi:monsi
-Q137104453,ale,nimi:ale
-Q137374207,kalama,nimi:kalama
 Q137374535,suwi,nimi:suwi
 Q137374544,unpa,nimi:unpa
-Q135037878,ipu nanpa maujna tomo sewi lon tomo sona Kokusakuwin,
-Q135462760,tomo sewi Ikadusi,
-Q11383282,tomo sewi Enkisiki ale lon ma Sato,
-Q11633695,tomo sewi Enkisiki ale lon ma Punko,
+Q137104453,ale,nimi:ale
+Q137374207,kalama,nimi:kalama
+Q120435970,a,nimi:a
+Q137763791,miko,
+Q137374374,epiku,nimi:epiku
+Q137763281,ijo kijetesantakalu,
+Q137763377,ijo tenpo,
+Q137763379,ijo tomo,
+Q137763382,ijo tu,
+Q137763393,ike ala,
+Q137763406,jan ali,
+Q137763409,jan kala,
+Q137763737,kinute,
+Q137763473,ko nasa,
+Q137763483,kule suno,
+Q137763749,kulepiku,
+Q137763655,anta,
+Q137763648,alu,
+Q137763639,aAANUSEMEmailMahjong,
+Q137763822,olala,
+Q137763823,omekalike,
+Q137763825,omen,
+Q137763832,pa,
+Q137763618,tonsi sama,
+Q137763854,pula,
+Q137763851,poman,
+Q137763847,pingo,
+Q137763849,pipolo,
+Q137771437,poki len,
 Q43564070,jan Asi Kuma,
 Q85882894,pilin sewi tawa kiwen,
 Q939136,ilo tan kulupu KDE,ilo tan kulupu KDE
@@ -7684,54 +7818,31 @@ Q7489893,monsuta Sali,monsuta Sali
 Q10932738,jan sewi Tapilikisimalumi,
 Q11633725,jan sewi suli Tojopiwake,
 Q135578885,jan sewi meli Sanatula,
-Q137374374,epiku,nimi:epiku
-Q137763832,pa,
-Q137771437,poki len,
-Q137763851,poman,
-Q137763847,pingo,
-Q137763849,pipolo,
-Q137763618,tonsi sama,
-Q137763599,tenpo ike,
-Q137763519,luka luka wan tu,
-Q137374311,lili,nimi:lili
-Q137763807,nele,
-Q137763648,alu,
-Q137763655,anta,
-Q137763483,kule suno,
-Q137763749,kulepiku,
-Q137763473,ko nasa,
-Q137763377,ijo tenpo,
-Q137763379,ijo tomo,
-Q137763382,ijo tu,
-Q137763393,ike ala,
-Q137771441,sitelen ma,
-Q137763854,pula,
-Q137763737,kinute,
-Q137763502,len walo,
-Q137763491,len jan,
-Q137763329,ijo nena,
-Q137763360,ijo sike,
-Q137763406,jan ali,
-Q137763409,jan kala,
-Q137763791,miko,
+Q135037878,ipu nanpa maujna tomo sewi lon tomo sona Kokusakuwin,
+Q11633695,tomo sewi Enkisiki ale lon ma Punko,
+Q11383282,tomo sewi Enkisiki ale lon ma Sato,
+Q135462760,tomo sewi Ikadusi,
 Q137763318,ijo monsuta,
-Q137763281,ijo kijetesantakalu,
-Q137763822,olala,
-Q137763823,omekalike,
-Q137763825,omen,
+Q137763360,ijo sike,
+Q137763329,ijo nena,
+Q137763491,len jan,
+Q137763807,nele,
+Q137374311,lili,nimi:lili
+Q137763519,luka luka wan tu,
+Q137763502,len walo,
+Q137771441,sitelen ma,
+Q137763599,tenpo ike,
 Q137763949,yutu,
-Q120435970,a,nimi:a
-Q137763639,aAANUSEMEmailMahjong,
-Q137127110,lipu Wikipesija pi toki pona,
 Q11450674,tomo sewi Apilomi,
 Q11611572,tomo sewi Enkisiki ale lon ma Kiko,
 Q124330528,jan Lepeka,
 Q133823176,"lipu ""sona pona""",sona pona
 Q11665887,tomo sewi Enkisiki ale lon ma Kita,
-Q55939679,kipisi:ante sitelen,kipisi:ante sitelen
 Q56697283,tomo pi wawa telo,tomo pi wawa telo
-Q11453224,tomo sewi Enkisiki ale lon tomo Kejankijo,
-Q117716414,utala insa pi ma Sutan (tan 2023),utala insa pi ma Sutan (tan tenpo sike nanpa 2023)
-Q18608447,kipisi:lipu ma pi ma Wije,kipisi:lipu ma pi ma Wije
 Q113275467,jan Tokotoko,jan Tokotoko
+Q11453224,tomo sewi Enkisiki ale lon tomo Kejankijo,
+Q18608447,kipisi:lipu ma pi ma Wije,kipisi:lipu ma pi ma Wije
+Q16727449,jan Pen Lase,
+Q117716414,utala insa pi ma Sutan (tan 2023),utala insa pi ma Sutan (tan tenpo sike nanpa 2023)
 Q136163131,"musi ""luka wan, luka tu""","musi ""luka wan, luka tu"""
+Q55939679,kipisi:ante sitelen,kipisi:ante sitelen
