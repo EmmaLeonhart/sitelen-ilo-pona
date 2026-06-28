@@ -1,0 +1,5 @@
+Representation of "lipu "pali e pipi waso"" in sitelen ilo pona.
+Sources: lipu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lipu.svg; e: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_e.svg; pipi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pipi.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing lipu "pali e pipi waso"]]
