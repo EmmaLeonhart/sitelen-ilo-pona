@@ -310,6 +310,7 @@ toki Elina
 kulupu Wepalikan
 musi pi jan lawa moli
 Elisape
+moli pi jan wan sama
 ma Sukosi
 lipu Wikipesija pi toki Kaliki
 ilo Winto
@@ -403,7 +404,7 @@ moli e jan
 ma Satoselija
 ma lili lili
 poka telo ko
-ma tomo Kolon
+ma tomo Ken
 tomo sona suli
 ma Pajan
 ma tomo Pasilija
@@ -495,6 +496,7 @@ ma Ontula
 ijo lili nanpa 12
 ma Santapiken
 sona nanpa
+ma tomo Suka
 ma Apeta
 sona kama
 toki ilo Juniko
@@ -772,6 +774,7 @@ ma Kijana
 ko lete
 ma Antola
 toki Punsapi
+ma tomo Lipe
 ma tomo Osaka
 lipu Wikipesija pi toki Insi
 ma Minasela
@@ -859,6 +862,7 @@ ma Kaletoni sin
 lipu Wikipesija pi toki Isilan
 telo moli
 pali ilo pi sama lon
+ma tomo Esen
 ma Men
 ma tomo Jokowama
 ilo sitelen
@@ -905,6 +909,8 @@ lipu Wikipesija
 mun loje Masi
 ma Wanuwatu
 ma li jo e jan 100 000+
+ma tomo Manan
+ma tomo Pansa
 waso
 ma suli Loma sewi
 ma tomo Salakosa
@@ -997,13 +1003,14 @@ ma lili Anta
 ma Sijapa
 kulupu nena Ante
 kulupu NASA
+ante suli pi ma Kanse
 ma Makonisa
 ma Molawa
 ma tomo Pipan
 ma tomo Tuku
 lipu Wikipesija pi toki Lasina
-toki Asapasan
 lipu Wikipesija pi toki Alakone
+toki Asapasan
 toki Takalo
 jan li olin e jan pi kule sama
 telo suli Mekiko
@@ -1047,6 +1054,7 @@ ma tomo Paketa
 ilo ma Kuko
 ma Pakotosan
 kasi
+ma tomo Kopen
 ma Nuwepo Lejon
 tenpo mun nanpa luka tu wan
 ma Pala
@@ -1071,8 +1079,8 @@ jelo
 toki Jolupa
 tenpo utala
 sitelen Pin In
-ma tomo Tesaloniki
 utala pi ma Wije
+ma tomo Tesaloniki
 kulupu utala ma pi ma Palata
 toki Awasa
 ma Iku
@@ -1109,6 +1117,7 @@ ma tomo Taka
 tenpo mun nanpa tu wan
 toki Sankita
 ma kipisi Kalantan
+ma tomo Pokun
 Ton
 ma Omun
 ma Sejala
@@ -1353,6 +1362,7 @@ ma tomo Sensokowa
 Ana
 anpa
 mama meli
+ma Puse
 ma Ipalaki
 ma Kawan
 telo suli Asiku
@@ -1425,6 +1435,7 @@ kule
 nasin pi lawa ala
 ma Piten suli
 ma Sisilija
+ma Pantelen
 ma Kijukantunosi
 ma Asija insa
 jan sona
@@ -1685,8 +1696,8 @@ mani Tola pi ma Oselija
 mun Mekuli
 ma Sukoka
 ma tomo Takoma
-ma Mewika en ma Sesesele li utala
 sitelen Tewanakali
+ma Mewika en ma Sesesele li utala
 ijo lili nanpa 23
 toki ilo Pijepi
 toki pi tenpo pini taso
@@ -1731,8 +1742,8 @@ unpa jan
 sona pi sijelo ijo
 telo Kasipi
 poki kalama
-ma pi pali ilo
 ma tomo Akanke
+ma pi pali ilo
 selo sitelen
 jan Masin Lute
 jan Ka Ma
@@ -1749,6 +1760,7 @@ lipu Wikipesija pi toki Peson
 toki Sinala
 ma tomo Ulanpata
 pana
+ma Lewakusan
 sona
 ma tomo Maka
 sijelo ma
@@ -2068,8 +2080,8 @@ ma tomo Wasinwen
 suwi pimeja
 nasin sitelen Katelo
 ma tomo Epanwi
-utala pi tenpo sike ale
 soweli suwi lape pi kasi suli
+utala pi tenpo sike ale
 ma tomo Sokopalu
 ma Likulija
 ko kiwen
@@ -2164,8 +2176,8 @@ tenpo kiwen
 ma suli Monko
 ma tomo Kosajeli
 jan Atan
-ma Walisi en ma Putuna
 ilo pi pona lukin
+ma Walisi en ma Putuna
 ma tomo Pelaku
 musi League of Legends
 nasin To
@@ -2214,15 +2226,15 @@ nimi Jan
 jan Kalu suli
 ma tomo Pelaju
 ma Kanpese
-moli suli kepeken ilo pana pi sike lili
 lipu Pelesi
+moli suli kepeken ilo pana pi sike lili
 mun Sitan
 kulupu Meta
 sewi
 ma Kolijo
 nasin mun walo
-soweli pi lawa sewi
 lipu Ekisanta
+soweli pi lawa sewi
 ma tomo Kitaja
 musi Pokemon Aka en musi Pokemon Mitoli
 nasin sewi Pon
@@ -2241,6 +2253,7 @@ kasi Tulipa
 jan Isa Nuton
 toki jaki
 nasin pi palisa mute
+kama pi telo sewi
 jan Malijo
 kute
 uta
@@ -2260,8 +2273,8 @@ kiwen sijelo
 ma tomo Tonpopa Kunisa
 kiwen
 meli olin lawa
-ma Make
 ma pi telo ala
+ma Make
 lipu open pi lipu Wikimesija
 jan Simi Kata
 ma Sisilija
@@ -2270,8 +2283,8 @@ wawa suno lon ijo lili
 ma tomo Siki
 jan Lesi Kaka
 jan Kaka
-ma palisa Anatolu
 tenpo pini majuna
+ma palisa Anatolu
 ma Najaka
 ma Kakasija
 nasin pi lawa lili
@@ -2329,6 +2342,7 @@ kulupu Kepute
 soweli Miki
 ma tomo Asawa
 toki Ito
+ma tomo Sansun
 ma lili Nopa
 kipisi pi ma Sesesele
 nasin sewi pi ma Loma pi tenpo pini
@@ -2336,8 +2350,8 @@ ma tomo San Luwi Potosi
 jan Eneja
 sinpin pan moku
 sitelen A
-suno
 ma Lipi
+suno
 ma lili Pawija
 ma tomo Papilin
 lon
@@ -2354,12 +2368,11 @@ ma suli
 ma lili Alesansija
 unpa
 toki Kalalinuna
-jan San-Po Sate
 ma tomo Susejawa
+jan San-Po Sate
 ijo lili nanpa 2
 jan Wekiliju
 jan sewi Kanesa
-soweli Didelphidae
 tenpo insa pi kiwen mani laso
 jan Otesiju
 palisa tomo sike
@@ -2369,6 +2382,7 @@ ma lili Loma
 toki Saka
 ma tomo Palan
 toki Keno
+ko kute
 nena Kilimansalo
 monsuta jan moli
 tenpo sike nanpa 2024
@@ -2428,9 +2442,9 @@ nanpa 14
 pan suwi
 jan Simi We
 toki mama Palata Elopa
-toki ilo Wasi
 ma tomo Ipo
 ma lili Saleno
+toki ilo Wasi
 telo Kisikami
 jan Ape Kamu
 jan Non Sonki
@@ -2467,8 +2481,8 @@ nasin telo Misuwi
 jan Sansaka Kuso
 ma Nowajasinla
 ma tomo Modra
-jan Simon Poliwa
 toki Intelinwa
+jan Simon Poliwa
 kulupu toki Sami
 musi Manka
 musi Amanka
@@ -2510,8 +2524,8 @@ utala pi ma tomo Salinka
 waso alasa pi lawa walo
 telo suli Likulija
 toki Powaki
-ma lili Wisensa
 ma tomo Toluka
+ma lili Wisensa
 ma Kisima
 ala (nanpa)
 ma Pasilikata
@@ -2564,11 +2578,12 @@ kulupu toki Lowan
 toki luka Juke
 nasa lawa
 kule pi open wawa
-jan Lejona Ole
 ma tomo Kalapa
+jan Lejona Ole
 sitelen U
 jan Nikolo Makijaweli
 toki Sasa
+ma Walon
 kulupu tomo
 jan Penito Musolini
 ma lili Susatenja
@@ -2580,14 +2595,14 @@ sike mama
 jan Tupa Saku
 ma tomo Tasimalaja
 palisa lawa
-ma tomo Telitama
 jan Alesanta Amiton
+ma tomo Telitama
 toki ilo Ko
 jan Asikilo
 telo Iwi
 telo Paka
-toki Asuwa
 ma lili Tewiso
+toki Asuwa
 ma telo Ponejo
 sitelen lape
 nasa la tawa e ilo tawa
@@ -2631,12 +2646,12 @@ jan Pili Olite
 jan sewi Okuninusi
 sitelen Anuko
 kulupu pi ma telo Wawaju
-nasin pi jo jan lon ma Mewika
 toki Epanja pi ma Mesiko
+nasin pi jo jan lon ma Mewika
 ma lili Pelusa
 ma Okinawa
-jan Pile Ke
 jan Toma Esison
+jan Pile Ke
 jan Maku Aweju
 toki Kapile
 sitelen Pekin Pa
@@ -2670,8 +2685,8 @@ waso meli Gallus gallus domesticus
 ma lili Topeko
 nasin telo
 lili ale pi sona selo
-jan Susi Kalan
 ma Pantelen
+jan Susi Kalan
 jan Masin Kosesi
 kulupu Usi
 jan So Owe
@@ -2727,8 +2742,8 @@ ma tomo Wape
 linja pi ilo sona
 laso mun
 olin pilin
-ken pi pilin insa
 ma lili Leko
+ken pi pilin insa
 ma kulupu Towen
 kipisi ma Wakikun
 ma lili Posa
@@ -2738,21 +2753,22 @@ jan Enliko Pemi
 ilo li lon e sitelen tan ilo
 ma lili Asi
 pini ala
-kipisi Popinsi
 kulupu Mesika
+kipisi Popinsi
 ma tomo Numake
 ma lili Weseli
 ma lili Lese
 sijelo tomo sinpin
-jan San Atan
 jan Wisa Pamen
-linja monsi
 soweli pi palisa lawa wan
+jan San Atan
+linja monsi
 jan Awitopane
 jan Salomon
 ma lili Italija lon ma suli Loma
 ma tomo Walawala
 ma insa Kalawan
+sitelen selo
 jan Pesi Mekuwi
 nasin sewi Saman
 ma insa Pekasi
@@ -2817,9 +2833,9 @@ ma tomo Kuwatu Santelena
 ma tomo Tenpijo Pasanja
 nena ma Eken
 pilin
-ma Luson
-ma Man
 jan Nikola Tesa
+ma Man
+ma Luson
 ma tomo Kulajosi
 kulupu toki Keman
 tenpo pi kulupu lawa Nala
@@ -2830,8 +2846,8 @@ ma Napejo
 pona lukin
 ma suli Tojoku
 nasin pali pi ijo lili
-ma lili Witepo
 nasin mije
+ma lili Witepo
 ma tomo Esa
 ma insa Silipon
 ma Kijusiju
@@ -2841,16 +2857,16 @@ ma lili Anteka
 nasin telo Lena
 jan pi tomo ala
 ma lili Inpelija
-ma lili Pijela
 toki Amala
-jan Sinki Kan
+ma lili Pijela
 linja telo
+jan Sinki Kan
 jan Po Mali
 ma Sunta lili
 ma kulupu Pijo
 soweli pi palisa insa monsi
-toki Populi
 jan Kusa Wasa
+toki Populi
 ma lili Olitano
 musi Tepotu
 ilo Pilipili
@@ -2863,32 +2879,33 @@ jan Ape Sinso
 toki Silosi
 ma tomo Toja
 lawa pi anpa ala
-lipu sona pi sike ijo
 ma tomo Pasuka Soto
+lipu sona pi sike ijo
 jan Ekite
 lipu 1984
 pakala
 ma insa Supan
-ma insa Intamaju
 ma lili Mesina
+ma insa Intamaju
 ma lili Senowa
 musi pi nasin Sesami
 toki ilo Sijesesu
 toki mama
-sike nanpa pi nanpa 10
 ma Loma Lenun
+sike nanpa pi nanpa 10
 poki jaki
-jaki Antasi
 sitelen S
+jaki Antasi
 ma tomo Wanakuwato
 sitelen B
 kulupu Elijo E Le Solije Tese
 mu open
 ma Pansapi
 sitelen Tami
+ma tomo Polu
 kili lili lawa
-ma lili Maselata
 ma tomo Osijeli
+ma lili Maselata
 sitelen Keme
 kon lon
 toki Pankopowensa
@@ -2912,16 +2929,16 @@ jan Si Telu
 kulupu Ama
 nena palisa
 kulupu SCP
-tenpo kiwen sinpin sinpin
 jan Maku Antonisu
 kulupu:User zh
-ma Lankenpuku
+tenpo kiwen sinpin sinpin
 ma lili Pama
+ma Lankenpuku
 sitelen tawa "jan Insijana Son"
 jan Lijonato Sikapijo
 ma lili Leso Emilija
 ma tomo Lapuwan
-jan pi ma Tata
+kulupu jan Tata
 toki Lasin
 jan sewi To
 jan kili
@@ -2949,9 +2966,9 @@ seli
 kulupu pi sike noka pi ma Pali
 nasin pi pali nanpa
 sijelo jan
+nanpa ante
 ma Sin
 ma lili Pasensa
-nanpa ante
 ijo (nasin sona)
 tomo suli pi ma tomo Papili
 lipu sewi Tanaka
@@ -3037,20 +3054,20 @@ ijo lili pi taso ala
 nasin telo San
 ma insa Puwakata
 telo suwi
-toki pi ken jan pi ma ale
 tomo sewi Kasiman
+toki pi ken jan pi ma ale
 kulupu Lamusitan
 jan Tewi Tenan
-nasin sewi Sekepenwatonikasenjewa
 sitelen V
+nasin sewi Sekepenwatonikasenjewa
 sitelen J
 ma Papuwa
 sitelen Z
-ma lawa suli
 suno ala
 kulupu:User uk
-jan Malijo Waka Losa
+ma lawa suli
 ma tomo Asin
+jan Malijo Waka Losa
 toki lawa
 nasin sitelen sin pi pali jan
 ma tomo Onijawa
@@ -3073,6 +3090,7 @@ ma tomo Tejopilo Otoni
 ma tomo Lilonwe
 jan Manku Manke
 jan sewi Isanaki
+kulupu Tejo
 supa kipisi pi selo ma
 sitelen Apa
 ma lili Lasina
@@ -3082,8 +3100,8 @@ ma tomo Putasaja
 jan Son Lo
 ma lili Matela
 kiwen sijelo jan
-ike
 ilo kon pi supa pali
+ike
 ijo lili
 ma Kan
 sitelen K
@@ -3097,22 +3115,22 @@ ma lili Monsa Pijansa
 monsi
 jan Peni Santa
 sitelen F
-ma lili Teni
 telo kili
+ma lili Teni
 toki Noman
 ilo Siko
 toki Tuwa
 toki Leki
 kulupu:User pt
 pipi palisa telo
-jan Ano Itejaki
 ilo Telekan
+jan Ano Itejaki
 sona pi sama lon
 ma nanpa
 jan Santa
 sitelen Asuki
-telo Sintu
 ilo pi tawa mute pi wan lili
+telo Sintu
 nasin kepeken pi sitelen toki
 kili pi loje jelo
 sike mama waso
@@ -3133,8 +3151,8 @@ kama sewi (nasin sewi Isilan)
 ko walo pi weka seli suno
 waso Senisite
 kulupu:User pl
-ma Oselasija
 nasin sitelen Non
+ma Oselasija
 pali mute nanpa
 kulupu ma Nosen
 jan kili sin
@@ -3145,9 +3163,9 @@ mama mama mama mama
 kulupu Minojan
 jan Akamenon
 lipu Pitu
-sitelen P
-jan Sasin Tuto
 tenpo suno pi jan pali pi ma ali
+jan Sasin Tuto
+sitelen P
 ma insa Kuninan
 jan lawa Kulu nanpa tu
 kulupu:User cs
@@ -3163,15 +3181,15 @@ ma tomo Linsi pi ma Antewijo
 supa tomo
 toki Potuke pi ma Potuke
 mani Linki pi ma Malasija
-pali ike tawa sewi
 ma lili Poli Sesena
+pali ike tawa sewi
 soweli Kupitu
 ma telo Tonatapu
-jan mama Tala
 ijo #2 li ijo #1 e ijo #3
+jan mama Tala
 ma lili Pelala
-jan Ante-Maki Anpe
 ma lili Ankona
+jan Ante-Maki Anpe
 jan Pa Pensa
 jan Luwi Pulu
 jan Kamala Ewi
@@ -3189,8 +3207,8 @@ telo linja Sikisu
 sitelen W
 tomo esun pi ko lete
 ma lili Katanja
-tenpo ni
 ilo nasa
+tenpo ni
 ma Elopa seli
 jan Newi Sataka
 nasin pi sona tenpo
@@ -3199,8 +3217,8 @@ ma tomo Nepito
 ilo ante toki pi ilo Kuko
 selo
 toki Ase
-toki pi sitelen Lasina ala li kepeken sitelen Lasina
 kulupu jan Wiku
+toki pi sitelen Lasina ala li kepeken sitelen Lasina
 kala Samon
 jan Tutankamun
 kulupu:lipu pi linja sitelen pakala
@@ -3208,14 +3226,14 @@ laso
 jan Lese Taje Etokan
 jan Tanije
 kulupu toki Tuki
-sitelen tawa Pen 10
 jan Kin Isan
+sitelen tawa Pen 10
 jan sewi Olo
 ilo Pin
-tawa sewi nanpa wan
+ma lili Akisento
 soweli Pikasu
 ma Mesija
-ma lili Akisento
+tawa sewi nanpa wan
 ma tomo Pasisanke
 jan Walosimi Selensi
 jan Enwi Kisinsa
@@ -3230,8 +3248,8 @@ nena Mulapi
 toki Pisi
 pona
 toki Mosan
-kili Awaka
 toki pi tan lon
+kili Awaka
 jan Saman Lusi
 ma Mino pi ma Nijon
 jan Jako Kin
@@ -3246,8 +3264,8 @@ toki Samolu
 ma lili Liwono
 kulupu Apape
 kulupu toki Sonko Po
-kulupu Sa pi ilo tawa
 kulupu linja kon
+kulupu Sa pi ilo tawa
 nasin lon
 ma tomo Akila
 soko sewi
@@ -3263,8 +3281,8 @@ tomo Kejankijo
 palisa pi meso sike
 toki Tulu
 ma lili Masa Kalala
-ma lili lon ma Italija lon tenpo pini
 ma Utopija
+ma lili lon ma Italija lon tenpo pini
 ma insa Tasimalaja
 mani Peso pi ma Mesiko
 jan sewi meli Isanami
@@ -3281,8 +3299,8 @@ toki Sawasi
 ma tomo Sona
 luka
 lipu Wikipesija pi toki Elepen
-nasin sewi pi jan Alawan
 palisa luka
+nasin sewi pi jan Alawan
 sitelen X
 kulupu:User it
 kulupu:User ru
@@ -3307,8 +3325,8 @@ ma Sentowamelika
 sitelen Sinkeki No Kosin
 ilo Masoton
 jan Kin Soni
-jan Ijopo
 suli sewi jan
+jan Ijopo
 moku Susi
 ma tomo Enpapane
 toki Usinakusi
@@ -3330,8 +3348,8 @@ lipu Patu
 jan sewi Wesile
 kulupu toki Nijukini
 toki Maseluni
-utala suli
 wile
+utala suli
 jan Wasa Tali
 pali:tomo toki
 ilo luka
@@ -3345,22 +3363,22 @@ ilo kon pi lawa lupa
 ma lili Limini
 ma Mewika la lipu pi kama ante
 ma lili Talanto
-suno
 ilo Tanpa
+suno
 ma Kinsi
 toki Awasi
 ilo Wisa
 jan Alonso Kikano
-jan Sa Mena Ken
 ijo noka nanpa 1 en ijo noka nanpa 8 li wan
+jan Sa Mena Ken
 Toni Morrison
 ilo mun Nujowison
 kulupu:User sk
 ma tomo Lekapi
 jan Owen Kentu
 sona pi ante tawa
-sitelen Q
 tomo tawa lon telo pi jan Nowa
+sitelen Q
 jan Osu pi wawa nasa
 sitelen pi mu pini
 jan Ko Kopeni
@@ -3371,8 +3389,8 @@ jan Paso
 musi Opa
 lupa monsi
 kulupu Kino pi kalama musi
-toki ilo Siku
 jan lawa Kale Kusa
+toki ilo Siku
 pali ike
 jan moli
 ma Ililija
@@ -3387,8 +3405,8 @@ ma lili Polinesija
 ma Eten
 sitelen anu kalama lon insa lawa
 jan Alisante Lukasenko
-soweli
 mani Tola pi ma Sinkapo
+soweli
 nasin meli
 sitelen toki nimi
 ma Kantakese
@@ -3420,26 +3438,26 @@ pilin
 jan Nansi Pelosi
 ma tomo suli lon ma Italija
 toki luka Katala
+tomo Ta Maja
 kulupu Wapeli
 waso Toto
-tomo Ta Maja
 musi pi ko Kapi
-toki Tona
 jan Ipelija
+toki Tona
 sitelen musi suli Kalewala
 jan soweli Mekan
-nasin nanpa Lasina
 ma tomo Sataloju
-mama mama
+nasin nanpa Lasina
 nena lili pi pilin pona unpa
+mama mama
 pona nasa
 mani Lila pi ma Tuki
 kulupu:ma Tosi
 ilo mun Wajesa nanpa wan
 nasin Wisinu
 ilo Nukewan
-nasin pali pi jan Pu
 nasin kulupu pi lawa mije
+nasin pali pi jan Pu
 jan Kaleno
 toki pi ma ante
 toki Wemesoli
@@ -3448,16 +3466,16 @@ ma lili Pali
 toki Lasena
 ma Makolonija
 telo suli Nopasipi
+palisa tomo
 tenpo pini pi ma Kanata
 jan Petan Meje
-palisa tomo
 ma Ise pi ma Nijon
 toki Najowelo
-mani anpa
 jan ike
+mani anpa
 jan Jakonson
-jan Mawasi Muwama
 jan Kesin Sene
+jan Mawasi Muwama
 ma tomo Amasan
 kijetesantakalu
 nasin lawa ma la tenpo pini li suli
@@ -3529,15 +3547,15 @@ ilo kon pi tawa anpa
 ilo tawa supa
 nasin pi lawa sewi
 musi Pota
+jan Sinsiwan
 jan Se Peso
 jan Maki Ponsono
-jan Sinsiwan
 nasin pi mama sewi wan
 ijo QSOX1
 jelo selo
 jan Siwija Pina
-toki sewi pi mama mi
 ma tomo Tapin
+toki sewi pi mama mi
 kulupu:ma Mewika
 ma kipisi Seki
 ma Etulija
@@ -3560,47 +3578,47 @@ jan Onta Esa Tonsan
 ma tomo Kipu
 soweli lili pi lupa ma
 poki mani
-jan Nikola Matulo
 toki pi sitelen Lasina ala kepeken sitelen Lasina
+jan Nikola Matulo
 kulupu:misikeke
 kalama musi Api Lo
 kulupu toki Tawita
 jan Susi Bata
 jan lawa Nalusito
-ala
 sitelen tawa Metopoli
 ma lili Paputa
+ala
 jan Jan Silesen
 leko Lupiko
 nimi pi toki sin ni li tan toki ante
 ma tomo Sanwelepusukuwinkisikokelekuwelentolopusulantasilijokokokoko
 ale pi linja tu wan
 ma Sinano pi ma Nijon
-ma tomo Mewijon
 linja sike lon sike ma
+ma tomo Mewijon
 telo namako suli
 weka pi kiwen wawa
-ma tomo Mikene
 ma Kanan
+ma tomo Mikene
+tenpo 64
 kulupu ma utala pi telo Alansi lete li utala tan sewi e ma Jukolawija
 ilo unpa
-tenpo 64
 jan Tewi Poto Wali
 jan Apensen en jan Mu
 sinpin Sansen
 jan sewi Amon
-sitelen Kanan
 jan Linu Tuwa
-toki Patuwa pi ma Sameka
+kulupu:lipu ni o weka
 toki Ilimotu
 ma tomo Lilin
-kulupu:lipu ni o weka
-ma tomo Setuma
-ma tomo Tasakala Sikotenka
+sitelen Kanan
+toki Patuwa pi ma Sameka
 kulupu Pali Pu pi sike noka
+ma tomo Tasakala Sikotenka
+ma tomo Setuma
 ilo sike pi kon tawa
-ilo Asune Miku
 laso loje
+ilo Asune Miku
 nasin pi kulupu utala
 ​ma tomo Sijosuwa
 jan li wile e jan lawa pi ma Mewika lon tenpo sike 2024
@@ -3614,16 +3632,16 @@ toki Kosi
 ma palisa pi ma Anku pi ma Soson
 ma Jewipe
 sitelen tawa pi kulupu Winx
-jan sewi Kasiman
 kon lon tenpo
 telo suli ma
+jan sewi Kasiman
 jan sewi Kakutusi
-toki Pawi
-suwi
-akesi Kosila
 jan lawa Pili
-kulupu Sawa
+suwi
+toki Pawi
+akesi Kosila
 jan Ameliko Wepusi
+kulupu Sawa
 jan sewi Le
 kipisi:lipu Wikinanpa
 nena tomo
@@ -3637,8 +3655,8 @@ jan sewi meli Isikisima
 jan Jesajaju
 insa ma Aki
 jan pi mama mama sama
-sike pi sewi mun
 jan Ali Kamene
+sike pi sewi mun
 toki Wata
 telo sijelo kasi
 jan sewi Amenokojane
@@ -3650,9 +3668,9 @@ nasin nanpa
 jan sewi Omononusi
 jan sewi Kotosilonusi
 ma Maketonija
-kulupu:kulupu len
 kulupu:soweli
 lawa linluwi
+kulupu:kulupu len
 ma lili Pinsisi
 nimi toki pi ijo wan
 sitelen tawa Seku
@@ -3672,19 +3690,19 @@ kulupu:User fr
 musi Telawija
 toki ni la nimi li kama ala wan
 toki Komo
-kulupu:sona lon
 kulupu:User de
+kulupu:sona lon
 jan sewi Niniki
 jan Suwato
 ilo Nikoniko
 kulupu pi mun seli
 selo
 ma Molawa suli
-toki Elepen
-ma Kape
 kulupu:nasin telo
-nasin sewi Watapawi
+ma Kape
+toki Elepen
 pilin wawa unpa
+nasin sewi Watapawi
 mu pini pi nena kon
 waso alasa
 kiwen Oseta
@@ -3692,11 +3710,11 @@ jan Kuwalimi
 toki Wesu
 kulupu:ma lawa
 soweli poki
-ma tomo Kutowe
 kulupu ma Senken
 nasin sewi pi jan Mani
-jan Ape pi ma Wasutena
+ma tomo Kutowe
 mu pini pi sewi kiwen
+jan Ape pi ma Wasutena
 ma lili Sijete
 len Sali
 kala ko
@@ -3709,24 +3727,24 @@ ma Kosa Santen
 kulupu pi wan ilo pi ma ale
 ilo Koto pi kalama musi
 ma Kosuke pi ma Nijon
-jan Ansi Penan
 ma Jamasilo pi ma Nijon
+jan Ansi Penan
 jan olin
 К
 jan Ipin Katun
-leko tomo
 jan sewi Ojamakui
-nena Takoma
 kulupu toki Sonko
+nena Takoma
+leko tomo
 jan Susi
-moli suli pi ma tomo Nansin
-ilo Potoso
 ma Suluka pi ma Nijon
+moli suli pi ma tomo Nansin
 jan Penito Wale
+ilo Potoso
 jan Pelisaliju
 kulupu pi ilo Siko
-mu pini pi sewi ko
 ma Tosi pi poka lete
+mu pini pi sewi ko
 jan O Si Min
 soweli pi noka tu
 toki Tapawenjo
@@ -3736,23 +3754,24 @@ kala Mola Mola
 kulupu:User tr
 musi Selete
 tawa anpa
-ma Kasusa pi ma Nijon
 jan Wito Sowi
-kulupu:ma Juke
+ma Kasusa pi ma Nijon
 mama mama mama mama mama
-ma Simosa pi ma Nijon
+kulupu:ma Juke
 akesi Kemi
-mun Mima
-jan sewi Awijalu
+kule sijelo
+ma Simosa pi ma Nijon
 toki Sintalin
-ma Posuka suli
+jan sewi Awijalu
+mun Mima
 musi Wiwiwiwiwiwi
+ma Posuka suli
 lipu lawa nanpa wan pi ma Epanja
 jan Jojusawa
 sitelen
 ma Owali pi ma Nijon
-ijo pi sinpin tu tu pi palisa luka wan pi nena tu tu
 jan So Solo
+ijo pi sinpin tu tu pi palisa luka wan pi nena tu tu
 kulupu:nasin sewi pi jan Jesu
 ma Kolasun
 jan sewi Takemikasusi
@@ -3762,10 +3781,10 @@ ma Jamato pi ma Nijon
 ma Esisen pi ma Nijon
 ijo pali pi lipu Wikitata
 jan Wela Lupin
-kulupu:nasin jan
 jan Sesi Siwe
-jan Kopin Pu
+kulupu:nasin jan
 kulupu:ma Netelan
+jan Kopin Pu
 ma Simotuke pi ma Nijon
 palisa pi ante tawa
 sitelen Tana
@@ -3776,10 +3795,10 @@ jan Son Pon
 tenpo pi ma utala lon ma Sonko
 kulupu toki Anli
 lipu pi tenpo kama ken
-ilo kon lawa Awiku
 tomo nena pi jan Kupu
 ma lili Pato
 jan sewi suli Tojoke
+ilo kon lawa Awiku
 kipisi:poki sona
 jan Pasa Alasa
 ma tomo Wilasimisu
@@ -3804,9 +3823,9 @@ ma lili Molota
 akesi Silanosalu
 kulupu:tan sona ala
 nasin telo Sisola
-kulupu:soweli pi nena mama
-toki Pataka
 kulupu:tenpo mun
+toki Pataka
+kulupu:soweli pi nena mama
 laso nasa
 ante nanpa kiki
 kulupu:ma Nijon
@@ -3815,6 +3834,7 @@ toki Kuwenja
 kulupu Kasansaja Opolona pi kalama musi
 kulupu:jan pi ma Kanse
 lipu "waso pi ike lukin"
+nasin ijo
 telo lon lawa
 sitelen Suwasi
 mu pini pi sewi meso
@@ -3835,19 +3855,19 @@ kulupu mama sin
 ma tomo Futu
 jan Jekeseke
 toki luka Losi
-toki Selan
 tenpo suno musi pi tenpo mun nanpa tu tu
+toki Selan
 ilo Koto pi pali musi
 sitelen Pi
 kulupu:ma Osijanija
 musi Antateje
-jan Pusipa
 ma lili Mesijo Kanpitano
+jan Pusipa
 wan mu
 musi Angry Birds
-toki ilo Te
-jan Nasi Asin Mukama Umajun
 jan Sese
+jan Nasi Asin Mukama Umajun
+toki ilo Te
 jan sewi Kasikeja
 jan Apaku
 kulupu:kalama musi
@@ -3856,14 +3876,14 @@ ma lili Paleta Ansija Tani
 ma lili Opija Tenpijo
 sike
 jan Ante Sesiju
+jan Pajan-Tonson
 len kute
 sitelen tawa "jan taso li lon tomo"
 toki Kenja Kipen
-jan Pajan-Tonson
 jan Isajama Kasime
 nasin sitelen ken pi ma Apika
-kulupu pi kule olin
 jan Toby Fox
+kulupu pi kule olin
 ma Kita pi ma Nijon
 ma tomo Sukowa
 toki Ilula
@@ -3873,34 +3893,34 @@ ma Tewa pi ma Nijon
 waso Ta
 ijo Asula
 toki ilo Kopolo
-nasin ilo ActivityPub
 kulupu:ma Apika
+nasin ilo ActivityPub
 ma Kiko pi ma Nijon
-jan Sunsu
-jan An
 toki luka Sumi
+jan An
+jan Sunsu
+ma tomo Witen
 telo suli pi ma Amelika lete
 ilo tawa pi sike tu
-ma tomo Witen
 ma Sunta suli
 ma lili Kolisija
 nasin pi toki utala
 pilin monsuta pi nanpa luka luka tu wan
-toki pi kulupu Jejusi
 tu pi wan lili awen
+toki pi kulupu Jejusi
 kulupu:nasin sewi Puta
-jan sewi Amenosipomimi
-toki Isola
 jan sewi Takamimusupi
-musi Pokemon Aka en musi Pokemon Mitoli
+toki Isola
+jan sewi Amenosipomimi
 lipu wile tan nasin pi pali kulupu
-ma lili Asota
+musi Pokemon Aka en musi Pokemon Mitoli
 ma Sakami pi ma Nijon
-ma lawa Kolasun
+ma lili Asota
 jan Selija Ku
 mun Ameja
-ma Kitasi pi ma Nijon
+ma lawa Kolasun
 jan utala li tawa noka weka mute lon ma Sonko
+ma Kitasi pi ma Nijon
 nasin kulupu ante
 toki luka Oselija
 ma Totomi pi ma Nijon
@@ -3908,19 +3928,19 @@ meli (tan mije)
 kulupu:User zh-Hans-CN
 nimi "mi"
 ma lili Ojata
-jan Melani Masine
 kulupu:kulupu pi ilo sona
 soweli Upe Seta
+jan Melani Masine
 nasin moku
 jan sewi Sumijosisansin
 lipu Sila
-ma Ijo pi ma Nijon
 kulupu tomo Kisa
+ma Ijo pi ma Nijon
 jan Le Sinte
-jan Nasi Wasa
-jan Kija Sama
 tomo sewi suli Kasuka
 sike loje suli
+jan Kija Sama
+jan Nasi Wasa
 kulupu Katikan
 ma tomo Pansa
 kulupu pi musi leko pi ma ale
@@ -3936,17 +3956,17 @@ ilo Linu Kentu
 toki Su
 ijo lon ijo sama
 jan Kamilo-Si-Pijeto
-kulupu:waso
 kulupu:jan
-jan sewi Ukemosi
+kulupu:waso
 kulupu mama lawa
+jan sewi Ukemosi
 musi Tetalun
 nimi Olo
 lipu Wikipesija pi toki Amalinja
-sitelen tawa Totatama
 tomo sewi Itukusima
-lipu Wikipesija pi toki Awawi
+sitelen tawa Totatama
 jan sewi Watatumi
+lipu Wikipesija pi toki Awawi
 kulupu:ma tomo pi ma Kanse
 ma lili Silakusa
 kulupu:jan lon sitelen tawa
@@ -3965,33 +3985,33 @@ kulupu:ma Amelika seli
 toki Tuwalu
 jan Oseja
 kulupu:en-N
-jan Popilijo Sija
 musi Sutansu Keto
-kulupu:nanpa
+jan Popilijo Sija
 toki Kolaka
+kulupu:nanpa
 ilo LiveJournal
 toki Apasisi
 mama mama mama
 tomo tawa linja pi ma Sensa
-utala insa pi ma Loma
 kulupu:ma lili
+utala insa pi ma Loma
 kipisi:sona li tan seme
 kulupu toki Anli Pisiki
 Lewa
-ilo VLC
 ma Setu pi ma Nijon
+ilo VLC
 ma tomo Masu Pisu
 kulupu:ma Intonesija
 jan Enoko
-jan Sepi Esin
 toki Wapa
+jan Sepi Esin
 jan sewi meli Kusinata
 kulupu:ma Lusi
 jan Kisina Wasesi
 unpa uta
 toki Kota
 musi Tokusu Monokatali
-jan Sasi Kan
+kulupu:ma Asija
 jan Sasi Kan
 pali:lipu open pali
 sitelen Kama
@@ -3999,37 +4019,37 @@ kulupu:jan pi kalama musi
 ma Satanu
 kulupu:ma Esalasi
 telo poka ma
-lipu Ewankelijon
 jan Susilo Panpan Jutojono
+lipu Ewankelijon
 ma Punko pi ma Nijon
 kipisi wile pi ma sijelo Pali
 sewi Olo
-kulupu:telo moku
 jan sewi meli Tamajoli
+kulupu:telo moku
 lipu Wikipesija pi toki Sikimen
 jan Towasi
 lipu Amo
 toki Kotawa
 ma tomo Tesa
-nasin toki pi toki Inli
 jan Mekawasi Sukanoputuli
 musi Wijasa
+nasin toki pi toki Inli
 kon telo
 ilo moku palisa
 ilo pi jan Tuwin
 lipu Phabricator
-kulupu:jan pi ma Lusi
 kulupu Kito Keto
+kulupu:jan pi ma Lusi
 ma Kisen pi ma Nijon
 kipisi:sona kipisi
-toki ilo Sijulija
 jan Pita-Otopisi
 mama mama mama mama mama mije
-nena ma Losa
+toki ilo Sijulija
 mun Aloko
+nena ma Losa
 lipu Wikipesija pi toki Ito
-nimi "sina"
 ma tomo Antelija
+nimi "sina"
 ma lili pi ma Inli
 ilo pi tawa tenpo
 ma Isu pi ma Nijon
@@ -4037,77 +4057,78 @@ toki ilo Sewasi
 soweli Sinolina Sipisen
 nja
 ma tomo San Totolo
-kulupu:ma Posuka
 ma lili Melanesija
+kulupu:ma Posuka
+kulupu:ma Amelika lete
+ma Lasijun
 tomo sewi suli Ise
 sitelen lili
-ma Lasijun
-kulupu:ma Amelika lete
-ma Pisaja
-jan Santepu
 jan Kose Mukika
+jan Santepu
 kulupu jan Wikimesija
-toki Kanse pi ma Suwasi
-ma tomo Emasa
+ma Pisaja
 meli olin
+ma tomo Emasa
+toki Kanse pi ma Suwasi
 kalama Manta
 kulupu:ma Kanse
 nena ma Junpa
-kulupu pi toki ilo Akolu
 jan Sanaka
-pali toki pi nimi moli
-ma Kalaka
 ma tomo Kalatanjaso
+pali toki pi nimi moli
 lipu Jona
+ma Kalaka
+kulupu pi toki ilo Akolu
 ma tomo Tesimomanu
 nena Sijomi
 kulupu:toki tawa kulupu
 mute pi nanpa ale
-kulupu:lipu Pipija
-noka
 kulupu Apikan
+noka
+kulupu:lipu Pipija
 toki Kotawa (kulupu toki Tawita)
 toki ilo Epije
-jan Mike Itako
 kulupu:ma Anku
-wile unpa
 sitelen Lanta
-kulupu:jan pi ma Oselija
-nasin pi sewi ale
+wile unpa
+jan Mike Itako
 ma Tanpa pi ma Nijon
 sona pi ijo awen
+kulupu:jan pi ma Oselija
+nasin pi sewi ale
 ma lili Ena
-kulupu:Babel - Users by language
 wan pi lili ale
 toki Kapije
+kulupu:Babel - Users by language
 sewi kalama
 ma Pisen pi ma Nijon
 kulupu pi nanpa lon ken pana
-ma tomo Kala Kansa
 ilo Petewa
-ilo mun Supusini nanpa wan
+ma tomo Kala Kansa
 jan lawa Somu
 mama mama mama mama meli
 kulupu:ma Oselija
 sitelen Omeka
-jan Opasija
-ma Awa pi ma Nijon
-ma tomo Kuwatusu
+ilo mun Supusini nanpa wan
 sitelen Peta
+ma Awa pi ma Nijon
+jan Opasija
+ma tomo Kuwatusu
 jan lawa Pikame
 jan Osi Lo
 jan sewi Nikipajapi
+toki ilo Loko
 musi Sutoku
-jan Asi Satopijan
 jan Peli Pamonte
+jan Asi Satopijan
 sitelen Sawi
-toki Nenkatu
 jan Nakun
+toki Nenkatu
 kulupu:ma Elopa
 nasin nanpa leko
 kulupu jan Mon
-musi Omoli
 toki Tasi
+musi Omoli
 ma Nujo
 kulupu:ma tomo pi ma Pesije
 ma Satuma pi ma Nijon
@@ -4118,14 +4139,15 @@ kipisi:lili ike
 ma Tosa pi ma Nijon
 ma ilo
 jan kepeken ilo pana pi sike lili
+unpa pi telo jaki jelo
 ma Kawasi pi ma Nijon
 jan Akusin Itupite
 sewi uta
 lipu Wikipesija pi toki Somalija
-kulupu:ma Ukawina
 sitelen Ijota
-tomo Pa Kulipa
+kulupu:ma Ukawina
 kulupu toki Leke
+tomo Pa Kulipa
 ma tomo Minapa
 ijo lawa ale
 kipisi:poki sona pi kulupu esun
@@ -4137,8 +4159,8 @@ jan mun
 nena Tukuntuku
 kulupu:lipu pi pona mute
 jan sewi Amenopopi
-kulupu:en-3
 musi Mikaliwi
+kulupu:en-3
 mije olin
 ma Silan
 toki Alapi pi ma Sate
@@ -4162,16 +4184,16 @@ ma Man
 kulupu:ma Epanja
 kulupu:ru-N
 jan sewi meli Tojotama
-ma Aki pi ma Nijon
 toki Unki
+ma Aki pi ma Nijon
 MBTI
-ma Nakato pi ma Nijon
 palisa luka lili
 linja pi pini wawa
-wile awen
-kulupu:jan pi ma Netelan
-ma tomo Telu Intan
+ma Nakato pi ma Nijon
 kulupu:ma Setapika
+kulupu:jan pi ma Netelan
+wile awen
+ma tomo Telu Intan
 sitelen Esilon
 jan Isale Kamakawijojole
 kulupu:jan pi kalama musi pi ma Sensa
@@ -4185,19 +4207,19 @@ kulupu:utala suli nanpa tu
 jan sewi Amenotajikalo
 wan pi ma Kama
 kulupu:tomo sona
-jan Isumali Sapi Jako
 kalama musi pi kulupu utala wile
+jan Isumali Sapi Jako
 lipu Ekeni Onekin
 ma Isumo pi ma Nijon
-ma Sintu
 jan sewi tukujomi
+ma Sintu
 "mi ken ala pini e ni" li toki tan ma ni: ijo ni li awen kama sin
 ijo #3 li ijo #1 e ijo #2
 kipisi:tan sona ala
 toki Pela
 kulupu toki Elena
-musi "kasi li utala e monsuta jan moli"
 ma tomo Jalen
+musi "kasi li utala e monsuta jan moli"
 jan Lameke
 sitelen Ta
 soweli Laka
@@ -4211,10 +4233,10 @@ jan sewi Kuninotokotasi
 toki ilo Po
 ilo musi Epa
 sitelen poki
-nena Makalu
-jan Mesusale
 kulupu:en-2
+nena Makalu
 jan Kijon Saku
+jan Mesusale
 jan Ake
 tomo sona Lekisa
 Fuck
@@ -4227,59 +4249,59 @@ sitelen Ö
 jan Mika
 kulupu:kule
 kipisi:lipu suli
-kulupu:ma tomo pi ma Pasiju
 len telo
+kulupu:ma tomo pi ma Pasiju
 kulupu:ma Suwasi
 kulupu Mapa
-kulupu:ma Elena
 tomo sewi suli Keku
+kulupu:ma Elena
 musi Supekalipasilisikepijalisosi
 lipu sewi Kulan la toki open
-jan David E Piccioni
 kipisi:o weka
-kulupu Isilan li utala e tomo tawa linja Masi lon tenpo suno nanpa 11 pi tenpo mun nanpa 3 pi tenpo sike nanpa 2004
+jan David E Piccioni
 ma insa Panantalan
+kulupu Isilan li utala e tomo tawa linja Masi lon tenpo suno nanpa 11 pi tenpo mun nanpa 3 pi tenpo sike nanpa 2004
 kulupu:kulupu pi nasin lawa
 kulupu:jan pi ma Epanja
 kulupu:ma Palata
 jan Tewi Kipi
-kulupu pi tenpo sama Z
-nimi Intusan
-jan sewi suli Inali
-kulupu:es-1
 kulupu:jan pi ma Italija
+kulupu pi tenpo sama Z
+jan sewi suli Inali
 moku Tenpula
+nimi Intusan
+kulupu:es-1
 toki Lonpo
 jan Jeko Leto
+kulupu:nasin pi sitelen toki
+kulupu:lipu Wikipesija
 nena Tawalakili
 ma Masapawi
-kulupu:lipu Wikipesija
 jan sewi Kesakowa
-kulupu:nasin pi sitelen toki
 jan sewi Kamimusupi
 kulupu:tomo sewi pi nasin sewi Jesu
-ilo tawa supa telo
 nanpa 55
+ilo tawa supa telo
 ma tomo Loli Poto San Palo
-sike kipisi kasi
+kulupu:es-N
 kulupu:ma Kanata
 ma Panalenan
-kulupu:es-N
+sike kipisi kasi
 nena Sisapama
-ma lili Lakusa
 tomo Anko Wa
-ma Ika pi ma Nijon
+ma lili Lakusa
 ma Pitu pi ma Nijon
+ma Ika pi ma Nijon
 jan monsuta Kolin
 kulupu:ma Tansi
-mun tawa
 nasin Kiju
-kulupu:musi
+mun tawa
 kulupu ma Akije
-kipisi:nimi pi kon mute
-mu pini pi weka kiwen
-sitelen Teta
 sitelen Niju
+sitelen Teta
+mu pini pi weka kiwen
+kipisi:nimi pi kon mute
+kulupu:musi
 nena ma Wamo
 jan sewi Mu
 ma tomo Seneke
@@ -4289,18 +4311,18 @@ kulupu:nasin sewi Sanatana
 suli pi sitelen wan toki
 nasin sitelen Tenwa
 toki luka Tawan
-kulupu:en-4
 moku Lopatotemakoselakokalejokanijolesantosimiposimatosipijokarapomelitokatakekimenokikepikosipopatoperiteralekitonpotokepalijokinkopelejolakowijosilajopapetakanpotelikon
-ilo lape soweli
+kulupu:en-4
 palisa kiwen suli Wasinton
 toki luka Malasija
-palisa unpa
+ilo lape soweli
 ma Sata
+palisa unpa
 jan Atulaman Wawi
 lipu pi ma pona sin
-sitelen Ä
 jan No Mujon
 kulupu:ma Ilan
+sitelen Ä
 toki Min
 soweli pi lupa monsi wan
 jan sewi Nipeho
@@ -4310,53 +4332,54 @@ nanpa 46
 musi Supalimina
 ma Isumi pi ma Nijon
 kulupu:tomo tawa
-jan Jon Wen Kesi
 jan sewi Isotakelu
 kulupu jan Makapi
+jan Jon Wen Kesi
 kulupu:ma tomo pi ma Tuki
 wawa In en wawa Jan
 kulupu:ma Pasiju
 tomo toki
 kulupu:ma Sensa
+kasi pi moku soweli
 kulupu:ma Isale
 jan Asa Antuki
-kasi pi moku soweli
 kulupu:ma Pesije
 kulupu:uk-N
 kulupu:musi utala Olinpi
 len luka
 telo suli Tonsin
 ma tomo Tapako
+kulupu:ma Loma pi tenpo pini
 mun Temo
 san o
-kulupu:ma Loma pi tenpo pini
 ma Solejan
 lipu Wikipesija pi toki Ekematula
 linja pi nasin pi pana wawa
 sitelen tawa Sukokala
 ma tomo Seninka
 kulupu:kulupu jan Jejuta
+kulupu:utala suli nanpa wan
 ma tomo Inanka
 sitelen anu kalama ala lon insa lawa
-kulupu:utala suli nanpa wan
-kulupu:ma Italija
-tonsi
 kulupu:pt-1
+kulupu:ma Italija
 kulupu:ma Seki
+tonsi
 kulupu:ma Mijama
 jan sewi Kamo Wakekasusi
 kulupu:ma pi telo lili
 jan Ipin Patuta
-selo lon pini pi palisa unpa
 kipisi:poki sona toki
+selo lon pini pi palisa unpa
 ma Sanuki pi ma Nijon
-nanpa 45
 ilo Tujolinko
+nanpa 45
 kulupu:tr-N
 sona noka pi nanpa nimi
+kulupu jan Sawasi
 kalama pona pi tawa pilin pona
-ma ante pi ma Intonesija
 kulupu:ma Amelika
+ma ante pi ma Intonesija
 tawa musi pi ma Pali
 sewi Jawe
 kipisi:Komon
@@ -4372,8 +4395,8 @@ kipisi:col-begin
 ma tomo Makalu
 ma Tanko pi ma Nijon
 Anuwa Ipawin
-kulupu:ma Pakisan
 nanpa toki ISO
+kulupu:ma Pakisan
 nena Ululu
 kulupu:ma tomo pi ma Oselija
 jan Si Sa Suli
@@ -4387,28 +4410,28 @@ jan sewi Putotama
 sewi Elowin
 ma Papuwa nena
 ma Elasija
-jan Jun Sanjo
-kulupu:ma Lominija
 kulupu:toki sin
+kulupu:ma Lominija
+jan Jun Sanjo
 kulupu toki Malajalan
 toki Talosa
+musi Palasin
 kulupu:ma tomo pi ma Netelan
 ma Tasima pi ma Nijon
-musi Palasin
 ma Konko
 len pi kiwen walo
 ma Iwami pi ma Nijon
-lipu Apaku
 jan pi nasin olin tu
+lipu Apaku
 kulupu:ma Mesiko
-ma Awa pi ma Nijon
-jan Sanpi Toke
 kulupu:tenpo sike nanpa 1626 la jan li moli
+jan Sanpi Toke
+ma Awa pi ma Nijon
 jan Tan pi tomo tawa anpa pi kiwen laso
 jan Sen Ke
 nena Tawisen
-ma Sikusen pi ma Nijon
 kulupu Kanpusi loje
+ma Sikusen pi ma Nijon
 kulupu:en-5
 kulupu:zh-Hant-3
 ilo lipu Kuko
@@ -4428,106 +4451,107 @@ lipu Jowele
 jan sewi Kulaokami
 sitelen Eta
 ma Papuwa insa
-jan Sepi Wali
 ma Tapo
-kulupu:jan pi ma Seki
-nasin Keju Anon
-kipisi:wile kipisi
-jan Kantali So Makatana
+jan Sepi Wali
 ma Osumi pi ma Nijon
 ma Etu pi ma Nijon
-kulupu:ma tomo Paki
+nasin Keju Anon
+jan Kantali So Makatana
+kulupu:jan pi ma Seki
+kipisi:wile kipisi
 kulupu:sitelen lili pi nasin sitelen Lasina
 soweli pi kon jaki utala
+toki ilo Pinpa
+kulupu:ma tomo Paki
 jan lawa ale pi ma Mewika
 kulupu:jan pi ma Suwasi
 ma Pusen pi ma Nijon
 ilo Linu Min
-jan Ika Sote
 lipu Malaki
+jan Ika Sote
 toki Mon
-kulupu:toki
 kama tawa sewi
-olin unpa
-tenpo suno wan sewi
-soweli Manuli
+kulupu:toki
 kulupu:suli wan
+tenpo suno wan sewi
 mani Peni
+olin unpa
+soweli Manuli
 lawa nimi pi toki Tosi
 toki Sasali
 nena Lose
-kulupu:jan pi ma Esalasi
 tomo sewi suli Atuta
+kulupu:jan pi ma Esalasi
 kulupu:jan pi ma Juke
 kulupu:ma kipisi pi ma Tosi
-kulupu:nasin tenpo
 jan sewi meli Kikuli
+sitelen Kapa
 jan sewi Kosuseli
 kipisi:toki
-sitelen Kapa
-ma Sisalenka
+kulupu:nasin tenpo
 kulupu:pl-N
-jan Sula Tanapa
 jan pi awen lon tomo
+ma Sisalenka
+jan Sula Tanapa
 ma Nanpa
-kulupu:User th
 kulupu:jan pi ma Sajusi
+kulupu:User th
+jan sewi Kanijasu
 sitelen Ü
 kulupu:tomo
-jan sewi Kanijasu
 sitelen Pisi
 ma Pate
-nena So Oju
 ma Sunpa
-toki luka Pakisan
+nena So Oju
 Pneumonoultramicroscopicsilicovolcanoconiosis
+toki luka Pakisan
 kulupu Alcoholics Anonymous
 kulupu:ma Tawi
-kulupu:jan pi ma Posuka
 ma lili Lanawi
+kulupu:jan pi ma Posuka
 kalama musi lawa pi ma Losi
 jan Mehmet Akif Ersoy
-jan sewi Takilipime
 kulupu:jan tawa
-jan sewi Tensin
+jan sewi Takilipime
 kulupu:jan pi ma Kanata
 sitelen Omikon
-jan pi pilin ike lon kulupu
+jan sewi Tensin
 jan sewi tu Kajakitu
+jan pi pilin ike lon kulupu
 mama mama mama mama mama meli
 jan Tunku Atu Laman
 ma pi lawa Piko
 jan Make Siwen
-sewi uta ko
 kiwen en ilo kipisi en lipu
+sewi uta ko
 lipu lawa la, jan ale o sama
 ma Mimasaka pi ma Nijon
 ma Kaka pi ma Nijon
-kulupu:ma Lesepu
 ma Sikalonwetan
 utala musi lete pi ma ale pi tenpo sike 2026
+kulupu:ma Lesepu
 mije en meli en tonsi la ale
 kasi pi tenpo lete o
-kulupu:sitelen suno
 toki luka Italija
+kulupu:sitelen suno
 jan sewi Konowakali
-jan Sekelija
 jan Malaki
+jan Sekelija
 kulupu:ma Pilisin
 sitelen tawa Saki
 kulupu:ma suli
-jan Oto Jepesen
 kulupu:de-2
-jan Nejemaja
 ma Ujakulu
 jan sewi Tosikami
 mu pini pi linja mu
 ma Sikuko pi ma Nijon
 ma Punpon
+jan Nejemaja
+jan Oto Jepesen
 kulupu jan Pali
-nasin nanpa poki
 lipu Wikipesija ale
 kulupu mun Atemi
+nasin nanpa poki
 kulupu E@I
 jan San Kamo
 ma Sipuntu
@@ -4538,53 +4562,54 @@ kipisi:IPA
 jan San Ni
 lipu Wikispore
 jan sewi Sasi
-jan Tan Seli
 sama
-nanpa -1
 musi Supalatun
+nanpa -1
+jan Tan Seli
 toki Epe
 kulupu:eo-1
 jan Kajusa
 jan Sepenija
-sitelen tawa "soweli Aki en pipi"
 lipu Ansakopesija
 toki Mesusowijanki
-ma Apika-Elopa
-sitelen tawa Pinku
-kulupu:ilo kon lawa
+sitelen tawa "soweli Aki en pipi"
 kulupu:it-N
+kulupu:ilo kon lawa
+sitelen tawa Pinku
+ma Apika-Elopa
+lipu lawa pi ken jan lon ma Mewika
 kipisi:poki sona utala
 sitelen Sima
 nasin Palunkon
-lipu lawa pi ken jan lon ma Mewika
 kulupu:ma Sesesele
 kulupu:jan pi tawa mun
+tomo sewi suli Naku
 ma Patusasa
 kipisi Kota Aminitasi
-tomo sewi suli Naku
 ma tomo Kuwi
 ma tomo Lopanpa
 ijo Tewa
 jan Misapi
-kulupu:ma tomo pi ma Suwasi
 kulupu:jan lawa pi kulupu Katolika
+kulupu:ma tomo pi ma Suwasi
 lipu Wikipesija pi toki Selan
+kulupu:ma Soson
 jan Sin-Winsin
 kulupu:kulupu mama toki
 toki luka Palata
-kulupu:ma Soson
-ma suli pi ma tomo Towano
 kulupu:jan pi ma Palata
 lipu sewi Kulan la toki pi soweli mani
+ma Linsenkeki
 ma tomo Akala Te Enale pi tomo sona suli
 toki Sowijo
-kulupu:tenpo sike nanpa 1906 la jan li kama lon
-lipu Wikipesija pi toki Awasa
+ma suli pi ma tomo Towano
 kulupu:jan pi ma Tansi
 ma Pinko pi ma Nijon
 ma Kununsasi
+lipu Wikipesija pi toki Awasa
 kulupu:len
 jan Sepi Tama
+kulupu:tenpo sike nanpa 1906 la jan li kama lon
 jan On Sijosen
 kulupu:fr-1
 ma Palimanan
@@ -4596,32 +4621,32 @@ jan Pawalusin Jusu Apipi
 ijo #2 li ijo #3 e ijo #1
 kulupu:lili ike
 waso Lejukosa Losikisi
-kulupu:jan pi ma Inli
 kulupu:ma Ilaka
+kulupu:jan pi ma Inli
 ma Siponko
 jan Pamakuta
-jan Pasi Min
 lipu Wikipesija pi toki Ipo
+jan Pasi Min
 jan sewi meli Takitu
 kama sona pi toki Epelanto lon tenpo seli
-kulupu:ma Nusilan
-ilo lukin sewi pi jan Nansi Kesi Loman
 ma Sipale
 jan Sosija pi pana moli
 kulupu:ma Lowenki
-ilo Tatako
+ilo lukin sewi pi jan Nansi Kesi Loman
+kulupu:ma Nusilan
 ma Papuwa Salatan
+ilo Tatako
 ma palisa pi ma Kaliponja anpa
 kulupu:User en
-jan sewi Aton
 sike musi
 kulupu:ma Sasali
+jan sewi Aton
 jan sewi mije Sinatu
 seme
 kulupu:tenpo sike nanpa 1967 la jan li moli
 ale pi linja tu tu
-kulupu:ja-1
 nasin nanpa Sutu
+kulupu:ja-1
 soweli tawa Asinu
 jan sewi Amenusume
 jan Jowele
@@ -4631,14 +4656,14 @@ ma Kikisi
 pali:nimi pali
 waso pi kon jaki
 nasin loje pi ante lili tan ma Sonko
-kulupu:jan pi ma Sumi
 kulupu Kantali So en Pisi pi kalama musi
 kulupu Sunta
 kulupu:ma Sipe
+kulupu:jan pi ma Sumi
 sitelen Miju
 jan Muwama Jusu Kala
-ijo Paman
 toki Lasino Sine Pesijone
+ijo Paman
 kulupu:lipu nimi
 kulupu:fr-3
 nasin nanpa Tami
@@ -4646,13 +4671,13 @@ kulupu toki Tami
 pali:tomo pi toki ante
 tomo sewi jelo
 kulupu:tenpo sike nanpa 1976 la jan li moli
-sitelen Ç
-jan Posen Kanse Towate
 kulupu:en-1
 kulupu:nena seli
+jan Posen Kanse Towate
 pali:jan Wikipesija
 nena Nimankawi
 ilo nanpa
+sitelen Ç
 sike wan
 jan Nije Sisiweka
 ma tomo Leli
@@ -4666,74 +4691,74 @@ toki Amami pi ma Setojusi
 ilo Pleroma
 jan sewi Tasa
 ma Sunta
+kulupu:ma
 ma Palonpon
 ma Susukanlapa
-kulupu:ma
-ma Tukupuntan
-musi Utala Pi Jan Meli
 ma Papuwa Palataja
 jan San Tenpi
 ma Tusima pi ma Nijon
+ma Tukupuntan
+musi Utala Pi Jan Meli
 ma Atanasapula
 kulupu:toki Tosi
 kulupu:ma Sonwaminko
 kulupu:kulupu pi nena ma
 nasin sitelen lipu lon ma Apika pi poka weka suno
-kulupu:ma Masu
 kulupu:ma tomo pi ma Malasija
+kulupu:ma Masu
 jan Laka Tamaja
 toki luka Nusilan
+kulupu:jan pi ma Tuki
 kulupu:len lawa
 kulupu:ilo Linu
-kulupu:jan pi ma Tuki
 lipu Tepitaka
-ma Sepata
-sona tan kulupu jan
-ma tomo lili Oteken
-kulupu:jan pi ma Elena
-kipisi:Purge
 jan Ilosi Jamalusi
-kulupu:toki pi ma Palata
+kulupu:jan pi ma Elena
+ma Sepata
+ma tomo lili Oteken
+kipisi:Purge
+sona tan kulupu jan
+musi Manwipa
 sike nanpa
 kulupu utala Wane
 kulupu:kulupu toki Palata Elopa
 jan sewi Wisilopoli
-musi Manwipa
 sitelen Piwi
 waso telo
+kulupu:toki pi ma Palata
 nena ma Tamatawakatanikanakowawajotamatejatulipukakapikimanakolonukupokawenuwakitanataju
 kulupu:ma Pelu
-ma tomo Apeja
 kulupu:ma tomo Nujo
+ilo liactos
 mama Sonja
 kulupu:ma Sajusi
-ilo liactos
+ma tomo Apeja
 kulupu:toki pi kulupu toki Loma
-kipisi:lipu suli kulupu
 jan alasa
+kipisi:lipu suli kulupu
 jan Makokan
 ma tomo Ankaloja
 sitelen Lasena
-jan Natali Win
 ma Asija lete
+jan Natali Win
+kulupu:pipi
 jan Jan Anali
 jan Ma Tanelesi
-kulupu:pipi
 jan sewi Asisukitakapikone
+musi Osu
 kulupu toki Mon-Mijen
 jan Ipu
 ijo #3 li ijo #2 e ijo #1
-musi Osu
 sike ma
-kulupu:len ma
 kulupu:jan pi ma Isale
+kulupu:len ma
+sitelen Lo
 kulupu:unpa
 kulupu pi nanpa lon ken kama
-sitelen Lo
 toki Malaju Kalantan-Patani
-ma Lamawapan
 Jalete
 kulupu:kulupu Katolika
+ma Lamawapan
 kulupu:jan pi ma Sukosi
 ma Opi
 kulupu:ma Alensina
@@ -4741,13 +4766,13 @@ kulupu:ma Elena pi tenpo pini
 ma Ipun
 jan Papowa Supijanto Sojowasikusumo
 kulupu:utala
-ilo pi jan musi
 kulupu:es-2
+ilo pi jan musi
 nena ma Tomu
-kulupu:tenpo seme la jan li kama lon
 toki Sesi
 kulupu:ma Kaliponja
 jan Son Masajosi
+kulupu:tenpo seme la jan li kama lon
 kulupu:ru-4
 lipu Kamasuta
 jan Tenijowa
@@ -4756,75 +4781,75 @@ utala esun pi ma Mewika en ma Sonko
 toki luka Potuke
 ma Posonsowan
 ma Asasali
-jan sewi Kamo Taketunomi
 jan sewi mije Amenowaka
+jan sewi Kamo Taketunomi
 nimi ijo
 ma tomo Sitone
+mani Menelo
+jan Kenan
 lipu Ake
 kulupu:jan lawa pi ma Loma pi tenpo pini
-mani Menelo
-kulupu:tenpo sike nanpa 1870 la jan li kama lon
-jan Kenan
-ma Italija meso
 sitelen Isilon
-kulupu:jan pi ma Nosiki
+ma Italija meso
+kulupu:tenpo sike nanpa 1870 la jan li kama lon
 ma Susukan
 kalama musi lawa pi ma Netelan
+kulupu:jan pi ma Nosiki
 kulupu:kulupu jan pi tenpo pini
 jan An Lone
 ma Asawinanun
-ma Patalalan
 jan Sin Kupa
-kulupu:Redirects connected to a Wikidata item
+ma Patalalan
 kulupu:ma Kuma
-toki Tokalijan
 ma lili pi nasin Consorzio lon ma Italija
+toki Tokalijan
+kulupu:Redirects connected to a Wikidata item
 kulupu:ma tomo lawa
-kulupu:jan pi ma Masu
 ma Wale
 jan Kusapo Peto
-nena Sumelu
 kili pi akesi seli
+kulupu:jan pi ma Masu
+nena Sumelu
 jan Leposin Wikensan
 awen pi awen sona
-ma Muntu
 jan lawa pi sinpin poki
+ma Muntu
 ma Kapan
 kulupu:id-N
 kulupu toki Po
+kulupu:jan pi ma Mesiko
+sitelen Seta
 kulupu toki Tawita lon poka seli
 mu pini kalama pi selo tu pi nena kon
 ilo kon lawa sike
 jan sewi Wakumusupi
-kulupu:ma Kanpusi
 nena ma Konpin suli
-kulupu:jan pi ma Mesiko
-sitelen Seta
-kulupu:sitelen Lasina
+kulupu:ma Kanpusi
 kulupu:jan sewi
+kulupu:sitelen Lasina
 jan Sasali
 kulupu:ma tomo pi ma Tawi
-kulupu:ma tomo pi ma Kanata
 kon pi pali ala
+kulupu:ma tomo pi ma Kanata
+tenpo sike nanpa 200
 jan Atu Lasa Usin
 kulupu:ma Penesuwela
 lipu Nakun
 ma Pase
-tenpo sike nanpa 200
 toki Nawi
 kulupu:lipu sewi Kulan
 ma insa Pali
 kipisi:col-end
 kulupu:ma Akan
 ma Talun
-kulupu:ma tomo Loma
 jan sewi Kamuoisipime
+kulupu:ma tomo Loma
 kulupu:toki pi kulupu toki Kemani
 kulupu:ma tomo pi ma Isale
 sitelen Ki
-toki Ekaja
 kulupu pi tomo sin lon ma ale
 kulupu mama Sasun
+toki Ekaja
 ma Papakan
 lipu Opasija
 jan Ja One
@@ -4832,10 +4857,10 @@ lipu Sepenija
 ma Sulanankala
 kulupu:toki Inli
 kulupu musi "ma anpa"
-ma Koki pi ma Nijon
 kulupu:ma Aja
 kulupu:tenpo sike nanpa 1859 la jan li moli
 kulupu:tenpo sike nanpa 1809 la jan li kama lon
+ma Koki pi ma Nijon
 kulupu:nasin nanpa
 ma Isan
 jan sewi Konowakali
@@ -4848,73 +4873,74 @@ kulupu:tomo pi tenpo pini
 jan Sale Kemola
 ma Sililin
 kulupu Sinte
-sitelen Omu
-kulupu:ma Kolonpija
 kulupu Kopijupakenpowa
+toki ilo Kisatalu
+kulupu:ma Kolonpija
 ma Tajukolo
+sitelen Omu
 kulupu:ma kipisi pi ma Nijon
+kulupu:ilo musi
 nena uta
 ilo Wisu Sutejo Ko
-kulupu:ilo musi
 kulupu:jan pi ma Alensina
 jan sewi Omotalu en Ajakasikone
 kulupu:nasin misikeke
-kulupu esun Sasi
 ma Seton
-moku Sosi
 toki Inli pona
-jan Pane Sasu
 tomo sona suli Ino
+moku Sosi
+jan Pane Sasu
+kulupu esun Sasi
 jan sewi Tekalipoka
 kulupu:kulupu esun
 kulupu:tawa mun
 mun Akilanala
-kulupu:jan pi ma Sulija
-ma Si Wisaja
-toki ilo Nima
 kulupu:jan pi ma Anku
-jan Suse Eten Ekin
+kulupu:jan pi ma Sulija
+toki ilo Nima
+ma Si Wisaja
+ma Pepe
 jan Palu
+jan Suse Eten Ekin
 jan Milela Peni
 ma Losali
-ma Pepe
-kulupu:lipu sewi
 akesi Welosilato
+kulupu:lipu sewi
 soweli Pita
-jan Emilijo Lusu
 ma Makawasi
 jan Selon Kise
 lipu Pomi
 ma Kaka
 sitelen pi pini ala
+jan Emilijo Lusu
+sitelen Kisi
 jan Ewin Wantentale
 jan Maku Antonisu Kesiku
 kulupu Samoji pi kulupu jan
-sitelen Kisi
-kulupu Sutomajo
-ma Sisaluwa
-jan sewi Kiluko
-jan Jakopo
-ma Palejenta
 toki ilo Elun
-ma Siluni
+ma Sisaluwa
+ma Palejenta
+jan sewi Kiluko
+kulupu Sutomajo
 kalama musi lawa pi ma Tuki
-sitelen An
+ma Siluni
+jan Jakopo
 ma Katajun
+sitelen An
 kulupu:sijelo jan
-kulupu:ma Wije
 kulupu:ma Utun
 jan Atula Ama Patawi
-ilo Linu Lupuntu
+kulupu:ma Wije
 misikeke tonsi
+ilo Linu Lupuntu
 ma Silitu
 toki ilo Waku
 ma tomo Pali suli
 jan Siwi
 ma Pasisanpu
-ma Sijanpila
 sitelen Đ
 toki Kinsi
+ma Sijanpila
 ma tomo Inopoli
 ma Sato pi ma Nijon
 jan Ansela Linpu
@@ -4923,31 +4949,31 @@ toki Tosulaki
 mani Pana
 ma Kununalu
 kalama musi Olansin
-jan Tan-Wele
-mu pini pi wan nasin
-jan Wisela
-kulupu:ma tomo pi ma Anku
 kipisi:poki kule
 kulupu:ma Katala
-kulupu:tenpo sike nanpa 1800 la jan li kama lon
-sitelen lawa pi lipu Wikipesija
+kulupu:ma tomo pi ma Anku
+jan Tan-Wele
+jan Wisela
+mu pini pi wan nasin
 jan Josi Si
+sitelen lawa pi lipu Wikipesija
 ma Noto pi ma Nijon
-toki Soleso
 jan sewi Omowikane
+kulupu:tenpo sike nanpa 1800 la jan li kama lon
+toki Soleso
+kulupu:User tl
 ma Wakasa pi ma Nijon
 kulupu:ma Kinli
 kulupu toki Tawita lon poka lete
 jan pi toki Elepen
-kulupu:User tl
+mun Eluwesijo
 ilo "toki, ma ale o!"
 jan Osu pi wawa nasa
-mun Eluwesijo
 jan Alesanto Pali
-kulupu:jan pi ma Ilan
 s palisa
-toki luka Nijon
 lipu toki Nikeja
+toki luka Nijon
+kulupu:jan pi ma Ilan
 jan Nikola Sinkalesi
 ma Papatelan
 kulupu:ma palisa lon poka telo
@@ -4973,64 +4999,64 @@ kulupu lawa Eseteme
 kulupu:ma Onkon
 oke
 jan sewi Kasuka
+kulupu:kulupu pi ma lili
 jan sewi Kitokotonusi
 jan Eli Pon Teniken
 ma Kalanwalan
 kulupu:ma Santapiken
-kulupu:kulupu pi ma lili
 jan Kapije Mile
 kulupu:akesi poki
 mu pini pi selo uta
-ma tomo Liteli
 kulupu:lipu ilo pi kulupu Wikimesija
+ma tomo Liteli
 ma Sikansun
-ma Siwalinin
 ko nena
 jan sewi meli Omijanome
 kasi Okoma
+ma Siwalinin
 jan sewi meli Kimekami
 kulupu:zh-1
+kulupu:no-N
+jan Lusanalan Ojunetene
+toki Atan
 ma Tupo
 ma Sapotetape
-ma Sapotetape
-toki Atan
-jan Lusanalan Ojunetene
-tomo tawa mun Peketunwapa nanpa tu
 tenpo pi telo lili
+tomo tawa mun Peketunwapa nanpa tu
 ma Siwite
-kulupu:jan pi ma Malasija
 kulupu:ru-0
 ma tomo Makina
+kulupu:jan pi ma Malasija
 ma Kananan
 ma Salo
-kulupu pi tenpo lili
-ma tomo Paliki
 nena Manasu
-kulupu:jan pi ma Kolonpija
-kulupu:ma kipisi pi ma Italija
 toki Ikuli
+kulupu:jan pi ma Kolonpija
+kulupu pi tenpo lili
+kulupu:ma kipisi pi ma Italija
+ma tomo Paliki
 kulupu:nasin lawa pi ma Mewika
 moku Alisa
 lipu Wikipesija lon toki Inli majuna
 ma Walu
 toki luka pi ma ale
 kipisi:kon ante
-jan Sopija Jano
 jan Sata Natela
 kulupu:kulupu toki Semi
 jan Ewin Ni
-ilo Kakamine Lin en ilo Kakamine Len
+jan Sopija Jano
 kulupu:toki pi ma Apika
 telo Sapanakankama
 kulupu:ma tomo pi ma Intonesija
+ilo Kakamine Lin en ilo Kakamine Len
 kulupu:tenpo seme la jan li kama moli
 kulupu:jan pi sitelen tawa
 kulupu:nasin loje
 kulupu musi Pose Kosan Wesin
-jan Kin Jonsi
 kulupu:toki moli
-kulupu:ma Antola
+jan Kin Jonsi
 lipu Wikipesija pi toki Wiku
+kulupu:ma Antola
 kulupu:tenpo sike 2020
 kulupu:es-4
 ma Kutawalinin
@@ -5044,92 +5070,93 @@ ma Pasaleman
 toki luka Akanisan
 kipisi:o sin
 jan Nawi
-kipisi:kule pi kipisi sitelen
 nasin nanpa lon monsi
-ma Pele
+kipisi:kule pi kipisi sitelen
 kulupu:tenpo sike nanpa 1559 la jan li kama lon
+ma Pele
 kili
 kama kulupu suli pi toki Epelanto lon tenpo sike 1905
-ma Papuwalan
-kulupu:toki Sonko
 ma Sima pi ma Nijon
-ijo ale li lon nasin tu
 jan sewi meli Takupatasisi
+kulupu:toki Sonko
+ma Papuwalan
+ijo ale li lon nasin tu
 jan DECO*27
-kulupu:jan pi ma Penesuwela
 jan sewi Koteli
 ma Tanatani
+kulupu:jan pi ma Penesuwela
 kulupu:jan pi ma Isilan
 jan Ma Kani
-kulupu:ma Najowelo
 nena ma Mensi
 kulupu:ma tomo pi ma Lusi
+kulupu:ma Najowelo
 luka kala
+ma Serengeti
 uwu
 kulupu:jan pi ma Sesesele
 kulupu Taliwa
-toki Kosa
 toki Ponpe
-ma Serengeti
-kulupu:ma tomo pi ma Setapika
+toki Kosa
 toki luka Tansi
+kulupu:ma tomo pi ma Setapika
 Ometepe
 ma Silenkan
 nasin unpa pi pana luka
-ma Katapan
 kipisi:toki poka
-nimi weka
 ma Katasali
+nimi weka
+ma Katapan
 nasin sewi Omalo
 tomo sewi Kamikamo
-jan Alisa Lu
-kulupu:ma Kupa
 kulupu:jan pi ma Akan
 kulupu:selo pi sona selo
+kulupu:ma Kupa
+jan Alisa Lu
 ma Lonka
-nena Kinsi
 jan Pusin li jan nasa
-kulupu pi kulupu pi jo ala e ken toki
+nena Kinsi
 sitelen tawa Mumin pi tenpo sike 1990
 ma lawa Katula
 kijetesantakalu jaki
 kulupu:fr-0
 kulupu:kulupu jan Alapi
-ilo Lsj
+kulupu:utala insa
+kulupu pi kulupu pi jo ala e ken toki
 sitelen Ɑ
 kipisi:Wikiso
-jan Samansa Samisi
+ilo Lsj
 kulupu nena Kasepun
+jan Samansa Samisi
 jan Antonisu en jan Kejopata
+mije li selo meli
 ma Sanpan
 kipisi:ma Mewika
 leko
-nasin pi len toki
 ma Nake
 ma Simajun
-mije li selo meli
 Module:wile kipisi
+nasin pi len toki
 jan sewi Omisunu
-toki luka Anku
 kulupu:ma tomo pi ma Ukawina
+toki luka Anku
 musi Sijomeli Te
 kulupu:jan pi lipu Pipija
 lipu pi soweli suli walo pimeja
-kulupu pi tawa sewi
-kulupu:tomo pi jan ike
 sewi uta kiwen
+kulupu:tomo pi jan ike
+kulupu pi tawa sewi
 kulupu:kulupu Awawi pi ma lili
-kulupu:toki Epelanto
-jan PinocchioP
 sinpin pi suwi lete
+kulupu:toki Epelanto
 jan sewi Jamatonokunitama
 ma Moto
+jan PinocchioP
 kulupu pi ma telo Nijuwa
 kulupu:es-0
 mu
-jan Li Semon
-kulupu:jan pi ma Kupa
 kulupu:ijo pali
+kulupu:jan pi ma Kupa
+jan Li Semon
 ma Katula
 sitelen ẞ
 jan Tale Mawinsi
@@ -5138,98 +5165,100 @@ toki Pentole
 kulupu Epelantujo
 jan Mewi Sepija
 jan awen loje
-kulupu:ma Tunisi
 kulupu:kulupu Wikimesija
+kulupu:jan pi ilo Jutu
+jan sewi meli Tamakusi
+kulupu:ma Tunisi
 nasin sewi Jaten
 kipisi:sona li ala la
-jan sewi meli Tamakusi
 kulupu:ante toki
-kulupu:jan pi ilo Jutu
-jan Sesi Wan
 len lawa pi ma Satanu
+jan Sesi Wan
 mu pini pi lon selo
 ma Konpo
 mu pini pi sewi tu
-jan Pansiko Masija Nujema
-mun Tapalan
 kulupu:ma Malasija
 ma Pananan
+jan Pansiko Masija Nujema
 olin pi unpa ala
 toki Malana
 ijo Maja
+mun Tapalan
 ma tomo Papasi Pon
 toki Katula
 kulupu:moli
-kulupu:jan pi ma Ukawina
+jan sewi Amatsupikone
 kulupu:ma Sinkapo
 kulupu:sitelen lili
-jan sewi Amatsupikone
+kulupu:jan pi ma Ukawina
+jan Sija Lapani
 ma telo Ewa
 ma tomo Nelumu
-jan Sija Lapani
 kulupu:toki pi kulupu toki Tuki
 kipisi:tan sona
 kulupu:kulupu jan nanpa wan
 kulupu:tomo pi nasin sewi
 kipisi:col
+soweli Mi Piki
 tomo pi ilo Siko
 toki luka Epanja
-soweli Mi Piki
 jan Eman Wilen Tante
 ma telo Pelase
 jan pi toki Olapi
-ma Oki pi ma Nijon
 jan sewi Jasakatome
-kulupu:moli jan
+ma Oki pi ma Nijon
 nena ma Pateseken
 wan esun pi ma Elasija
+kulupu:moli jan
 pali:lipu pona
+kulupu jan Junu
 kulupu:ma tomo pi ma Nosiki
 tomo sewi suli Pusisanponkusenken
-kulupu jan Junu
+kulupu:jan pi ma Soson
+kipisi:kama mute
 ma Talosa
 jan Wate Emanwe Jon
-kulupu:jan pi ma Soson
 ma tomo Selakela
 toki Tota
-jan Wiwijan
 ma Kaliwasi
 kipisi:o
 telo Musi
+jan Wiwijan
 jan pi toki Sinan
 ma Sankuwan
 toki Kuku Jalanki
-akesi Sukele
 tomo sewi suli Kijosi
+akesi Sukele
 mun lili mute luka tu ale mute mute tu wan ale wan
 kulupu:tenpo sike nanpa 1893 la jan li kama lon
-kulupu:de-1
-kulupu:ma lili pi ma Suwasi
 jan Anta Sapa
+kulupu:ma lili pi ma Suwasi
+kulupu:de-1
 weka
-jan olin
 jan Musa
+jan olin
+kulupu jan Ewen
 jan Pisi Alijano
 sitelen tawa pi jan Tawe en soweli kalama lili: lon pi ma lon telo
 sitelen Teleta
-kipisi:ma Italija
 kulupu:ma Sutan
 jan Li Wasuman
 ma Solokansulu
 jan Usin On
 kulupu:toki Tami
 jan Pipata
-kulupu:jan esun
-kulupu:ma Mulitanja
+kipisi:ma Italija
 kulupu:nena ma pi ma Suwasi
+kulupu:ma Mulitanja
 jan pi wile unpa ala
 kulupu:ma tomo pi ma Mijama
 jan Tomaso Sanolesi
+kulupu:jan esun
 pipi Akopila
 toki Me
-jan Kin Sonsu
-ijo pi sinpin luka tu wan pi palisa luka luka tu pi nena luka wan
 kulupu:mun Masi
+ijo pi sinpin luka tu wan pi palisa luka luka tu pi nena luka wan
+jan Kin Sonsu
 kulupu pi ken nanpa
 kulupu Me
 mun Naka
@@ -5239,67 +5268,68 @@ kulupu:jan pi ma Setapika
 kulupu:ma Asija insa
 kama kulupu suli pi toki Epelanto lon tenpo sike 1912
 jan sewi Takepilatoli
-lipu Wikipesija pi toki Kalalinuna
-kulupu:jo jan
 kulupu:ilo AI
+kulupu:jo jan
+lipu Wikipesija pi toki Kalalinuna
 toki Kanpitanu
 kulupu:pl-2
 ma Panulakan
-kala Tali
-jan sama Menente
 jan Sinte
+jan sama Menente
+ma tomo Tapa (ma Malasija)
+kala Tali
 kulupu musi tawa jan Enli Sikamin pi sitelen linja
 jan Mapa
-ma tomo Tapa (ma Malasija)
 kulupu:User tok
 ma tomo Sewelopaka
 ma tomo Keli
+lipu "nimi jan pi ma ale"
 ma tomo Alanta
-jan Sali Ka
 ilo Insanjuwisi
+jan Sali Ka
 jan Oto Tome
 lipu Wikiwilo
 kulupu jan Pali mama
 jan Kasija Senpan
-jan sewi Siotusi
-nena Po Pi
 mun sike tawa
 lipu sewi Kulan la toki jan
+jan sewi Siotusi
+nena Po Pi
 toki luka Posuka
+kipisi:Lua
 toki luka Sinpapuwe
 kule lon ijo lili Kuwa lon ijo lili Kuwan
-kipisi:Lua
 jan Apike Son
 jan Sila
-kulupu:jan pi ma Sameka
+sona tan tomo pi jan Teseju
 kon Amatukami
 kulupu toki Palin
+kulupu:jan pi ma Sameka
 nasin sewi Kemetesin
 ma tomo Muwa
 toki luka Intonesija
-sona tan tomo pi jan Teseju
-kama kulupu suli pi toki Epelanto lon tenpo sike 1909
-kulupu:toki pi ma Suwasi
 ilo LMMS
+kulupu:toki pi ma Suwasi
+kama kulupu suli pi toki Epelanto lon tenpo sike 1909
 jan Jesi Pinkan
 ma Sepoka
 ijo pi sinpin luka wan pi palisa luka luka tu pi nena luka tu wan
-jan Malupu Amin
 kulupu:ma kipisi pi ma Sonko
+jan Malupu Amin
 jan Eta Wan Wa
 kulupu:sitelen Ansi
 jan sewi Alakimi
-ma Sonko li lawa e ken kepeken pi lipu ilo
 kulupu:akesi Sinosalija
 toki Wamesa
-nimi pi sama ala pi tan sama
 kulupu:jan pi ma Tawan
-jan We Wilijan Sansan
-kulupu:moku pi ma Nijon
-lipu Wikipesija pi toki Alapi pi ma Malipe
 jan Kajekosu Sapusi Sowapi
-meli wawa pona Kinta
+lipu Wikipesija pi toki Alapi pi ma Malipe
+kulupu:moku pi ma Nijon
+nimi pi sama ala pi tan sama
+jan We Wilijan Sansan
+ma Sonko li lawa e ken kepeken pi lipu ilo
 kulupu:jan pi ma Monko
+meli wawa pona Kinta
 jan sewi Sipe-Tote
 toki luka Netelan
 musi Supa Anima Loja
@@ -5308,59 +5338,59 @@ ma tomo Tanson Malin
 kulupu:toki pi ma Pasiju
 kulupu:ma Solomon
 mun Sisu
-jan Lawa Keli
 kulupu:toki pi ma Italija
-kulupu:kulupu pi kule olin
+jan Lawa Keli
 toki luka Ukawina
+kulupu:kulupu pi kule olin
 kipisi:poki toki
 nasin nanpa Maja
+kulupu:ma Tawan
 lipu pu
 kulupu:ma tomo pi ma Italija
-kulupu:ma Tawan
+jan tonsi
 kulupu:nasin sewi pi ma Loma pi tenpo pini
 sitelen Þ
 ma Make
-jan tonsi
 jan sewi Asokasuntali
 jan Mapumapu
 kulupu jan sewi Kunitukami
 kulupu:ma tomo pi ma Lominija
 ma Awasi pi ma Nijon
-mun Kepelo
 ilo uta
-jan sewi Amenokakujama
-ma telo Nijuwapojo
+mun Kepelo
 toki Telelin
-toki Kanse pi ma Akajan
+ma telo Nijuwapojo
+jan sewi Amenokakujama
 telo Musukunta
-kulupu pi nasin loje lon ma Malaja
+toki Kanse pi ma Akajan
 kulupu:kulupu jan An
 kulupu:jaki
 mun Simisijun
 nena Kanlinpose
 jan Kipan Lakapumin Laka
 ma Tuwi Tona
+kulupu pi nasin loje lon ma Malaja
 toki Lolan
 lipu Wikipesija pi toki Tona
 sitelen Mu
 ma tomo Kanpa
-jan Enwi Take
 kulupu:kulupu toki Sonko Po
+jan Enwi Take
 jan Kisa Mikali
 ma tomo Wesolu
 ilo AIM
-kipisi:wile pali
-kulupu:mun Jupite
-mi jo e wile
-jan sewi Zakonken
 jan Awi Puwi
 jan Pilipo-Kasoni
+jan sewi Zakonken
+kipisi:wile pali
+kulupu:mun Jupite
 jan Posa Lukisa Sinson-Mila
+mi jo e wile
 jan Malalali
 kala ma
 kulupu:ilo jan
-kulupu:mama pi sitelen tawa
 kipisi:tan sona la open
+kulupu:mama pi sitelen tawa
 sitelen tawa "poki weka"
 tomo sewi suli Usa
 kulupu:uta
@@ -5371,24 +5401,24 @@ kipisi:Convert
 kulupu:ma Sukosi
 nena Majoke
 kalama musi pi ma Mesiko
-toki luka Nikalawa
 toki luka Esalasi
+toki luka Nikalawa
 toki ilo Sika
 kulupu:toki luka
-sitelen Ɖ
 toki luka Isale
+sitelen Ɖ
 toki luka Sonko
 kulupu:User en-GB
-jan sewi meli Sitatelu
 ilo Nepula
+jan sewi meli Sitatelu
 sitelen Jan Wante Lon Ante
 kipisi:ma Monko
 lipu Wikipesija pi toki Losupan
 kulupu:ma Pisi
 mun Awin
-jan sewi Amenopilatome
 supa kipisi pi selo ma Palata
 mu Wilen
+jan sewi Amenopilatome
 lipu Wikipesija pi toki Samowa
 sitelen Tamijatu
 jan Ja Ewen
@@ -5406,27 +5436,28 @@ kulupu:toki pi kulupu toki Kelita
 tomo suli Sanka
 toki sitelen Pisinpo
 jan sewi Kukunosi
-jan sewi suli Isikolitome
 kulupu jan Lapita
-ma tomo Isuwalowa
-nasin telo Molopo
 jan sewi Amenosikumone
 jan pona tawa jan ale
+ma tomo Isuwalowa
+nasin telo Molopo
+jan sewi suli Isikolitome
 kulupu:ma kipisi pi ma Mesiko
 jan Mimoku
 pipi Pijakesijela
 kulupu:ma tomo pi ma Pilisin
-kulupu:nena ma pi ma Esalasi
-mun Pantola
 nena Nijukini
-jan Suliju Puma
-ma Papeta
+mun Pantola
+kulupu:nena ma pi ma Esalasi
 kulupu:nena ma pi ma Kanse
 sitelen lape lon
-nanpa Ta
 kulupu:ma Misikan
 kulupu:ma Sasinja
 jan sewi meli Oketu
+jan Suliju Puma
+kulupu:kulupu NASA
+nanpa Ta
+ma Papeta
 ijo Kapipo
 telo Salela
 kulupu Into
@@ -5436,79 +5467,79 @@ ma Sakulin
 jan Wiwijan
 kulupu Pe Sutatu
 mun Pate
-toki Inota
 mun Amatelu
-kulupu:jan pi ma Pasiju
-ma telo Powa
-lupa Palin
+toki Inota
 jan Tu Tan
-kulupu:ma lili pi ma Posuka
-kulupu:toki pi kulupu toki Kata
-sitelen Mi
+ma telo Powa
+kulupu:jan pi ma Pasiju
+lupa Palin
 lipu Wikipesija pi toki pona
+kulupu:toki pi kulupu toki Kata
+kulupu:ma lili pi ma Posuka
 ilo Linu Papi
-kulupu:soweli pini
-kulupu:tonsi
 mama mama mama mama mama mama
+sitelen Mi
+kulupu:tonsi
+kulupu:soweli pini
 tomo sewi Kantelalija
-jan Lejo nanpa luka luka tu tu
 kulupu:jan pi ma Lajo
 kulupu:ma tomo pi ma Lesepu
+jan Lejo nanpa luka luka tu tu
+jan sewi Kinomata
+kulupu:ma Wasikano
+selo tomo
 Module:poki toki
 tomo sewi suli Pusiminali
-selo tomo
-kulupu:ma Wasikano
-jan sewi Amenopiwasi
-jan sewi Kinomata
-kulupu:musi Manka
 kama kulupu Ijoko lon tenpo sike 1969
 kulupu:jan pi ma Intonesija
 toki luka Polipija
+kulupu:musi Manka
+jan sewi Amenopiwasi
 lipu Pali
-mun Ewajewen
 kulupu:toki pi kulupu toki Osonesija
+mun Ewajewen
 Module:sona kipisi
 kulupu:kulupu lipu pi toki Epanja
-kulupu:jan pi ma Pelu
-jan Ton Ponpasi
-ijo Konso
-kulupu Mikani
 jan sewi Jakusanoikasusi
-mun Tapila
+kulupu:jan pi ma Pelu
+ijo Konso
+jan Ton Ponpasi
+kulupu Mikani
 Module:String2
+kipisi:sina sona ala sona?
 kon Amatukami en Kunitukami
 kulupu:toki pi kulupu toki Nise-Konko
-tenpo alasa
-kulupu:jan pi pana moli
+mun Tapila
 jan sewi Amenopipoko
-kulupu:ma Wanuwatu
+kulupu:jan pi pana moli
+tenpo alasa
 utala 918
-kipisi:sina sona ala sona?
+kulupu:ma Wanuwatu
 toki Nalun
-ilo Pelumun
 jan sewi Amenosipi
+ilo Pelumun
 nimi #2 li ante e nimi #1
-jelo pan
 soweli Makawa
+ilo Kasane Teto
+jelo pan
 Lusepu
-kama kulupu suli pi toki Epelanto lon tenpo sike 2015
+sitelen tawa pi jan Tawe en soweli kalama lili
 kama kulupu suli pi toki Epelanto lon tenpo sike 2015
 nimi Pali
-ilo Kasane Teto
 kulupu:tenpo sike 2024
 jan Sise Ken Tinke
 kulupu:mun Satunu
 kama kulupu suli pi toki Epelanto lon tenpo sike 1937
-AA
 moku pan Nasi Kolen
 toki Moto
-ma Kansi
 kulupu:jan pi ma Aja
-ma Iki pi ma Nijon
+ma Kansi
+AA
 jan Kipi Ma
 kulupu:ma Asija pi pini suno
 mun Kalasunsan
 kipisi:linja sewi
+ma Iki pi ma Nijon
 kulupu:ma tomo pi ma Esalasi
 kijetesantakalu
 jan Tewi Pasuki
@@ -5516,65 +5547,64 @@ toki Monsa
 kulupu:jan lawa pi ma Soson
 kulupu:moli jan lon ma Sonko
 toki Jali
-nasin Makina lon sewi telo
 toki Lani
 jan sewi mije Sata
 kulupu Ukula
-kulupu:ma tomo pi ma Sasinja
+nasin Makina lon sewi telo
 kulupu:toki pi kulupu toki Papa Nijunkan
-kulupu:utala lete
 lipu Anaten
 toki luka Elina
 lipu Nupesija
+kulupu:utala lete
+ilo pali pi nanpa tan ken nasa
 kulupu:ma Kinejekatolija
-jan Tanije Ewewe
 jan Kisi Oloso
 jan lili pi ma kasi
 tomo sewi Osukanon
 kulupu:tenpo seli
+jan Tanije Ewewe
 jan Wisen Kotalako
-ilo pali pi nanpa tan ken nasa
 kipisi:tan sona la pini
-sitelen pi ilo telo tan jan Mase Tusan
 lipu Wikipesija pi toki Topisin
 jan Pasi Lo Pe
-toki Jeki
-kulupu:ma Tona
 kulupu:pali
-lipu Atakata
 jan sewi pusin
 jan pi ma End
+sitelen pi ilo telo tan jan Mase Tusan
+toki Jeki
+kulupu:ma Tona
+lipu Atakata
 jan sewi mije Isetu
 jan Pusasilo Jamalusi
 jan Pani Pali Petaja
 jan Kan Panso
 nena ma Sikakon
 jan sewi meli Iwanaka
+jan sewi meli Kaja
 kulupu:nasin sewi Sinto
 toki Mikani
 kipisi:linluwi
-jan sewi meli Kaja
-ma tomo Iwipo
-kipisi:Yesno
 kulupu:ma Ukanta
+kipisi:Yesno
+ma tomo Iwipo
 jan sewi Iwatutuno
 telo suwi pi telo mama
 soweli Toto
 jan Male
 kulupu:toki mama
-jan Ewi Atan
 mun Tali
 jan sewi mije Ikutupikone
+jan Ewi Atan
 jan sewi suli Tamanoja
 kulupu:ma tomo pi ma Elina
 mije pi olin mije
 kama kulupu suli pi toki Epelanto lon tenpo sike 1996
 lipu pi jan nasa
-mun Pali
 soweli Sijasija
-lipu Wikipesija pi toki Sawasi
+mun Pali
 jan sewi meli Mikasikija
 musi Suwiwaka
+lipu Wikipesija pi toki Sawasi
 jan Wen Ko Win
 musi Entasenpa
 musi Nekalaku
@@ -5584,12 +5614,12 @@ jan Sa Sinko
 kulupu Linguasphere
 kulupu Jali
 lipu Suwesuwekusa
+jan sewi meli Mipotu
 jan Apasisi
+pali tan lawa pi jan ale e ma Sonko
 toki Ajule Ajula
 toki luka Mosanpi
-pali tan lawa pi jan ale e ma Sonko
 sitelen Sintu
-jan sewi meli Mipotu
 kulupu:ma kipisi pi ma Utun
 jan Sa Sintun
 kama kulupu suli pi toki Epelanto lon tenpo sike 1913
@@ -5598,40 +5628,40 @@ kulupu:sitelen lili pi nasin sitelen Kililisa
 jan Moku
 kulupu:ma tomo pi ma Mewika
 kulupu:jan pi nasin loje
-kulupu:ma Sasutan
-kama kulupu suli pi toki Epelanto lon tenpo sike 2013
 mije lon meli(sitelen unpa)
 jan Susin Ma
+kulupu:ma Sasutan
+kama kulupu suli pi toki Epelanto lon tenpo sike 2013
 soweli Tuwentuwen
-nena Intona
 tomo sewi suli Kejan
-kipisi:o mute
-jan Lin Sike
-Module:Lua banner
-jan Fu Yu
-nasin tenpo pi pali nanpa
-kulupu jan pi pali pi ilo suli en tenpo kama ona (lipu)
-mun Akala
+nena Intona
 utala
+kipisi:o mute
+Module:Lua banner
+jan Lin Sike
+jan Fu Yu
+mun Akala
+kulupu jan pi pali pi ilo suli en tenpo kama ona (lipu)
 kama kulupu suli pi toki Epelanto lon tenpo sike 2009
+nasin tenpo pi pali nanpa
 kulupu:jan pi ma Sasali
 jan
 tomo suli pi nasin Suse
 kama kulupu suli pi toki Epelanto lon tenpo sike 1906
 jan sewi Upisini en Supisini
-tomo sewi Omiwa
-pana e pilin ike tawa palisa unpa
-kipisi:kipisi nanpa supa
-nasin noka pi pali nanpa
-kipisi:ilo musi pi kulupu Nintento
-nena ma Wapu
 kama nanpa wan pi lipu Kulan
-sitelen "mi lon ma soweli"
+pana e pilin ike tawa palisa unpa
+tomo sewi Omiwa
+kipisi:kipisi nanpa supa
+nena ma Wapu
+kipisi:ilo musi pi kulupu Nintento
+nasin noka pi pali nanpa
+lipu Tatowepa
 toki luka Sijelalijon
 toki Kelen
-lipu Tatowepa
 kama kulupu Ijoko lon tenpo sike 2020
-toki Sensina
+sitelen "mi lon ma soweli"
+kama kulupu Ijoko lon tenpo sike 2015
 jan Mako Pali
 kulupu:toki pi kulupu toki Apika Asija
 kama kulupu suli pi toki Epelanto lon tenpo sike 1931
@@ -5643,39 +5673,39 @@ kama kulupu Ijoko lon tenpo sike 2009
 kama kulupu suli pi toki Epelanto lon tenpo sike 1925
 toki luka Sate
 toki luka Pelu
-kama kulupu Ijoko lon tenpo sike 2015
+toki Sensina
 lipu musi Anaputa
 kama kulupu suli pi toki Epelanto lon tenpo sike 1963
-kipisi:poki sona kule
 kulupu:ma kipisi pi ma Losi
+kipisi:poki sona kule
 kulupu:jan pi toki Epelanto
 telo Walawala
 toki luka Malakasi
-kipisi Kapupaten Aminitasi
 kama kulupu Ijoko lon tenpo sike 2022
-jan Kajetano Kapanije Mata
 kipisi:ma Pakisan
 jan sewi Amenowikutama
 soweli Siki (sitelen tawa Soweli Lili Mi)
-nena ma Limisa
+jan Kajetano Kapanije Mata
 toki luka Lowenki
-tomo lape Pali
+nena ma Limisa
+kipisi Kapupaten Aminitasi
 kama kulupu suli pi toki Epelanto lon tenpo sike 1999
+tonsi olin
 toki luka Ulukawi
 toki luka Pokasi
 toki luka Kosalika
-tonsi olin
-kulupu Odo Tenpi Owensi
+tomo lape Pali
 Module:UnitTests
 kama kulupu suli pi toki Epelanto lon tenpo sike 1907
 nasin Sapi-Wa
 jan Jenlin Pawe
 jan sewi Amenomapitotu
 kulupu:kulupu toki Tawita
-musi "ilo kalama"
 kulupu:ma lili pi ma Tona
 lipu Wikipesija pi toki Sinan
+musi "ilo kalama"
 toki luka Sinkapula
+kulupu Odo Tenpi Owensi
 kulupu:toki pi kulupu toki Tupi
 kipisi:Ruby
 sitelen Ɓ
@@ -5683,42 +5713,41 @@ toki Ukula
 kipisi:nanpa DOI
 kipisi:sona nanpa
 jan sewi Kumanokusupi
-kulupu:ma tomo pi ma Nokan Wepalen
 kama kulupu suli pi toki Epelanto lon tenpo sike 1908
 jan Le Tolo
-toki luka Setapika
 kulupu:toki pi ma Mesiko
 jan sewi Amenopujukinu
 jan lawa pi ma Inli
-kulupu:ilo Jutu
+toki luka Setapika
+kulupu:ma tomo pi ma Nokan Wepalen
+jan Ton Neson
+jasima (kon ante)
 jan lawa ale pi ma Sesesele
+kama kulupu suli pi toki Epelanto lon tenpo sike 1951
 kama kulupu suli pi toki Epelanto lon tenpo sike 1978
 mun Intan
-jasima (kon ante)
-kama kulupu suli pi toki Epelanto lon tenpo sike 1951
-toki luka Esi
 jan Wena
 jan Osin Se Jon
-jan Ton Neson
+toki luka Esi
+kulupu:ilo Jutu
+mun Lanpu
 kulupu Gun Violence Archive
-kulupu:soweli pi lon ala
 Ő
 kulupu:mun Puto
-mun Lanpu
+kulupu:soweli pi lon ala
 soweli li utala e jan Simi Kata
 kipisi:kalama
 toki luka Enkon
 toki luka Lajo
-nena ma Supo
 kulupu Pantanko pi kalama musi
-kama kulupu suli pi toki Epelanto lon tenpo sike 1987
 kama kulupu suli pi toki Epelanto lon tenpo sike 2010
+kama kulupu suli pi toki Epelanto lon tenpo sike 1987
 ma tomo lili Taman pi tomo sona suli
-tu en tu li luka
 toki luka Sipe
 toki luka Sameka
+tu en tu li luka
+nena ma Supo
 toki Kuteja
-jan Pokela Ewapi
 palisa suno
 jan Kankunijeso
 pali:VisualEditor
@@ -5727,127 +5756,131 @@ kipisi:ma Sajusi
 jan pi toki pona
 toki luka Mata
 toki luka Kana
+jan Pokela Ewapi
 jan sewi Kopi
 sitelen ஏ
-kulupu:jan pi ma Ukanta
 kama kulupu suli pi toki Epelanto lon tenpo sike 2007
 kulupu:telo nasa
-kulupu:ma tomo pi ma Sonko
 nena ma Noten
 Module:NUMBEROF
+kulupu:jan pi ma Ukanta
 kulupu:jaki Kolona pi tenpo sike 2019
 kulupu:ma tomo pi ma Tansanija
+kulupu:ma tomo pi ma Sonko
 jan sewi Omonoimi
 jan sewi meli Mijasu
+jan pi nasin mama poka
+unpa pi telo sijelo loje
+ma Koto Misito
 kulupu:nena ma pi ma Italija
 mu pini pi monsi uta
-jan pi nasin mama poka
 kulupu:ja-0
 kama kulupu suli pi toki Epelanto lon tenpo sike 2019
 jan Li Onsi
 ma Alapija
 kulupu:ma Owekan
-ma Koto Misito
-toki luka Kupa
-nena Pulu
 sitelen எ
+nena Pulu
+toki luka Kupa
 kipisi wile pi ma tomo Pali lili
 toki Pola
-tenpo pini pi ma Tansanija
 kama kulupu suli pi toki Epelanto lon tenpo sike 2008
 jan Talolupa Mijunowi
 jan Makipije
 tenpo pini pi ma Pisi
 jan Wa Pawaka
 jan Nicholas Strelley
+tenpo pini pi ma Tansanija
 kama kulupu suli pi toki Epelanto lon tenpo sike 2016
 tawa ma Kumano lon tebpo sike nanpa 2019
-kipisi:toki ilo
 kulupu:ma kipisi pi ma Oselija
-sitelen pona
+kipisi:toki ilo
 ma lili Pola
 toki sewi ike la utala lawa pi jan Asija-Nolin
 ona
 ma suli seli
+sitelen pona
+telo kule pi selo jan
 kipisi:hlist
-kama kulupu suli pi toki Epelanto lon tenpo sike 1933
 luka pi mu musi
+kama kulupu suli pi toki Epelanto lon tenpo sike 1933
 kama kulupu Ijoko lon tenpo sike 2010
-jan sewi Amenotokotasi
+kule sinpin
 kulupu Wintekatan
 jan Tuwan Pali
 toki luka Naselija
+jan sewi Amenotokotasi
 jan sewi Amanomisine
 jan Sowan Mantani
-pali suli
-8768
 kipisi wile pi ma tomo Pali suli
+8768
+jan David J. Peterson
+pali suli
 lipu Jonlotaten
 mu pini pi monsi linja
 ko pan Ata
-jan David J. Peterson
 mi kama, mi lukin, mi lawa
 nasin ilo:tomo toki
 kulupu:musi Mape
 jan Pi Kasen
 toki Ipali
-James while John had had had had had had had had had had had a better effect on the teacher
 kulupu:ma kipisi pi ma Malasija
 kulupu:tawa ma
 kulupu nimi "jan sewi en lawa mi"
 kulupu:nasin mani
 ma tomo Pakan Tatu
 jan Malijeta Pali
+James while John had had had had had had had had had had had a better effect on the teacher
 ilo Misskey
 toki luka Isijopija
 jan Mete
-ma lili Katalo
 kulupu:tomo sewi pi nasin sewi Sinto
+ma lili Katalo
+jan Anseliki Pali
 kama kulupu suli pi toki Epelanto lon tenpo sike 2011
 toki luka Sile
 toki luka Alensina
-jan Anseliki Pali
 kama kulupu Ijoko lon tenpo sike 1983
 kama kulupu Ijoko lon tenpo sike 1991
 kama kulupu Ijoko lon tenpo sike 1986
 kama kulupu Ijoko lon tenpo sike 2005
-ma lili Sasali
 jan sewi Amenomikutalu
-jan Ete Ken
 kipisi:telo suli
+jan Ete Ken
+ma lili Sasali
+soweli Kaposu
 kama kulupu Ijoko lon tenpo sike 1988
-toki luka Tuki
-jan Kin Minso
 kama kulupu suli pi toki Epelanto lon tenpo sike 1959
-kama kulupu Ijoko lon tenpo sike 1995
 kama kulupu suli pi toki Epelanto lon tenpo sike 1983
+kama kulupu Ijoko lon tenpo sike 1995
+toki luka Tuki
 toki luka Lowasi
 jan Lakela Sukewe
-soweli Kaposu
+jan Kin Minso
 kulupu:toki pi kulupu toki Asi
 kama kulupu Ijoko lon tenpo sike 1973
 kulupu Untuka
 kulupu:toki pi kulupu Jejusi
 kama kulupu suli pi toki Epelanto lon tenpo sike 2002
-kulupu jan Sensine
 nena Esijaku
 Module:pakala
 toki luka Lowensina
 toki luka Tominika
+kulupu jan Sensine
 kulupu:nasin sewi Masu
-waso lipu
 kama kulupu Ijoko lon tenpo sike 1965
 toki luka Isilan
+waso lipu
 jan Kuto Eso
+tenpo pini pi ma Loma la nasin tenpo
 kulupu:jan pi ma Tona
 kama kulupu suli pi toki Epelanto lon tenpo sike 2003
-tenpo pini pi ma Loma la nasin tenpo
 toki luka Lanka
 kala Winta
-jan Li Sesu
 jan Kesen Makala
-jan Pensa
 ilo Palison
+jan Pensa
+jan Li Sesu
 jan Kilu Ma
 kama kulupu Ijoko lon tenpo sike 2013
 kama kulupu suli pi toki Epelanto lon tenpo sike 1982
@@ -5864,29 +5897,29 @@ sitelen Te
 kulupu:kulupu jan Sami
 kama kulupu suli pi toki Epelanto lon tenpo sike 2022
 kama kulupu Ijoko lon tenpo sike 1952
-kulupu:ta-0
-kama kulupu Ijoko lon tenpo sike 2011
-jan Papisijo Katanija
-ma telo Wija
 sike kiwen pi mani Peni 50 pi ma Juke
-jan sewi meli Suseli
-sijelo sinpin en sijelo supa
+kama kulupu Ijoko lon tenpo sike 2011
+kulupu:ta-0
+ma telo Wija
+jan Papisijo Katanija
 kama kulupu Ijoko lon tenpo sike 1992
 kulupu:ma Awawi
-ma Pojola
+jan sewi meli Suseli
+sijelo sinpin en sijelo supa
 kulupu:eo-0
+ma Pojola
 kama kulupu Ijoko lon tenpo sike 2007
-kama kulupu Ijoko lon tenpo sike 2012
 kama kulupu suli pi toki Epelanto lon tenpo sike 2012
 toki Litepa
-Module:WikidataIB
 kama kulupu Ijoko lon tenpo sike 1987
+kama kulupu Ijoko lon tenpo sike 2012
+Module:WikidataIB
 toki Kuluka
 kama kulupu Ijoko lon tenpo sike 2021
 kama kulupu suli pi toki Epelanto lon tenpo sike 1974
-jan sewi meli Amamikatu
 kama kulupu suli pi toki Epelanto lon tenpo sike 2004
 toki luka Ukanta
+jan sewi meli Amamikatu
 kama kulupu suli pi toki Epelanto lon tenpo sike 1985
 James Johnson
 akesi linja Sitanopowa
@@ -5897,9 +5930,9 @@ toki luka Tansanija
 toki luka Mosijo
 jan sewi Iwakamutukali
 jan sewi meli Akalu
+toki Pomosa
 kama kulupu Ijoko lon tenpo sike 2003
 kulupu Amun
-toki Pomosa
 jan sewi Ikasuli
 jan sewi Makasupi
 jan Wan Sinpelen
@@ -5920,52 +5953,52 @@ kama kulupu Ijoko lon tenpo sike 1984
 kulupu:telo suli Kalipi
 kama kulupu Ijoko lon tenpo sike 1993
 toki luka Tawi
-linja pi len lili sike
 kama kulupu suli pi toki Epelanto lon tenpo sike 2001
 kama kulupu suli pi toki Epelanto lon tenpo sike 2014
+linja pi len lili sike
 toki Apenajo
 kulupu:toki pi lipu sewi Kulan
 kama kulupu suli pi toki Epelanto lon tenpo sike 2017
 nanpa pi sona lon toki lon Elopa
 jan sewi suli Kusimasi
 ma lili Kajolawe
-sitelen tawa Ulutolaman Teka
 toki pi ma Epanja
 kulupu:sinpin lawa
 utala pi waso Imu
 jan Leke
-Module:Category handler
+sitelen tawa Ulutolaman Teka
 kulupu:ma kipisi pi ma Wasintan
 kama kulupu Ijoko lon tenpo sike 2019
 kulupu toki Konsi
 jan sewi Jasimasinumi
+Module:Category handler
 kama kulupu Ijoko lon tenpo sike 1979
+lipu ku
 kama kulupu Ijoko lon tenpo sike 1966
 kulupu:jan pi ma Wasikano
 kalama sin
-lipu ku
+jan Wisa Sen Wikinson
+jan Niwasama
 kama kulupu suli pi toki Epelanto lon tenpo sike 1927
 kama kulupu suli pi toki Epelanto lon tenpo sike 1991
-jan Niwasama
 kipisi:'
 jan Seton
-kama kulupu Ijoko lon tenpo sike 1951
-jan Wisa Sen Wikinson
 jan sewi Napinokami
-kulupu pali pi linja telo Susa
+kama kulupu Ijoko lon tenpo sike 1951
 kama kulupu suli pi toki Epelanto lon tenpo sike 1973
 toki Intekosa
 kama kulupu suli pi toki Epelanto lon tenpo sike 1976
 kama kulupu suli pi toki Epelanto lon tenpo sike 1958
 Module:Category handler/config
 jan Juli
+jan Juli
 moku pan Nasi Patan
 kama kulupu suli pi toki Epelanto lon tenpo sike 1929
 kulupu:ma tomo pi ma Ilaka
 Module:redirect
-jan Tasu
-kulupu:ms-0
 jan sewi putemimi
+kulupu pali pi linja telo Susa
+jan Tasu
 lipu Enkisiki
 toki ilo Pi
 lipu "tomo pi lipu kasi"
@@ -5988,18 +6021,18 @@ jan sewi Kuninotosimi
 kulupu:selo pi palisa mute
 kama kulupu suli pi toki Epelanto lon tenpo sike 1928
 kama kulupu suli pi toki Epelanto lon tenpo sike 1994
-toki Iju
 kama kulupu Ijoko lon tenpo sike 1962
+kama kulupu suli pi toki Epelanto lon tenpo sike 1957
 mun Lunpun
 kama kulupu suli pi toki Epelanto lon tenpo sike 1960
-mun Lunpun
 kama kulupu suli pi toki Epelanto lon tenpo sike 1935
-kama kulupu suli pi toki Epelanto lon tenpo sike 1960
+kama kulupu suli pi toki Epelanto lon tenpo sike 1980
 toki Lokoso
-sitelen Pijan en pan Pijan
+mun Utan
+toki Iju
 toki luka Kine
 toki luka Tunisi
-mun Utan
+sitelen Pijan en pan Pijan
 toki Sanpasa
 kulupu:toki pi kulupu toki Antaman
 nena Apin Apon
@@ -6031,86 +6064,86 @@ jan sewi Omotalu
 kama kulupu Ijoko lon tenpo sike 1953
 kama kulupu Ijoko lon tenpo sike 2017
 ma tomo Ulini
-kama kulupu suli pi toki Epelanto lon tenpo sike 1926
 kama kulupu suli pi toki Epelanto lon tenpo sike 1938
 kipisi:x10^
+jan sewi Otonope
+kama kulupu suli pi toki Epelanto lon tenpo sike 1926
 ma telo Sensine lete
 kama kulupu suli pi toki Epelanto lon tenpo sike 1923
-jan sewi Otonope
 ma telo Sipan
 jan Tewi A. Tewi
-toki Sanko
-kama kulupu suli pi toki Epelanto lon tenpo sike 1947
 sitelen உ
 ma lili ale pi nasin Provincia lon ma Italija
 kama kulupu suli pi toki Epelanto lon tenpo sike 1968
+kama kulupu suli pi toki Epelanto lon tenpo sike 1947
 Module:Category handler/shared
 kama kulupu suli pi toki Epelanto lon tenpo sike 2018
 soweli pi ko nasa
-toki luka Mesiko
+toki Sanko
 toki luka Esawato
 pali:tomo pi toki ante
-kulupu:sitelen tawa pi kalama musi
+toki luka Mesiko
+toki Untuka
+lipu Wasijemensi
 kama kulupu Ijoko lon tenpo sike 1957
 kama kulupu Ijoko lon tenpo sike 1990
-lipu Wasijemensi
-toki Untuka
 kama kulupu Ijoko lon tenpo sike 1989
 kama kulupu Ijoko lon tenpo sike 1996
 kama kulupu Ijoko lon tenpo sike 1963
+kulupu:sitelen tawa pi kalama musi
 kama kulupu suli pi toki Epelanto lon tenpo sike 2020
+kulupu pi pana mani pi ma Elopa
+toki luka Seki
+jan Nasija Ekasu
 kama kulupu Ijoko lon tenpo sike 1968
 kulupu Sinte pi nasin Sanatana
 kama kulupu Ijoko lon tenpo sike 1954
-toki luka Seki
-kulupu pi pana mani pi ma Elopa
-jan Nasija Ekasu
-lipu pi ma lawa
-kulupu:User rue
-kama kulupu Ijoko lon tenpo sike 1981
-linluwi lon ma Kanpusi lon ma Tawi
-jan Asalija
 kama kulupu suli pi toki Epelanto lon tenpo sike 1952
-sitelen sitelen
-ma telo Lipuka
-jan Tan Kane
-tomo nanpa 1 lon nasin Wall
-kama kulupu suli pi toki Epelanto lon tenpo sike 1997
-kama kulupu suli pi toki Epelanto lon tenpo sike 1979
-kalama musi Tuna Tuna Tun
-toki Ajuwi
-toki Mala Malasa
-kama kulupu Ijoko lon tenpo sike 1955
-kule Pali pi soweli Peli Katu
 kulupu esun Pali Posi
-toki luka Penesuwela
+tomo nanpa 1 lon nasin Wall
+jan Tan Kane
+kama kulupu Ijoko lon tenpo sike 1981
+kama kulupu suli pi toki Epelanto lon tenpo sike 1997
+lipu pi ma lawa
+jan Asalija
+toki Ajuwi
+kalama musi Tuna Tuna Tun
+kama kulupu suli pi toki Epelanto lon tenpo sike 1979
+kulupu:User rue
+ma telo Lipuka
+kama kulupu Ijoko lon tenpo sike 1955
+toki Mala Malasa
 musi Kimi Ga Shine
-kama kulupu suli pi toki Epelanto lon tenpo sike 1965
+linluwi lon ma Kanpusi lon ma Tawi
+toki luka Penesuwela
+kule Pali pi soweli Peli Katu
+sitelen sitelen
+jan Lajan Wesin
 kama kulupu suli pi toki Epelanto lon tenpo sike 1932
 mun Supana
+kama kulupu suli pi toki Epelanto lon tenpo sike 1965
 nanpa 142857
 soweli Maja
-jan Lajan Wesin
 nena Pasasisi
-kama kulupu Ijoko lon tenpo sike 1939
 Module:wawa kule/kule
+kama kulupu Ijoko lon tenpo sike 1939
 kama kulupu suli pi toki Epelanto lon tenpo sike 1984
 kama kulupu suli pi toki Epelanto lon tenpo sike 1969
 kama kulupu suli pi toki Epelanto lon tenpo sike 1955
 kama kulupu suli pi toki Epelanto lon tenpo sike 1989
 kulupu:monsuta
 kama kulupu Ijoko lon tenpo sike 1947
+jan sewi Mikapajapino
 kama kulupu suli pi toki Epelanto lon tenpo sike 1954
 soweli Ponsi
-kama kulupu suli pi toki Epelanto lon tenpo sike 1914
 jan Pate Petnan
 kama kulupu suli pi toki Epelanto lon tenpo sike 1948
 toki Lokutolo
-ma Tonpe
 ma tomo lili Tuse
 toki luka Katemala
-jan sewi Mikapajapino
 jan Tewi Ota
+kama kulupu suli pi toki Epelanto lon tenpo sike 1914
+ma Tonpe
 kama kulupu suli pi toki Epelanto lon tenpo sike 1992
 nena ma Lapa
 kama kulupu suli pi toki Epelanto lon tenpo sike 1971
@@ -6122,17 +6155,17 @@ jan sewi meli Nunakawa
 toki luka Lomani
 ma Sansun
 lipu Anupitaka
-kama kulupu suli pi toki Epelanto lon tenpo sike 1998
-kama kulupu suli pi toki Epelanto lon tenpo sike 1977
 kama kulupu Ijoko lon tenpo sike 2008
-lipu pi kalama musi Kino
-kulupu:tenpo lete
-kama kulupu suli pi toki Epelanto lon tenpo sike 1953
-kama kulupu suli pi toki Epelanto lon tenpo sike 1921
-ilo Linu Tanika
-lipu pi tomo sewi lon Enkisiki
-meli Kikijete
 kama kulupu suli pi toki Epelanto lon tenpo sike 1993
+lipu pi kalama musi Kino
+kama kulupu suli pi toki Epelanto lon tenpo sike 1921
+kama kulupu suli pi toki Epelanto lon tenpo sike 1953
+meli Kikijete
+lipu pi tomo sewi lon Enkisiki
+kulupu:tenpo lete
+kama kulupu suli pi toki Epelanto lon tenpo sike 1977
+kama kulupu suli pi toki Epelanto lon tenpo sike 1998
+ilo Linu Tanika
 kama kulupu suli pi toki Epelanto lon tenpo sike 1967
 kama kulupu Ijoko lon tenpo sike 2000
 nasin misikeke Sita
@@ -6149,16 +6182,16 @@ kama kulupu suli pi toki Epelanto lon tenpo sike 1930
 kulupu:ma kipisi pi ma Inli
 toki luka Kenja
 jan Eke Ka
-jan utala li lanpan e lawa pi ma Pasiju lon tenpo sike nanpa 1964
 jan Simon Oloja
+jan utala li lanpan e lawa pi ma Pasiju lon tenpo sike nanpa 1964
 kama kulupu suli pi toki Epelanto lon tenpo sike 1950
 kama kulupu Ijoko lon tenpo sike 1960
 kipisi:JULIANDAY
-Creampie
 kama kulupu suli pi toki Epelanto lon tenpo sike 1934
 toki luka Ilan
 jan sewi Ajakasikone
 kama kulupu Ijoko lon tenpo sike 1959
+Creampie
 ma telo Nomuka
 lipu laso kiwen
 jan li toki e ni: mi wile ala awen lon kulupu
@@ -6170,22 +6203,22 @@ telo Palin
 kama kulupu suli pi toki Epelanto lon tenpo sike 1939
 kama kulupu suli pi toki Epelanto lon tenpo sike 1972
 kama kulupu suli pi toki Epelanto lon tenpo sike 1970
+kulupu:ma tomo pi ma Misikan
 kama kulupu Ijoko lon tenpo sike 1967
 nena seli Takana
-kulupu:ma tomo pi ma Misikan
 jann Kamilo Sapalapalo
-jan olin nasa pi kulupu Konsantan
-kama kulupu suli pi toki Epelanto lon tenpo sike 1920
-kama kulupu suli pi toki Epelanto lon tenpo sike 1949
-kama kulupu Ijoko lon tenpo sike 2002
 kulupu:tok-3
+jan olin nasa pi kulupu Konsantan
+kama kulupu suli pi toki Epelanto lon tenpo sike 1949
+lipu pu pi toki Inli
+kama kulupu Ijoko lon tenpo sike 2002
 kama kulupu suli pi toki Epelanto lon tenpo sike 1981
 kama kulupu suli pi toki Epelanto lon tenpo sike 1988
-kama kulupu Ijoko lon tenpo sike 1964
-kama kulupu suli pi toki Epelanto lon tenpo sike 1915
+kama kulupu suli pi toki Epelanto lon tenpo sike 1920
 kulupu:ma lili pi ma Malasija
+kama kulupu suli pi toki Epelanto lon tenpo sike 1915
+kama kulupu Ijoko lon tenpo sike 1964
 kulupu:tomo sewi pi nasin sewi Siki
-lipu pu pi toki Inli
 kama kulupu Ijoko lon tenpo sike 1949
 toki Apiwili
 kama kulupu suli pi toki Epelanto lon tenpo sike 1936
@@ -6201,6 +6234,7 @@ toki luka Aja
 toki luka Sanpija
 kulupu nimi "jan pi wile ike li pilin ike"
 Module:wawa kule
+Module:Convert
 kama kulupu suli pi toki Epelanto lon tenpo sike 1966
 kama kulupu suli pi toki Epelanto lon tenpo sike 1975
 jan Enwi Anta
@@ -6215,72 +6249,71 @@ toki luka Sasali
 sitelen pi palisa mama mun
 ma telo Kajo
 jan Pi Wasu
-Module:Convert
 ilo Sulon
-jan Palelijo
 kulupu:ma Kolasun
 kama kulupu Ijoko lon tenpo sike 1999
 toki Nejo
 toki Muntolinko
 kama kulupu suli pi toki Epelanto lon tenpo sike 2021
-sitelen ஓ
 nasin ilo:poki Table
 jan Tuwi Tona
 kama kulupu suli pi toki Epelanto lon tenpo sike 1956
 kama kulupu Ijoko lon tenpo sike 1971
 Module:Section link
+jan Palelijo
+tenpo ijo
 soweli Juwenjuwen
 ilo utala Pola
+sitelen ஓ
 kipisi:ma Tona
-tenpo ijo
-toki pona luka
-kipisi:nanpa ISSN
-kala len laso
 nasin nanpa sitelen Jusisa
+toki pona luka
+kala len laso
+kipisi:nanpa ISSN
 cum shot
 palisa Wa
 nasin telo Palan
-jan sewi Kuepiko
-ma tomo lili Pinikepeke
 Vector
+ma tomo lili Pinikepeke
+jan sewi Kuepiko
 nena Sumanli
 kulupu:ma tomo pi ma Tona
-Module:Namespace detect
+waso lili li tawa suli wawa, li mama ma, li kon Pasiju, li waso pi ma ale, li lukin pona e jan ale, li kulupu pona e jan ale, li lon poka pi jan open Eto Ole
 sitelen ஆ
 ante kalama
-waso lili li tawa suli wawa, li mama ma, li kon Pasiju, li waso pi ma ale, li lukin pona e jan ale, li kulupu pona e jan ale, li lon poka pi jan open Eto Ole
-telo Liwela
+Module:Namespace detect
 jan lili Mansukin
-lipu Oto Tome
 toki Lo
+lipu Oto Tome
+telo Liwela
+jan sewi Tunukuwi en Ikukuwi
 tenpo pini pi ma Tona
+tomo sewi suli Kikosan
+jan Uli Kasentan
 akesi pi ma End
 nena ma Selete
 jan sewi meli Konopanasilu
-jan sewi Tunukuwi en Ikukuwi
-jan Uli Kasentan
-toki Osan
 kulupu:toki Ekematula
-tomo sewi suli Kikosan
+toki Osan
 jan sewi Kajanalumi
 jan sewi Jatakalasu
-toki luka Lawi
 sitelen Ɗ
+toki luka Lawi
 sitelen Ȝ
 tomo sewi Sinpukusi
 jan utala tan ma Palata li utala e ma Sinkapo lon tenpo sike nanpa 1915
 kalama musi Kalameletansen
-kulupu:toki pi kulupu toki Mon-Mijen
+jan sewi Umasijsikapipikosi
+ma Molosija
 jan sewi Iwasaku en Nesaku
 Martin Tychsen
-jan Kitopa Pali
 toki luka Sinita
 toki luka Pilipina
 toki luka Ontula
-jan sewi Tenasusi
 ma Satonja
-jan sewi Umasijsikapipikosi
-ma Molosija
+jan sewi Tenasusi
+kulupu:toki pi kulupu toki Mon-Mijen
+jan Kitopa Pali
 jan Mewesi Witeka
 toki Elopanto
 jan Sokonsi
@@ -6288,26 +6321,26 @@ jan sewi putunomitama
 jan sewi Totoli
 jan Malija Pita
 sitelen ꙮ
+esun Apama
+jan sewi Tolinowiwakusupuneno
 pali:lipu nasa
 toki luka Panama
 toki luka Kanpusi
-jan sewi Tolinowiwakusupuneno
-esun Apama
-mun Kasa
-ma tomo Pinli
-tawa mun Atemi nanpa tu
-kipisi:ma Kana
-kulupu:tok-N
-jan Jen Su
 jan Esin li moli ala e ona sama
+kipisi:ma Kana
+tawa mun Atemi nanpa tu
+ma tomo Pinli
+mun Kasa
+jan Jen Su
 telo Tuse
 kulupu:toki Elina
-kulupu Studio 54 pi pana weka pi kalama musi
+kulupu:tok-N
 jan sewi suli Utusipikanasaku
-kipisi:ma Kosiwa
+kulupu Studio 54 pi pana weka pi kalama musi
 kulupu:tok-1
-nena ma Misela
+kipisi:ma Kosiwa
 toki luka Nepalu
+nena ma Misela
 jan sewi punosuno
 kulupu:toki pi kulupu toki kulupu Tupi-Kalani
 Module:wd
@@ -6318,48 +6351,48 @@ jan sewi Kinatelinukatapisijowikosini
 kulupu Lani
 kulupu:toki Intelinwe
 jan Ma Opa
-sitelen tawa "ma tomo Tunpa"
 ma End
 jan Elin
 Module:Fallbacklist
+sitelen tawa "ma tomo Tunpa"
 Module:i18n
-jan Mako Otema
 kulupu Kinsi
-sitelen tawa "utala pi telo linja Peta"
 kulupu:jan pi ma Kinejekatolija
 kulupu:tl-1
 mun Juju
 jan sewi Pukapusinomisujalepana
 lipu ku
 toki luka Mowisi
+sitelen tawa "utala pi telo linja Peta"
+jan Mako Otema
 toki luka Ekato
 kulupu:telo suli pi ma Amelika lete
-jan Elo won Panu
+jan sewi Apasima
+jan sewi suli Mispokutuomi
 kulupu:jaki lili
 toki Pilasin
 Module:ante mute
 ma telo Nijuwatoputapu
 toki luka Palakawi
-jan sewi Apasima
-jan sewi suli Mispokutuomi
+jan Elo won Panu
 telo suli pi telo mama
 kalama musi pi linja utala sama
 nena Pintan
 kama kulupu Ijoko lon tenpo sike 1938
 jan sewi suli Isupajao
-Module:Namespace detect/config
 kulupu:ma tomo pi ma lili Inan
 mi pilin la mi lon
 ilo Bereal
 ma telo Iju
-sitelen tawa pi utala nasa
 ilo ChatGPT
-jan Sosin Pepa
-tomo pi ma tomo A Noje
+sitelen tawa pi utala nasa
+Module:Namespace detect/config
 nena ma Lala
+jan Sosin Pepa
+kama kulupu Ijoko lon tenpo sike 2023
 lipu open
 jan sewi suli Mimatupikowiloto
-kama kulupu Ijoko lon tenpo sike 2023
+tomo pi ma tomo A Noje
 jan Liju Pun
 ma telo Topuwa
 toki utala pi lipu walo lon ma Sonko
@@ -6367,12 +6400,12 @@ ijo musi pi ma Pali
 ma Lokutolo
 pan kili poki pi ma Italija
 kulupu:jan pi ma Santapiken
-waso suli Susijokamelu pi ma Alapi
 toki luka Sajusi
-toki luka Monko
 tomo sewi Kanamulawakekatusi
 jan sewi Kulamitupa
 mun Sipunsun 2-18
+waso suli Susijokamelu pi ma Alapi
+toki luka Monko
 nasin Inso
 ma tomo Kiliwani
 jan Ke Newen
@@ -6384,12 +6417,7 @@ kulupu:kijetesantakalu
 Module:poki poka
 jan An Usen
 sitelen tawa pi kulupu jan meli lili pi ma nasin tomo Alupi
-kulupu:tok-4
 kulupu:lete
-jan sewi Asinasusi en Tenasusi
-tomo nanpa tu wan ale mute mute luka lon nasin Pa
-jan sewi Amenotutoesine
-kipisi:Both
 tomo sewi suli Tejosen
 lipu pi jan Eja Nasi
 Module:Category handler/data
@@ -6398,37 +6426,42 @@ kipisi:ma kipisi pi ma Tona
 lipu Diff
 nena ma Pipa
 tomo sewi Katoli en tomo sewi Inali
-kulupu Miwi
+kulupu:tok-4
+tomo nanpa tu wan ale mute mute luka lon nasin Pa
+jan sewi Asinasusi en Tenasusi
+jan sewi Amenotutoesine
+kipisi:Both
 kama kulupu suli pi toki Epelanto lon tenpo sike 2023
 tawa ma pi ma Samowa lon tenpo sike nanpa 2009
+jan sewi Asinataka
 toki pilin pi ma Pali
 kipisi:ma Sesesele
-jan sewi Asinataka
 sewi Osaka
+kulupu Miwi
 toki Wala
 kulupu:zh-Hans-3
 tomo sewi suli Kinokuma
 jan Sapana Pon
 nasin pi soweli sama jan pi pini ala
+jan sewi meli Jakami
 jan Matelin
 jan Son Li Ja
-jan sewi meli Jakami
 jan Kan Senlo
 ilo leko en ilo sike
-jan Inapakumoli
 kulupu Solitalisi pi ma Juke
-jan sewi Kunato
 nanpa pi sewi pini ala
 tomo sewi Awasisipukanon
+jan Inapakumoli
 toki Mini
-jan Niki Pali
-ma lili Kalula Note Satenja
+jan sewi Kunato
+jan sewi Okotosijonokami
 suno pi jan 80 ale ale ale ale
+jan Niki Pali
 jan sewi suli Jasinomi
 sitelen ஔ
+ma lili Kalula Note Satenja
 jan sewi Katakulokusin
 toki luka Maketonija
-jan sewi Okotosijonokami
 toki luka Malawi
 toki luka Kinepisa
 kulupu:mama pi toki sin
@@ -6436,22 +6469,22 @@ tenpo sike nanpa 1917 la seli suli lon ma tomo Tesaloniki
 kipisi:poki ike
 jan Oku pi ma Molawa
 jan Po Te
-jan lon lupa
-jan Tuwi Kanokupolu
-ma lili Susi Ikesijente
-ma tomo Kanapu
-Module:Namespace detect/data
-jan sewi meli Aisu
 jan Tun Si Lanan
-Hamster & Gretel
+jan lon lupa
+ma lili Susi Ikesijente
+jan Tuwi Kanokupolu
+ma tomo Kanapu
+jan sewi meli Aisu
+Module:Namespace detect/data
+12345
 jan Amanta Ama
-sitelen tawa Manka
 ma esun pi jan monsuta Kolin
 kulupu Wamesa
-12345
 nena Ketatan
-ilo Palasijon
+Hamster & Gretel
+sitelen tawa Manka
 kulupu:nasin pi kulupu utala
+ilo Palasijon
 lipu Hovno hoří
 jan Pijo Kise
 jan Simon Kije
@@ -6460,11 +6493,12 @@ ma tomo Poto San Palo
 jan sewi suli Isusijamawe
 tomo sewi Atako en tomo sewi Jasaka
 jan Luka Pinelo Paten
+jan Ikalisijujo
 kulupu:nasin soweli
 jan Sunsaku Tamija
 toki luka Kanpija
-jan Ilotata Ototake
 ma tomo Seneke
+jan Ilotata Ototake
 kulupu "sona ma pi tenpo lon"
 ma telo Ano
 kipisi:ma Utun
@@ -6478,22 +6512,22 @@ kulupu:rue-1
 kipisi:nanpa ISBN
 jan Sesi Mipon
 ma telo Tapawi
+kipisi:NUMBEROF
+jan sewi Molitaku
+toki Enken
 toki Lomanitu
 kipisi:lipu li seme
-kipisi:NUMBEROF
-toki Enken
 jan sewi Tajimamolosuku
-jan sewi Molitaku
 kulupu:jan pi toki Intelinwe
 lipu lon
+jan sewi Jatuwakatasukune
 ma tomo Akila pi tomo lawa
 lipu kule
 jan sewi Amenomikemosi
-jan sewi Jatuwakatasukune
 jan Tani Konsale
-jan Tasijana Kolosisikowa
-jan sewi mije Kajakitu
 kulupu:ma kipisi pi ma Pasiju
+jan sewi mije Kajakitu
+jan Tasijana Kolosisikowa
 kulupu Pali Nan
 jan sewi suli Kikokamiwake
 jan sewi Amatumikaposi
@@ -6501,36 +6535,36 @@ jan sewi Nakasilapanono
 toki Upula
 lipu open:ma Tona
 kulupu:ijo
+ilo Piwili
 kulupu:ma tomo pi ma Pilipina
 lipu monsuta
 jan Nujuli
 toki luka Luwanta
 nasin mama meso
-ilo Piwili
-Module:Category handler/blacklist
 jan Wini Sawi
+Module:Category handler/blacklist
 len pi ma Ensi
 jan sewi Molitasi
 kulupu:jan pi ma Loma pi tenpo pini
 kulupu:ijo pali pi tenpo pini
 kulupu kalama musi jan lili pona
-sitelen Onima
-jan sewi meli Kikawa
-soweli pan pi ma Jewe
-jan sewi Kanon
-ma tomo Kaso
 nasin sewi Isilan lon ma Ukanta
+jan sewi Kanon
+soweli pan pi ma Jewe
+jan sewi meli Kikawa
+sitelen Onima
+ma tomo Kaso
 lipu pu pi toki Epelanto
-jan Atan Sesi
 ma Sisi pi jan ala
-jan Son Pawa Mino
-kulupu Pimeson pi ma Italija
-jan sewi Suisin
 lipu Lackadaisy
 kulupu:ma kipisi Kin
-jan sewi suli Amanosakitama
+kulupu Pimeson pi ma Italija
+jan Son Pawa Mino
+jan sewi Suisin
+jan Atan Sesi
 jan sewi suli Katakulape
 jan Sijo
+jan sewi suli Amanosakitama
 ijo pini poka
 toki Ulopi
 lipu Puka
@@ -6542,152 +6576,152 @@ unpa pi palisa unpa tu
 jan Su Enlison
 kulupu:ma pi nasin loje
 toki luka Kiposi
-kipisi:kule pona
 tomo sewi Katulakinimasuponowikatusi
-Colorless green ideas sleep furiously
 tomo sewi Ukijotuka
+Colorless green ideas sleep furiously
 kulupu:kulupu Nintento
-jan sewi suli Itupajapime
+kipisi:kule pona
 jan sewi mije Amenopisasa
 kalama namako pi kepeken sike
 jan sewi suli Kusu
 telo Miki
 Module:wd/i18n
+jan sewi suli Itupajapime
 monsuta Pukasali
-telo Situpi
 jan sewi meli Tanapata
 sitelen Kuntalija
-jan li alasa pona e ijo li pakala e ona
-kipisi:kulupu Juniko pi sitelen Pali
 jan ale li sama tan open
+kipisi:kulupu Juniko pi sitelen Pali
 jan Tamin Sotuli
+jan li alasa pona e ijo li pakala e ona
 ma tomo Pali lili
-sitelen tawa "ma Pali"
 jan Ilaki Manketa
+sitelen tawa "ma Pali"
 toki Wapili Lanpaku
-awen ale
 ma Kanka (tenpo pini)
+awen ale
 pali:UuU
+telo Situpi
+tomo sewi Awekuni
 ilo kon Plasma
 80 jan sewi
-tomo sewi Awekuni
 toki Wakilu
 kipisi:cladogram
-sitelen க்
 jan Ijowa
+tomo sewi Atuma
 jan Sotan Pali
 jan Layan Mano
 kulupu pi musi pi sike noka pi ma kipisi Seki
-jan Pali Lawatalija
-tomo sewi Atuma
 jan sewi meli Onote
+jan Pali Lawatalija
+sitelen க்
+tomo sewi Ikatusi
+tomo sewi Itotupasiman
+jan Pa Susuki
 kulupu:wan pi ijo lili
 sitelen ஞ்
-nasin nanpa Pipi
 jan An Maki Pali
 toki Ninija
 toki luka Kuwasi
 jan Lon Kepesu
-jan Pa Susuki
-tomo sewi Itotupasiman
-tomo sewi Ikatusi
+nasin nanpa Pipi
+kulupu Ensiwi pi ma Intonesija
+tomo sewi Tutuleko
+tomo sewi suli Mijosin
+toki Lipulali
 tomo sewi Apusina
 tomo sewi Apeno
-kulupu Ensiwi pi ma Intonesija
-toki Anli
-tomo sewi Tutuleko
-tomo sewi Otu
-toki Lipulali
-tomo sewi suli Mijosin
 musi Lopaken
 sitelen ச்
+tomo sewi Otu
+jan Kala Jelemijasen
 toki luka Samowa
 toki luka Lunpan
-jan Kala Jelemijasen
+toki Anli
+tu kuntu
+tomo sewi Katukasi
+jan Josan
+tomo sewi Katulakisitolinimasuwamenopakatusinomikoto
+kipisi:lon
 jan sewi Amasukume
 jan sewi suli Tojokumono
-tu kuntu
-jan Josan
+sitelen tawa "moli sewi"
+tomo moku pi ma tomo Pinli
 jan Sasa Pali
 kulupu:nasin
 kulupu Tama
-tomo sewi Katukasi
-sitelen tawa "moli sewi"
-kipisi:lon
-tomo sewi Katulakisitolinimasuwamenopakatusinomikoto
-tomo moku pi ma tomo Pinli
 jan sewi meli Sapo
-lipu Tokipona.info
-jan Nise Pon
+tomo sewi Itumotasijasakamipunsi
 kulupu:toki Awawi
+lipu Tokipona.info
 kulupu:jan pi toki pona
 jan Inke Ose
 jan Elisa Lan
 tomo sewi Awe
-toki Mansi
-tomo sewi suli Kijosu
-kulupu:lipu 1984
-tomo sewi Itusan
 jan Esi Eke
 nena ma Ilu
-toki ilo Natesiko
-jan Masa Pulo
+kulupu:lipu 1984
 kulupu Silimo
-tomo sewi Itumotasijasakamipunsi
+tomo sewi suli Kijosu
+tomo sewi Itusan
+jan Nise Pon
+toki ilo Natesiko
+toki Mansi
+jan Masa Pulo
 ma tomo Asuwa
 tomo sona Pajotenkolosi
 tomo sewi Asi
 moku Kajopinto
+tomo sewi Kotopila en tomo sewi Otoli
 ilo Pukase
 kipisi:toki sin
 kulupu Kemensipu
-tomo sewi Kotopila en tomo sewi Otoli
+kipisi:lipu open la seme li sin lon ma
 kulupu pi nasin Ma lon ma Sonko
 kulupu Atan
-kipisi:lipu open la seme li sin lon ma
 tawa lon kon Precision Air nanpa 494
 kulupu ma Alije
-tomo sewi Ikatusi
 kipisi:kule tu pi kipisi sitelen
+tomo sewi Ikatusi
 ShangKuan Liang-chih
 toki luka Ilakija
 pipi ike pi wawa nasa
 jan Silan Le Konte
 tomo sewi Sinotu
+jan sewi suli Misakusi
+jan sewi suli Sasikuni
 toki Lanpeta
 sitelen அ
-ijo kama poka
-toki Kopasa
+sitelen ண்
 moku kala Majuntan
 sitelen tawa "tenpo kama pi jan Jesu lon nena ma pi telo loje"
-jan sewi suli Misakusi
-sitelen ண்
+toki Kopasa
+ijo kama poka
 sitelen Palemona
-jan sewi suli Sasikuni
-sitelen Okina
-tomo sewi Isitu
 Lapani
-toki luka Mijama
+tomo sewi Isitu
 jan sewi suli Okamusumi
 jan sewi Isunome
+toki luka Mijama
+sitelen Okina
+jan Ulan Tuja
 jan sewi Jasimamusi
 mun monsuta
-telo loje waso en pan linja kepeken kili lon telo namako
-jan Ulan Tuja
-jan Ma Alesanta Mikosi
-ma tomo Kasijanaka
 pilin ante suli pi lipu Pipija
-jan Amata Ilosuke
+ma tomo Kasijanaka
+jan Ma Alesanta Mikosi
 jan Jeko Lewi
+jan Amata Ilosuke
+telo loje waso en pan linja kepeken kili lon telo namako
 tomo sewi Takatupime
-tomo sewi Watatumi
 sitelen த்
+tomo sewi Watatumi
 tomo sewi Kutupasimanku
-tomo sewi Amatelasumikamitakakula en tomo sewi Iwato
 tomo sewi Kunisatusi
-tomo sewi Sono en tomo sewi Kala
-ma sona Powilan
 pali:ma mi lon ilo Siko
+ma sona Powilan
+tomo sewi Sono en tomo sewi Kala
+tomo sewi Amatelasumikamitakakula en tomo sewi Iwato
 kulupu:ilo pi kalama uta
 jan Kuwi Li
 ma Keke
@@ -6697,7 +6731,6 @@ ma Kanpitanu
 Strč prst skrz krk
 kulupu mama Opekin
 toki Pasiki
-tomo sewi Apasili
 jan Ota Jukijo
 ma tomo Wesapu
 tomo sewi Apulapi
@@ -6706,16 +6739,17 @@ jan Kosali Sipuwa
 ma tomo Tako
 toki luka Eliteja
 soweli musi Akapeko
+tomo sewi Apasili
 kulupu:zh-Hant-1
 ma tomo Muta Malija
 kipisi:'s
 jan Pita Soto
 sitelen ட்
 kulupu:ilo pi kalama musi
+kama sin nanpa tu: kulupu lawa pi tawa sewi
 jan Sapina Losata Kape
 tomo sewi Awetopasipime
 tomo sewi Apejosi
-kama sin nanpa tu: kulupu lawa pi tawa sewi
 nena ma Osinin
 kule seli en kule lete
 kulupu:kulupu jan Wa lon ma Intonesija
@@ -6723,45 +6757,46 @@ ilo Kamata
 tomo sewi Apo
 jan Ten Wesu
 toki luka Jamanija
+tomo sewi Inatume
 toki luka Somalija
 toki luka Kata
 tomo sewi Sakamoto en tomo sewi Kasimanku
-tomo sewi Inatume
+tomo sewi Otukitasija
+jan Panate Mijan
+toki Epanja pi ma Pilipina
 kalama Pani Atan
 nena ma Pinten
 kulupu Upula
 moku Towito
 toki pi ma Aman
 kulupu:ma tomo pi ma Unan
-tomo sewi Otukitasija
-suno pi tenpo sike ale
-jan Panate Mijan
 kulupu Kupu en jan Kasa
 lipu pu pi toki Kanse
 toki luka Tuku
 kulupu Pali pi sitelen tawa weka
+suno pi tenpo sike ale
 toki Polijepo
-kipisi:Tree chart/start
 kule Pali pi soweli Eku Pelu Kapalu
+kipisi:Tree chart/start
 kulupu:tok-0
-sitelen ந்
-jan Tewi Maja
 tomo sewi Kitukitasija
 tomo sewi Ikatusi
-nena ma Tapen
+jan Tewi Maja
+sitelen ந்
+toki luka Asepajan
+jan Natali A
 kulupu Wala
 Module:Clade
 lipu pu pi toki Tosi
 utala pi ma Kakajan
 jan Ajo Etu
-kasi Wepisi Pali
 jan Payan Son
+nena ma Tapen
 sitelen Ekaja
-jan Sesilija Sinele
-toki luka Pukinapaso
 toki Sintu
-toki luka Asepajan
-jan Natali A
+kasi Wepisi Pali
+toki luka Pukinapaso
+jan Sesilija Sinele
 pali:mi pona ala e sijelo sina
 lipu Codepen
 jan Sijosimowi Masi
@@ -6779,25 +6814,22 @@ kipisi:ma Komo
 tomo sewi Kosaki en tomo sewi Komoli en tomo sewi Alasaka
 tomo sewi Iwasitu
 Module:GetParameters
-toki luka Katelo
-nena Pilinsi
 tomo sewi Takalatuka
 tomo sewi Osima en tomo sewi Okitusima
-sitelen lape sama
-toki Pali pi ma Naselija
-sitelen ஃ
+toki luka Katelo
+nena Pilinsi
+tomo sewi Asipajo
 Module:Convert/wikidata/data
 tomo sewi Kapasansaenatumi
-tomo sewi Asipajo
 tomo sewi Jutulupa
+toki Pali pi ma Naselija
+sitelen ஃ
+sitelen lape sama
 tomo sewi Itutonoku
 kulupu:kon Kami
 jan Ewin Li
 sitelen ங்
 toki luka Kijana
-tomo Usu Santuwalijun pi ilo tawa
-ko suwi
-tawa ma lon ma palisa Kansaka lon tenpo sike nanpa mute ale mute luka
 jan I Sisi
 jan ale
 kijosin
@@ -6806,85 +6838,88 @@ ijo akesi
 kon lete
 jan Pe Lewa
 jan Winton Ten
-lanpan
 tomo sewi Takemikatusi
-tomo sewi Apito
 Managua (City)
-tomo M Boutique Station 18
-jan sewi Sukane
-jan Kontansino Pali
-kulupu pali pi sitelen pona
+ko suwi
 kasi pimeja
 jan pakala
 tomo pi mun lili laso
-jan Lesisija Sata
 kulupu:tomo sewi Enkisiki lon ma Aki
 jan Matelike
-te
-jan Ewelin Tusi
-tomo sewi Enkisiki
-jan Mewi Neson
-paka
-waje
-topo
-namako
-ma Pala
-jo
-mu
-kulupu Wikimenija pi tenpo sike nanpa 2024
-Meleteke
+tomo sewi Enkisiki ale lon ma Kaje
+tomo M Boutique Station 18
 oko
+jan sewi Simata
 kiki
 opasan
 wawajete
-kipisi:nimi lon toki pona
-jan sewi Simata
-jan Alesante Neponijasi
+Meleteke
 jan Lajan Matono
 sitelen Kinsi
 jan Salo Penton Pi
-jan Lowa Sa
 toki Nukolo
 nata
-wawa tenpo
 ijo kasi
 ipan
 ijo walo
 mije pona
 ijo tonsi
-toki sin
-wowujiti
 tomo sewi Kasiman en tomo sewi Kasuka
 tomo sewi Enkisiki ale lon ma Pisen
 jan sewi Kikosasikatawake
 jan sewi Amanokantama
-kijetesantakalu o!
-tomo sewi Osima en tomo sewi Okitusima
-jan sewi Amatumala
 jan Juli Ose
+jan sewi Amatumala
 ilo poki seli pi kasi
+lanpan
 jan sewi meli Tamajala
-mun
 ilo oko
 pipo
 tenpo pona
+mun
 lipu Linku
-tomo sewi Enkisiki ale lon ma Pinko
-tomo sewi Enkisiki ale lon ma Kaka
-tomo sewi Enkisiki ale lon ma Sakami
-ilo pana PA-15 pi sike lili tan ma pali pi ilo utala pi ma lili Pameto
-tun
 ijo poki
 wan luka
 nutan
 tonpite
 ko lili
-kulupu jan Palawi
+tun
 ma ko Sintu
+tomo sewi Enkisiki ale lon ma Pinko
+tomo sewi Enkisiki ale lon ma Kaka
+tomo sewi Enkisiki ale lon ma Sakami
+ilo pana PA-15 pi sike lili tan ma pali pi ilo utala pi ma lili Pameto
+jan Alesante Neponijasi
+kulupu jan Palawi
+jan Kontansino Pali
+ma Pala
+jo
+mu
+paka
+waje
+topo
+namako
+tomo sewi Enkisiki
+jan Mewi Neson
+kulupu Wikimenija pi tenpo sike nanpa 2024
+jan sewi Sukane
 tomo sewi Enkisiki ale lon ma Mutu
 tomo sewi Enkisiki ale lon ma Sikuko
 ma Isale en ma Ilan li utala
-tomo sewi Enkisiki ale lon ma Kaje
+jan Lowa Sa
+tomo Usu Santuwalijun pi ilo tawa
+tomo sewi Apito
+kipisi:nimi lon toki pona
+jan Ewelin Tusi
+kijetesantakalu o!
+jan Lesisija Sata
+tawa ma lon ma palisa Kansaka lon tenpo sike nanpa mute ale mute luka
+toki sin
+wawa tenpo
+wowujiti
+te
+kulupu pali pi sitelen pona
+tomo sewi Osima en tomo sewi Okitusima
 nasin lawa li lon ma Juke li lon ma Juwese
 jan Sulija Aman
 jan Elisa Kanka
@@ -6925,11 +6960,7 @@ tawa sona
 sitelen sitelen
 molusa
 li
-kamalawala
 ko kasi
-luka wan
-ijo sina
-kulupu:hu-1
 linja suwi
 jan ike
 kiwen laso
@@ -6939,18 +6970,23 @@ luka luka
 kulupu:th-2
 tenpo musi sewi pi mun
 jan sewi Kanajako
+sitelen lon tomo Kinlin
+jan Alana Sanpon
 kulupu:uk-5
-nasin
 toki Kiseli
 tomo sewi lili Enkisiki
 kulupu Peketalijan en kulupu Pekan
 suno sama
-meli
-weka
 opa
 i
 tomo musi Palini
 jan Kepije Loke
+kulupu Kensisisawinte
+jan Son Alan Kin
+jan Kana Kesi
+tomo sewi Ituka
+tomo sewi Asi
+Module:NUMBEROF/rank
 lupa Sintu
 kalama musi Petotakonikapokalisotanopatananatananajaletonopanetasantapekininkomasiletanesin
 mije unpa
@@ -6960,66 +6996,59 @@ kelo
 sijesuwa
 sike akesi suwi
 kulupu:ma pi ma Epanja
-sitelen lon tomo Kinlin
-kulupu Kensisisawinte
-jan Son Alan Kin
-jan Kana Kesi
-tomo sewi Ituka
-tomo sewi Asi
-jan Alana Sanpon
-Module:NUMBEROF/rank
+kulupu:hu-1
+Gauri
+nasin
+luka wan
+kamalawala
+ijo sina
+meli
+weka
+tomo sewi Asiwase
+jan Jenewi Nole
+jan sewi meli Ajonumamasimayo
+tomo sewi Atasi
+Deryan
+tomo sewi Enkisiki ale lon ma Ika
 jan Julija Wikeman
 jan Osawi pi ma Osawi
-kala Asi
+tomo sewi Ojamatumi
+tomo sewi Ojamatumi
 pali pi lon ala tan jan Sema
-tomo tawa Kote Sante
+e
+na
+kala Asi
 ijo pilin
 to
 jan ni
-e
-na
+tomo tawa Kote Sante
 nasin Enpeke
-tomo sewi Ojamatumi
-tomo sewi Ojamatumi
 Parvex
-jan Ilo Pali
-sin
-tomo sewi Enkisiki ale lon ma Ika
-tomo sewi Atakaja
-supa lape
+akesi
 kama sona
 ijo laso
-telo sitelen
 luna
 kulijo
-kama sona
 supa lape
-ijo laso
 selo len
 telo sitelen
-luna
-kulijo
 poki
-akesi
 jan sewi Kuninosatusi
-jan sewi Pansiku li moli
 telo Mase
 toki pona
 telo Kepata Elotejo
 jan Jose Pate Taje
-kulupu Mikapesi
-wa
-sikako
-kama kulupu suli pi toki Epelanto lon tenpo sike 2024
-lipu Anna's Archive
 kipisi:kipisi lawa pi ma Intonesija
-jan Kesi Onsi
+lipu Anna's Archive
+sin
+jan Ilo Pali
+kama kulupu suli pi toki Epelanto lon tenpo sike 2024
 jan Vami_IV
 jan Paka
 soweli lili tomo pi ma Mesiko
-jan sewi meli Tatenui
 token
-jan sewi Amenopipalosinatomi
+wa
+sikako
 lun
 lan
 jen
@@ -7027,29 +7056,24 @@ jan wawa
 masalo
 poni
 lenlen
-tomo sewi Asiko
+kulupu Mikapesi
 sin
 so
 toki soweli tan jan Beatrix Potter
-mun
 pali
-luka
 utala
 jan poka
 jonke
 kana
-ijo kalama
-ike lili
 usawi
-wakalito
 waleja
 sona toki
 pini
-tomo ni
 pilin seme
-tan
-kulupu:ma tomo pi ma Nosiki
-jan Tana Tuki
+jan sewi Amenopipalosinatomi
+Asriela
+jan sewi Pansiku li moli
+tomo sewi Enkisiki ale lon ma Kosuke
 ijo alasa
 ijo mu
 sona lili
@@ -7057,9 +7081,25 @@ sisa
 owe
 kasi kule
 jan Sosi Kalake
-tomo sewi Enkisiki ale lon ma Kosuke
+jan Tana Tuki
 telo Masi
-tomo sewi Atasi
+tomo sewi Enkisiki ale lon ma Ijo
+tomo sewi Atakaja
+Stageldoir
+wakalito
+ijo kalama
+ike lili
+tomo ni
+jan sewi meli Tatenui
+tomo sewi Asiko
+kulupu:ma tomo pi ma Nosiki
+mun
+luka
+tan
+jan Kesi Onsi
+sitelen tawa "olin mute nasa"
+tomo sewi Enkisiki ale lon ma Inapa
+tomo sewi Enkisiki ale lon ma Jamato
 ma tomo Seli Ikanta
 ijo pipi
 kasi ko
@@ -7069,44 +7109,11 @@ pona mute
 kese
 nu
 peto
-Module:lipu
-kun
-pun
-kipisi:poki pona
-wan Tansin
-mama mije
-ijo waso
-loje jelo
-ansu
-masenta
-panke
-jo
-jan sewi Amanomikemunusi
-kama kulupu Ijoko lon tenpo sike 2024
-ilo Tuwita
-kulupu AISI
-tomo sewi Nisijalakaminali
-tomo sewi Enkisiki ale lon ma Tasima
-sen
-meli tonsi
-nimi sin
-anpa
-ijo mije
-ilo open
-kalu
-mimuki
-toki a, jan Jonatan!
-jan sewi suli Awasima
-kijetesantakalu
 leko nimi
-tomo sewi Molinatuma
-jan sewi meli Ijosu
 jan Kipin
-jelo
-apeja
+non
 tenpo ni
 nena mama
-non
 ijo olin
 ijo pana
 iki
@@ -7114,74 +7121,105 @@ ijo lupa
 luka wan tu
 niko
 tomo sewi pi mani pana tawa tenpo musi sewi mun en tenpo musi sewi Niname
+jan sewi meli Ijosu
+tomo sewi Molinatuma
+jelo
+apeja
 tomo sewi Enkisiki ale lon ma Sima
+kun
+pun
+kipisi:poki pona
+jo
+mama mije
+ijo waso
+loje jelo
+ansu
+masenta
+panke
+kama kulupu Ijoko lon tenpo sike 2024
+sen
+kulupu AISI
+ijo mije
+ilo open
+kalu
+mimuki
+meli tonsi
+nimi sin
+anpa
+jan sewi suli Awasima
+toki a, jan Jonatan!
+tomo sewi Enkisiki ale lon ma Tasima
 su pi soweli palisa
 in
 mo
 tomo sewi Iduna
-tomo sewi Tukijomi en tomo sewi Kasiman
-men
 kitu
 siwan
 kosan
 lupa meli
 len pimeja
 itomi
-ilapa
 yupekosi
 ijo suwi
-nano
 ke
 kepi
 kili suwi
 palensi
-jan sewi suli Ijonusi
-pakala
+Module:lipu
 mije
 nimi
-tomo sewi Enkisiki ale lon ma Inapa
-suli
-sitelen telo
+ilo Tuwita
+tomo sewi Enkisiki ale lon ma Sinano
 jan JanKaKo
 jan Sape Panosijan
+nena Kopole
 tomo sewi Enkisiki ale lon ma Pitu
 jan sewi Mase
+kute
 ijo tawa
 ijo Stella
 ijo lukin
 ilo moli
 ju
 unikijetesantakalu
-nena Kopole
-kute
-tomo sewi Enkisiki ale lon ma Jamato
-tomo sewi Enkisiki ale lon ma Sinano
+kijetesantakalu
+suli
+tomo sewi Tukijomi en tomo sewi Kasiman
+pakala
+jan sewi Amanomikemunusi
+jan sewi suli Ijonusi
+wan Tansin
+men
+ilapa
+nano
+tomo sewi Nisijalakaminali
+sitelen telo
+Spalis
 jan sewi Silo Sentai
 linja telo Sinulu
-jan Kasepi
-jan sewi Upotosi
-jan sewi Susensi
 jan sewi meli Wakatukus
+jan Eli Kikila
+tomo sewi Ipetukanali
+jan Lese Ro
+Module:sitelen nanpa pan
 tomo sewi Enkisiki ale lon ma Omi
+tomo sewi Enkisiki ale lon ma Simotuke
+kulupu Pankiko
 ma sona Sensa
-ma Kasa
 jan sewi Nako
 Module:lipu la seme
-en
-jan sewi Kipisatumi
-jan Tan Ikijo li moli e jan
 jan sewi Ipika
+kulupu Enken
 pilin ala
 kili jelo
 pimeja loje
 tomo lape
 pika
 kalamARR
-kulupu Enken
+jan Tan Ikijo li moli e jan
 tomo sewi pi mani lawa ma
+jan sewi Kipisatumi
 enko
-jan kalama
-tokana
 wen
 majuna
 jan Umijotalu
@@ -7193,38 +7231,34 @@ jalan
 epikule
 jan JoKa
 kulupu Moto
-jan sewi meli Kimekoso
-jan sewi suli Jasulao
-tomo sewi Ipetukanali
-lupa pakala
-Igelese
-Oberschneider
+esun Amason
 tomo sewi Tojotumi
 tomo sewi Kotumolijaso
-esun Amason
+tomo sewi Enkisiki ale lon ma Jamasilo
+lupa pakala
 sitelen pi toki pona
-sona tenpo
-musi lili
-ilo musi
+sama
 ijo ma
 ijo ona
 kiwen walo
 aja
-sama
+sona tenpo
+musi lili
+ilo musi
 pilin
-tomo sewi Enkisiki ale lon ma Jamasilo
-jan Pite Kato en telo mama soweli
+Mirkku
 jan Sen Wemupo
+jan sewi Susensi
+jan sewi Upotosi
+jan Kasepi
 kulupu Wake
-laso telo
+jan Pite Kato en telo mama soweli
 kisa
 kiwen loje
 kulupu lipu pi toki Ekematula
 ma tomo Palewa
 kulupu:jan lawa pi ma Mesiko
 soweli Pasisa Tason
-loje
-ma Pelu
 ma pona
 ijo lete
 jan mute
@@ -7232,19 +7266,16 @@ ijo weka
 antepan
 koni
 sisi
+ma Pelu
+loje
 jan sewi Amenomikakeno
 jan Wesi LePana
 telo Enanata
-kulupu Pankiko
-jan Eli Kikila
-Mirkku
-Module:sitelen nanpa pan
-toki nasa la jan Jesu li unpa e mije lon sitelen tawa
-jan sewi Tunukuwi
-jan sewi Ikukuwi
-tomo sewi Ojamatumi
-tomo
+Igelese
 jan Nalupi
+mu
+no
+tomo
 len lawa
 ijo en
 tonsi lili
@@ -7253,14 +7284,25 @@ tomo mani
 kikolo
 tenpi
 linluwi
-mu
-no
+jan sewi Tunukuwi
+jan sewi Ikukuwi
+toki nasa la jan Jesu li unpa e mije lon sitelen tawa
+tomo sewi Ojamatumi
 tomo sewi Enkisiki ale lon ma Sikusen
-tomo sewi Enkisiki ale lon ma Simotuke
+jan kalama
+laso telo
+tokana
+jan sewi meli Kimekoso
+jan sewi suli Jasulao
+Oberschneider
+en
+ma Kasa
 nen
 to
 la
 jan sewi Tanikuku
+tomo sewi Take
+tomo sewi Kawatupasiman
 kon
 toki sona
 lisana
@@ -7269,6 +7311,9 @@ kulupu:kalama musi pi nasin loje
 kalama musi Otemojan
 sijelo tonsi la nimi
 jan sewi meli Kulosimawisonomiki
+sitelen tawa Tankumen
+kijetesantakalu Simasi
+moli pi jan Osali Moni
 jan sewi meli Sakitama
 jan sewi Silapiwake
 jan sewi meli Kinalasi
@@ -7284,14 +7329,12 @@ neja
 jonatan
 jan Nowenpa Keli
 min
-nan
 ilo Deepseek
 tomo pali
 tomo sewi Enkisiki ale lon ma Iki
 tomo sewi Sisimituka
 ilo suno lupa
 jan Ita Pijo
-sitelen tawa Tankumen
 laso sewi
 ilaje
 seka
@@ -7303,18 +7346,13 @@ moku
 len lawa
 nasin sitelen
 jan alasa
-siwala
-sitelen pona
 silapa
 asiku
-ijo supa
 ijo wan
 kekanSan
-pakola
 ijo kulupu
 ijo lipu
 ijo lon
-nimisin
 jan sewi suli Kumanomusupi
 ijo telo
 kule mun
@@ -7328,72 +7366,62 @@ sun
 jon
 tomo sewi Atuma
 jan sewi suli Kisili
-tomo sewi Take
-tomo sewi Kawatupasiman
+kulupu:ma tomo pi ma Sasinja
+nan
+sitelen pona
+nimisin
+pakola
+ijo supa
+siwala
 kipisi:toki nimi
-moli pi jan Osali Moni
-kijetesantakalu Simasi
 sona nanpa
-tomo sewi Osesenken
-tomo sewi Josinojamakusi en tomo sewi Takapoko
-lawa
-supa
-moku pi ma tomo Anpu pi mani Tala 100
 ijo mi
 ko loje
-jan Wano Junu
-Salija
-jan Misali
+lawa
+supa
 sama seli
-jan Isale Apulukami Asakan
-luka tu wan
-ijo utala
-len luka
-meli lili
-walo jelo
-jan Peli Wesa
 Tsundoku
-tomo sewi Enkisiki ale lon ma Koki
-tomo sewi Ape
-toki Kotawa
-kon
-nu
-jan li moli e jan Pijan Tonson
-lipu Wikipesija pi toki pona
-jan sewi Nunoputomitolinalumi
-nena kon
-ijo kiwen
-ijo awen
-supa moku
-toki Kumi
+jan sewi Ikutamatakitamapime
+jan Oka Sin
+tomo sewi Kotumi
 soweli
 jaki
 awen
 pake
-kita
-luka luka luka tu tu
-luka luka tu
-lipu majuna
+toki Kumi
+ijo kiwen
+ijo awen
+supa moku
+nena kon
+jan sewi Nunoputomitolinalumi
 nja
 ko lete
-ijo leko
 ijo kama
-ijo musi
 ijo sitelen
 kijete
 pona ala
-je
-ijo toki
 ilo suno
 tomo moku
-tawake
 pipi
 tomo sewi Enkisiki ale lon ma Awa
 jan Jani Makawi Pali
-toki sin tan toki pona
+jan Isale Apulukami Asakan
 soweli Sami
 kiwen pi jan lawa Pitowija
-tomo sewi Enkisiki ale lon ma Osumi
+toki sin tan toki pona
+luka tu wan
+kon
+nu
+ijo utala
+len luka
+meli lili
+walo jelo
+toki Kotawa
+jan li moli e jan Pijan Tonson
+tomo sewi Senken en tomo sewi Kasimanku
+tomo sewi Ape
+jan Peli Wesa
+tomo sewi Enkisiki ale lon ma Koki
 tomo sewi Kasuka en tomo sewi Sijo
 ton
 jan pi mama sama
@@ -7404,29 +7432,42 @@ meli sama
 mijomi
 kiwen pimeja
 jan sewi Sikato
+tomo sewi Josinojamakusi en tomo sewi Takapoko
+tomo sewi Osesenken
+moku pi ma tomo Anpu pi mani Tala 100
 kan
 tomo sewi Ape
 tenpo nanpa mute mute mute mute wan pi ma ale pi sitelen tawa lon ma Wenesija
-meso
+tomo sewi Enkisiki ale lon ma Osumi
+Salija
+tomo sewi Tatutapiko en tomo sewi Tatutapimeno
+jan Wano Junu
 ma lili Lejuwa
-tomo sewi Enkisiki ale lon ma Kasusa
 tomo sewi Asino
-toki Epelanto lon ma Malasija
-ala
-luka tu tu
 ijo ko
 kule ma
 kiwen seli
 pilin nasa
 alisa
 nalasuni
+ala
+toki Epelanto lon ma Malasija
+luka tu tu
 tomo tawa supa mi pi lon sewi li jo e kala linja mute mute
+tomo sewi Enkisiki ale lon ma Kasusa
+jan Misali
+luka luka tu
+ijo leko
+kita
+ijo musi
+lipu majuna
+je
+tawake
+ijo toki
+luka luka luka tu tu
+lipu Wikipesija pi toki pona
 jan Pewi Meton
-tomo sewi Senken en tomo sewi Kasimanku
-jan sewi Ikutamatakitamapime
-jan Oka Sin
-tomo sewi Tatutapiko en tomo sewi Tatutapimeno
-tomo sewi Kotumi
+meso
 jan Luwisi Mansijone
 wile
 ona
@@ -7449,1147 +7490,3 @@ telo Misewi
 soweli Pon
 tomo sewi Asitumi
 von Koenigsegg
-weka ale
-telo linja Sena
-linja pona
-sama ko
-jan Pajanwasa li moli e jan Anawasa
-moli kepeken ilo pana pi sike lili lon ma tomo Nujo lon tenpo sike nanpa mute ale mute luka
-toki Saleja
-jan sewi Takusutamano
-sipije
-tona
-kankuli
-lipu tenpo
-tomo tawa
-tomo sewi Atasi
-pali:mi toki pona anu seme?
-ma Elapika
-jan Alesante Tatarnikow
-nimi ali pu n a
-toki Wijosa
-eki
-kulupu jan Jenwansisun
-jan sewi suli Takepikoneno
-musi Kitsune Tails
-toki Pulu
-nasin nanpa pona
-jan Tuwi Atakalawa
-ten
-pon
-selo
-kala
-lete
-tomo sewi Asinokumija
-lipu pu pi toki Pasi
-waso Siwa
-linuwi
-soto
-tonsi unpa
-ko walo
-kosikosa
-meli mije
-ijo vivi
-ilo toki
-ilo toki
-ijo namako
-ijo ni
-jan sewi meli Kusanoi
-tomo sewi Kisalatuwisumotasa
-powe
-sa
-ijo kipisi
-wi
-samu
-toki
-jan Leli Apepan
-jan sewi Amenonawemasu
-jan sewi pan palisa lili
-mama nena
-kulupu:ilo
-sitelen tawa pi pipi Lu en kulupu Pali
-asuto
-linja
-ijo pan
-jan monsuta
-ilo kipisi
-pana pona:kalama lili IPA pi toki Awawi
-ma tomo Seli Ikanta
-ma pona pi toki pona
-Häggberg
-toki Sitasama
-tomo sewi Asije
-pilin ike
-mako
-antikontitutonelema
-tonsi pona
-nan
-un
-musi "musi li lon anu seme"
-jan sewi Odu
-tomo sewi Enkisiki ale lon ma Tusima
-tomo sewi Ituta
-tomo sewi Enkisiki ale lon ma Oki
-ipawi
-kekantesantakalu
-lipu unpa
-oki
-jan sewi meli Okinakanomisujoli
-jan sewi suli Takejotomo
-kala pona
-jesi
-ijo kili
-kiwen mun
-losupan
-mamasina
-jan sewi meli Wakaki
-sike
-telo pan Malo
-musi pi pini ike
-jasima
-monsuta
-jan sewi Ametusisatusi
-jan sewi Iwaosiwakunoko
-jan sewi mije Mikemunusi
-telo misikeke
-tomo sewi Enkisiki ale lon ma Totomi
-tomo sewi Wamonosowinali
-mije pi lipu ma
-pan
-oke
-onono
-pona lili
-kasi walo
-lansan
-toki pona ligatures
-pan
-n
-lipu open:toki pona
-kulupu:sitelen lili pi sitelen Tami
-jan sewi Misupo Ijojolipime
-kulupu:ma tomo pi ma Tuson
-ijo ale
-laso mun
-selo soweli
-ijo uta
-poki lete
-kulupu:jan pi toki sin
-tomo Kituri Royal Annex
-jan En Pajo
-jan Popo Lokapele
-jan sewi Kikosasi
-jan Jasin Muni
-Module:Sitelen
-a
-sona ma
-kiwen jelo
-iseja
-kewe
-majeka
-tomo sewi Ojamatumi
-musi Balatro
-sitelen tawa Nesa nanpa tu
-nena ma Kelo
-toki Suma
-ilo tenpo Kasijo F-91W
-toki Epelanto nanpa tu
-toki Kijasinki
-jan sewi Amasukunitama
-jan Kewin Kukan
-tonsi sin
-toki ike
-tomo sewi Atatala
-jan mama
-tomo sewi Katoli en tomo sewi Kasiman
-ijo luka
-luka luka luka wan tu
-suli
-telo monsuta
-tomo Te Pawiju
-jan Nawajonotepo
-tomo sewi Enkisiki ale lon ma Tanpa
-tu
-jan sewi meli Kajasasula
-ijo sin
-sikomo
-unu
-ma Kanpusi en ma Tawi li utala lon tenpo sike nanpa 2025
-poka telo Pa Powin
-tomo sewi suli Pujo
-kijetesumikyoku
-alasa
-iseki
-tomo monsuta
-li
-Punta Casa Vieja
-kasi
-su
-namako
-kijetesantakalu soweli
-jan Sesi Wo
-Module:Docbunto
-kipisi Kalulawan
-toki pona rare words
-nimi pi kulupu mama pi kulupu jan Wa lon ma Intonesija
-kulupu Wano
-toki Sisin
-jan Pijan Tonson
-sitelen ma
-ne
-tomo sewi Enkisiki ale lon ma Noto
-jan sewi Kajamikenotakekasajanosunumi
-telo Mentanise
-jan sewi meli Jametu
-akesi kon
-ijo anu
-ijo sama
-jan sama
-jusijesuwa
-ko jelo
-ko seli
-koko
-ijo moli
-ijo kin
-nasulin
-sitelen ike
-okepuma
-teken
-telo lete
-jan sewi suli Sipuminosukune
-nasin nanpa Katowi
-lipu "pali e pipi waso"
-kepeken
-sijelo
-pana
-jan sewi Asuminowisola
-jan sewi nanpa tu wan pi open
-supa monsi
-tomo utala
-linja lili
-kapa
-tomo sewi Enokitu
-Module:CallAssert
-Module:Entrypoint
-tomo sewi Apumitakituki
-Anna-Sofia
-kalama musi "mama pona Kin Sonun"
-tomo sewi Lasa Nalin Sa pi nasin sewi Isilan
-tomo 1969 Business
-ijo jan
-kule uta
-slape
-pimeja laso
-kolisin
-motan
-pe
-kipisi:JD
-jan sewi meli Mitu
-tu
-jan sewi Kuninusi
-kulupu pi toki pona pi ma Anku
-ijo soweli
-len laso
-mije sama
-Module:If preview
-jan sewi suli Jasukayotoko
-ja
-je
-tomo sewi Inali en tomo sewi Susin
-lipu Wikisitelen pi toki pona
-tomo Station Eight
-kili
-kili lili
-kemu
-pilin pakala
-soni
-taki
-jan sewi Amenopinomitama
-tomo sewi Atasi
-kulupu
-toki Nosa
-jan sewi Kukamiminomikasa
-jan sewi meli Usi
-jan sewi meli Usitu
-kulupu:tok-5
-mono
-pensa
-poki tona
-pilin ike
-tu wan
-walo laso
-stella
-wekama
-lipamanka
-ijo ante
-api
-ijo pini
-ilo nanpa
-kapilu
-kama pona
-jume
-moku Jupesi
-kulupu:ilo pi toki pona
-jan sewi meli Atakajanusitakiki
-tomo sewi Utukumalu
-jan sewi meli Tomikija
-E751
-kulupu:lipu lon nimi pi kon mute
-kasi lili
-toki ala
-lokoso
-tu tu
-awase
-pasila
-waso
-Rozenbergas
-pi
-lipu toki
-laso kasi
-tomo sewi Owinetuka
-nasin nanpa
-jan Sen Tamula
-jan sewi Kijosu
-tomo sewi Aduma
-jan Kita
-tomo sewi Enkisiki ale lon ma Owali
-jan Julija Kopinen
-Andjelkovic
-tomo sewi Kinatulu
-tomo musi wawa insa ilo
-tomo sewi Sumetaliponomikoto en tomo sewi Suwa
-jan Itan
-soweli Costasiella kuroshimae
-lupa
-kulupu Pewapoli
-jan Isale La
-kulupu:toki pi kulupu toki Apika Asija
-sitelen lape sona
-jan sewi mije Ijosu
-tomo sewi Apesinso
-tomo sewi Sintotakijowitumo
-jan sewi Totujamisakitala
-jan sewi Milonami
-poki lili
-ki
-mon
-o
-ijo taso
-tonsi ike
-snoweli
-ta
-jan Jon Anu
-tomo sona
-jun
-a suli
-tomo sewi Onatuka
-tomo sewi Atuma
-jan sewi mije Kotama
-jan Kekan San
-kulupu esun Pali
-tomo tawa telo Pali
-kasi pimeja
-Module:Docbunto/references
-ijo nimi
-natu
-ijo sona
-lupa lili
-jew
-son
-insa
-tomo sewi suli Enkisiki
-jan sewi Nawi
-akesi seli Su
-ilo
-kokosila
-ijo kute
-inta
-polinpin
-lupa monsi
-pilin pona
-nito
-tuwa
-ijo mute
-kije
-melinjakulekule
-ijo mani
-tomo sewi Ojamatumi
-tenpo pi suno suli meso lon ma Sensa
-ko
-jan
-ku
-satun
-wikipesija
-sitelen pilin
-jan Tala Onpe
-tomo sewi Enkisiki ale lon ma Kalima
-tomo sewi Enkisiki ale lon ma Sanuki
-jan Se Kape
-jan sewi Ipukitonusi
-kala Positasela
-ijo len
-jami
-panpan
-suno
-tomo sewi Takeminakata en tomo sewi Minomikotopikokamiwake
-jan Luwi Wikensan
-jan Lepeka Poke
-jan pi kulupu pali sama
-tomo sewi Enkisiki ale lon ma Kijuka
-pu
-ilo lukin
-pona lukin
-kala lete
-ki
-luka luka luka luka
-we
-pipi Anelosimu Pali
-soweli Mu Ten
-palisa utala
-sitelen Parahumans
-tomo sewi Katusawano
-sitelen pi poki jaki Kipisi
-Kailo
-jan Maja Wato
-jan sewi Munasukipime
-tomo sewi Enkisiki ale lon ma Isumo
-jan Emisio Pepe
-jan Nikola Kalo Lawijole
-pipi Akopila Ata
-jan Takan Su
-jan Selina Pepa
-kama kulupu Ijoko lon tenpo sike 2025
-mije tonsi
-meli pona
-ja
-ko pimeja
-ko
-kala pi moku anpa
-nanpa Pulimu
-jan Ali Aka
-jan sewi suli Sino
-jan lawa
-ijo wile
-sitelen toki
-lepeka
-ipi
-tomo sewi Kala
-tomo sewi Mikatuki
-lipu sewi pi toki pona
-salantapotalusa
-tomo sewi Enkisiki ale lon ma Kisen
-kulupu:zh-Hans-CN-2
-tomo sewi Ime en tomo sewi Kasimanku
-tomo sewi Enkisiki ale lon ma Tanko
-tomo sewi Kajatani
-lipu kule
-kiwen lete
-lupa jaki
-sin
-tomo sewi Enkisiki ale lon ma Simosa
-jan Kene Ko
-la
-ijo sijelo
-ijo lape
-ijo monsi
-kulupu:User pt-BR
-kiwen ike
-lupa kute
-luka luka tu wan
-amelin
-ijo selo
-ijo pimeja
-kijesankalu
-apelo
-luka luka luka tu wan
-sona sijelo
-jan suwi
-jan sewi mije Kipisakamitaka
-ilo:Lipu_wan_tan_nasa
-tenpo nanpa mute mute mute mute tu pi ma ale pi sitelen tawa lon ma Wenesija
-kulupu Mise
-kule kasi
-sinpin pi pilin ala li sama jan jaki
-ali
-mi
-ante
-sewi Pejenete
-telo Mosi
-tomo sewi Kasinten
-tomo sewi Asikowisopu
-jan sewi Kulaokaminokami
-olin
-nasa
-meli wawa
-ijo unpa
-ijo wawa
-poki telo
-linja pona
-jan Awan Konen
-Punta Troza Quemada
-ma sona meso nanpa wan lon ma tomo Lilin
-jan Ton Mason
-kipisi:sitelen
-kipisi
-luka tu
-ijo ala
-ijo nanpa
-kolo
-umesu
-keTami
-le
-tomo sewi Ikatusi
-tomo sewi pi mani pana tawa tenpo musi sewi mun en tenpo musi sewi Niname en tenpo musi sewi Ajaname
-sitelen pona
-tomo sewi Ikadusi
-pi
-ma tomo
-ijo nasin
-mije ike
-lokon
-tonyu
-wa
-ta
-suno
-kulupu:th-3
-linja
-luka luka wan
-ma ale
-jan Ale Wan Lantekem
-leko
-po
-sike lili
-me
-ijo suno
-poki seli
-tomo nasin
-jan Ana Lowa
-tomo sewi Enkisiki ale lon ma Nakato
-lipu su
-Grīnbaums
-Module:Gapnum
-Muide
-mun nasa
-kulupu nanpa Tesima
-seli
-jan sewi meli Tamula
-kulupu:ma Asija lete
-jan Topiku Wosuman
-jan Wason Nikoson
-kala Sakapanpapi
-luka pona
-jan ala
-pilin sama
-lipu nanpa
-ojuta
-oni
-ko jaki
-nena lili
-ike lukin
-ijo pakala
-san
-musi Openpon
-jan Potope Ane
-tomo sewi Wasitu
-jan Tesi Mujasi
-pimeja
-palisa
-sinpin
-jan Wason Nikoson
-tomo sewi Enkisiki ale lon ma Suluka
-len
-ma pona
-len lili
-wawa
-sike lili
-me
-ijo suno
-poki seli
-tomo nasin
-leko
-po
-tomo sewi Enkisiki ale lon ma Nakato
-jan Ana Lowa
-jan Sosuwa Wata
-tomo sewi Ojamatumi
-lukin
-lupa
-kon
-jan sewi
-kama
-ijo ni li seme
-misa
-kiwen lili
-toki sona
-ijo ilo
-ijo lili
-kani
-ni
-jan Kise Kosi
-tomo sewi Enkisiki ale lon ma Ki
-van Duivenbode
-isipin
-mije lili
-amanka
-soweli Brachylagus idahoensis
-Tidriķis
-ilo Opa Pin
-kiwen pona
-ijo noka
-jan kulupu
-jan pona
-fairfax
-ma ali
-nimi Κλεοπάτρα
-ilo YM2149
-soweli pona tan ma Ponopekase
-tomo sewi Telatupasimansija
-jan sewi Niwatume
-len noka
-jan lawa Oliki
-tomo sewi Oseki
-soweli Welonika
-len loje
-mije wawa
-matula
-u
-kili palisa
-aka
-tomo sewi Tokuwinali en tomo sewi Kotopila
-ma Palata en ma Pakisan li utala lon tenpo sike nanpa 2025
-jan sewi suli Anawa
-ako
-sulaso
-wi
-mi
-lipu "jan Lama laso"
-jan Osilo
-kulupu:jbo-1
-lipu
-suno pi toki pona
-poki kon
-mama tonsi
-kili laso
-sapelipope
-musi Liso Kanpani
-tomo sewi Enkisiki ale lon ma Isu
-tomo sewi Enkisiki ale lon ma Esisen
-pan pi pan tu
-Module:sona li ala la
-ijo pona
-melome
-jan Ama Ali Kawin
-jan Ma Pisa
-poka open
-ma sona Powilan
-jan Alesanta Kamano
-Kulupu pi sitelen tawa "A1 Film Company"
-jan sewi Takamen
-kulupu:User zh-Hans-SG
-Module:Unindent
-poka
-sutopatikuna
-kili walo
-luka luka luka wan
-kaken
-sipi
-jan sewi Amenosukino
-sitelen
-kiwen ike
-votgil
-su
-sewi
-lape
-tomo sewi Tojokejamatumi
-jan sewi Sikijamanusi
-meli pi olin meli
-lipu pi ma tomo lon ma Malasija kepeken mute jan pi kulupu jan Wa
-toki Muntese
-lupa meli
-sike
-toki Samaka
-ilo lukin
-jaki
-tomo sewi Enkisiki ale lon ma Mikawa
-tawa ma lon ma Mijama lon tenpo sike nanpa 2025
-nena
-jan olin
-ijo sinpin
-te
-mama mama
-sona utala
-siiilapa
-suke
-sitelen monsuta
-seki
-lipu sewi
-kasi jelo
-kan
-nena meli
-soweli Sinija
-nimi pu
-Θεόδωρος Π. Ζαφειρίου
-ku
-musi
-jan sewi Odu
-ma Nijon li pana e misikeke seme tan ala e ''ike Nijon''?
-jan Nasija Sonwi
-a, pilin mi o
-kala lili
-luka luka luka tu
-ijo kule
-lin
-kiwen kasi
-tenpo sike nanpa 2026 la jan pakala tan jaki sijelo Epola lon ma Apika
-nimi pi toki pona
-kulupu:eo-2
-kulupu:bm-N
-supa pali
-lupa tomo
-pulaso
-vriska
-musi Manka la lipu pini
-lawa li poki e jan Ulisi-Se-Kanta
-jan Mala Kome
-tomo sewi Enkisiki ale lon ma Tewa
-tomo sewi Enkisiki ale lon ma Isumi
-tomo sewi Enkisiki ale lon ma Mino
-tawa
-tomo sewi Otupasimanku
-pin
-ju
-nuwa
-jans
-ma ike
-kapesi
-tensi
-en
-tomo sewi Kubijamakanon
-jan Pije
-ilo nanpa
-nusun
-ijo sewi
-lupa nena
-ilo lape
-jalepu
-ken
-anu
-len sin
-toki utala
-wasoweli
-supa lupa
-asu
-aku
-lipu sona
-tawa pini tan pilin ante lon ma Mewika lon tenpo sike nanpa 2025
-jan sewi Kamunayopi
-jan sewi Kamopa
-tomo sewi Asiko
-mani
-po
-jan Peton Mutanka
-kulupu:zh-Hans-2
-tomo sewi Kituki
-pan suwi pi telo Panta
-sitelen pona pi toki sike
-supa monsi
-tomo sewi Ojunopala en tomo sewi Ama
-jan Alonola
-kipisi Kota
-jan sin
-lo
-lon
-si
-telo
-ijo
-lipu nimi
-supa lawa
-ijo jaki
-jan unpa
-ijo pake
-kule sewi
-eni
-kepa
-nlsn
-nowi
-kulupu pi kule olin unpa tonsi
-kulupu:sk-3
-oko pi ale
-jan tawa ike
-ma Antasika
-jan Pije Nikola Male
-mute
-meso
-tomo sewi Enkisiki ale lon ma Esiko
-tomo sewi Enkisiki ale lon ma Awa
-jan Eko Nimako
-toki Kokanu
-laso
-pata
-ijo kepeken
-jan seme
-ma tomo Linu
-jan sewi Amaniwatowakanokami
-kili pi palisa pimeja
-tomo sewi Asipesopeno
-tomo sewi Enkisiki ale lon ma Kitasi
-mi ken moku e kiwen lukin. ni li pakala ala e mi.
-jan Osu pi wawa nasa
-kulupu:toki sin tan toki pona
-jan nasa
-ijo kon
-ijo suli
-wan tu
-kasi laso
-meli ike
-kiwen suno
-tawa pona
-mama
-peta
-sama pi ilo tenpo
-kijetesantakalu
-nena ma Melawan
-jan sewi Nijemotunoko
-jan Alan Esijen
-akesi
-nanpa
-soko
-ijo poka
-meli unpa
-ko laso
-kule kili
-lo
-nanpa pi anpa len (sitelen tawa)
-nasin Pantula
-tomo sewi Enkisiki ale lon ma Musasi
-tomo sewi Enkisiki ale lon ma Pusen
-mama meli sin
-nena ma Topenkaki
-Module:WikidataIB/nolinks
-jan Tan San
-sewi monsuta Sula
-ilo Muni
-jan Mamu Kali
-ken
-sina
-kin
-open
-noka
-Pencis
-nimi.li
-telo Pikasi
-pali len kepeken palisa tu
-ijo pu
-linku
-jasun
-lipu kasi
-ijo lawa
-kulupu:zh-Hans-SG-2
-kijetesantakalu Konla
-waken
-silani
-samin
-sona ala
-tomo telo
-juniko
-lu
-jan sona
-konwe
-mije meli
-ma ni
-nasin nanpa
-palisa lili
-kutopoma
-tomo sona
-sona ike
-temi
-ma
-o
-tomo insa pi jan ike lon ma tomo Mantale
-wen
-ke
-pa
-ni
-kulupu Nalun
-pilin ante tan ma tomo Losansele lon tenpo mun nanpa luka wan pi tenpo sike nanpa mute ale mute luka
-nimi ale pi nasin Iso nanpa 3166
-jan sewi meli Tama
-tomo sewi Enkisiki ale lon ma Awasi
-moli
-e
-jan Ke
-nena kute
-kama sona
-on
-kin
-se
-tu luka
-sokeli
-kala ike
-jan Kwinten Telal
-sewi Nanawe
-tomo pi kama sona
-tomo sewi Enkisiki ale lon ma Ise
-tomo sewi Enkisiki ale lon ma Etu
-insa lawa
-tomo sewi Enkisiki ale lon ma Tosa
-tomo sewi Enkisiki ale lon ma Satuma
-toki sike
-telo Anata
-jan Nawin Nilola
-telo suli Pejeta
-tomo sewi Asisukino
-musi Kalito
-nili
-ijo mun
-kili loje
-jan pali
-sona pona
-tan
-wan
-tomo sewi Otu
-Frinbergs
-ma Suja
-tomo sewi Jatu
-tomo Muwananjamala
-nalanja
-tomo sewi Apetosinmeku
-kulupu
-tomo sewi Atuma
-jan sewi Totumatone
-Module:Docbunto/i18n
-supa
-ijo palisa
-keli
-santa
-ten
-tomo sewi Enkisiki ale lon ma Kawasi
-Li Sanpeji
-an
-nasin
-tonsi
-jule
-mila
-omekapo
-kama kulupu Etoso
-kulupu:jan sewi suli tu wan pi nasin sewi Sanatana
-ma pi kulupu tu
-ryuupekosi
-tomo sewi Ojamatumi
-Bartosevičius
-kulupu Pentani
-kule
-ijo pali
-pami
-walo pimeja
-sunta
-ijo apeja
-ike mute
-jan utala
-kulupu:ma kipisi pi ma Mewika
-toki Papu
-kulupu Wikimesija pi toki pona
-sitelen pona pi jan Mimoku
-kijetesantakalu monsuta
-jan Isapela Mila
-jan Mota Samasata
-kasi sewi suwi Tejota
-ike
-kiwen
-tenpo
-uta
-jan sewi mije Owasa
-jan sewi suli Otokasusi
-jan sewi Kokemusume
-siilapa
-pimeja jelo
-penpo
-ijo mama
-ko kule
-luka luka tu tu
-mekuwi
-mamasi
-manka
-ana
-kili pimeja
-lato
-len jelo
-ijo open
-soweli kijetesantakalu
-jan Tawi Esin
-jan Pejasi Sosa
-tomo sewi Enkisiki ale lon ma Mimasaka
-jan Ju Koni
-jen Wena Senle
-ilo Kite
-toki Mila
-jan sewi Tejokipoi
-jan sewi suli Mulopiko
-pona
-palisa mije
-ijo nasa
-ijo jo
-loje walo
-kulu
-loka
-wiki
-musi pi wile sona pi meli sewi
-kulupu:lipu monsuta
-ma tomo Wapowa
-jan Wali Kipon
-kulupu Asian News International li utala e kulupu Wikimesija
-jan Api Kaman
-jan Kene La
-Module:NUMBEROF/other
-kulupu:jan lawa
-luke
-ijo meli
-tenpo 1967 la jan mute li moli lon telo Ili tan sewi
-kulupu Ansopi
-toki Kosa (toki sin)
-jan Ke Tami
-jan Sewenson Sawa
-ko
-anpa lawa
-linja sike
-kuntu
-pali
-soweli ilo Potosen
-jan Tejowa Si
-jan Meli Telisa Sinson
-jan Olipija
-kipisi:Char
-jan Tantaku
-jan sewi suli Misuponomawaka
-pen
-wiju
-asuki
-sijala
-wan
-kipisi:JULIANDAY.JULIAN
-kulupu:ma tomo pi ma Mulitanja
-tomo sewi Enkisiki ale lon ma Setu
-jan toki
-pe
-ijo linja
-lupa kiwen
-ijo seli
-kule telo
-mute mute
-weko
-taso
-kasi loje
-tomo sewi Puluwe en tomo sewi Mijata
-jan sewi Amanomikapali
-jan sewi suli Takeminawake
-jan Atan Selinki
-kon pini mi
-ma Sasinja
-tomo sewi Enkisiki ale lon ma Iwami
-tomo sewi Isita
-tomo sewi Kosotupasimanku
-ipu nanpa tomo sewi lon tomo sona Kokusakuwin
-jan lili li jo e palisa seli lili (sitelen tawa)
-kulupu:kule lawa
-luka luka luka
-kule pilin
-ijo kala
-ijo ike
-konsi
-wiwi
-me
-tomo sewi Osepikawa
-nasin Malijopolo
-mije
-kulupu linja
-ka
-ken
-sitelen pilin
-esun
-Silas Santos Silva
-ijo oko
-jan ante
-lijokuku
-tomo sewi Ono en tomo sewi Japiko
-jan Kamelija
-tomo sewi Enkisiki ale lon ma Suwo
-ilo tan kulupu KDE
-musi "luka wan, luka tu"
-lipu "sona pona"
-tomo sewi Enkisiki ale lon ma Kita
-tomo sewi Apilomi
-Kailo
-ipu nanpa maujna tomo sewi lon tomo sona Kokusakuwin
-suwi
-sitelen ma
-ijo tenpo
-ijo nena
-ko nasa
-ike ala
-kinute
-ijo kijetesantakalu
-pipolo
-jan kala
-omen
-tomo sewi Ikadusi
-tomo sewi Enkisiki ale lon tomo Kejankijo
-kipisi:lipu ma pi ma Wije
-monsuta Sali
-jan ali
-ijo tu
-ijo monsuta
-len walo
-olala
-pula
-ma
-poki len
-yutu
-kulepiku
-anpa lawa
-utala insa pi ma Sutan (tan 2023)
-ma Pulo
-misikeke
-kalama
-unpa
-jan Lepeka
-telo pi jan suli
-a
-monsi
-jan Sitalu Ilan
-man
-ijo sike
-alu
-pa
-jan sewi meli Sanatula
-tomo pi wawa telo
-toki Kijukiju
-nun
-pu
-we
-tomo sewi Enkisiki ale lon ma Punko
-jan Pen Lase
-jan Tokotoko
-kipisi:ante sitelen
-jan Wan Junkon
-tomo sewi Enkisiki ale lon ma Sato
-jan Asi Kuma
-epiku
-poman
-tonsi sama
-lili
-kule suno
-ijo tomo
-len jan
-pilin sewi tawa kiwen
-jan sewi Tapilikisimalumi
-jan sewi suli Tojopiwake
-tomo sewi Enkisiki ale lon ma Kiko
-nena Untunte Wantante
-luka luka wan tu
-aAANUSEMEmailMahjong
-tenpo ike
-pingo
-anta
-omekalike
-nele
-miko
-ale
