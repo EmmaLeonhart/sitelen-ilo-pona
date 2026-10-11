@@ -1,0 +1,5 @@
+Representation of "nimi pi sona wan" in sitelen ilo pona.
+Sources: nimi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_nimi.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona.svg; wan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wan.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing nimi pi sona wan]]

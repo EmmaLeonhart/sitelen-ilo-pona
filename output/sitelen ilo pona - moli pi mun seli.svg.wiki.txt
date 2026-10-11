@@ -1,0 +1,5 @@
+Representation of "moli pi mun seli" in sitelen ilo pona.
+Sources: moli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moli.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; mun: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_mun.svg; seli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_seli.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing moli pi mun seli]]
