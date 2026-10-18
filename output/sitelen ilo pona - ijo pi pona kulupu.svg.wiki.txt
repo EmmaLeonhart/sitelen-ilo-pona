@@ -1,0 +1,5 @@
+Representation of "ijo pi pona kulupu" in sitelen ilo pona.
+Sources: ijo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pona.svg; kulupu: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_kulupu.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing ijo pi pona kulupu]]

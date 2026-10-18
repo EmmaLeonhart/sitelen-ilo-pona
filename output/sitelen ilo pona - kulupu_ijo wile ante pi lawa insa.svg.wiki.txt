@@ -1,0 +1,5 @@
+Representation of "kulupu:ijo wile ante pi lawa insa" in sitelen ilo pona.
+Sources: wile: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_wile.svg; ante: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ante.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; lawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_lawa.svg; insa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_insa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kulupu:ijo wile ante pi lawa insa]]
