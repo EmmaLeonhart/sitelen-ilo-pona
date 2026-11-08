@@ -1,0 +1,5 @@
+Representation of "sona pi ijo telo tawa" in sitelen ilo pona.
+Sources: sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; ijo-telo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo-telo.svg; tawa: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_tawa.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing sona pi ijo telo tawa]]
