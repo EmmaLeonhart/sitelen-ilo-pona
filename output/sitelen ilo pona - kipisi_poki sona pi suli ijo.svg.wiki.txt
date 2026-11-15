@@ -1,0 +1,5 @@
+Representation of "kipisi:poki sona pi suli ijo" in sitelen ilo pona.
+Sources: sona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_sona.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; suli: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_suli.svg; ijo: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_ijo.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing kipisi:poki sona pi suli ijo]]
