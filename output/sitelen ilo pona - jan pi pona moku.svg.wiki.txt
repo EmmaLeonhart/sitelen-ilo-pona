@@ -1,0 +1,5 @@
+Representation of "jan pi pona moku" in sitelen ilo pona.
+Sources: jan: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_jan.svg; pi: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pi.svg; pona: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_pona.svg; moku: https://commons.wikimedia.org/wiki/File:Sitelen_seli_kiwen_-_moku.svg
+
+[[Category:Sitelen kalama pona]]
+[[Category:Toki Pona text containing jan pi pona moku]]
